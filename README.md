@@ -8,10 +8,19 @@ keep recommending. This tool mines them for unmet needs instead.
 fetch.py       HN Algolia API: comments containing ~40 "pain / wish / I'd pay" phrases, 2007 to now
 extract.py     Claude Haiku 5.5 reads each comment and returns: real need? problem, who, pay signal, pain 1-5, category
 synthesize.py  Claude Opus 5.5 clusters the problems by category, scores the clusters, writes idea cards for the top N
-build_site.py  writes site/index.html, a static page of ranked idea cards with source quotes linking back to HN
+build_site.py  writes site/index.html (ranked idea cards with source quotes linking back to HN)
+               and site/signals.html (every comment read: extracted problem vs. original, plus rejects)
 ```
 
-## Run
+**Pro-only path (no API key)**, which is what this repo currently uses. See RESUME.md for status:
+
+```
+ralph.py          Claude Code reads comments chunk by chunk in a /loop and saves verdicts (replaces extract.py)
+local_cluster.py  clusters problems with a local embedding model (replaces synthesize.py's clustering)
+cards.json        idea cards written by Claude in-session; make_ideas.py merges them with clusters
+```
+
+## Run (API path)
 
 ```bash
 pip install -r requirements.txt

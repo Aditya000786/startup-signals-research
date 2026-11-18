@@ -11,6 +11,8 @@ Usage:
   python ralph.py next                 print the next unprocessed chunk
   python ralph.py save <chunk> <tsv>   record Claude's verdicts for that chunk
   python ralph.py status
+  python ralph.py restratify           re-order the UNREAD comments round-robin by
+                                       search phrase (read chunks keep their ids)
 TSV columns (one line per signal; non-signals are simply omitted):
   id <TAB> problem <TAB> who <TAB> pay(none|implied|explicit) <TAB> intensity(1-5) <TAB> category
 """
@@ -92,6 +94,31 @@ def save(k, tsv):
     print(f"chunk {k}: {len(rows)} signals saved, {bad} bad lines; {len(p['done'])}/{p['chunks']} chunks done")
 
 
+def restratify():
+    """Interleave unread comments by search phrase so every upcoming chunk is a mixed
+    sample. init() puts the 'I would pay' phrases first, which skews early results
+    toward consumer pay-to-remove-ads wishes."""
+    p, ids = load()
+    cs, done = p["chunk_size"], set(p["done"])
+    com = comments()
+    unread = [i for k in range(p["chunks"]) if k not in done for i in ids[k * cs:(k + 1) * cs]]
+    by_phrase = {}
+    for i in unread:  # keeps the existing priority order inside each phrase
+        by_phrase.setdefault(com[i]["phrase"], []).append(i)
+    queues = sorted(by_phrase.values(), key=len, reverse=True)
+    mixed, n = [], max(map(len, queues))
+    for j in range(n):  # spread each phrase evenly across the whole remaining run
+        for q in queues:
+            a, b = j * len(q) // n, (j + 1) * len(q) // n
+            mixed.extend(q[a:b])
+    it, new = iter(mixed), []
+    for k in range(p["chunks"]):
+        new.extend(ids[k * cs:(k + 1) * cs] if k in done else [next(it) for _ in ids[k * cs:(k + 1) * cs]])
+    assert sorted(new) == sorted(ids)
+    ORDER.write_text(json.dumps(new))
+    print(f"re-ordered {len(unread)} unread comments across {len(queues)} phrases")
+
+
 def status():
     p, _ = load()
     n = sum(1 for _ in SIG.open()) if SIG.exists() else 0
@@ -103,4 +130,5 @@ if __name__ == "__main__":
     if cmd == "init": init(int(sys.argv[3]) if "--chunk" in sys.argv else 150)
     elif cmd == "next": next_chunk()
     elif cmd == "save": save(sys.argv[2], sys.argv[3])
+    elif cmd == "restratify": restratify()
     else: status()

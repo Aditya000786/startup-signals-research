@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Raw Signals</title>
+<style>
+:root{--bg:#f6f6ef;--card:#fff;--ink:#1d1d1b;--mute:#6b6b63;--line:#e4e4da;--acc:#ff6600;--acc-soft:#fff1e6;--chip:#efefe6;--no:#b42318;--no-soft:#fdecea}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#16161a;--card:#1f1f25;--ink:#ececec;--mute:#9a9aa3;--line:#2e2e36;--acc:#ff7a24;--acc-soft:#33241a;--chip:#2a2a31;--no:#f97066;--no-soft:#3a1d1b}}
+:root[data-theme="dark"]{--bg:#16161a;--card:#1f1f25;--ink:#ececec;--mute:#9a9aa3;--line:#2e2e36;--acc:#ff7a24;--acc-soft:#33241a;--chip:#2a2a31;--no:#f97066;--no-soft:#3a1d1b}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+header{background:var(--acc);color:#fff;padding:14px 16px}
+header .wrap{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
+h1{margin:0;font-size:20px}
+header p{margin:0;opacity:.9;font-size:13px}
+nav{margin-left:auto;display:flex;gap:4px}nav a{color:#fff;text-decoration:none;font-size:13px;padding:4px 10px;border-radius:999px}nav a.here{background:rgba(255,255,255,.22)}
+.wrap{max-width:960px;margin:0 auto}
+.meta{padding:10px 16px 0;color:var(--mute);font-size:13px}
+.bar{position:sticky;top:0;z-index:2;background:var(--bg);border-bottom:1px solid var(--line);padding:10px 16px}
+.bar .wrap{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+input,select,button{font:inherit;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:8px;padding:7px 10px}
+input{flex:1 1 220px;min-width:0}
+button{cursor:pointer}button.on{background:var(--acc);border-color:var(--acc);color:#fff}
+main{padding:16px}
+.count{color:var(--mute);font-size:13px;margin:0 0 10px}
+.row{overflow-wrap:anywhere;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px;margin-bottom:10px}
+.row.rej{border-style:dashed}
+.prob{font-weight:600;margin:0 0 6px}
+.rej .prob{color:var(--no)}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:8px}
+.chip{background:var(--chip);border-radius:999px;padding:2px 9px;font-size:12px;color:var(--mute)}
+.chip.pay{color:var(--acc)}.chip.idea{background:var(--acc-soft);color:var(--acc)}.chip.no{background:var(--no-soft);color:var(--no)}
+.src{font-size:13px;color:var(--mute);margin:0;white-space:pre-line;border-left:3px solid var(--line);padding-left:10px}
+.src a{color:var(--mute)}
+.more{display:block;margin:16px auto;padding:9px 18px}
+.empty{text-align:center;color:var(--mute);padding:40px 0}
+</style>
+</head>
+<body>
+<header><div class="wrap"><h1>Raw Signals</h1><p>Every comment read so far: what was extracted, and what was rejected.</p><nav><a href="index.html">Ideas</a><a href="signals.html" class="here">Raw signals</a></nav></div></header>
+<div class="meta wrap" id="meta"></div>
+<div class="bar"><div class="wrap">
+  <input id="q" type="search" placeholder="Search problems and comment text…" aria-label="Search">
+  <select id="cat" aria-label="Category"><option value="">All categories</option></select>
+  <select id="pay" aria-label="Pay signal"><option value="">Any pay signal</option><option>explicit</option><option>implied</option><option>none</option></select>
+  <select id="kind" aria-label="Show">
+    <option value="sig">Extracted signals</option>
+    <option value="rej">Rejected comments</option>
+    <option value="all">Both</option>
+  </select>
+  <button id="noidea">Not in any idea</button>
+</div></div>
+<main class="wrap"><p class="count" id="count"></p><div id="list"></div><button class="more" id="more">Show more</button></main>
+<script>
+const ROWS = /*ROWS*/[];
+const META = /*META*/{};
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));
+let limit = 100, noIdea = false;
+$("#meta").textContent = META.note || "";
+[...new Set(ROWS.filter(r => r.c).map(r => r.c))].sort().forEach(c => $("#cat").insertAdjacentHTML("beforeend", `<option>${esc(c)}</option>`));
+
+function rows() {
+  const q = $("#q").value.toLowerCase(), cat = $("#cat").value, pay = $("#pay").value, kind = $("#kind").value;
+  return ROWS.filter(r => (kind === "all" || (kind === "sig") === !!r.p)
+    && (!cat || r.c === cat) && (!pay || r.y === pay) && (!noIdea || (r.p && !r.i))
+    && (!q || ((r.p || "") + " " + r.x + " " + (r.w || "")).toLowerCase().includes(q)));
+}
+function row(r) {
+  const link = `<a href="https://news.ycombinator.com/item?id=${esc(r.id)}" target="_blank" rel="noopener">${r.yr} · ${esc(r.t)} ↗</a>`;
+  if (!r.p) return `<div class="row rej"><p class="prob">Rejected: not a concrete need</p>
+    <div class="chips"><span class="chip no">rejected</span><span class="chip">matched "${esc(r.m)}"</span></div>
+    <p class="src">${esc(r.x)}\n${link}</p></div>`;
+  return `<div class="row"><p class="prob">${esc(r.p)}</p><div class="chips">
+    <span class="chip">${esc(r.c)}</span><span class="chip">${esc(r.w)}</span>
+    <span class="chip ${r.y === "explicit" ? "pay" : ""}">pay: ${esc(r.y)}</span><span class="chip">pain ${r.n}/5</span>
+    ${r.i ? `<span class="chip idea">idea: ${esc(r.i)}</span>` : ""}<span class="chip">matched "${esc(r.m)}"</span></div>
+    <p class="src">${esc(r.x)}\n${link}</p></div>`;
+}
+function render(reset) {
+  if (reset) limit = 100;
+  const xs = rows();
+  $("#count").textContent = `${xs.length} rows`;
+  $("#list").innerHTML = xs.length ? xs.slice(0, limit).map(row).join("") : `<p class="empty">Nothing matches.</p>`;
+  $("#more").style.display = xs.length > limit ? "block" : "none";
+}
+["#q", "#cat", "#pay", "#kind"].forEach(s => $(s).addEventListener("input", () => render(true)));
+$("#noidea").onclick = () => { noIdea = !noIdea; $("#noidea").classList.toggle("on", noIdea); render(true); };
+$("#more").onclick = () => { limit += 100; render(); };
+render(true);
+</script>
+</body>
+</html>

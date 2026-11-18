@@ -1,0 +1,580 @@
+[
+ {
+  "name": "Agent Deck",
+  "anchor_ids": [
+   "47310039",
+   "47678065",
+   "48634909",
+   "48733056",
+   "47158102",
+   "46859920",
+   "43409983",
+   "31734923"
+  ],
+  "one_liner": "A control plane for developers who run several AI coding agents at once: see who is stuck, resume crashed sessions, keep project memory.",
+  "problem": "Developers who now run several coding agents in parallel lose track of which session needs input. Sessions crash and lose their transcripts. Agents ignore the codebase's conventions, and quotas and quality degradation are opaque.",
+  "customer": "Professional developers and small teams already paying $100-200/month for coding agents, and running 3+ sessions daily.",
+  "evidence": "The most recent cluster in the dataset (2022-2026, most mentions in the last 3 years). Comments describe concrete workflows: multiplexing many agents, phone hand-off, subagents and durable memory. The pay signal is strong in the adjacent cluster, where developers say they would pay as much as a human programmer for agents.",
+  "solution": "A local daemon plus a web/mobile dashboard that wraps any CLI agent (Claude Code, Codex, Aider). It shows each session's status, which sessions are waiting on the user, and spend per session. It auto-saves transcripts and plans, restores crashed sessions, and injects a per-repo conventions file. Notifications go to the phone.",
+  "mvp": "A tmux-based multiplexer with a status column (running / waiting for input / done / crashed), transcript persistence, and a push notification when a session waits for input. Ship as an open-source CLI with a paid hosted dashboard.",
+  "business_model": "Free local CLI. $10-20 per user per month for the hosted dashboard, mobile app and team sharing.",
+  "alternatives": "Agent vendors' own UIs (single-agent and vendor-locked), plain tmux/screen, and early tools such as Claude Squad and Conductor. Commenters complain they all treat sessions as disposable.",
+  "why_now": "Parallel agent use only became common in 2025-2026. Vendors optimise for their own agent, which leaves a cross-agent layer open.",
+  "risks": "Agent vendors can ship the same features natively. The market may consolidate on one agent. Developer tools have low willingness to pay unless they save measurable time.",
+  "verdict_score": 7,
+  "quote_ids": [
+   "47310039",
+   "48733056",
+   "47678065",
+   "48634909"
+  ]
+ },
+ {
+  "name": "Calmline",
+  "anchor_ids": [
+   "42160034",
+   "46046631",
+   "29968960",
+   "19035342"
+  ],
+  "one_liner": "An AI receptionist for your personal phone: known contacts ring through, everyone else talks to an agent that screens, summarises or wastes scammers' time.",
+  "problem": "Scam and spam calls make people stop answering their phones. Carrier spam labels are unreliable. People also want something that can make tedious calls for them, such as bookings or stock checks.",
+  "customer": "Older adults and their adult children, and professionals who get many unknown calls. The family plan is bought by the adult child.",
+  "evidence": "Commenters describe getting a dozen spam calls a day and explicitly ask for a 'Daisy button' on their phone. Some would rather pay for a human screener than a heuristic. This cluster has the highest pain score among the consumer clusters.",
+  "solution": "Call forwarding to a virtual number with a voice agent. Contacts pass straight through. Unknown callers are asked their purpose, and the user gets a transcript plus an accept/ignore prompt. Scam-likely callers are kept talking by an 'AI granny'. An outbound mode makes simple calls on the user's behalf.",
+  "mvp": "US-only, conditional call forwarding to a Twilio number, an LLM screener, and an SMS/push summary. One persona, no outbound calls yet.",
+  "business_model": "$6-10 per month per line, or $15 per month for a family plan covering up to 4 lines.",
+  "alternatives": "Google Pixel Call Screen (Pixel only, basic), Apple's Live Voicemail, carrier spam filters, RoboKiller and Hiya. Commenters find these either inaccurate or limited to labelling.",
+  "why_now": "Low-latency voice LLMs became cheap enough in 2024-2025 to keep a caller in a natural conversation at a few cents a minute.",
+  "risks": "Platform owners (Apple, Google, carriers) are building this in. Call-recording consent laws vary by state and country. Voice-model costs grow with call minutes.",
+  "verdict_score": 6,
+  "quote_ids": [
+   "42160034",
+   "46046631",
+   "19035342"
+  ]
+ },
+ {
+  "name": "Homehand",
+  "anchor_ids": [
+   "41360526",
+   "48602247",
+   "43670283",
+   "49112612",
+   "47720681",
+   "28686488"
+  ],
+  "one_liner": "A home robot narrowly focused on laundry: takes dirty clothes, returns them folded.",
+  "problem": "Laundry and dishes eat hours every week. Commenters say these are the chores they would pay most to eliminate, with quoted willingness of $3,000 up to 'car-level prices' of $20-30k.",
+  "customer": "Dual-income households and people with disabilities or chronic illness, who will pay premium appliance prices.",
+  "evidence": "Every mention has a high pain score (avg 3.5/5) and many state explicit prices. Several comments add a privacy requirement: an offline robot that shares data only when the owner chooses.",
+  "solution": "A fixed-station folding appliance next to the washer and dryer rather than a mobile humanoid. It folds and stacks, it works offline, and remote assistance is opt-in.",
+  "mvp": "A folding station for T-shirts and towels only, sold to 20 pilot households at $3k with human-in-the-loop correction for hard items.",
+  "business_model": "Hardware at $2.5-4k, or a $99/month lease that includes maintenance.",
+  "alternatives": "FoldiMate and Laundroid (both failed to ship) and humanoid startups such as Figure and 1X, which are years from home deployment. Fold-and-deliver laundry services are the current substitute.",
+  "why_now": "Robot manipulation policies learned from demonstrations improved sharply in 2024-2026, and actuator costs keep falling.",
+  "risks": "Very capital-intensive. A graveyard of failed folding robots. Reliability expectations for a home appliance are far above what is needed for a demo.",
+  "verdict_score": 5,
+  "quote_ids": [
+   "41360526",
+   "48602247",
+   "47720681"
+  ]
+ },
+ {
+  "name": "Signal Search",
+  "anchor_ids": [
+   "29350859",
+   "30351222",
+   "22848670",
+   "20257812",
+   "37604475",
+   "35342323",
+   "30836421",
+   "31426279"
+  ],
+  "one_liner": "A paid search engine for professionals that only ranks curated, authoritative sources and filters out SEO farms and AI slop.",
+  "problem": "Commenters say general search results are buried in SEO content farms, recipe essays, affiliate 'reviews' and, increasingly, AI-generated pages. Professionals waste time digging for primary sources.",
+  "customer": "Developers, researchers and analysts. Several say they would pay $10-50 a month, which no other cluster matches.",
+  "evidence": "The largest cluster in the dataset: 44 distinct commenters across 2010-2026, almost all saying they would pay. Several name a price ($5, $10, $20, $50 per month), and the requests stay specific: curation, no ads, filters for authoritative sources.",
+  "solution": "Search restricted to a curated index of authoritative domains (docs, papers, standards, reputable journalism, expert forums). Users can whitelist and blacklist domains and share filter lists, and an optional research-librarian service handles hard questions.",
+  "mvp": "A vertical for software developers: an index of official docs, RFCs, GitHub issues, mailing lists and high-signal blogs, a browser bang, and a shareable lens system.",
+  "business_model": "$8-15 per month per individual, team plans, and a paid librarian tier.",
+  "alternatives": "Kagi (lenses, paid, mentioned approvingly), Perplexity and Phind (AI answers), and DuckDuckGo. Commenters say general engines can't get rid of spam because ad incentives work against it.",
+  "why_now": "AI-generated content is flooding the open web, which makes a curated index more valuable. Cheap embeddings and LLM re-ranking make a small index usable.",
+  "risks": "Kagi already serves much of this audience. Building and maintaining an index is expensive, and a narrow index produces visible misses.",
+  "verdict_score": 5,
+  "quote_ids": [
+   "22848670",
+   "29350859",
+   "31426279",
+   "37604475"
+  ]
+ },
+ {
+  "name": "Patron Browser",
+  "anchor_ids": [
+   "45369141",
+   "43211879",
+   "46300455",
+   "48473531",
+   "24506235",
+   "28783961",
+   "43342160",
+   "41170109"
+  ],
+  "one_liner": "A browser funded only by its users, with a legally binding no-ads, no-telemetry pledge and a slow, stable feature cadence.",
+  "problem": "Users distrust browsers funded by search deals and advertising: telemetry experiments, sponsored content and bundled services. Firefox users repeatedly ask to pay for Firefox directly and nothing else.",
+  "customer": "Privacy-minded power users. Commenters quote $5-10 per month or $100 per year.",
+  "evidence": "Two adjacent clusters total about 55 commenters, most of them recent (25 mentions in the last 3 years). They are explicit and consistent: users want to pay for the browser only, not for a parent organisation's side projects.",
+  "solution": "An open-source Firefox or Chromium derivative under a member-funded structure. It ships only security fixes plus a curated feature track, with built-in blocking, containers and profile management, and its privacy promises are written into the terms of service.",
+  "mvp": "Rebrand and maintain a hardened Firefox ESR fork (in the style of LibreWolf) with paid builds, sync and a support channel, and publish the governance charter.",
+  "business_model": "$5 per month membership. Members get signed builds, sync and support, and the source stays free.",
+  "alternatives": "Orion (Kagi), Vivaldi, Brave (distrusted for its crypto and ads), LibreWolf and Mullvad Browser (free, small teams). Several commenters say they would pay but 'nobody will take my money'.",
+  "why_now": "Antitrust rulings against Google threaten browsers' search-deal funding. Manifest V3 pushed ad-block users away from Chromium.",
+  "risks": "The classic 'I would pay' gap between stated and actual payment. Keeping up with web platform engines costs a lot, and forks drift behind security fixes.",
+  "verdict_score": 4,
+  "quote_ids": [
+   "45369141",
+   "43211879",
+   "41170109",
+   "46300455"
+  ]
+ },
+ {
+  "name": "QuietTube",
+  "anchor_ids": [
+   "36530747",
+   "35898831",
+   "38150068",
+   "47327704",
+   "33280704",
+   "37947415",
+   "48300313",
+   "45366602"
+  ],
+  "one_liner": "A focus client for YouTube Premium members: no Shorts, no recommendations, channel whitelists, transcript search, sponsor skipping.",
+  "problem": "Viewers want YouTube without the attention machinery (Shorts, recommendations, AI slop channels) and without paying for bundled YouTube Music. Paying for Premium still doesn't give them those controls.",
+  "customer": "People who use YouTube for learning, parents, and people trying to cut compulsive viewing.",
+  "evidence": "40 commenters, 2012-2026, almost all with explicit pay intent. The asks are very specific: disable Shorts, opt out of the recommendation algorithm, whitelist channels, cap viewing at 10 hours a week for $5.",
+  "solution": "A browser extension and TV/mobile app that runs on top of the user's own YouTube session. It hides Shorts and recommendations, adds whitelist-only mode for kids, builds a transcript search index, and skips sponsor segments using crowd-sourced data.",
+  "mvp": "A desktop extension that strips Shorts and recommendations, adds whitelists and transcript search over the user's subscriptions, sold for $3 per month.",
+  "business_model": "$3 per month or $25 per year, plus a family plan with parental whitelists.",
+  "alternatives": "Unhook, SponsorBlock, DF Tube (free extensions), FreeTube and NewPipe (ToS grey zone), YouTube Kids. Gaps commenters mention: these don't work on TV apps, and they lack transcript search and parental controls.",
+  "why_now": "Shorts were pushed into every surface, and YouTube is cracking down on ad blockers, which pushes people toward Premium plus customisation.",
+  "risks": "Complete platform dependence: YouTube can break it or ban it. Free extensions anchor the price near zero. TV apps are hard to modify.",
+  "verdict_score": 4,
+  "quote_ids": [
+   "47327704",
+   "37947415",
+   "48300313",
+   "45366602"
+  ]
+ },
+ {
+  "name": "One Pass News",
+  "anchor_ids": [
+   "20569640",
+   "16571750",
+   "14497266",
+   "11098681",
+   "25563661",
+   "21112292",
+   "37949516",
+   "47441951"
+  ],
+  "one_liner": "One wallet for journalism: read any participating outlet, pay per article or a capped monthly bundle, with revenue split by reading time.",
+  "problem": "Readers hit a different paywall on every shared link. Nobody subscribes to 20 outlets, so they bounce or use bypass tools, even though many say they would pay 20-50 cents an article.",
+  "customer": "Heavy news readers who follow links from aggregators and social media. Commenters quote $10-50 a month for unlimited access.",
+  "evidence": "Three news clusters with about 65 commenters, the most persistent theme in the dataset (2012-2026). Prices are concrete: 25-50 cents an article, $10-20 a month for a Spotify-like bundle, $30-50 a month for unlimited access.",
+  "solution": "A browser extension and publisher SDK. Each article unlocks with one click from a prepaid wallet. A monthly cap turns the wallet into a bundle, and readers can stay anonymous to publishers.",
+  "mvp": "Sign 10-20 mid-size independent outlets and newsletters (not the NYT), launch an extension wallet with an article-unlock API, and set a $10 monthly cap.",
+  "business_model": "Take 15-20% of reader spend. Publishers get the rest by reading time.",
+  "alternatives": "Blendle and Scroll (both shut down), Apple News+, Inkl, Particle, Google Contributor (discontinued). Commenters say big publishers refuse to unbundle.",
+  "why_now": "AI summaries are cutting search referrals to publishers, so they need new reader revenue. Stablecoin and Lightning payments lower the fees on small transactions.",
+  "risks": "A two-sided cold start. Top publishers protect their subscription bundles. A long list of failed predecessors.",
+  "verdict_score": 4,
+  "quote_ids": [
+   "16571750",
+   "14497266",
+   "37949516",
+   "20569640"
+  ]
+ },
+ {
+  "name": "Ledger Brief",
+  "anchor_ids": [
+   "18975447",
+   "39133603",
+   "35664976",
+   "41261747",
+   "40743768",
+   "12933006",
+   "37788358",
+   "35662312"
+  ],
+  "one_liner": "A daily news brief that merges coverage across outlets, keeps only sourced claims, shows where outlets disagree, and hides clickbait and AI filler.",
+  "problem": "Readers want facts without spin and clickbait. They want claims traced to sources, multiple viewpoints side by side, and only the stories that affect them.",
+  "customer": "Professionals with little time and readers who use RSS. Commenters quote $5-20 a month.",
+  "evidence": "Two clusters, about 38 commenters. They keep asking for the same features: fact extraction across sources, inline fact-checks, viewpoint clustering, relevance filters, full-text RSS and deduplication.",
+  "solution": "An LLM pipeline over licensed and RSS sources. It clusters coverage per event, extracts claims with citations, flags where sources disagree, and personalises by declared interests. Delivery by email, RSS or Kindle.",
+  "mvp": "Tech and business news only: a daily email of 10 stories, each with 'what's known / disputed / sources', plus RSS output.",
+  "business_model": "$6 per month, plus team plans for analysts.",
+  "alternatives": "Ground News (bias ratings), Particle, Techmeme, Feedly AI, Artifact (shut down). Commenters complain these still pass along clickbait and lack claim-level sourcing.",
+  "why_now": "LLM claim extraction and clustering got cheap. Trust in single outlets is low.",
+  "risks": "Licensing of source content, hallucinated or garbled claims, and churn once the novelty fades.",
+  "verdict_score": 5,
+  "quote_ids": [
+   "18975447",
+   "39133603",
+   "35664976",
+   "12933006"
+  ]
+ },
+ {
+  "name": "Linux Just Works",
+  "anchor_ids": [
+   "46182520",
+   "40609845",
+   "28620783",
+   "40591326",
+   "20061321",
+   "35645854",
+   "49098486",
+   "45300533"
+  ],
+  "one_liner": "A curated laptop plus Linux distro sold as one supported product, with the polished commercial apps people miss.",
+  "problem": "People leaving macOS and Windows want Linux but hit jank: drivers, HiDPI, sleep, trackpads, and missing commercial apps (Lightroom, Excel, a good image editor). Commenters say their time is worth more than tinkering.",
+  "customer": "Developers and Mac switchers who will pay $100-300 a year or a hardware premium for something that 'just works'.",
+  "evidence": "About 43 commenters across two clusters, 2015-2026, with explicit prices ($15 a month, $100-300 a year) and a recurring 'take my money' tone. Paid Linux apps (a RAW editor, a Paint.NET equivalent) form a sub-cluster.",
+  "solution": "One or two laptop models certified end to end: firmware, sleep, trackpad tuning, colour calibration. A maintained distro, a support subscription, and a store of paid native apps whose revenue is shared with developers.",
+  "mvp": "Pick one Framework or ThinkPad model, ship a tuned image with a trackpad gesture stack and app store, and sell a $150 per year support plan.",
+  "business_model": "Hardware margin plus a support subscription plus a 15% cut of app sales.",
+  "alternatives": "System76, Tuxedo, Framework with Ubuntu, Dell XPS Developer Edition, Asahi on Macs. Commenters still report rough edges and missing pro apps.",
+  "why_now": "Windows 11 ads and telemetry and Apple's lock-down are pushing developers away, and Proton showed compatibility work can pay off.",
+  "risks": "Hardware margins are thin and support costs are high. App vendors may not port. The market of Linux users who actually pay is small.",
+  "verdict_score": 4,
+  "quote_ids": [
+   "40609845",
+   "28620783",
+   "35645854",
+   "49098486"
+  ]
+ },
+ {
+  "name": "Clean Windows Pro",
+  "anchor_ids": [
+   "38905134",
+   "40505239",
+   "28514045",
+   "34222303",
+   "44032574",
+   "11459393"
+  ],
+  "one_liner": "Managed, supported Windows configurations for small businesses and developers that remove ads, telemetry and forced updates.",
+  "problem": "Windows users, especially developers and small-business owners, say they would pay several times the licence price for a Windows with no ads, telemetry, bundled crapware or forced updates. Microsoft doesn't sell that to individuals.",
+  "customer": "Small dev shops and studios on Windows, and hobbyists who depend on legacy Windows-only software.",
+  "evidence": "15 commenters, many saying they'd pay 'full price' or '5x'. Developers explicitly ask for a 'dev edition'. Some want paid security patches for older Windows versions their hobby software needs.",
+  "solution": "A management agent plus policy pack applied to genuine Windows Pro or Enterprise licences. It enforces debloat, controls update windows, disables telemetry where policy allows, and is offered with support and rollback.",
+  "mvp": "Signed configuration profiles plus an agent for Windows 11 Pro, sold to 10-50 seat businesses with MSP-style support.",
+  "business_model": "$5 per device per month.",
+  "alternatives": "Windows LTSC (licensing hard to obtain), free debloat scripts (O&O ShutUp10, Win11Debloat), and in-house IT. Commenters want something legal, simple and supported.",
+  "why_now": "Windows 11 keeps adding ads and AI features (Recall, Copilot), and the end of Windows 10 support forces upgrades.",
+  "risks": "Microsoft can undo the tweaks with updates. Licence-term risk. The market overlaps with existing MSP tooling.",
+  "verdict_score": 3,
+  "quote_ids": [
+   "38905134",
+   "40505239",
+   "11459393"
+  ]
+ },
+ {
+  "name": "Inbox Pro",
+  "anchor_ids": [
+   "16975239",
+   "11196066",
+   "38002568",
+   "23618467",
+   "32600715",
+   "43857545"
+  ],
+  "one_liner": "A fast, native, keyboard-driven email client that works with any IMAP provider, sold as a paid upgrade rather than a subscription.",
+  "problem": "Power users find desktop mail clients bloated, ugly or tied to one provider. Web clients keep changing against their wishes, and they want order and notification email grouped automatically.",
+  "customer": "Heavy email users. Commenters quote $50-100 a year or $99 per major release.",
+  "evidence": "14 commenters across 2012-2025 with explicit prices. They consistently want native performance, standard protocols, keyboard control, privacy and stable UX.",
+  "solution": "A cross-platform native client (Rust or Swift) over IMAP and JMAP with local search, threading that bundles transactional mail, vim-style commands and optional on-device AI summaries.",
+  "mvp": "Mac and Linux, IMAP plus Fastmail JMAP, keyboard-first triage, instant local search, $59 one-time.",
+  "business_model": "A paid licence with paid major upgrades, in the style of Sublime Text or JetBrains.",
+  "alternatives": "Superhuman ($30 a month, Gmail and Outlook only), Mimestream (Gmail only), Spark, Thunderbird, Apple Mail and mutt/aerc. Commenters list each one's gap.",
+  "why_now": "Gmail and Outlook keep changing their UIs and adding AI. Fastmail and Proton users want good clients for the services they already pay for.",
+  "risks": "A crowded field, plus the long tail of IMAP edge cases and email rendering bugs. Email clients have historically been hard to monetise.",
+  "verdict_score": 5,
+  "quote_ids": [
+   "16975239",
+   "11196066",
+   "23618467"
+  ]
+ },
+ {
+  "name": "Fair AI Chat",
+  "anchor_ids": [
+   "43165653",
+   "42330906",
+   "46646451",
+   "44045349",
+   "34616528",
+   "34615506"
+  ],
+  "one_liner": "A private AI chat plan with transparent usage meters, cheaper tiers for light users, cited answers and a contractual promise not to train on chats.",
+  "problem": "AI chat plans are sized $0 or $20+. Heavy users hit opaque caps, light users overpay, and privacy-minded users don't trust training opt-outs.",
+  "customer": "Professionals and privacy-sensitive knowledge workers, plus a price-sensitive $5-a-month tier.",
+  "evidence": "13 commenters (2023-2026) with explicit pay intent. They ask for flat rates covering chat and API, predictable limits, a no-training guarantee, citations and less sycophancy.",
+  "solution": "A model-agnostic chat front end that routes requests to API models, shows a live usage meter, offers $5, $15 and $40 tiers, keeps zero-retention routing with no training, and cites sources on every answer.",
+  "mvp": "A web app with BYO or pooled API keys, a usage meter, zero-retention endpoints, and per-message cost shown.",
+  "business_model": "Tiered subscriptions with a margin over API cost.",
+  "alternatives": "ChatGPT, Claude, Gemini plans, Perplexity, OpenRouter chat, T3 Chat, Poe. Gaps commenters name: opaque limits, pricing that fits no one, and training concerns.",
+  "why_now": "API prices for strong models keep falling. Privacy regulation and enterprise zero-retention terms make the guarantee feasible.",
+  "risks": "Thin margins over the model labs, who can undercut on price. Little to differentiate the front end.",
+  "verdict_score": 4,
+  "quote_ids": [
+   "42330906",
+   "43165653",
+   "46646451"
+  ]
+ },
+ {
+  "name": "Plainnote",
+  "anchor_ids": [
+   "40258558",
+   "28633670",
+   "30320450",
+   "33642573",
+   "13606621",
+   "40928723"
+  ],
+  "one_liner": "A local-first notes app sold for a one-time licence, with reliable sync to your own storage and guaranteed backups.",
+  "problem": "Note-takers want fast, simple, cross-platform notes they own, with no subscription, reliable sync and no data loss. Evernote refugees want painless migration and a good web clipper.",
+  "customer": "Personal knowledge workers and people leaving Evernote.",
+  "evidence": "13 commenters, mostly asking for a one-time licence, local-first storage, open formats and sync to a self-hosted server.",
+  "solution": "Markdown files on disk, a CRDT sync engine that works over the user's own S3, WebDAV or Syncthing, versioned backups, an Evernote importer and a web clipper.",
+  "mvp": "Mac and Android apps, an S3 sync target, an Evernote ENEX importer, $29 one-time.",
+  "business_model": "A one-time licence plus optional paid hosted sync at $3 a month.",
+  "alternatives": "Obsidian (dominant, paid sync), Bear, Joplin, Logseq, Apple Notes, Standard Notes. Commenters complain about subscriptions and sync reliability.",
+  "why_now": "Evernote layoffs and price rises push users out, and local-first tooling has matured.",
+  "risks": "Obsidian already owns much of this audience. Note apps have little lock-in on purchase and a very crowded market.",
+  "verdict_score": 3,
+  "quote_ids": [
+   "40258558",
+   "28633670",
+   "33642573"
+  ]
+ },
+ {
+  "name": "Gatekeeper Captcha Pass",
+  "anchor_ids": [
+   "30883031",
+   "20615275",
+   "40905502",
+   "11455295",
+   "25220911"
+  ],
+  "one_liner": "A paid, privacy-preserving way for VPN and Tor users to skip captchas, paying websites a fraction of a cent instead of solving puzzles.",
+  "problem": "Users behind VPNs, Tor or CGNAT face endless captchas. They would rather pay a few cents than lose minutes.",
+  "customer": "VPN and Tor users and privacy-minded professionals who say they'd pay $1 per 1,000 captchas or a monthly fee.",
+  "evidence": "9 mentions with explicit prices (a tenth of a cent each, 15 cents per site, $1 per 1,000). The pain is concrete and recurring.",
+  "solution": "A browser extension issuing blind-signed Privacy Pass tokens, paid for with a prepaid balance and redeemed with participating bot-protection providers, with no identity revealed.",
+  "mvp": "Partner with one bot-protection vendor (Cloudflare Turnstile already supports Privacy Pass tokens), issue paid tokens, and ship a Firefox extension.",
+  "business_model": "Users buy token packs, and the revenue is shared with providers.",
+  "alternatives": "Apple Private Access Tokens (Apple devices only), Cloudflare's Privacy Pass extension, and captcha-solving farms (grey market). Commenters want something legitimate that works across browsers.",
+  "why_now": "AI bots have made captchas more aggressive, and the Privacy Pass standards are finalised at the IETF.",
+  "risks": "Needs buy-in from Cloudflare, Google and hCaptcha. The market may be small. The solver-farm stigma.",
+  "verdict_score": 4,
+  "quote_ids": [
+   "30883031",
+   "20615275",
+   "11455295"
+  ]
+ },
+ {
+  "name": "Pocket Flagship",
+  "anchor_ids": [
+   "18841821",
+   "26522372",
+   "22317718",
+   "19481938",
+   "37767202"
+  ],
+  "one_liner": "A small (4-4.7 inch) phone with flagship internals and good battery life, for the people who keep saying they'd pay flagship prices for one.",
+  "problem": "Small-phone fans can't buy a current high-end phone that fits in one hand. The mini iPhones were discontinued.",
+  "customer": "Small-phone enthusiasts and people with small hands. Commenters quote up to $1,200.",
+  "evidence": "10 commenters (2014-2024) with explicit premium willingness to pay, which is unusually strong for hardware.",
+  "solution": "A stock Android or GrapheneOS-compatible small phone, built with an ODM using flagship chips and a dense battery, sold direct in limited runs.",
+  "mvp": "Crowdfund a 4.5-inch phone on a mid-high chip, with pre-orders to validate demand above 20k units.",
+  "business_model": "Hardware margin on limited runs at $699-899.",
+  "alternatives": "Unihertz Jelly (low-end), Asus Zenfone 9/10 (discontinued), the iPhone mini (discontinued). Apple's own sales data suggests the market is small.",
+  "why_now": "Phones keep growing, and an ODM ecosystem plus crowdfunding lowers minimum order quantities.",
+  "risks": "Mini iPhone sales were weak, so stated demand likely overstates real demand. Hardware capital, certification and multi-year update commitments.",
+  "verdict_score": 3,
+  "quote_ids": [
+   "18841821",
+   "19481938",
+   "37767202"
+  ]
+ },
+ {
+  "name": "Local Voice",
+  "anchor_ids": [
+   "37212401",
+   "43642885",
+   "37544667",
+   "34063614",
+   "29289215",
+   "35260086"
+  ],
+  "one_liner": "Fully offline voice tools sold once: dictation in any text box, unlimited transcription, and podcast or stream audio cleanup.",
+  "problem": "Writers and professionals want accurate dictation and transcription without sending audio to the cloud and without per-hour or per-minute subscriptions. Podcasters want automated offline editing.",
+  "customer": "Writers, lawyers, clinicians and podcasters on Mac and Windows.",
+  "evidence": "9 commenters (2021-2026) asking for offline processing and one-time pricing, and naming specific workflows (system-wide dictation, 24/7 transcription, podcast editing).",
+  "solution": "A native app bundling local Whisper-class speech-to-text with system-wide insertion, local LLM cleanup, filler and silence removal, and noise suppression, all on-device.",
+  "mvp": "Mac menubar dictation for any text field, plus a drop-a-file transcription mode, $49 one-time.",
+  "business_model": "A one-time licence plus paid major upgrades, and team licences for clinics and law firms.",
+  "alternatives": "superwhisper, MacWhisper, Aqua Voice, Wispr Flow, Descript (cloud), Apple dictation. Commenters object to cloud audio and subscriptions.",
+  "why_now": "On-device speech models now match cloud accuracy on Apple Silicon and recent GPUs.",
+  "risks": "Commoditising fast: the OS vendors are shipping it, and there are many indie competitors.",
+  "verdict_score": 4,
+  "quote_ids": [
+   "37212401",
+   "43642885",
+   "37544667"
+  ]
+ },
+ {
+  "name": "Genuine Check",
+  "anchor_ids": [
+   "46679798",
+   "27090342",
+   "17328240",
+   "19743026",
+   "35377565"
+  ],
+  "one_liner": "Independent verification that a marketplace product is genuine, plus affiliate-free test results for commodity goods.",
+  "problem": "Shoppers can't tell genuine parts from counterfeits mixed into marketplace inventory, and review sites are affiliate farms. Commenters want honest tests of USB drives, groceries and similar goods.",
+  "customer": "Online shoppers buying electronics, parts and consumables, and eventually brands that want proof of authenticity.",
+  "evidence": "About 8 high-pain mentions (avg 3.5) with explicit pay intent for honest, affiliate-free reviews.",
+  "solution": "A browser extension that flags risky marketplace listings (commingled inventory, seller history, review anomalies), backed by lab tests of commodity products and funded by subscriptions rather than affiliate links.",
+  "mvp": "Flash storage and chargers only: buy samples from top listings, test them, and publish a subscriber dashboard plus extension warnings.",
+  "business_model": "$4 a month consumer subscription, plus paid authenticity certification for brands.",
+  "alternatives": "Consumer Reports (slow, broad), Fakespot (shut down in 2025), Wirecutter (affiliate-funded), RTINGS (narrow).",
+  "why_now": "Fakespot's shutdown left a gap, and AI-generated fake reviews are surging.",
+  "risks": "Testing costs a lot per SKU, marketplaces are adversarial, and willingness to pay for reviews is low.",
+  "verdict_score": 4,
+  "quote_ids": [
+   "46679798",
+   "17328240",
+   "35377565"
+  ]
+ },
+ {
+  "name": "Parent Mode",
+  "anchor_ids": [
+   "33316669",
+   "35413168",
+   "50019407",
+   "21819339",
+   "17645113"
+  ],
+  "one_liner": "Remote management for elderly parents' phones and computers: lock the home screen, block junk apps, approve updates, and get one-tap help from family.",
+  "problem": "Adult children do tech support for elderly parents. Updates and junk apps confuse them, remote help is hard to set up, and simple phones lack the features they need, such as photo dialing and ride booking.",
+  "customer": "Adult children (35-60) managing one or two parents' devices.",
+  "evidence": "One of the highest-pain clusters (avg 4.25/5) across several adjacent comments. Commenters say they would pay good money for a phone with photo dialing and one-tap rides, and that walking a parent through things over the phone tests 'supernatural patience'.",
+  "solution": "An Android launcher plus an MDM-lite profile and a family web console. It provides photo-contact dialing, blocks app installs, delays and approves updates, offers remote screen view with consent, and adds one-tap ride and call-family buttons.",
+  "mvp": "An Android launcher with photo dialing, an install lock and remote view via a family console, $8 a month.",
+  "business_model": "Per-family subscription, plus retail bundles with refurbished phones.",
+  "alternatives": "GrandPad (tablets, expensive), Jitterbug and Lively (basic phones), Android's built-in simplified modes. Commenters say none combine family remote control with modern apps.",
+  "why_now": "An aging population that already owns smartphones, the rise of scams targeting seniors, and mature remote-support APIs.",
+  "risks": "iOS restrictions limit it to Android. Support load. Parents resist being 'managed'.",
+  "verdict_score": 6,
+  "quote_ids": [
+   "33316669",
+   "35413168",
+   "50019407"
+  ]
+ },
+ {
+  "name": "Open Source Tab",
+  "anchor_ids": [
+   "42672291",
+   "45766973",
+   "39903656",
+   "38771919",
+   "40293414"
+  ],
+  "one_liner": "One bill that funds every open-source dependency your company or you rely on, structured so procurement departments can approve it.",
+  "problem": "Users and companies want to fund the open-source software they depend on, but internal procurement makes small payments to individual maintainers impossible, and individuals won't manage dozens of tiny donations.",
+  "customer": "Engineering managers at companies with 50-5,000 developers, and individual developers.",
+  "evidence": "9 commenters, including a detailed story of a company that lost a critical build tool because its manager couldn't get approval to pay the maintainer.",
+  "solution": "Scan lockfiles to build a dependency graph, set a monthly budget, and generate one vendor invoice with an SLA-style contract. Payments go out to maintainers by usage weight.",
+  "mvp": "A GitHub app that reads the org's lockfiles, sends one invoice per month, and pays out via GitHub Sponsors and Open Collective.",
+  "business_model": "5-10% of the funds that pass through, plus a paid 'maintainer SLA' tier for critical packages.",
+  "alternatives": "thanks.dev, GitHub Sponsors, Open Collective, Tidelift (enterprise), StackAid (shut down). Commenters cite friction and procurement as the blockers.",
+  "why_now": "Supply-chain attacks (the xz backdoor) and EU Cyber Resilience Act obligations push companies to formalise support for their dependencies.",
+  "risks": "Tidelift and thanks.dev already exist. Budgets get cut in downturns. Maintainers may not be able to meet SLA expectations.",
+  "verdict_score": 5,
+  "quote_ids": [
+   "42672291",
+   "45766973",
+   "38771919"
+  ]
+ },
+ {
+  "name": "Account Lifeline",
+  "anchor_ids": [
+   "34863983",
+   "29459018",
+   "40434147",
+   "37836471",
+   "31391783"
+  ],
+  "one_liner": "Insurance for your digital life: continuous export of your Google, Apple and Microsoft accounts, plus human-assisted recovery when you get locked out.",
+  "problem": "People get locked out of Google, Microsoft or game accounts with no human to talk to and lose decades of photos, email and purchases. They say they would pay for real support.",
+  "customer": "Families and freelancers whose digital lives live in one big-tech account.",
+  "evidence": "Recurring high-pain stories (intensity 4-5): lost accounts, kids' game worlds gone, failed recovery with the recovery email. Commenters explicitly would pay for human support or automatic outside backups.",
+  "solution": "A scheduled Takeout-style export of mail, photos, drive and contacts to the user's own storage, a recovery-readiness checklist (backup codes, recovery devices), and concierge help with recovery forms and escalation.",
+  "mvp": "Automated Google account backup to the user's S3 or Backblaze, a readiness score, and a $5 a month plan.",
+  "business_model": "$5 a month individual, $10 a month family.",
+  "alternatives": "Google Takeout (manual, one-off), Spanning and Afi (business only), Apple and Google recovery flows. No consumer human-escalation service exists.",
+  "why_now": "AI moderation bans are rising, and passkeys concentrate identity in a few providers.",
+  "risks": "Can't actually force providers to restore accounts. API access to export data can be restricted.",
+  "verdict_score": 5,
+  "quote_ids": [
+   "34863983",
+   "40434147",
+   "31391783"
+  ]
+ },
+ {
+  "name": "CI That Waits Less",
+  "anchor_ids": [
+   "47943874",
+   "39837436",
+   "46617500",
+   "24791620"
+  ],
+  "one_liner": "Fast managed CI runners with a merge queue that works and real workflow debugging, as a drop-in for GitHub Actions.",
+  "problem": "Teams find GitHub Actions runners slow, merge queues unusable and workflow debugging painful.",
+  "customer": "Engineering teams of 20-500 on GitHub.",
+  "evidence": "A small but high-pain cluster (avg 4/5) of team leads who say they'd pay.",
+  "solution": "Bare-metal runners with warm caches, a merge queue with batching and bisection, and SSH or replay debugging of failed jobs.",
+  "mvp": "A drop-in runner label (runs-on: fast) on bare-metal boxes with persistent caches, priced per minute.",
+  "business_model": "Usage-based per-minute pricing at about half GitHub's rate.",
+  "alternatives": "Namespace, Depot, BuildJet, Blacksmith, Ubicloud, Mergify, Trunk merge queue. A crowded but growing market.",
+  "why_now": "Monorepos and AI-generated pull request volume increase CI load.",
+  "risks": "Competition is crowded, and GitHub can cut prices.",
+  "verdict_score": 4,
+  "quote_ids": [
+   "47943874",
+   "46617500",
+   "24791620"
+  ]
+ }
+]

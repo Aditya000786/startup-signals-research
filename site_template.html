@@ -14,6 +14,9 @@ header{background:var(--acc);color:#fff;padding:14px 16px}
 header .wrap{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
 h1{margin:0;font-size:20px;letter-spacing:-.01em}
 header p{margin:0;opacity:.9;font-size:13px}
+nav{margin-left:auto;display:flex;gap:4px}nav a{color:#fff;text-decoration:none;font-size:13px;padding:4px 10px;border-radius:999px}nav a.here{background:rgba(255,255,255,.22)}
+.meta{padding:10px 16px 0;color:var(--mute);font-size:13px}
+.score.draft{background:var(--chip);color:var(--mute)}
 .wrap{max-width:960px;margin:0 auto}
 .bar{position:sticky;top:0;z-index:2;background:var(--bg);border-bottom:1px solid var(--line);padding:10px 16px}
 .bar .wrap{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
@@ -41,7 +44,7 @@ summary{cursor:pointer;color:var(--acc);font-weight:600;font-size:14px}
 dl{display:grid;grid-template-columns:130px 1fr;gap:6px 14px;margin:12px 0}
 dt{color:var(--mute);font-size:13px}
 dd{margin:0}
-blockquote{margin:8px 0;padding:8px 12px;border-left:3px solid var(--acc);background:var(--bg);border-radius:0 8px 8px 0;font-size:14px;white-space:pre-line}
+blockquote{overflow-wrap:anywhere;margin:8px 0;padding:8px 12px;border-left:3px solid var(--acc);background:var(--bg);border-radius:0 8px 8px 0;font-size:14px;white-space:pre-line}
 blockquote a{color:var(--mute);font-size:12px;display:block;margin-top:4px}
 .empty{text-align:center;color:var(--mute);padding:40px 0}
 .dim{opacity:.45}
@@ -49,7 +52,8 @@ blockquote a{color:var(--mute);font-size:12px;display:block;margin-top:4px}
 </style>
 </head>
 <body>
-<header><div class="wrap"><h1>Hacker Ideas</h1><p>Startup ideas mined from problems Hacker News commenters keep describing.</p></div></header>
+<header><div class="wrap"><h1>Hacker Ideas</h1><p>Startup ideas mined from problems Hacker News commenters keep describing.</p><nav><a href="index.html" class="here">Ideas</a><a href="signals.html">Raw signals</a></nav></div></header>
+<div class="meta wrap" id="meta"></div>
 <div class="bar"><div class="wrap">
   <input id="q" type="search" placeholder="Search ideas, problems, products…" aria-label="Search">
   <select id="cat" aria-label="Category"><option value="">All categories</option></select>
@@ -60,26 +64,29 @@ blockquote a{color:var(--mute);font-size:12px;display:block;margin-top:4px}
     <option value="pay">Sort: willingness to pay</option>
   </select>
   <button id="starred">★ Starred</button>
+  <button id="drafts">Show drafts</button>
   <button id="hidden">Show hidden</button>
 </div></div>
 <main class="wrap"><p class="count" id="count"></p><div id="list"></div></main>
 <script>
 const IDEAS = /*IDEAS*/[];
+const META = /*META*/{};
 const store = (() => { try { return JSON.parse(localStorage.getItem("hi-state") || "{}"); } catch { return {}; } })();
 store.star = store.star || {}; store.hide = store.hide || {};
 const save = () => { try { localStorage.setItem("hi-state", JSON.stringify(store)); } catch {} };
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));
-let onlyStar = false, showHidden = false;
+let onlyStar = false, showHidden = false, showDrafts = false;
+$("#meta").textContent = META.note || "";
 
 [...new Set(IDEAS.map(i => i.category))].sort().forEach(c => $("#cat").insertAdjacentHTML("beforeend", `<option>${esc(c)}</option>`));
 
 function render() {
   const q = $("#q").value.toLowerCase(), cat = $("#cat").value, sort = $("#sort").value;
   let xs = IDEAS.filter(i => (!cat || i.category === cat)
-    && (!onlyStar || store.star[i.key]) && (showHidden || !store.hide[i.key])
+    && (!onlyStar || store.star[i.key]) && (showHidden || !store.hide[i.key]) && (showDrafts || !i.draft)
     && (!q || JSON.stringify(i).toLowerCase().includes(q)));
-  const k = {signal: i => i.signal_score, verdict: i => i.verdict_score, recent: i => Math.max(...i.years), pay: i => i.pay_signals}[sort];
+  const k = {signal: i => i.signal_score, verdict: i => i.verdict_score ?? -1, recent: i => Math.max(...i.years), pay: i => i.pay_signals}[sort];
   xs.sort((a, b) => k(b) - k(a));
   $("#count").textContent = `${xs.length} of ${IDEAS.length} ideas`;
   $("#list").innerHTML = xs.length ? xs.map(card).join("") : `<p class="empty">No ideas match.</p>`;
@@ -90,9 +97,9 @@ function card(i) {
   const row = (t, v) => v ? `<dt>${t}</dt><dd>${esc(v)}</dd>` : "";
   return `<article class="card ${store.hide[i.key] ? "dim" : ""}">
     <div class="top">
-      <div class="score" title="Analyst score out of 10"><b>${i.verdict_score}</b><span>/ 10</span></div>
+      ${i.draft ? `<div class="score draft" title="Cluster without an idea card yet"><b>–</b><span>draft</span></div>` : `<div class="score" title="Analyst score out of 10"><b>${i.verdict_score}</b><span>/ 10</span></div>`}
       <div class="title"><h2>${esc(i.name)}</h2><p class="one">${esc(i.one_liner)}</p>
-        <div class="chips"><span class="chip">${esc(i.category)}</span>
+        <div class="chips"><span class="chip">${esc(i.category)}</span>${i.draft ? `<span class="chip">draft</span>` : ""}
           <span class="chip">${i.authors} commenters</span><span class="chip">${i.mentions} mentions</span>
           <span class="chip">${yrs}</span>${i.pay_signals ? `<span class="chip pay">💰 ${i.pay_signals} pay signals</span>` : ""}
           <span class="chip">pain ${i.avg_intensity}/5</span></div></div>
@@ -113,6 +120,7 @@ document.addEventListener("click", e => {
   if (h) { store.hide[h] ? delete store.hide[h] : store.hide[h] = 1; save(); render(); }
 });
 $("#starred").onclick = () => { onlyStar = !onlyStar; $("#starred").classList.toggle("on", onlyStar); render(); };
+$("#drafts").onclick = () => { showDrafts = !showDrafts; $("#drafts").classList.toggle("on", showDrafts); render(); };
 $("#hidden").onclick = () => { showHidden = !showHidden; $("#hidden").classList.toggle("on", showHidden); render(); };
 ["#q", "#cat", "#sort"].forEach(s => $(s).addEventListener("input", render));
 render();
