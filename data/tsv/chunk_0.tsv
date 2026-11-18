@@ -1,0 +1,91 @@
+48846711	Mobile utility apps need cheap, usage-proportional pricing instead of $10/month subscriptions for rarely used tools	casual mobile app users	explicit	2	consumer & home
+48221856	Team coordination meetings produce noisy, unactionable output; teams need async AI interviews that surface blockers and decisions privately	startup and product teams	implied	4	productivity & work
+47201418	Obsidian mobile cannot sync a vault from Google Drive, forcing non-iCloud users into paid Obsidian Sync	Windows/Android note-takers using Google Drive	implied	3	productivity & work
+49098654	Photographers want a paid, supported RAW editor as good as darktable without Adobe lock-in	hobbyist and pro photographers	explicit	2	media & content
+48159271	US banks wrongly flag foreign SaaS charges as fraud and cards on permanent lock break bill-later payment models	non-US SaaS companies billing US customers	implied	4	finance & money
+43857545	Users want fast, privacy-preserving, non-subscription paid desktop apps (email client, office suite, scheduler)	power users tired of bloated software	explicit	3	productivity & work
+46764283	Busy parents need an assistant that reads calendar, email and group chats and nags them about life admin and conflicts	busy parents and professionals	implied	3	productivity & work
+47771941	Sports fans must buy several services to watch one league; they want a single legal subscription per league or for all sports	sports fans	explicit	4	media & content
+48237649	Teams need SOPs and how-to guides generated with real context from workflow screen recordings, not click-by-click steps	operations teams documenting processes	implied	3	productivity & work
+48807112	Car buyers want physical controls for frequently used functions instead of modal touchscreens	car buyers	explicit	2	hardware & IoT
+47776584	Readers want cheap, simple per-article micropayments instead of subscriptions and slow paywalled libraries	heavy readers and researchers	explicit	3	media & content
+47770775	DRM-free ebooks and media are unavailable in smaller markets and local publishers lock ebooks to their own apps	readers in small non-EU markets	explicit	3	media & content
+49869398	Corporate laptops block app stores and iCloud, so note apps need brew-installable builds and Dropbox sync on desktop and mobile	developers on locked-down corporate laptops	explicit	4	productivity & work
+49394427	Reviewing AI-written tests is a bottleneck; teams need hermetic environments that record browser and API interactions for visual verification	teams using coding agents	implied	4	developer tools
+41903734	Off-the-shelf matchmaking services do not support asynchronous PvP mobile games	mobile game studios	implied	3	developer tools
+46355201	Users of Windows-only hobby software would pay a yearly fee for security patches on old Windows versions	hobbyists on legacy Windows PCs	explicit	3	security & privacy
+38655112	Lego fans want AI that turns any 3D design or photo into a buildable parts list and instruction manual	Lego hobbyists	explicit	2	consumer & home
+45292554	Automation builders want a marketplace to buy tested n8n/Zapier/Make workflows and sell their own	no-code automation builders	explicit	3	commerce & marketplaces
+46820548	Households want an affordable robot that folds laundry and does dishes	busy households	explicit	3	hardware & IoT
+42132816	Nomads moving countries lose content, playlists and language settings because services are geo-locked to IP	digital nomads and expats	implied	3	media & content
+37949516	Readers want one micropayment wallet across all news publications instead of many subscriptions	news readers	explicit	3	media & content
+43978867	Consumers want durable premium products that do not get enshittified and would pay more for verified quality	quality-focused consumers	explicit	2	consumer & home
+46379171	Framework 16 laptop speakers are badly distorted and owners want a premium upgrade module	Framework laptop owners	explicit	2	hardware & IoT
+46005030	Tech interviews do not measure how candidates work with AI; teams need assessments of AI-assisted debugging and verification	engineering hiring managers	implied	3	hiring & careers
+37172096	Fine-grained app authorization (file groups, field-level DB permissions) needs a library that works on app data without syncing state to a policy service	application developers	implied	4	developer tools
+44952850	Users want to permanently block suggested content and reels across social apps	social media users	explicit	3	consumer & home
+49112871	Large families want a machine that takes hampers of clean clothes and outputs sorted, folded stacks	large households	explicit	4	hardware & IoT
+48012625	Parents want a kid-safe paid version of Roblox with parental controls and no anonymous stranger contact	parents of young gamers	explicit	4	consumer & home
+36260214	Developers want a practical book or course on parsing techniques, patterns and tradeoffs beyond parser generators	programmers building DSLs and parsers	explicit	2	education & learning
+47241908	Customers want fast access to a competent human support agent instead of chatbots and hidden phone menus	consumers of SaaS and services	explicit	3	SMB & back-office
+37872444	Homeowners in humid climates need energy-efficient whole-house dehumidification that prevents mold without dumping heat	homeowners in humid regions	explicit	3	consumer & home
+35875016	Real estate brokers and advisors need factual, data-heavy market content with charts generated from prompts	real estate professionals and consultants	implied	3	data & analytics
+35579865	Baseball fans cannot pay to stream their local team because of regional blackouts	local sports fans	explicit	3	media & content
+35056572	Podcast listeners need one way to manage hundreds of premium Patreon-style podcast subscriptions	heavy podcast listeners	implied	3	media & content
+43087137	Homeowners cannot find trustworthy, available contractors and would pay for vetted quality work	homeowners	explicit	4	consumer & home
+48281865	Streaming subscribers paying for ad-free tiers still get in-house ads and want truly ad-free access to only the shows they watch	streaming subscribers	explicit	2	media & content
+38305994	Smart speakers have degraded; owners want reliable multi-room voice assistants with modern LLM quality	smart home users	implied	3	hardware & IoT
+46572951	Consumers want a tool that flags businesses owned by private-equity roll-ups with extractive playbooks	consumers choosing services such as healthcare	explicit	3	consumer & home
+45980240	Readers want a cross-publisher consortium subscription or anonymous per-article payment	online news readers	explicit	3	media & content
+47080429	Readers want quick anonymous micropayments or day passes for news sites	occasional news readers	explicit	3	media & content
+46990812	iOS users want a paid option to stay on the previous iOS version with backported security fixes and easy device restore	security-conscious Apple users	explicit	3	security & privacy
+48847764	Players want a beloved discontinued word game ported to iOS	mobile puzzle gamers	explicit	1	consumer & home
+33287894	API testers want global auth settings and git-friendly files for team collaboration in their REST client	API developers	explicit	2	developer tools
+41040986	Teams embedding a workflow engine in their product find open-source orchestrators too tied to their origin company and build their own	SaaS product teams	implied	3	devops & infra
+48907330	Parents want a paid, privacy-respecting way for kids to use Roblox Studio without face scans	parents of kid game makers	explicit	3	consumer & home
+47392381	Users would pay a monthly fee for lightweight, tracking-free versions of news and content sites	web readers	explicit	2	media & content
+49952306	Developers need everyday dev tools (JSON, JWT, converters) that process client data locally in the browser	developers handling client data	implied	2	developer tools
+49987340	Light users of web image editors want a one-time self-hosted license instead of a monthly subscription	occasional image editors	explicit	2	media & content
+45369141	Users want a browser with legally binding privacy guarantees and a governance structure that resists rot, and would pay a subscription	privacy-conscious web users	explicit	3	security & privacy
+42011486	Job seekers waste time on ghost listings and would pay for a job board where every posting is verified real	tech job seekers	explicit	4	hiring & careers
+42330906	Heavy AI chat users need transparent, predictable usage limits and would pay more for no caps	professionals relying on AI assistants	explicit	3	AI & ML tooling
+47152533	Teams building domain LLM systems need annotation and eval tooling that captures hidden domain policies	AI product teams in regulated domains	implied	4	AI & ML tooling
+46534871	Retro computer users want a box that presents itself as USB drives to two devices and syncs files between them	retro computing hobbyists	explicit	2	hardware & IoT
+41562654	Professionals want Vision Pro to work as a true productivity Mac display replacement	pro Apple users	explicit	2	hardware & IoT
+46325238	Movie fans cannot pay to watch films that are region-locked by distributors	movie viewers outside the US	explicit	3	media & content
+48402899	News subscribers want ad-free, nag-free reading and would pay more for it	news subscribers	explicit	2	media & content
+32076881	Readers want a Kickstarter-like platform to fund specific written content before it is produced	readers and writers	explicit	2	media & content
+47441951	Readers want seamless instant 10-25 cent payments to read single articles without subscriptions	online readers	explicit	3	media & content
+42893446	TypeScript type checking is so slow in large monorepos that developers would pay for a much faster checker with upstream parity	TypeScript developers	explicit	4	developer tools
+31411421	Viewers want one app with unified watch status, offline downloads and permanent access across all streaming services	TV and movie viewers	implied	3	media & content
+50088905	Shoppers cannot find mid-quality versions of cheap goods on Amazon because marked-up junk crowds them out	online shoppers	explicit	2	commerce & marketplaces
+42504564	Teams must build domain-specific test sets to evaluate embedding models because public benchmarks do not predict in-domain performance	AI teams building search and RAG	implied	3	AI & ML tooling
+31040327	Buyers want premium-picture TVs without smart-TV software, tracking and network connections	home theater buyers	explicit	3	hardware & IoT
+46294003	Self-hosted CI runners now incur per-minute platform fees; teams want flat-fee orchestration for their own runners	small software companies	explicit	4	devops & infra
+30917831	Streaming viewers would pay more to access other countries' content libraries legally	streaming subscribers abroad	explicit	2	media & content
+49098486	Linux photographers want a buy-once professional RAW editor that runs on Linux	Linux photographers	explicit	3	media & content
+46876216	Small teams want a ready-to-deploy open-source Postgres with bulletproof backups configured, instead of fragile cron jobs	indie developers and small teams	explicit	4	devops & infra
+45534303	Tradespeople need a general-purpose robot helper that moves materials and does basic machining	welders, machinists and remodelers	explicit	3	hardware & IoT
+46516881	Frequent long-haul travelers would pay double for much faster flights	long-haul travelers	explicit	2	travel & local
+45786008	Users want an open Linux phone that docks into a full desktop development environment	developers wanting one device	explicit	2	hardware & IoT
+35537289	Buyers want premium minimalist home appliances with open firmware and local-only connectivity	right-to-repair minded homeowners	explicit	3	hardware & IoT
+37986034	Drivers want affordable EV conversions of old light cars for short city trips	budget city drivers	explicit	2	hardware & IoT
+47569195	Neovim users want a next-edit AI completion as good as Cursor Tab	Neovim developers	explicit	3	developer tools
+46231067	Keyboard-driven macOS users rely on an abandoned UI navigation tool and want a maintained paid version	macOS power users	explicit	2	productivity & work
+49786473	Minimal-phone buyers want distraction-free hardware with a trustworthy secure OS such as GrapheneOS	privacy-minded phone buyers	explicit	2	security & privacy
+43211879	Users would pay hundreds a year for a stable browser that only ships security fixes and no new features	browser power users	explicit	3	security & privacy
+49258905	Readers want to pay for news without being tracked	privacy-minded news readers	explicit	3	media & content
+47619039	Developers want an AI IDE that runs agents on their existing Claude or Codex subscriptions	AI-assisted developers	explicit	3	developer tools
+46934051	macOS Spotlight indexing breaks and wastes disk space with no fix short of reinstall	Mac users	implied	3	productivity & work
+48517003	Users want a browser with Chrome-level web app performance and no ad or tracking code	web power users	explicit	3	security & privacy
+46764866	Users would pay for a Linux laptop that works flawlessly out of the box with good keychain and clipboard sync	developers leaving macOS and Windows	explicit	3	hardware & IoT
+49016226	Search subscribers hit low query caps and want unlimited search without bundled LLM costs	paid search users	explicit	3	consumer & home
+39015214	High-stakes LLM tasks need routing to the best model per sub-task across price tiers	teams using LLMs for legal or expert work	explicit	3	AI & ML tooling
+29781306	People want a search engine paid by users with unbiased, high-quality results	web searchers	implied	3	consumer & home
+42305169	People want a pocketable screenless camera with flagship-phone quality for distraction-free events	casual photographers	explicit	2	hardware & IoT
+50272388	Consumers want long-lasting LED bulbs instead of cheap ones that fail quickly	homeowners	explicit	2	consumer & home
+47943874	Companies want faster configurable CI runners, a usable merge queue and CI workflow debugging on GitHub	software companies	explicit	4	devops & infra
+38964743	Researchers would pay for curated collections of the best sources on a problem	researchers and professionals	explicit	2	education & learning
+29291572	Podcasters burn out manually removing filler words and want one-click editing that sounds natural	independent podcasters	explicit	5	media & content
+48751187	Scrapers and AI crawlers want to pay sites directly for content access instead of fighting captchas	web scraping and AI companies	explicit	3	AI & ML tooling
+50019407	Aging parents need an iPad overlay that guides them step by step through tasks like bank transfers	adult children of aging parents	explicit	4	consumer & home

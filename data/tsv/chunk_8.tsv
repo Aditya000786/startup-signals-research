@@ -1,0 +1,109 @@
+49570131	Hardware designers need help finding and formally verifying substitute parts from datasheets during shortages	PCB designers	implied	4	hardware & IoT
+46682910	Linux gamers hit problems with game launchers that rely on Edge WebView2 under Wine	Linux gamers	implied	2	consumer & home
+19302089	Fast-moving support teams outgrow off-the-shelf ticketing performance and build their own	high-volume support teams	implied	3	SMB & back-office
+47160936	Founders want to validate workflows with video prototypes before building an MVP	early-stage founders	implied	2	SMB & back-office
+32839692	Teams need niche logging such as drop-in HIPAA-compliant log management	regulated engineering teams	implied	3	devops & infra
+23792872	Viewers want a short, high-quality daily world news video report	busy news viewers	explicit	2	media & content
+24792233	Users want a stable recovery email with guarantees, such as receive-only mode instead of a sudden ban	long-time Gmail users	explicit	4	communication & social
+37495117	Home buyers struggle to find anyone who can take payment for old written-off debts flagged in underwriting	home buyers with old debts	implied	3	finance & money
+30679632	People would pay more taxes for clean public restrooms	urban residents	explicit	2	legal & government
+32787095	Frequent flyers want cleaner planes and better onboard service	frequent flyers	implied	2	travel & local
+32780167	Runners want a smartwatch with accurate sleep, heart rate and GPS plus good app and data access	runners and fitness trackers	implied	3	health & fitness
+38660319	Self-hosted chat users need high-quality mobile apps for their platform	self-hosted team chat users	implied	3	communication & social
+32771816	Teams want decision tools that compare several outcome options with pros, cons and votes	small team leads	implied	2	productivity & work
+39520140	Bloggers would pay to keep personal blogs ad-free without SEO pressure	personal bloggers	explicit	2	media & content
+27224655	Shoppers would pay double for US-made small goods to avoid Amazon	values-driven shoppers	explicit	2	commerce & marketplaces
+27316886	Users would pay a few dollars a month for a "Pro" Firefox subscription to fund it	Firefox users	explicit	2	productivity & work
+45565707	Immigrants get stuck in telephony providers' KYC that rejects them and has no human support	developers building phone apps	implied	3	developer tools
+32652301	Patients want an evidence-based health site ranking every intervention for a condition, not just supplements	health-conscious people	explicit	4	health & fitness
+39783429	Music producers want controllable AI sample generation whose parameters can be fine-tuned after generation	music producers	implied	3	media & content
+41964788	People want curated local news and event listings aggregated in digital feeds	local residents	explicit	3	media & content
+28916603	Learners want a Grammarly-like daily writing checker for Chinese and Japanese	Asian language learners	explicit	3	education & learning
+48791746	Builders who launch many products need to find a market before building	repeat indie builders	implied	3	SMB & back-office
+24986161	Researchers want an interactive table viewer inside Jupyter with GUI plotting for presenting results to managers	data scientists	explicit	3	data & analytics
+12363490	Car buyers want to get out-the-door prices by email without dealership haggling	car buyers	implied	4	commerce & marketplaces
+19442639	Gamers want a subscription to stream any game in their library and play with friends	PC gamers	explicit	3	consumer & home
+16823278	Users want a pay-per-post social network that delivers invites and photos without ads	social users	explicit	2	communication & social
+32539541	Shoppers want guest checkout without forced email or phone registration	online shoppers	implied	3	commerce & marketplaces
+23712655	Readers want a single curation subscription covering everything they read	generalist readers	explicit	3	media & content
+37308609	Viewers would pay $50-100 per good show and want deposits that pay creators as they watch	prestige TV viewers	explicit	3	media & content
+46338988	Self-hosters want AI ops agents that handle database maintenance, upgrades and recovery	self-hosting developers	explicit	4	devops & infra
+23277033	Viewers want to subscribe per show rather than per network	TV viewers	explicit	3	media & content
+48240608	Users want a simple monthly subscription to fund open-source runtimes they depend on	open-source users	explicit	2	developer tools
+27671264	Language learners would pay for drills optimized for learning speed rather than engagement	Duolingo users	explicit	3	education & learning
+29329529	Users would pay much more for extensions that auto-dismiss cookie and newsletter popups	web users	explicit	3	consumer & home
+23481852	Tablet buyers would pay more for a guaranteed dead-pixel-free screen	open hardware buyers	explicit	2	hardware & IoT
+46301512	Users would pay for a fully user-serving, privacy-first, automatable open-source browser	privacy-minded browser users	explicit	3	security & privacy
+16166247	ERP builders want a visual WYSIWYG UI tool that works directly with Postgres and SQL without an ORM	SQL-savvy business software builders	explicit	3	developer tools
+28780634	Users would pay monthly for Firefox if the money funded browser development only	Firefox users	explicit	2	productivity & work
+17134444	Indie developers want IDE licensing that is free until meaningful revenue instead of upfront costs	indie app developers	explicit	3	developer tools
+28638672	Readers want news micropayments for articles outside their subscriptions	news readers	explicit	3	media & content
+41596140	Teams running Nix need a simple hosted CI with logs, prioritization and caching	Nix-using engineering teams	explicit	4	devops & infra
+27786335	New home buyers would pay to have an entire house furnished and decorated for them	new home buyers	explicit	3	consumer & home
+44607004	Australian E-3 visa applicants struggle to get consulate appointments	Australians working in the US	implied	3	legal & government
+30071418	Mac developers would pay about $10, not $100, for a native code editor	Mac developers	explicit	2	developer tools
+32153185	Developers want a simple GitHub alternative that is not bloated or upselling	individual developers	implied	3	developer tools
+47977651	Heavy AI coding users would pay as much as a human programmer for coding agents	power-user developers	explicit	3	AI & ML tooling
+49075230	Email users want automatic aging and expiry of inbox mail to manage overload	email-overloaded users	explicit	2	communication & social
+25045523	Users would pay for verified end-to-end encrypted video calls	privacy-minded video call users	explicit	3	security & privacy
+47456759	Busy parents would pay a premium for products that just work and save time	busy professionals with kids	explicit	2	consumer & home
+46299371	Users would pay for a high-quality browser that serves them, not advertisers	browser users	explicit	3	productivity & work
+32045945	Independent open-source builders need grant funders who reach out instead of onerous applications	independent OSS developers	implied	3	developer tools
+32043481	Parents want education spending to follow the child so they can choose quality schooling	parents	implied	3	education & learning
+19923637	Clients would pay double for craftspeople who deliver premium quality and effort	homeowners hiring craftspeople	explicit	2	consumer & home
+44197703	APL learners lack resources on how to structure real applications	array language learners	implied	3	education & learning
+45378552	Parents want AI to summarize school messages from many channels into only what needs action	parents of school kids	explicit	4	education & learning
+26842246	Buyers would pay a premium for laptops with open-firmware components	open hardware advocates	explicit	2	hardware & IoT
+40259880	Donors are blocked by donation portals that force account creation	charitable donors	implied	3	commerce & marketplaces
+18068640	Python developers want easy packaging of PyQt apps into protected, compiled executables	Python desktop app developers	explicit	3	developer tools
+27219707	Users want affordable email hosting with plenty of storage and standard protocols	personal email users	explicit	2	communication & social
+26997683	Self-employed people cannot find individual health plans comparable to employer coverage	new self-employed workers	explicit	5	health & fitness
+48919099	Users want effective natural mosquito repellent as an alternative to DEET	outdoor enthusiasts	explicit	2	consumer & home
+49152941	Eaters want nutrient-fortified tofu as a cheap, sustainable protein meeting full nutrition needs	plant-based eaters	explicit	2	health & fitness
+49132178	Solo developers find managed databases and auth too expensive and self-host on cheap VPSes	solo developers	implied	3	devops & infra
+46986139	Users want local, private AI assistants that use only the context they choose to share	privacy-minded AI users	explicit	3	AI & ML tooling
+46679798	Shoppers want assurance of genuine parts instead of counterfeits mixed into marketplace inventory	online shoppers	explicit	3	commerce & marketplaces
+20149181	Users would pay for a privacy-first Firefox with built-in blocklists, profile management and a download manager	Firefox power users	explicit	3	security & privacy
+28514045	Users would pay full price for a Windows edition that respects them	Windows users	explicit	3	productivity & work
+22704435	Gamers would pay for authoritative documentaries on the making of classic games	gaming history fans	explicit	1	media & content
+47936006	Developers want a simple, reliable hosted GitHub alternative and would pay	developers leaving GitHub	explicit	3	developer tools
+28931742	Users want a high-end modular Linux laptop	Linux laptop users	explicit	2	hardware & IoT
+25620611	Users would pay monthly for a de-Googled phone free of tracking	privacy-minded phone users	explicit	3	security & privacy
+44390451	Language learners want AI tutors with accurate pronunciation that export hard words to Anki	Japanese learners	explicit	3	education & learning
+28838407	Workers want AR headsets that give a multi-monitor setup while still showing their surroundings	knowledge workers	explicit	3	hardware & IoT
+22848670	Searchers would pay $50 a month for a search engine that saves hours by cutting useless results	professional searchers	explicit	4	consumer & home
+50250581	Win32 developers must handle DPI awareness, theming and modern text rendering manually	native Windows developers	implied	2	developer tools
+26409699	Founders would pay per user for no-code SaaS builders to test product-market fit quickly	early-stage founders	explicit	3	developer tools
+37437203	Apple users want a way to disable promotions and ads inside first-party apps	Apple device owners	explicit	2	consumer & home
+34109426	New security leads at scale-ups need affordable vulnerability scanning and audit preparation guidance	security leads at scale-ups	explicit	4	security & privacy
+30076844	Phone owners would pay for extended security updates for older phones	owners of aging phones	explicit	3	security & privacy
+46233325	iPhone users find the keyboard error-prone and editing typed text painful	iPhone users	implied	3	consumer & home
+29842008	Users would pay $20 a month to escape frustrating modern search engines	web searchers	explicit	4	consumer & home
+20583969	US patients face HIV PrEP prices far higher than in other countries	PrEP users	explicit	4	health & fitness
+16309444	Retro gaming fans would pay a premium for high-quality printed tribute books	retro RPG fans	explicit	2	media & content
+40147087	API companies struggle to maintain SDKs across languages and messy OpenAPI specs	API platform teams	implied	3	developer tools
+49675630	Teachers using block-based programming tools find collaboration hard	educators teaching coding	implied	2	education & learning
+26575610	Users would pay $1,500 for a Linux phone that runs their essential apps	open phone enthusiasts	explicit	3	hardware & IoT
+43920200	Users want web-as-database search that handles complex query logic accurately, paid per query	researchers building company lists	explicit	3	data & analytics
+42449908	B2B startups face long enterprise sales cycles and small-business price points too low to sustain them	B2B SaaS founders	implied	4	SMB & back-office
+21763971	Users would pay $20-40 a year for an open social network with good web frontends, groups and private family instances	families and community groups	explicit	3	communication & social
+25181327	Buyers would pay a store to handle warranty claims and give replacements, even for items bought elsewhere	instrument and gear buyers	explicit	3	commerce & marketplaces
+24841151	Users would pay £5 a month to support Firefox	Firefox users	explicit	2	productivity & work
+46276310	Repair shops refuse to fix robot vacuums, leaving owners to repair them themselves	robot vacuum owners	implied	2	hardware & IoT
+27405670	Listeners want a Spotify-like service for Creative Commons music that splits payment among artists	music listeners	explicit	2	media & content
+33186259	Activists and journalists rely on encrypted-at-rest SMS storage and want it kept	at-risk SMS users	explicit	4	security & privacy
+45597384	Mac users want backward compatibility for older 32-bit apps	long-time Mac users	implied	3	productivity & work
+26519794	Drivers would pay to help test driver assistance that reduces driving	commuters	explicit	2	travel & local
+24622211	Programmers would pay for entertaining, clear comparisons of type systems	programmers	explicit	1	education & learning
+49569528	Electronics designers want AI that reads datasheets, sources parts, finds substitutes and extracts simulation models	electronics engineers	implied	4	hardware & IoT
+38954941	Organizers of small tech meetups want per-event pricing instead of monthly subscriptions	community meetup organizers	explicit	3	communication & social
+50262077	Users want an all-in-one desktop with high-end chips and lots of RAM for home AI compute	homelab and AI hobbyists	explicit	2	hardware & IoT
+19639239	Riders in South America want ride-hailing with accurate ETAs, better routing, card payments and newer cars	South American riders	explicit	3	travel & local
+34730317	Singles would pay for AI-driven dating matchmaking instead of swiping	online daters	explicit	2	communication & social
+28487648	Users would pay a few cents instead of solving captchas	web users	explicit	3	consumer & home
+27909343	Mac users want text editors with full keyboard rebinding	Mac text editor users	explicit	2	developer tools
+41670480	Non-programmers on tight budgets want affordable access to AI coding for technical hobby projects	hobbyists with low budgets	explicit	3	AI & ML tooling
+47447760	First-time app builders would pay for short sessions with experienced developers on launching and porting	first-time app founders	explicit	3	hiring & careers
+47850517	Teams routing between many AI models want per-model cost tracking in their gateway	AI platform builders	explicit	3	AI & ML tooling
+44184059	Analytics database users struggle with joins and need guidance or tools for join strategies	data engineers	implied	3	data & analytics
+27286365	Audio enthusiasts want an affordable critical-listening training course	audio hobbyists	explicit	2	education & learning
