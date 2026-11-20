@@ -576,5 +576,428 @@
    "46617500",
    "24791620"
   ]
+ },
+ {
+  "name": "Agent Sandbox",
+  "anchor_ids": [
+   "46636406",
+   "49706334",
+   "49808021",
+   "50374549",
+   "49104761",
+   "47316121",
+   "46889704"
+  ],
+  "one_liner": "Instant, per-project sandboxes for AI coding agents, with scoped short-lived credentials and network rules you don't hand-write.",
+  "problem": "Developers running coding agents either give them their whole machine and cloud accounts, or spend hours hand-writing Docker, bwrap and network rules for each project. Agents also need temporary, narrowly scoped access to code hosts and clouds, which today means long-lived personal tokens.",
+  "customer": "Developers and small teams running agents daily, and platform teams asked to make agent use safe.",
+  "evidence": "A recent cluster (2025-2026) of high-intensity comments. They describe hand-configuring bwrap per project, stitching together packaging, sandboxes and state, and wanting delegated credentials that expire. One commenter explicitly says they would pay.",
+  "solution": "A CLI that starts an agent inside a lightweight VM or container from a base image matched to the repo. It mounts only the project, and applies a default-deny network policy with a short allowlist. A credential broker mints short-lived, repo-scoped tokens for GitHub and the cloud providers. Every grant and request is logged.",
+  "mvp": "macOS and Linux CLI: `sbx run claude` in any repo. It auto-detects the toolchain, mounts only the repo, and allows only package registries plus an allowlist. It ships with a GitHub App that issues 1-hour, single-repo tokens.",
+  "business_model": "Free CLI. $15-30 per user per month for the credential broker, audit log and team policies.",
+  "alternatives": "Docker or devcontainers (heavy, no credential story), E2B and Daytona (hosted, aimed at agent builders rather than end developers), and vendor sandboxes that only cover one agent.",
+  "why_now": "Agents now run unattended for hours. Security teams are starting to ask what they can reach.",
+  "risks": "Agent vendors may ship good-enough built-in sandboxes. Cross-platform VM isolation on macOS is hard. Developers resist anything that slows them down.",
+  "verdict_score": 7,
+  "quote_ids": [
+   "46636406",
+   "49706334",
+   "49808021",
+   "50374549"
+  ]
+ },
+ {
+  "name": "Agent Undo",
+  "anchor_ids": [
+   "45996513",
+   "47056344",
+   "50499142",
+   "47034684",
+   "46338988"
+  ],
+  "one_liner": "A safety layer for AI agents that act on your files: every change is snapshotted, reviewable like a git diff and revertible, and access is limited to the folders you approve.",
+  "problem": "AI agents that touch the filesystem or a database can delete or overwrite things irreversibly. Users want git-like review and revert of everything an agent changed, prompts before destructive operations, and folder-level limits on what an agent can see.",
+  "customer": "Non-developer and developer users of desktop AI agents, and self-hosters who let agents do ops work.",
+  "evidence": "Mostly 2025-2026 comments, high intensity (4), with explicit willingness to pay. Commenters asked for a firewall-like tool for agent file access and for automatic backups before destructive operations.",
+  "solution": "A filesystem layer (FSEvents/fanotify plus copy-on-write snapshots on APFS, btrfs or ZFS). It records each agent session's changes as a reviewable changeset with one-click revert. A policy file sets which folders an agent may read or write. Deletes and overwrites of more than N files pause for confirmation.",
+  "mvp": "macOS menu-bar app: pick folders an agent may touch. It snapshots before each session and shows a timeline with a diff and revert per session.",
+  "business_model": "$5-10 per month, or a one-time licence, for individuals. A team tier adds central policy.",
+  "alternatives": "Time Machine (too coarse and slow), git (only for code repos), and agent-specific permission prompts (which vary by vendor and are often turned off).",
+  "why_now": "Agents with computer and file access went mainstream in 2025-2026, and so did incidents of agents deleting files.",
+  "risks": "Operating systems or agent vendors may build this in. Kernel-level file interception is hard to get approved on macOS.",
+  "verdict_score": 6,
+  "quote_ids": [
+   "45996513",
+   "47056344",
+   "50499142",
+   "47034684"
+  ]
+ },
+ {
+  "name": "Agent Flight Recorder",
+  "anchor_ids": [
+   "46449705",
+   "47248766",
+   "49394427",
+   "43014495",
+   "46926457",
+   "49192345"
+  ],
+  "one_liner": "Record, replay and grade whole AI agent sessions, including tool choices, browser and API calls, so teams can debug agents and trust AI-written tests.",
+  "problem": "Teams building agents find frameworks opaque: they cannot see why the agent picked the wrong tool, cannot replay a session, and have no quantitative benchmarks. Reviewing AI-written tests is a bottleneck because nobody can see what the test actually exercised.",
+  "customer": "Engineering teams shipping agent features and teams using AI to write tests.",
+  "evidence": "A 2025-2026 cluster with intensity around 4. Commenters ask for hermetic environments that record browser and API interactions, session-level evaluations and wrong-tool detection.",
+  "solution": "An SDK and proxy that captures every model call, tool call, HTTP request and browser action in a session into a replayable trace. It provides a deterministic replay mode with recorded responses, session-level evaluators (wrong tool, loops, unverified claims), and visual diffs for AI-written end-to-end tests.",
+  "mvp": "An OpenTelemetry-compatible tracer for one popular agent framework plus a web viewer that replays a session step by step and flags loops and tool errors.",
+  "business_model": "Usage-based SaaS, roughly $50-500 per month per team, with a self-hosted enterprise tier.",
+  "alternatives": "LangSmith, Langfuse and Braintrust (strong on LLM calls, weaker on browser and API side effects and full-session replay), and Playwright traces (no agent context).",
+  "why_now": "Agents moved from demos to production in 2025-2026, and debugging them is now a daily cost.",
+  "risks": "A crowded observability market where incumbents can add replay. Frameworks change fast.",
+  "verdict_score": 6,
+  "quote_ids": [
+   "46449705",
+   "47248766",
+   "49394427",
+   "43014495"
+  ]
+ },
+ {
+  "name": "Codebase Atlas",
+  "anchor_ids": [
+   "43157734",
+   "47369441",
+   "34327440",
+   "41401357",
+   "42515570"
+  ],
+  "one_liner": "Auto-generated, always-current architecture docs and live data-flow maps for codebases you inherit.",
+  "problem": "Developers joining legacy or abandoned codebases spend weeks rebuilding a mental model. They cannot trace runtime data flow through dependency injection and abstraction layers, and nobody wrote down the domain boundaries.",
+  "customer": "Engineers joining a team, consultancies taking over client code, and companies after acquisitions.",
+  "evidence": "A 2022-2026 cluster where commenters explicitly say they would pay for human-readable architecture docs per repo and visual maps of live data flow.",
+  "solution": "Static analysis plus an LLM to produce a navigable map: modules, domain concepts, entry points and an explained call graph. An optional runtime tracer records a few real requests and overlays the actual data path on the map. The map regenerates on every merge.",
+  "mvp": "A GitHub App that generates an architecture overview and per-module explanations for one repo (TypeScript or Python first), and posts updates on pull requests that change structure.",
+  "business_model": "$20-50 per developer per month. Consultancies pay per engagement.",
+  "alternatives": "Sourcegraph and Cody, IDE AI chat (answers questions but builds no persistent map), CodeSee (shut down), and manual wikis that go stale.",
+  "why_now": "LLMs can now summarize large codebases cheaply, and AI-written code is increasing the amount of code nobody understands.",
+  "risks": "Coding assistants may make a separate map feel unnecessary. Accuracy problems would destroy trust.",
+  "verdict_score": 6,
+  "quote_ids": [
+   "43157734",
+   "47369441",
+   "34327440",
+   "41401357"
+  ]
+ },
+ {
+  "name": "Plain Git Host",
+  "anchor_ids": [
+   "47936006",
+   "32153185",
+   "32425962",
+   "47533127",
+   "50077048",
+   "46234244",
+   "49996541"
+  ],
+  "one_liner": "Boring, reliable, cheap git hosting with issues and reviews, no upsell, and bring-your-own CI, for people tired of GitHub outages and bloat.",
+  "problem": "Developers and small companies want core git hosting (repos, pull requests, issues) to just work. GitHub keeps adding AI upsells and has outages, and self-hosting a full forge is a nightmare.",
+  "customer": "Solo developers, small teams of up to 20, and companies that want a second git host for redundancy.",
+  "evidence": "A 2022-2026 cluster with many explicit prices ($20-50 a year for solo developers, cheap tiers for 5-person teams) and repeated complaints about GitHub reliability.",
+  "solution": "A managed Forgejo-based forge with a mirror-to-GitHub option, so open-source projects keep visibility. It has an SLA and status history, and lets you attach self-hosted CI runners.",
+  "mvp": "Managed Forgejo instances with automatic two-way GitHub mirroring and a public uptime record, sold to the first 100 teams.",
+  "business_model": "$4 per user per month. A personal plan at $30 a year.",
+  "alternatives": "GitHub, GitLab (heavy), Codeberg (non-profit, limited capacity), SourceHut (opinionated workflow), and self-hosted Gitea.",
+  "why_now": "GitHub's AI push and visible outages in 2025-2026 have made a second host feel prudent.",
+  "risks": "Network effects keep open source on GitHub. Thin margins against free tiers.",
+  "verdict_score": 5,
+  "quote_ids": [
+   "47936006",
+   "32153185",
+   "32425962",
+   "47533127"
+  ]
+ },
+ {
+  "name": "Landed Mail",
+  "anchor_ids": [
+   "49329576",
+   "49042515",
+   "17448783",
+   "27219707",
+   "24792233",
+   "49342663"
+  ],
+  "one_liner": "Make self-hosted or small-provider email actually reach the inbox: a managed relay, reputation monitoring and anti-spam gateway.",
+  "problem": "People who self-host email or use small providers find that delivery to Gmail and Outlook is a nightmare. They also want affordable inbound spam filtering and a provider with accountable support that won't ban them overnight.",
+  "customer": "Self-hosters, privacy-minded individuals, and small businesses running their own domain mail.",
+  "evidence": "Comments from 2018-2026 with explicit willingness to pay, and intensity 4 on deliverability. Several said they gave up self-hosting purely because of deliverability.",
+  "solution": "An outbound relay on warmed IPs with per-customer reputation isolation, plus DNS setup checks (SPF, DKIM, DMARC, ARC), Gmail Postmaster and blocklist monitoring with plain-English alerts, and an inbound anti-spam gateway in front of the user's own server.",
+  "mvp": "A smarthost relay for Postfix and Mail-in-a-Box users with a setup wizard and a weekly deliverability report.",
+  "business_model": "$5-15 per domain per month. Inbound filtering as an add-on.",
+  "alternatives": "SES, Postmark and Mailgun (transactional, not for person-to-person mail and strict about it), Fastmail and Proton (you give up self-hosting), and SMTP2GO.",
+  "why_now": "Big providers keep tightening sender rules, which pushes small senders off unless someone handles reputation for them.",
+  "risks": "Abuse risk: a relay attracts spammers, and one bad customer burns the IPs. Low price ceiling.",
+  "verdict_score": 5,
+  "quote_ids": [
+   "49329576",
+   "49042515",
+   "17448783",
+   "27219707"
+  ]
+ },
+ {
+  "name": "Keep Shelf",
+  "anchor_ids": [
+   "42538296",
+   "33622068",
+   "31127373",
+   "21016203",
+   "43143961",
+   "46110959",
+   "35760392",
+   "3478957"
+  ],
+  "one_liner": "Buy movies, shows and creator videos once, download DRM-free files, and play them in your own Plex or Jellyfin.",
+  "problem": "Viewers who buy content want to keep it: DRM-free, high-quality files that never disappear from a catalog. They want them delivered straight into their self-hosted media server, as easily as piracy.",
+  "customer": "Home media server owners, collectors and fans of old or obscure titles.",
+  "evidence": "One of the most explicit pay clusters, spanning 2011-2026: '$5-10 per movie for DRM-free files', 'Steam-like store for videos', and 'seasons of creators' videos delivered to Plex'.",
+  "solution": "A storefront for rights holders who allow DRM-free sales (indie films, documentaries, back catalogs, YouTube creators), using social DRM (watermarking) instead of encryption. Purchases sync into Plex or Jellyfin through a plugin with full metadata.",
+  "mvp": "Start with creators and indie filmmakers: a Gumroad-like store for video with a Jellyfin and Plex plugin that auto-downloads purchases.",
+  "business_model": "Take 10-20% of each sale.",
+  "alternatives": "Vimeo On Demand, Gumroad and Bandcamp-style stores (no media-server integration), Apple and Amazon purchases (DRM, revocable), and piracy.",
+  "why_now": "Streaming catalogs keep shrinking and prices keep rising, and the self-hosting crowd is growing.",
+  "risks": "Big studios won't license DRM-free. Supply will be niche at first.",
+  "verdict_score": 5,
+  "quote_ids": [
+   "42538296",
+   "33622068",
+   "31127373",
+   "21016203"
+  ]
+ },
+ {
+  "name": "Show Pass",
+  "anchor_ids": [
+   "45218855",
+   "31278121",
+   "37308609",
+   "23277033",
+   "39803677",
+   "12825782",
+   "19114457"
+  ],
+  "one_liner": "Pay for the shows and creators you actually watch: a prepaid balance that pays creators by watch time, instead of five subscriptions or ads.",
+  "problem": "Viewers do not want to subscribe to many networks or watch ads. They want to pay per show, or pay a flat amount that is split by what they actually watched.",
+  "customer": "Light or selective viewers, and viewers who juggle many subscriptions.",
+  "evidence": "The highest-scoring uncovered cluster: 28 commenters, almost all explicit about paying, spanning 2016-2025.",
+  "solution": "A wallet-based player for independent and creator video: top up $10, watch, and each creator gets paid per minute watched with a monthly cap. It aggregates catalogs from creators who opt in.",
+  "mvp": "A browser extension that meters watch time on participating creators' videos and distributes a monthly user payment, like Brave Rewards but for video and without ads.",
+  "business_model": "Keep 10% of distributed revenue.",
+  "alternatives": "Patreon (per creator, not per view), Nebula (one catalog), YouTube Premium (opaque split), and Flattr and Coil (failed).",
+  "why_now": "Subscription fatigue is high, and creators want revenue that doesn't depend on platform ads.",
+  "risks": "History: Coil and Flattr struggled to reach critical mass. Rights holders resist per-minute models.",
+  "verdict_score": 4,
+  "quote_ids": [
+   "45218855",
+   "31278121",
+   "37308609",
+   "23277033"
+  ]
+ },
+ {
+  "name": "Paid Commons",
+  "anchor_ids": [
+   "21763971",
+   "17147195",
+   "18344492",
+   "5495375",
+   "35448812",
+   "48611307",
+   "16123928"
+  ],
+  "one_liner": "A small paid social network ($20-40 a year): no ads, no engagement algorithm, family groups and private circles, and federation so you can leave.",
+  "problem": "Users keep saying they'd pay a modest yearly fee for social media with no ads, no tracking and no manipulation, with real groups, private family spaces and good web frontends.",
+  "customer": "Adults who want to keep in touch with family and friends without Facebook, and small communities.",
+  "evidence": "Two clusters combined (rank 13 and 19), spanning 2013-2026, with many explicit prices of $3-10 a month or $20-40 a year.",
+  "solution": "A hosted social app built on ActivityPub, sold as a family or community plan: private circles, events and photos, chronological feeds, and a time-limited daily digest. Your account can federate or move elsewhere.",
+  "mvp": "A private family-and-friends space with shared photo albums, events and a chronological feed for $3 a month per household.",
+  "business_model": "Subscription per household or community.",
+  "alternatives": "Facebook groups, WhatsApp groups, Mastodon and Bluesky (public-first), and Micro.blog.",
+  "why_now": "Distrust of ad-funded social media is high, and ActivityPub makes portability credible.",
+  "risks": "Network effects: people say they'd pay, but few do. Moderation costs scale with growth.",
+  "verdict_score": 4,
+  "quote_ids": [
+   "21763971",
+   "17147195",
+   "18344492",
+   "5495375"
+  ]
+ },
+ {
+  "name": "Plain Pass",
+  "anchor_ids": [
+   "47141375",
+   "29995630",
+   "34150596",
+   "34151106",
+   "37641632",
+   "49015427"
+  ],
+  "one_liner": "A password manager that stays simple and stable: offline-first, consistent across every OS, optional self-hosted sync, a one-time or modest price, and no feature bloat.",
+  "problem": "Users feel password managers are chasing growth with bloat and price hikes. They want stable, offline-first, cross-platform sync, clear security documentation, and the option to self-host while still paying the vendor.",
+  "customer": "Technical users and families who want a password manager they never have to think about again.",
+  "evidence": "A 2022-2026 cluster with explicit willingness to pay a profitable, non-VC vendor.",
+  "solution": "A KeePass-compatible vault with polished native apps on all platforms, sync through your own storage or a hosted relay, family sharing, and hardware-key unlock, with a public 'we won't add' list.",
+  "mvp": "A polished KeePass-format app for macOS, iOS and Android with iCloud, Dropbox and WebDAV sync and family sharing.",
+  "business_model": "A one-time licence plus an optional $1-2 per month hosted sync.",
+  "alternatives": "1Password and Bitwarden (subscriptions, growing feature sets), KeePassXC (no polished mobile apps), and Apple Passwords (one ecosystem).",
+  "why_now": "Price hikes and breaches at big vendors are pushing users to look for something calmer.",
+  "risks": "Hard to make money on a one-time price. Very sensitive security reputation.",
+  "verdict_score": 4,
+  "quote_ids": [
+   "47141375",
+   "29995630",
+   "34150596",
+   "34151106"
+  ]
+ },
+ {
+  "name": "Linux Studio Box",
+  "anchor_ids": [
+   "46432352",
+   "46432595",
+   "23446222",
+   "38817392",
+   "38456939",
+   "49061472",
+   "20267542"
+  ],
+  "one_liner": "A pre-tuned Linux audio workstation sold as hardware plus a supported distro: low-latency, reproducible audio routing and a vetted plugin set.",
+  "problem": "Musicians on Linux fight JACK and PipeWire configuration, latency tuning and audio breakage, with no graphical setup tool. They would pay for a commercially supported machine that just works.",
+  "customer": "Linux-using musicians, podcast and home-studio producers, and schools.",
+  "evidence": "Explicit willingness to pay for 'a commercially supported Linux audio distro on tuned hardware', plus several PipeWire and JACK pain comments.",
+  "solution": "A mini PC with a known-good audio interface, a real-time kernel, preconfigured PipeWire profiles, a graphical routing and latency tool, snapshot-and-rollback updates, and bundled Linux-native plugins.",
+  "mvp": "A graphical PipeWire and WirePlumber setup and diagnosis tool, sold standalone as an entry product, then a hardware bundle.",
+  "business_model": "Hardware margin of $800-1500 per box plus a support subscription.",
+  "alternatives": "Ubuntu Studio and AV Linux (free, unsupported), macOS with Logic, and DIY setups.",
+  "why_now": "PipeWire has made Linux audio viable but not easy, and Bitwig and Reaper run natively.",
+  "risks": "Small market. Hardware logistics. Plugin licensing.",
+  "verdict_score": 4,
+  "quote_ids": [
+   "46432352",
+   "46432595",
+   "23446222",
+   "38817392"
+  ]
+ },
+ {
+  "name": "Plug Share Lot",
+  "anchor_ids": [
+   "12605876",
+   "38741150",
+   "47440757",
+   "38128015",
+   "41584090"
+  ],
+  "one_liner": "Metered EV charging for apartment parking spots and shared driveways: the landlord installs once, and each driver pays for exactly their electricity.",
+  "problem": "Apartment dwellers and street parkers find EV charging a major hassle. They would happily pay metered electricity at their spot or a neighbor's, but buildings won't install chargers without a billing and cost-recovery story.",
+  "customer": "Renters and condo owners with EVs, small landlords and HOAs, and homeowners willing to share a driveway charger.",
+  "evidence": "Explicit willingness to pay, intensity 3-4, spanning 2016-2026, including 'pay friends for home charging' and 'neighborhood charging when my building is slow'.",
+  "solution": "Smart Level 2 chargers or retrofitted outlets with per-driver authentication and automatic billing to the landlord's account. A load-management mode fits more chargers on the existing service. A peer-sharing marketplace lets homeowners offer a driveway charger.",
+  "mvp": "A metering-and-billing app for existing smart chargers (Wallbox, Emporia, OCPP), so a landlord can bill tenants per kWh this month.",
+  "business_model": "Hardware markup plus 10% of billed electricity, or $10 per port per month.",
+  "alternatives": "ChargePoint and EVPassport (aimed at large properties), EVmatch (sharing), and landlords doing nothing.",
+  "why_now": "EV adoption is moving into renters, and many cities now require EV-ready parking.",
+  "risks": "Utility tariff rules on reselling electricity. Slow building decision cycles.",
+  "verdict_score": 5,
+  "quote_ids": [
+   "12605876",
+   "38741150",
+   "47440757",
+   "38128015"
+  ]
+ },
+ {
+  "name": "Fair Storage Tiers",
+  "anchor_ids": [
+   "7200471",
+   "38478332",
+   "32279754",
+   "37244425",
+   "47765787",
+   "29091360",
+   "9160803"
+  ],
+  "one_liner": "Simple cloud backup and storage with the tiers people actually need (50 GB, 200 GB, 5 TB), honest pricing, and per-folder backup policies.",
+  "problem": "Storage plans jump from tiny to 2 TB. Backup services raise prices or drop features. Nobody makes it easy to set different policies for keys, live files, photos and bulk media.",
+  "customer": "Individuals and families with a few hundred GB to a few TB, and small teams.",
+  "evidence": "A 2014-2026 cluster with explicit willingness to pay, including ship-a-drive seeding and retention beyond 30 days.",
+  "solution": "A backup app on top of cheap object storage (B2 or R2) that offers simple tiers and pay-per-TB above them. Policy templates cover 'keys and documents: versioned forever', 'photos: deduplicated', and 'media: cold storage'. Mail-in drive seeding and restore.",
+  "mvp": "A restic-based desktop app with policy templates and transparent per-GB pricing on B2.",
+  "business_model": "Storage at cost-plus, about $1 per 100 GB per month.",
+  "alternatives": "Backblaze, iCloud, Google One, Dropbox, Arq and restic (DIY).",
+  "why_now": "Repeated price hikes and limits at incumbents are making users shop around.",
+  "risks": "A commodity market with thin margins. Trust in a new backup vendor takes years.",
+  "verdict_score": 3,
+  "quote_ids": [
+   "7200471",
+   "38478332",
+   "32279754",
+   "37244425"
+  ]
+ },
+ {
+  "name": "Kernel Lens",
+  "anchor_ids": [
+   "44735390",
+   "45167573",
+   "42702202",
+   "36090980",
+   "38938104"
+  ],
+  "one_liner": "A GPU kernel profiler and tuning assistant that explains why a kernel is slow and suggests block sizes and layouts, for CUDA and ROCm.",
+  "problem": "Kernel developers waste hours optimizing CUDA or HIP code without visibility into the architecture: bank conflicts, occupancy and tuning thread-block sizes per GPU. AMD and other non-CUDA targets are worse.",
+  "customer": "ML infrastructure engineers, inference startups writing custom kernels, and HPC developers.",
+  "evidence": "A 2021-2026 cluster with high intensity (4) and explicit willingness to pay for AMD parity.",
+  "solution": "A profiler front end that wraps Nsight and rocprof data and annotates the source line by line with plain-English bottlenecks, lint-style warnings (bank conflicts, uninitialized shared memory), and an auto-tuner that sweeps launch parameters per target GPU.",
+  "mvp": "A VS Code extension that runs a kernel under the profiler and shows annotated hot lines and occupancy, for Triton and CUDA.",
+  "business_model": "$50-200 per seat per month, with team and enterprise tiers.",
+  "alternatives": "Nsight Compute (powerful but hard to read), rocprof, and Triton's autotune (narrow).",
+  "why_now": "Custom kernels are now a competitive advantage in AI inference, and AMD GPUs are entering production.",
+  "risks": "NVIDIA can improve its free tools. A niche though valuable audience.",
+  "verdict_score": 5,
+  "quote_ids": [
+   "44735390",
+   "45167573",
+   "42702202",
+   "36090980"
+  ]
+ },
+ {
+  "name": "Cargo for C++",
+  "anchor_ids": [
+   "33441912",
+   "47475947",
+   "32443279",
+   "45268338",
+   "41340615"
+  ],
+  "one_liner": "A Cargo-like experience for C++: one manifest, cached binary dependencies, and project-wide build-time analysis, working on top of existing CMake projects.",
+  "problem": "C++ developers find dependency management and CMake miserable. Long compile times are impossible to analyze project-wide, and learners want a single standard tool.",
+  "customer": "C++ teams in games, embedded and finance, and C++ learners.",
+  "evidence": "A 2022-2026 cluster, intensity up to 4, including explicit frustration with writing CMake.",
+  "solution": "A front end that reads a simple TOML manifest, resolves packages from vcpkg or Conan indexes, generates CMake behind the scenes, adds a shared remote binary cache, and reports which headers and targets cost the most build time.",
+  "mvp": "A build-time analyzer for existing CMake and Ninja projects that ranks the headers and translation units that cost the most time and suggests fixes.",
+  "business_model": "Free CLI. $20-40 per developer per month for the remote cache and team analytics.",
+  "alternatives": "vcpkg, Conan, xmake, Bazel and ClangBuildAnalyzer.",
+  "why_now": "AI-assisted code is growing C++ codebases, and build costs scale with them.",
+  "risks": "Fragmented ecosystem with entrenched tools. Low willingness to pay for build tooling.",
+  "verdict_score": 4,
+  "quote_ids": [
+   "33441912",
+   "47475947",
+   "32443279",
+   "45268338"
+  ]
  }
 ]

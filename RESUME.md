@@ -1,15 +1,15 @@
 # Status and how to resume
 
-_Last updated: 2026-11-18._
+_Last updated: 2026-11-20._
 
 ## Where things stand
 
 | Stage | Status |
 |---|---|
 | 1. Fetch (`fetch.py`) | Done. 38,273 comments from 37 search phrases, 2007-2026, in `data/comments.jsonl.gz` |
-| 2. Extract (`ralph.py`, Pro-only) | **28 of 256 chunks done.** 4,200 comments read, 2,887 signals in `data/signals.jsonl` |
-| 3a. Cluster (`local_cluster.py`) | Built and run on the 2,887 signals: 296 clusters of 3+ commenters |
-| 3b. Idea cards (`cards.json` + `make_ideas.py`) | 21 hand-written cards covering 27 clusters, plus 40 draft clusters with no card yet |
+| 2. Extract (`ralph.py`, Pro-only) | **57 of 256 chunks done.** 8,550 comments read, 5,511 signals in `data/signals.jsonl` |
+| 3a. Cluster (`local_cluster.py`) | Re-run on the 5,511 signals: 570 clusters of 3+ commenters |
+| 3b. Idea cards (`cards.json` + `make_ideas.py`) | 36 hand-written cards covering 44 clusters, plus 40 draft clusters with no card yet |
 | 4. Site (`build_site.py`) | Built: `site/index.html` (ideas) and `site/signals.html` (raw signals and rejected comments) |
 
 All of this runs with no Anthropic API key. Claude does the reading in a Claude
@@ -44,7 +44,7 @@ In a new Claude Code session with this repo:
 ```bash
 pip install scikit-learn fastembed
 gunzip -k data/comments.jsonl.gz
-python ralph.py status        # should say 28/256 chunks done
+python ralph.py status        # should say 57/256 chunks done
 ```
 
 Then start the loop with this prompt:
@@ -56,6 +56,17 @@ Pro usage windows, and the loop resumes from disk every time.
 
 **Faster alternative:** with an API key, `python extract.py` does the same job on
 Haiku. It skips ids already in `signals.jsonl`, and the full remainder costs about $5-10.
+
+## Raw data kept for re-clustering
+
+Everything needed to re-cluster from scratch is committed:
+
+- `data/comments.jsonl.gz`: all 38,273 fetched HN comments (the raw source). `gunzip -k` it to get `comments.jsonl`.
+- `data/tsv/chunk_<k>.tsv`: the per-chunk extraction output, exactly as written by Claude.
+- `data/signals.jsonl`: every extracted signal (rebuilt from the TSVs by `ralph.py save`).
+- `data/ralph_order.json` + `data/progress.json`: which comments are in which chunk, and which chunks are done.
+
+`data/clusters.json` and `data/ideas.json` are derived, and safe to regenerate.
 
 ## Rebuild the outputs at any point
 
@@ -75,7 +86,7 @@ With an API key, `python synthesize.py` writes cards with Opus instead.
 ## Left to do
 
 1. Review `site/signals.html` and decide whether to tighten the extraction rules.
-2. Finish extraction: 228 chunks.
+2. Finish extraction: 199 chunks.
 3. Re-run clustering, and write cards for any new top clusters, especially the non-pay
    phrases that are now coming through.
 4. Optional: filter out repeat comments from one author in a single thread, which inflate
