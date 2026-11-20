@@ -1,0 +1,73 @@
+45141060	Make a cheap ESP32-priced board that can run Linux.	hardware hobbyists	implied	2	hardware & IoT
+36091221	Offer a simple way to run apps on plain servers without learning bespoke cloud dashboards and services.	small teams overpaying for cloud complexity	implied	3	devops & infra
+45514303	Help people pick short, easy-to-spell personal email domains.	people with custom email domains	none	1	communication & social
+42417346	Connect new articles to older works that already expressed the same ideas.	curious readers and researchers	none	2	education & learning
+37029326	Label speculative concept articles so readers can filter out vaporware sketches.	tech news readers	none	1	media & content
+22422760	Offer affordable cash-pay primary care with thorough, unhurried doctors.	patients paying out of pocket	explicit	3	health & fitness
+30155341	Support signed-but-unencrypted HTTP for non-sensitive public content.	hobbyist web hosts	none	1	security & privacy
+15357638	Let adjuncts crowdfund and sell evening classes in advanced subjects to working adults.	underpaid academics and adult learners	explicit	3	education & learning
+40813046	Let departing employees send a final goodbye with contact info after access is cut off.	remote workers being let go	none	2	hiring & careers
+41616422	Build a self-hosted cloud suite with reliable, safe upgrades that do not break the database.	self-hosters	implied	4	devops & infra
+29766184	Provide playbooks and tools to keep growing online communities and their moderators from degrading.	online community owners	implied	4	communication & social
+44671686	Give small educational video creators better ways to monetize.	edutainment creators	implied	3	media & content
+43444294	Let players disable enemy level scaling in open-world games.	video game players	none	1	media & content
+38250573	Make hybrid offices with hot desks feel personal, with consistent seating near your team.	hybrid office workers	implied	3	productivity & work
+45275788	Build a two-pane terminal file manager for Android usable over adb or ssh.	Android power users	none	1	developer tools
+42193417	Enable in-air swipe typing via camera hand tracking without a keyboard.	people who want keyboard-free input	none	2	hardware & IoT
+44945610	Provide encryption libraries that remove nonce management pitfalls for developers.	developers using authenticated encryption	none	3	security & privacy
+42749582	Manage remote systemd services from a local interactive UI.	Linux sysadmins	none	2	devops & infra
+46268289	Make building complex web components much easier.	frontend developers	none	3	developer tools
+43970332	Make code on self-hosted git platforms easy to find, browse and search without cloning.	open source contributors	none	3	developer tools
+44218489	Show the prompt behind LLM-generated text so readers can see the author's intent.	readers of AI-generated content	none	2	AI & ML tooling
+25647281	Sell a simple, fully libre smartphone.	privacy and freedom-focused phone users	explicit	3	hardware & IoT
+9698735	Let readers micro-pay for individual long-form articles across many newspapers.	readers of in-depth journalism	explicit	3	media & content
+45091368	Let users export TOTP codes from closed authenticator apps to open source ones.	users switching authenticator apps	implied	4	security & privacy
+37007851	Make infrastructure-as-code deploys fast for small changes and transparent about defaults.	cloud platform teams	implied	3	devops & infra
+25164870	Alert users when they or their brand are mentioned across chat community servers.	founders and marketers monitoring mentions	explicit	3	media & content
+37068169	Offer a trustworthy managed host for personal services like photo backup, as reliable as good email providers.	people tired of self-hosting	implied	4	consumer & home
+37313887	Make a mid-size premium laptop with first-class Linux support.	Linux laptop buyers	implied	2	hardware & IoT
+41374609	Sync command-line task managers across devices with a good phone app.	CLI productivity users	implied	3	productivity & work
+44112762	Sell a polished, ready-made monorepo toolchain and workflow to engineering organizations.	mid-size engineering organizations	implied	4	developer tools
+43976808	Provide a standardized digital ID that banks and agencies in the US can all use for login.	US residents dealing with fragmented logins	implied	4	legal & government
+36369794	Build an end-of-life planning app covering wills, organ donation, account info and instructions for loved ones.	adults planning for death	implied	3	legal & government
+26964796	Make embedded firmware toolchains as polished as modern IDEs, across chip vendors.	firmware engineers	implied	4	developer tools
+33322803	Offer realistic, leak-resistant work-sample interviews as an alternative to puzzle coding tests.	tech hiring teams and candidates	implied	3	hiring & careers
+42961676	Write modern books that take a kid from zero to deep computer science understanding.	curious kids and self-learners	none	2	education & learning
+32203830	Create a universal declarative grammar for configuration, policy and typesetting languages.	developers juggling many DSLs	none	2	developer tools
+29240978	Make Python packages and tools easy for regular users to discover and install.	non-developer Python tool users	implied	3	developer tools
+18194053	Build a chart tool that gets 80 percent of the way fast and lets you customize to 100 percent in the same tool.	data analysts and developers	implied	3	data & analytics
+28006431	Provide a fast, secure, one-tap payment method that works across the open web.	online shoppers	implied	4	finance & money
+42235035	Build a collaborative SQL workspace where a remote team shares one editor and terminal.	remote data and engineering teams	implied	3	data & analytics
+31592610	Audit mobile apps for hidden location tracking and enforce penalties.	privacy-minded app users	none	3	security & privacy
+37342690	Create a modern, easy-to-access text world builder that teaches programming like old MUDs did.	aspiring programmers and game makers	none	2	education & learning
+36792248	Build an open, Airtable-like CRM that is easy to extend with custom development and a good API.	companies running operations on their CRM	implied	4	SMB & back-office
+37763536	Generate realistic, internally consistent test data at the scale of millions of rows.	database developers and testers	implied	3	data & analytics
+42556505	Provide an open source no-code builder for simple mobile apps from spreadsheets.	non-developers building small apps	none	3	developer tools
+35820278	Improve open maps search for businesses by name and category with hours and websites.	users of open source maps	implied	3	travel & local
+36699077	Build a book recommendation engine based on writing style, setting and length of past reads.	avid readers	none	2	media & content
+24101192	Monitor home listings for price, commute time and internet availability, and alert buyers.	home and apartment seekers	explicit	3	travel & local
+46875102	Help parents find and hire reliable, affordable daycare caregivers.	daycare operators	implied	3	SMB & back-office
+39370765	Create a cross-brand standard battery or adapter system so cordless tools share batteries.	DIYers and tradespeople	implied	4	hardware & IoT
+43639732	Offer declarative, reproducible system environments that are far easier to use than Nix.	developers managing Linux setups	implied	4	devops & infra
+37839164	Build a Steam-like game store for Android with real PC-style games.	mobile gamers	none	2	media & content
+46423299	Sell old software with DRM removed, like GOG does for games.	users of legacy software	implied	2	commerce & marketplaces
+42140195	Provide a mature, well-engineered enterprise framework for RAG and generative AI pipelines.	enterprise AI engineers	implied	3	AI & ML tooling
+36517375	Surface genuine product reviews from ordinary people over generated or sponsored videos.	shoppers researching products	implied	3	commerce & marketplaces
+42753395	Let users mute specific people's voices in videos while keeping the rest of the audio.	news and media viewers	none	2	media & content
+42608134	Build a simple invoice tool with email login and one-time payment.	freelancers	explicit	2	SMB & back-office
+41812142	Write a beginner-friendly guide to setting up cloud account MFA with a password manager.	non-expert cloud account owners	none	2	security & privacy
+42424337	Sell a mid-range GPU with very large VRAM for local AI workloads.	hobbyists running local AI	implied	4	hardware & IoT
+31330932	Simplify driving directions in areas the driver already knows well.	commuters using navigation apps	none	2	travel & local
+41310854	Make live wallpapers fit odd multi-monitor setups of different sizes and orientations.	users with mixed monitors	none	1	consumer & home
+40971692	Let consumers verify the supply chain of electronics to avoid counterfeits.	buyers of storage and components	implied	3	commerce & marketplaces
+36573866	Build ready-made API layers like a document database on top of a distributed key-value store.	backend developers	none	2	data & analytics
+40155422	Make a desktop WordPress manager that connects reliably and lets you edit saved sites.	WordPress site managers	implied	2	SMB & back-office
+39644373	Offer a cheap hobbyist license for homelab virtualization updates.	homelab hobbyists	explicit	3	devops & infra
+21057038	Automatically insert targeted ads into podcasts at creator-tagged spots.	independent podcasters	implied	3	media & content
+25459017	Index and search code across repositories, including those hosted outside the big platform.	developers searching code	explicit	3	developer tools
+37772957	Verify insurance doctor directories for who is actually practicing, nearby and accepting new patients.	insured patients seeking care	implied	5	health & fitness
+41163734	Make cloud internet access from private networks cheap and one-click for hobbyists.	indie developers on AWS	implied	3	devops & infra
+36302169	Offer a secure-by-default Linux distribution safe for beginners.	new Linux users	none	2	security & privacy
+34311760	Give web articles permanent identifiers and a curated, rated index like books have.	readers of long-form web writing	none	2	media & content
+35255610	Build a family authentication app that uses shared codes to defeat voice deepfake scams.	families worried about impersonation scams	implied	4	security & privacy
+45005012	Make embedded RTOS peripheral support portable across chip vendors without vendor SDK bodges.	embedded developers	implied	3	developer tools

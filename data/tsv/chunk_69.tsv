@@ -1,0 +1,69 @@
+45566937	Build an affordable PDF editor that reliably handles editing and forms as well as Acrobat.	professionals who edit PDFs	explicit	3	productivity & work
+46704027	Make setting up and running a small company in Germany simple and low-friction.	small business founders in Germany	implied	4	SMB & back-office
+37669181	Help consumers enforce promised refunds from big online retailers without endless support runarounds.	online shoppers denied refunds	implied	3	commerce & marketplaces
+23677776	Check app and chart designs for color-blind accessibility, such as thin red error borders and similar adjacent colors.	app developers and designers	none	3	developer tools
+49407037	Provide a simple observability SDK for Go that needs only a few lines to start tracing.	Go backend developers	implied	3	devops & infra
+24023944	Make voice assistants discoverable so users can find valid commands and device names.	smart home users	none	3	hardware & IoT
+22008806	Provide a mature cross-platform desktop UI framework for .NET.	.NET desktop developers	implied	3	developer tools
+37070593	Automatically identify and label TV episodes when ripping discs whose episodes are out of order.	home media collectors	implied	3	media & content
+36425989	Offer an easy-to-use arbitrary-precision math library for Go.	Go developers doing math	none	2	developer tools
+46050643	Publish benchmarks comparing ensemble LLM approaches across domains.	AI engineers	none	2	AI & ML tooling
+34670500	Create beginner-friendly, high-level learning paths for free CAD software.	hobbyists designing 3D prints	none	3	education & learning
+40254781	Streamline small claims collection for unpaid invoices so freelancers do not wait months.	freelancers and contractors	implied	4	legal & government
+44523116	Help introverts start conversations at conferences and networking events.	introverted professionals	none	2	communication & social
+38018467	Build a recommendation engine that surfaces high-quality science fiction for readers with specific tastes.	science fiction readers	implied	3	media & content
+47046913	Help people detect and stop Bluetooth tracking by stalkers legally.	people worried about being tracked	implied	4	security & privacy
+30955641	Pair academic papers with accessible plain-language rewrites or blog posts.	students and practitioners reading research	none	3	education & learning
+24323992	Make ergonomic furniture and workspaces sized for very tall people.	very tall people	implied	3	health & fitness
+41208926	Help people remove or minimize their exposure in public records like certificate logs and domain history.	privacy-conscious individuals	implied	3	security & privacy
+43467123	Aggregate public government data into beautiful, easy-to-browse visualizations.	citizens and journalists	none	2	legal & government
+44471156	Make local AI tooling work out of the box on AMD GPUs under Linux.	Linux users with AMD GPUs	implied	4	AI & ML tooling
+25422909	Offer a paid, simplified forum client with basic features and no growth hacks.	heavy forum readers	explicit	2	communication & social
+34921957	Offer a declarative, git-tracked system configuration for mainstream Linux distros with a gentle learning curve.	Linux power users	none	3	devops & infra
+44311054	Force all Python dependencies and caches into one configurable directory instead of scattering them across home.	Python developers with small home partitions	none	2	developer tools
+40732053	Offer objective diagnostic tests that pinpoint mental health conditions and the most effective treatments.	psychiatric patients	implied	5	health & fitness
+41702795	Combine scanned-document archives with living collaborative documents in one searchable system.	households and small offices organizing paperwork	implied	3	productivity & work
+44554432	Publish approachable tutorials on modern ARM assembly programming.	programmers learning low-level code	none	2	education & learning
+22411965	Build a paid browser with no-code automation scripts, built-in productivity blocking and auto-classified history reports.	productivity-focused web users	explicit	3	productivity & work
+25204769	Provide an easy subscription API for large daily market data streams for retail algorithmic traders.	retail quant traders	implied	3	finance & money
+21506957	Build decentralized self-hosted live streaming with built-in viewer payments to streamers.	independent streamers	implied	3	media & content
+45119236	Add blocklisting of abusive federated servers to chat homeservers to stop overload.	self-hosted chat server admins	none	3	communication & social
+42352792	Create a modern build tool that interoperates with Makefiles so projects can migrate gradually.	developers stuck on make	none	3	developer tools
+37470504	Let browsers block all network requests after a page loads, for offline-safe viewing.	privacy-minded web users	none	2	security & privacy
+36431182	Make cancelling subscriptions and closing accounts easy without dark patterns.	consumers trying to cancel services	implied	3	commerce & marketplaces
+38413046	Publish a clear compatibility chart of which GPUs work for which AI models and workloads.	hobbyists running AI models locally	none	3	AI & ML tooling
+37096803	Let users set must-have amenities and exclusion filters so search never shows listings missing them.	travelers and shoppers using search filters	none	3	travel & local
+22766315	Build a team chat add-on that rations direct messages to managers with time-boxed conversation windows.	managers overwhelmed by messages	explicit	2	productivity & work
+45985385	Track and link the original text of changing regulations alongside news coverage.	professionals following tech regulation	none	2	legal & government
+41697660	Give always-on screen and mic recorders consent controls and easy pause for others' data.	users of local AI recording tools	none	3	security & privacy
+36826250	Provide a safe, simple process-spawn API that takes an argument array without invoking a shell.	C and systems programmers	none	2	developer tools
+33450491	Make a cheap, simple smartwatch with an always-readable low-power display that just shows phone notifications.	people wanting minimal smartwatches	implied	3	hardware & IoT
+47087123	Build a European alternative app store.	European app developers	none	3	commerce & marketplaces
+22288882	Offer a supported paid network ad-blocker that keeps up with streaming devices bypassing DNS blocking.	home network privacy enthusiasts	explicit	3	security & privacy
+36022594	Add high-quality concurrent data structures like concurrent hash maps to standard C++ tooling.	C++ server developers	none	2	developer tools
+30308041	Provide disposable or masked phone numbers for SMS verification to stop tracking by phone number.	privacy-conscious online users	implied	4	security & privacy
+44208231	Maintain reliable blocklists that separate operating system telemetry endpoints from needed update services.	privacy-minded Windows users	none	3	security & privacy
+46101490	Make desktop Linux apps keep working across updates for non-technical users.	non-technical Linux users	implied	3	consumer & home
+46792830	Let parametric CAD models be defined as plain JSON geometry instead of code that must be compiled.	makers using code-based CAD	none	2	developer tools
+45356391	Show which dependency versions work together so old personal projects can be upgraded painlessly.	developers maintaining side projects	implied	3	developer tools
+42678437	Build a friends-only feed for real life updates without algorithmic junk.	people who want to keep up with friends	implied	3	communication & social
+32694757	Make bringing up new MIPI cameras on embedded SoCs easy with open drivers and ISP support.	embedded Linux engineers	implied	4	hardware & IoT
+36366028	Make phone batteries easy and cheap to replace at home.	smartphone owners	implied	4	hardware & IoT
+45797967	Provide a native math typesetting renderer for static site generators without a Node dependency.	technical bloggers	none	2	developer tools
+38633731	Integrate modeling, texturing and game engine editing into one unified game creation tool.	indie game developers	implied	3	developer tools
+39950947	Generate Windows installers with one click that bundle the runtime, DLLs and release files.	Windows desktop app developers	implied	4	developer tools
+36070691	Offer a service that prints, binds and mails very long PDFs on demand.	readers of long technical manuals	implied	2	commerce & marketplaces
+25103640	Build a Windows video player focused on clean, effective UX.	Windows users watching local video	explicit	2	media & content
+37085575	Standardize named variants of source-available licenses so terms are clear from the title.	open source and commercial software vendors	none	2	legal & government
+42443377	Make operating and debugging large-scale data pipelines on Spark much less painful.	data engineers	implied	3	data & analytics
+30549279	Let gamers legally rip their own game cartridges for emulation with an easy consumer device.	retro and console gamers	implied	2	hardware & IoT
+33219007	Add native web components like galleries, lightboxes and tabs to browsers so sites need less JavaScript.	web developers	none	3	developer tools
+45933608	Transcribe and translate old handwritten manuscripts automatically.	historians and hobby researchers	implied	3	AI & ML tooling
+32032525	Start more high-quality, well-moderated niche tech discussion forums.	technical readers	none	2	communication & social
+15599052	Accept local payment methods like debit cards and prepay for cloud and subscriptions in countries without credit cards.	customers in emerging markets	implied	4	finance & money
+35337178	Let Morse code learners drill just the letters they struggle with.	Morse code learners	none	1	education & learning
+45911963	Keep installing end-of-life language runtimes easy for legacy apps on macOS.	developers maintaining legacy PHP apps	implied	2	developer tools
+30458822	Provide guidance and tools to help pets cope with the sudden loss of a companion animal.	grieving pet owners	none	2	consumer & home
+33295666	Support signed-but-unencrypted or trust-on-first-use web hosting so old sites survive without certificate renewals.	hobbyist site hosts	none	2	security & privacy
+45020917	Make code signing setup for Windows apps simple from the start.	indie Windows developers	implied	3	developer tools
+35040023	Make chat community knowledge searchable and threaded like forums for later reference.	online communities	none	3	communication & social
