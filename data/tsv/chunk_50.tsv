@@ -1,0 +1,93 @@
+47694707	A standard order-tracking format so email clients can roll many shipping emails into one status box.	online shoppers	none	2	commerce & marketplaces
+43312517	Safer, friendlier command-line file utilities with sane defaults between raw coreutils and a file manager.	command-line users	none	2	developer tools
+37421595	Affordable, practical reusable produce and food storage bags that keep vegetables fresh.	eco-conscious home cooks	implied	3	consumer & home
+36263851	A migratable identity layer that can be centralized or federated for decentralized apps, with real account recovery.	decentralized app builders	none	4	security & privacy
+44943933	Block all YouTube Shorts in mobile browsers.	people limiting short-video use	none	3	consumer & home
+32570807	Generate TypeScript type definitions for a large legacy JavaScript library without a rewrite.	JavaScript library maintainers	none	3	developer tools
+48555426	A professional network free of recruitment scams and malware-laden job offers.	job seekers	none	3	hiring & careers
+45391725	Desktop file search by filename only, fast and without junk content matches.	Mac users	none	2	productivity & work
+30418799	Up-to-date Nix documentation and easy fetching from authenticated private repos.	Nix users	none	3	devops & infra
+26997798	Open-source Heroku-style platform running in your own cloud for early startups.	early-stage founders	explicit	3	devops & infra
+24000769	Notify and explain to customers when a vendor cuts them off over compliance flags, so they can resolve it.	small businesses	none	2	SMB & back-office
+40818003	Separate base-system and user-installed packages on Arch so a reset is easy and safe.	Arch Linux users	none	2	devops & infra
+42051266	Label science news by research stage, from computer model to approved treatment.	science news readers	none	3	media & content
+44828353	Reliable entity resolution for messy company data without years of in-house building.	data teams	implied	4	data & analytics
+46731911	Detailed step-by-step guides for multi-step government processes like name changes in each US state.	people dealing with bureaucracy	none	3	legal & government
+44903835	Build tools that estimate time remaining from past per-object compile times.	C/C++ developers	none	2	developer tools
+48851246	Publish and share iPhone MDM configurations that turn a phone into a minimal device.	parents and minimalists	none	2	consumer & home
+28200585	A live-coding music editor that previews what the next measure or chord change would sound like before you commit.	live-coding musicians	none	2	media & content
+44684698	A European PayPal alternative with broad bank coverage, multiple accounts and merchant integration.	European consumers and merchants	implied	3	finance & money
+37932818	Better consumer genetic risk reports than 23andMe, with strong data security.	consumer DNA testers	implied	3	health & fitness
+28379424	A subscription that funds a free, ad-free, customizable mobile OS on open protocols.	privacy-minded phone users	explicit	4	consumer & home
+48806749	A unified-memory AI desktop with a full PCIe 5.0 x16 slot for a dedicated GPU.	local AI developers	implied	3	hardware & IoT
+39174569	Automatically pull verified footprints, 3D models and distributor part numbers into KiCad libraries.	PCB designers	implied	3	hardware & IoT
+43521646	Feed apps fake randomly generated contacts so they cannot harvest your real address book.	privacy-minded phone users	none	3	security & privacy
+41972332	Cut insurance and compliance overhead so family doctors can stay independent without concierge fees.	primary care physicians	implied	4	health & fitness
+48248626	A strict YAML subset with block style but no implicit type coercion.	developers writing config	none	3	developer tools
+48061331	A free sandbox to try embedded-systems simulators before signing up.	hardware engineers	none	2	developer tools
+32100917	A more stable game editor without long asset library rebuilds and spurious console errors.	indie game developers	implied	3	developer tools
+44402139	Tooling for freestanding WebAssembly modules that map stdlib calls to a custom host API.	wasm runtime builders	none	2	developer tools
+48351803	More small-form-factor laptops like the 12-inch MacBook.	travelers wanting small laptops	implied	2	hardware & IoT
+46520423	Airport security scanners that let travelers keep electronics and liquids in their bags.	air travelers	none	3	travel & local
+28556375	Home automation that runs critical devices like pool pumps with appliance-grade reliability and easy log access.	home automation users	implied	4	hardware & IoT
+29791811	A search engine that strips referral and affiliate spam from results.	web searchers	explicit	4	media & content
+41973371	A practical guide for getting company buy-in and resources to move into AI work from inside a non-AI role.	engineers wanting to move into AI	none	2	hiring & careers
+29777026	A web search engine as good as Google was around 2010.	web searchers	explicit	4	media & content
+10891156	More levels and a teaching mode for assembly-programming puzzle games like TIS-100.	puzzle gamers and programming teachers	explicit	2	education & learning
+47671795	A music recommendation feed filter that excludes AI-generated songs, such as a pre-2023 only option.	music listeners	none	3	media & content
+31084437	Requirements traceability tooling for regulated software that keeps repo detail and auditor-friendly documents in sync.	medical device software teams	implied	4	legal & government
+41427535	Affordable structural spars and rods to reduce material in large-scale 3D prints.	large-format 3D printing makers	implied	2	hardware & IoT
+38186466	A simple cross-platform assembler library for x86, ARM and WASM for small code generators.	language developers	none	2	developer tools
+29610357	Honest, balanced evaluations of Rust's practicality and library quality for server work.	developers evaluating Rust	none	2	developer tools
+32088531	A work chat app as polished as Slack, replacing buggy Teams.	office workers	implied	3	communication & social
+38641037	Illustrated rhyming picture books that explain complex or abstract concepts to children.	parents and children	implied	2	education & learning
+34345345	Game localization tools that handle grammatical gender, case and wordplay in templated strings.	game developers	none	3	developer tools
+28530828	Easy financing for buying a fixer-upper and paying a contractor before moving in.	home buyers	implied	3	finance & money
+46529194	Feed existing component libraries like Tailwind UI to coding LLMs so they reuse them instead of inventing UI.	front-end developers using AI	none	3	AI & ML tooling
+39901858	Send family a link to upload full-quality photos from iPhone without compression.	families sharing photos	implied	3	consumer & home
+26925595	An affordable, non-cloud open smartwatch with an unbrickable bootloader and better health sensors.	privacy-minded smartwatch buyers	explicit	3	hardware & IoT
+40435943	A small, silent, looping animated format with transparency that is guaranteed to autoplay, plus tools to export it.	web and chat content creators	none	2	media & content
+45948130	Ergonomic self-referential data structures in Rust without heavy Rc/Weak boilerplate.	Rust developers	none	2	developer tools
+45079945	Establish proof of humanity from a person's public writing before ChatGPT.	writers accused of using AI	none	2	AI & ML tooling
+50170724	An education-only YouTube experience for adults without irrelevant suggestions.	adult self-learners	none	3	education & learning
+31101721	Replace fax machines in medical documentation with simple digital exchange.	healthcare providers	implied	4	health & fitness
+45211741	A secure way to get root access and extract your own app data on hardened Android.	privacy-focused power users	none	2	security & privacy
+33343102	Business laptops with reliable sleep, thermals and audio drivers out of the box.	laptop buyers	implied	3	hardware & IoT
+32886728	Internal analytics that show which features and code paths are unused before a legacy migration.	engineering leads inheriting legacy code	none	3	developer tools
+40232622	A friendly offline HyperCard-like environment for beginners to build simple web apps and games.	beginner programmers	none	3	education & learning
+29158888	Affordable small-shop machinery for custom architectural woodwork like windows and doors.	home restorers and small shops	implied	2	hardware & IoT
+27316519	A synced chronological timeline position across Twitter clients.	heavy Twitter readers	explicit	2	communication & social
+20977426	A polished open-source 2FA app with good import, fingerprint unlock and encrypted backups.	Android users	none	2	security & privacy
+36976934	A speaking-practice language app with live transcription, retries and role-play for formal registers like keigo.	language learners	implied	3	education & learning
+40604825	A step-by-step guide for porting a new board to QEMU for emulation.	embedded developers	none	2	developer tools
+25037037	A fixed single-recipient chat app with opt-in features and no ads.	people messaging one partner	explicit	2	communication & social
+46897521	A way to check which NVMe drives support secure sanitize operations before buying.	IT and security admins	none	3	security & privacy
+40963416	A consumer-friendly home server for publishing your own website without technical skills.	non-technical people wanting a web presence	implied	3	consumer & home
+43919890	An AI code editor option to disable the agent panel and keep transparent inline assist with selected context.	developers preferring simple AI assist	none	2	developer tools
+49717380	AI CAD that produces clean, functional geometry rather than messy triangle meshes.	engineers and designers	implied	3	AI & ML tooling
+44649155	A reliable way for authors to earn money from short-form ideas, between clickbait and full books.	nonfiction writers	implied	3	media & content
+37576194	Mount NFS and 9p shares as an unprivileged user and export folders on unprivileged ports over WireGuard.	people sharing files with friends	none	2	devops & infra
+41581834	Funded clinical studies of psychedelic-assisted support for autistic adults.	autistic adults	none	3	health & fitness
+43724252	Reputable third-party compatible power tool batteries at fair prices.	power tool owners	implied	3	hardware & IoT
+30145603	Easy mocking of effects like network IO in Haskell without newtype and class boilerplate.	Haskell developers	none	2	developer tools
+29049835	Podcast creators publishing transcripts and RSS feeds alongside YouTube without extra effort.	podcast listeners who prefer text	none	2	media & content
+25178577	A MacBook Pro variant with physical function keys instead of the Touch Bar.	pro laptop buyers	explicit	3	hardware & IoT
+31207381	Help patients fight insurance runarounds and duplicate medical bills.	US patients	implied	4	health & fitness
+43670817	Tunnel software that looks like an HTTPS reverse proxy, uses HTTP auth, and resists traffic analysis.	privacy-minded self-hosters	none	3	security & privacy
+40139307	Report road hazards and speed traps by voice from in-car Android Auto.	drivers	none	2	travel & local
+25044814	Trustworthy end-to-end encrypted video calls that stay stable on poor connections.	people calling over weak internet	explicit	3	communication & social
+42368106	Programmable holiday lights with fine control over flash effects and brightness.	holiday decorators	implied	2	consumer & home
+50249767	Python packaging and environments that work cleanly on a fresh machine.	Python developers	none	4	developer tools
+27950194	In-depth reporting on social programs that explains trade-offs and why earlier attempts failed.	policy-curious readers	none	2	media & content
+42617958	Cross-borough transit routes in New York that avoid going through Manhattan.	NYC commuters outside Manhattan	none	3	travel & local
+31962724	Fake local implementations of cloud provider APIs for fast tests of infrastructure code.	cloud infrastructure engineers	none	4	devops & infra
+47500081	A good free desktop parametric CAD for 3D printing hobbyists as an alternative to Fusion 360.	hobbyist 3D printer users	implied	3	hardware & IoT
+46861048	A real alternative to Facebook Groups for local community organizing.	local community organizers	implied	4	communication & social
+17481178	A hosted Vault-like service for IAM-gated temporary SSH and database credentials.	AWS teams	explicit	3	security & privacy
+45556123	Larger, affordable, moddable reflective LCD screens for outdoor computing.	people working outdoors	implied	3	hardware & IoT
+41387422	A desk booking system for flex offices that people actually follow.	office workers	none	2	productivity & work
+44896527	Convert PDF bank statements into accurate Excel or CSV files securely.	accountants and budgeters	implied	3	finance & money
+42992230	A browsable directory of clever niche open-source projects.	developers	none	2	developer tools
+39027581	An in-browser note editor that stores HTML with structured data, graph views, and cross-device sync.	note-takers	none	2	productivity & work
+48899897	A Windows version of an Excel-compatible runtime for agents.	spreadsheet automation users	none	2	AI & ML tooling
+2409598	Easy paid access to niche creator video content worldwide as an alternative to piracy.	video viewers	explicit	2	media & content

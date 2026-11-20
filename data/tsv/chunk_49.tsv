@@ -1,0 +1,76 @@
+50110933	A Quadlet-like declarative way to run containerized services on macOS, since launchd files fall short.	Mac self-hosters	none	2	devops & infra
+49609860	Media player remotes that skip forward and back immediately instead of scrubbing the timeline first.	home media server users	none	2	media & content
+48978041	More modern casual traffic-control games like Flight Control and Mini Metro.	casual gamers	implied	2	media & content
+32417293	A privacy-safe way for a page loaded in an in-app Safari view to message the host app.	iOS developers	none	2	developer tools
+38441513	Hands-on maker and repair magazines for modern hobbyists.	hobbyist makers	implied	2	media & content
+47105939	Reliable background file sync on iOS so tools like Syncthing do not cause conflicts.	iPhone users syncing files	none	3	productivity & work
+32066577	Find products by a checklist of specific features, with filterable comparison tables free of SEO spam.	shoppers researching products	none	3	commerce & marketplaces
+47234691	Easy full backup of Android phone app data without first-party lock-in.	Android users	implied	3	consumer & home
+50174695	Let domain owners restrict which certificate authorities browsers accept for their domain, not just which may issue.	website operators	none	3	security & privacy
+26616010	Make git submodules work with git worktree without re-cloning from upstream.	developers using submodules	none	2	developer tools
+9094761	An ad-free kids video service worth paying a modest fee for.	parents of young children	explicit	3	media & content
+47022537	Curation and recommendations to find the gems among 200k archived Flash games.	retro game players	none	2	media & content
+49858408	Spread out subscription refreshes in alternative YouTube clients to avoid rate limits.	alternative YouTube client users	none	2	media & content
+32416422	A way to debug and explain OWL reasoner inferences in semantic web projects.	digital humanities researchers	none	3	data & analytics
+48968754	Let AI agents take my car-buying requirements and compute fit and costs from a car spec database.	car shoppers	none	3	commerce & marketplaces
+40113104	A thesis-writing editor with working cross-references and a sidebar of all available elements.	students writing theses	none	2	productivity & work
+41296643	A service that aggregates local events from papers, businesses and social feeds into one filterable view.	residents and travelers	explicit	4	travel & local
+43492880	Accurate real-time translation for multilingual meetings and email at international companies.	multinational employees	implied	3	communication & social
+43712028	Plug-and-play way to legally obtain owned copies of your Spotify library for a self-hosted music server.	people leaving music streaming	implied	3	media & content
+36123948	A good AOSP e-ink phone that runs everyday apps but discourages endless scrolling.	people reducing phone use	implied	3	hardware & IoT
+47714136	Easy bulk download of all Google Photos plus storage management that stops backup re-adding deleted photos.	Google account users	implied	3	consumer & home
+47581597	Let users cap device lockout time when they use a long password instead of a short PIN.	iPhone and Mac users	none	2	security & privacy
+14871293	Remasters of classic strategy games that fix engine, pathfinding and multiplayer instead of just graphics.	classic RTS players	implied	2	media & content
+47746715	Make the ROCm GPU stack buildable and packageable on musl distros like Alpine.	Linux packagers using AMD GPUs	none	3	AI & ML tooling
+24328333	A searchable link stash for developers that auto-organizes saved links and recommends related ones.	developers saving useful links	implied	3	productivity & work
+35538558	A browser search bar replacement that answers with an LLM and links to references.	web searchers	none	3	AI & ML tooling
+45406056	A mailing list server that is simple to configure and administer, unlike Mailman 3.	mailing list admins	none	3	communication & social
+42577925	A small, light Braille writer without computer features, with open schematics and software.	blind students	implied	3	hardware & IoT
+33747874	Missing macOS conveniences for Linux switchers: real file paths in Finder, Home/End keys, middle-click paste.	Linux users moving to Mac	none	2	productivity & work
+40046663	An easier, safer way to write Postgres row-level security rules without obscure SQL, plus a solid C# SDK.	Supabase developers	none	3	developer tools
+42527165	Federated digital identity documents that every verifier worldwide can check without custom integrations.	travelers and ID verifiers	none	2	legal & government
+48503200	A browser extension that strips dark patterns from airline booking sites and explains every upsell.	budget airline travelers	none	3	travel & local
+44505777	Bug bounties for finding certificate authority mistakes in Certificate Transparency logs.	security researchers	none	2	security & privacy
+50202323	High-bitrate 4K video delivery to replace physical UHD Blu-ray quality as players disappear.	home theater enthusiasts	implied	3	media & content
+45930728	A sovereign Canadian large-scale data center build-out run by experienced infrastructure people.	Canadian AI startups and government	none	3	devops & infra
+50489091	Self-hosted email that reliably lands in inboxes instead of spam folders.	self-hosters	implied	4	communication & social
+40379183	A terminal where mouse clicks move the cursor, drags select and typing replaces selection, like a normal text box.	terminal users	none	3	developer tools
+36779277	Tie slow delivery to specific tech debt so teams can justify prioritizing it.	engineering teams	none	3	developer tools
+34730288	Reduce iPhone background battery drain from system services and add a consistent back navigation.	iPhone users switching from Android	none	2	consumer & home
+44503127	A fresh B2B product analytics tool to replace June after its acquisition by Amplitude.	startup product teams	implied	3	data & analytics
+43545928	More end-to-end examples and an opinionated starter for Tauri apps with Rust web services and state.	desktop app developers	none	2	developer tools
+45793588	A standard Linux package format supported by every distro, including for developer toolchains.	Linux software distributors	none	3	devops & infra
+20148882	A paid Firefox build without Pocket, telemetry, sponsored content or third-party connections.	privacy-minded Firefox users	explicit	4	security & privacy
+46947702	Let a Matrix homeserver default rooms to unencrypted for simpler family use.	Matrix self-hosters	none	2	communication & social
+30577180	Automatically archive and version every build dependency weekly so builds can track latest yet stay reproducible.	build engineers	none	3	devops & infra
+48844146	Distribute one large AI training run efficiently across several data centers.	AI labs	implied	3	AI & ML tooling
+28371399	A physics book that builds up cosmology from naked-eye observation with no assumed knowledge.	curious adult learners	implied	2	education & learning
+37808758	Follow experts on social media while filtering out their political and incendiary posts.	social media readers	none	3	communication & social
+36999864	Subscription features and downloaded media that keep working offline without license server check-ins.	owners of subscription-gated products	implied	3	consumer & home
+49467128	An animated interactive website version of the classic 507 Mechanical Movements book.	engineering learners	none	2	education & learning
+48243577	Clear, reliable account recovery for people who lose their passkey device, without SMS codes.	non-technical account holders	none	3	security & privacy
+22799344	An industrial parts supplier with great CAD data that serves small and Canadian companies.	small hardware companies	explicit	3	commerce & marketplaces
+50391275	An app store filter that hides AI-related apps.	app store shoppers	none	2	consumer & home
+45520249	A DVR that lets you transfer recordings freely and stream them quickly to other TVs.	cord-cutters with antenna TV	implied	2	media & content
+37669314	Cheap at-home rapid tests for more conditions than Covid.	consumers	implied	3	health & fitness
+43025909	A read-it-later app with text-to-speech that works like a music player for hands-free listening.	people who listen to articles	implied	3	media & content
+50141524	Step-by-step explanations of each update rule in interactive linear programming visualizers.	optimization students	none	2	education & learning
+39485783	Linux installers that bundle or auto-resolve library dependencies for apps like DaVinci Resolve.	Linux desktop users	none	3	developer tools
+47628047	Curated topic "planet" aggregators that pull blogs on a specific subject into one subscribable feed.	blog readers	none	2	media & content
+29412667	A site combining interview prep with high-quality code snippets and tips, free of SEO junk.	software engineers	explicit	3	hiring & careers
+28402890	Router firmware that handles VLANs, dual-stack IPv6 and policy routing predictably with safe security updates.	home network tinkerers	none	3	hardware & IoT
+48101499	A soldering iron that allows fast tip swaps without cooling down.	electronics hobbyists	none	2	hardware & IoT
+39954219	A network of community-run field stations with long-term ecosystem sensors tied to education.	ecologists and educators	none	2	education & learning
+29134091	A replacement for the ITA Matrix flight search tool if Google shuts it down.	flight deal hunters	explicit	3	travel & local
+27910593	An instant-on programmable environment preinstalled on phones for learning to code.	students learning to program	none	3	education & learning
+32225766	Reliable C++ package management to replace fragile conan and CMake setups.	C++ developers	none	4	developer tools
+45661072	Better communication systems between the FAA, airlines and high-altitude balloon operators.	balloon and aviation operators	none	3	legal & government
+45331740	Rate-limit public dataset downloads without forcing API keys or blocking shared IPs.	public data publishers	none	3	devops & infra
+40071577	A Reddit alternative for communities that resists rage bait and disguised ads.	online community members	none	3	communication & social
+48219366	Export and import a fully customized browser setup to another machine.	power browser users	none	2	productivity & work
+44448866	Take photos instantly and reliably from a locked phone, like a dedicated shutter button.	smartphone photographers	none	3	consumer & home
+48477253	What-if simulation tools over public data, such as health spending versus life expectancy.	policy analysts and citizens	none	2	data & analytics
+36347330	A simple domain registrar like Google Domains without upsells.	domain owners	implied	3	devops & infra
+33186240	Least-privilege AWS and S3 permissions that are easy to debug during ad hoc data work and automation.	cloud data engineers	none	4	devops & infra
+42386657	Buy a movie once and download it DRM-free in 1080p or 4K.	occasional movie watchers	explicit	4	media & content
+46158878	An open-source way to host containers across providers with easy failover when one goes down.	developers hosting containers	none	3	devops & infra
