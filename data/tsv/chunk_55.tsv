@@ -1,0 +1,79 @@
+26703642	A free, open-source, reasonably priced antivirus service for Linux.	Linux users	explicit	2	security & privacy
+24519081	First-class TSX support and tooling in Vue.	Vue developers	none	2	developer tools
+45464868	A simple unified hardware-key auth experience instead of juggling FIDO, WebAuthn and TOTP.	security-conscious users	none	3	security & privacy
+44398741	Experts who measure low-frequency noise and vibration inside homes when authorities dismiss it.	residents bothered by noise	implied	3	health & fitness
+38448328	A modular home automation system with good plotting, derived values and data cleaning for noisy sensors.	smart home tinkerers	none	3	hardware & IoT
+49874875	Follow specific users on Hacker News and get notified when they comment.	HN readers	none	2	communication & social
+31760838	An open, permissively licensed audio plugin standard with real MIDI support.	audio plugin developers	none	3	media & content
+45495221	AI coding tools that are less biased toward commercial frameworks by default.	developers using AI	none	2	AI & ML tooling
+45991029	Auto-generate multi-repo tool configs by fetching all your repos from GitHub and other forges.	developers with many repos	none	2	developer tools
+47867476	Faster permitting for high-voltage transmission lines to connect new solar farms.	solar developers	none	3	legal & government
+26814129	Independent measurement of whether charities in corrupt states actually add aid beyond what governments would provide.	effective altruism donors	none	3	other
+48242735	A mature secure sandboxed runtime for Python like Deno, for running AI-generated code.	AI agent developers	none	3	security & privacy
+49022804	Portable health insurance that is not tied to your job.	US workers	implied	4	health & fitness
+46684538	Mandatory distinct background colors for ads in app stores.	app store shoppers	none	2	legal & government
+49633329	Small-form-factor phones, especially for a second work phone.	people carrying two phones	implied	3	hardware & IoT
+36761308	Laptops with ultra-rigid screen backs that resist cracking in backpacks.	frequent travelers	implied	2	hardware & IoT
+48453472	A local tool that turns many holiday videos into a highlights reel of a chosen length.	families with lots of trip videos	none	3	media & content
+37804354	Simple CI-driven deploys for a multi-service app on one big server without Kubernetes.	solo operators of self-hosted services	none	3	devops & infra
+43662481	A credible 2D image editor alternative that dethrones Photoshop, like Blender did in 3D.	designers	implied	3	media & content
+45421673	A service that ranks food brands by how recyclable and reusable their packaging is.	eco-conscious shoppers	none	2	consumer & home
+34603406	Auto-generate typed result classes for raw SQL queries without an explosion of near-duplicate types.	backend developers writing SQL	none	3	developer tools
+34811495	A plotting tool where you write code and then tweak the chart's look in a GUI that writes the parameters back into code.	data analysts	implied	4	data & analytics
+19725523	A remote drone-driver service that drives your car.	commuters	explicit	2	travel & local
+50427769	A GPU compute marketplace to arbitrage large price differences between providers.	ML teams renting GPUs	implied	3	AI & ML tooling
+48678141	Easier handling of little-endian packed binary protocols in Zig.	systems programmers	none	2	developer tools
+41569344	A strongly typed, compiled infrastructure-as-code language with a local cloud replica for debugging.	cloud infrastructure engineers	none	4	devops & infra
+49798612	Hosted uncensored or abliterated LLMs on API marketplaces like OpenRouter.	users with weak hardware	implied	2	AI & ML tooling
+47327733	Freeze test files so an AI coding agent can change code to pass them but never edit the tests.	developers using AI agents	none	4	AI & ML tooling
+44705474	A VSCode-level code editor without telemetry or spyware.	privacy-minded developers	implied	3	developer tools
+45527724	Export an n8n workflow to plain Python scripts when it outgrows the tool.	automation consultants	none	3	developer tools
+39907607	A practical formal spec language that makes property-based testing useful for integration and E2E tests.	software testers	none	3	developer tools
+45104447	A way to assess in hiring whether a candidate is proactive, eager to learn and gets things done.	hiring managers	implied	3	hiring & careers
+46204941	Grocery delivery focused on heavy, bulky staples like drinks and cleaning products, carried to your door.	apartment dwellers	implied	3	commerce & marketplaces
+47592458	Context-sensitive coding font ligatures that apply in code but not in CLI output.	developers	none	1	developer tools
+28173138	A service that reads any URL aloud instantly.	busy readers	explicit	3	media & content
+46370248	Easier handling of conditional control flow when exporting PyTorch models to on-device runtimes.	mobile ML engineers	none	3	AI & ML tooling
+33567315	Python REPL auto-reload of changed modules on every evaluation.	Python developers	none	2	developer tools
+29091455	More turn-based incremental civilization-style mobile games.	mobile gamers	implied	1	media & content
+42137794	An independent regression test suite that runs popular apps against each OS update.	Mac app users	none	3	developer tools
+44537027	Cockpit video recorders on commercial aircraft.	aviation investigators	none	3	hardware & IoT
+50173212	Browser support for DANE/TLSA so domains can pin their allowed certificate authorities.	website operators	none	3	security & privacy
+27448391	A browser with a built-in ad-free search engine.	privacy-minded searchers	explicit	3	media & content
+38148317	Better book discovery beyond repetitive Kindle recommendations.	ebook readers	none	3	media & content
+44578815	AI tools that compare company financial filings across footnotes and regulatory regimes.	investors and analysts	implied	4	finance & money
+46685397	Free online remedial math resources for adults.	adult learners	none	3	education & learning
+30020788	A space-efficient Merkle-tree archive format for efficient incremental container image updates.	container registry operators	none	2	devops & infra
+48713002	A self-hostable serverless email stack with reliable delivery and pay-per-use pricing.	privacy-minded email users	implied	3	communication & social
+48997510	A Pareto view comparing agentic systems on cost and quality using a standard harness.	AI agent builders	none	2	AI & ML tooling
+30584443	Easy cross-platform builds for Go apps with GTK, especially on Windows and in Docker CI.	Go desktop app developers	none	3	developer tools
+29932107	A keyboard-driven mouse cursor tool with color and font customization.	keyboard power users	explicit	2	productivity & work
+48177964	Automatically block and punish email spammers who scrape addresses from developer profiles.	developers receiving spam	none	2	security & privacy
+39559629	AI ticket assistants that answer deep internal technical questions without looping.	offshore development teams	none	3	AI & ML tooling
+26105311	Independent verification of broker claims during trading halts.	retail traders	none	3	finance & money
+26385103	Better structured learning resources for Julia, like the Rust book and cheat sheets.	developers learning Julia	none	2	education & learning
+37823661	A programmable buffer checking account that moves each credit card charge from checking as it lands and alerts on overdraft risk.	credit card users	implied	3	finance & money
+48439377	An official Claude desktop app for Linux.	Linux users of AI assistants	implied	3	AI & ML tooling
+22739734	A vertically integrated, open-hardware Linux laptop that just works.	founders and developers	explicit	3	hardware & IoT
+36838316	Version control that supports atomic operations on commit subtrees for stacked patch workflows.	developers using stacked commits	none	2	developer tools
+49340844	A Linux desktop environment that looks and works like Haiku/BeOS.	Linux desktop users	none	1	consumer & home
+48646832	A Wordle mode that blocks guesses already ruled out.	Wordle players	none	1	media & content
+49862186	A homelab festival in the UK.	UK homelab enthusiasts	none	1	other
+31520425	Transparent negotiated healthcare prices so services can be compared.	US patients and employers	implied	4	health & fitness
+47885974	An all-in-one manual espresso setup with hot water and a steam wand.	home espresso makers	implied	2	consumer & home
+16544352	Privacy-preserving QR car stickers that let people contact the owner without revealing their phone number.	car owners	explicit	2	consumer & home
+41678625	Labels or filters that mark AI-generated text so readers can skip it.	readers	none	3	media & content
+41630738	Stores that cut friction from locked display cases so customers don't leave.	retail shoppers	none	3	commerce & marketplaces
+44241652	More games designed for local multiplayer and LAN play.	gamers	implied	2	media & content
+42584132	Simple protection for home PCs exposing RDP to the internet.	home users with remote access	none	3	security & privacy
+44899871	A boot camp to introduce Linux users to Illumos distributions.	Linux users curious about Illumos	none	1	education & learning
+30543452	A lightweight reliable job scheduler with history, failure alerts and retries, without a Kafka-plus-database stack.	enterprise developers	none	3	devops & infra
+46476411	A Linux distro that works out of the box with Nvidia cards.	Linux gamers	none	3	consumer & home
+42908429	A gradually statically typed Fennel, like Teal for Lua.	Fennel developers	none	1	developer tools
+45835094	A browser development kit for easily building custom browsers.	browser makers	none	2	developer tools
+47477237	Simple Windows native app deployment with the latest .NET runtime delivered via Windows Update.	Windows app developers	none	3	developer tools
+26465629	A good paid messaging app.	messaging users	explicit	2	communication & social
+49688911	Isolate untrusted desktop apps like the Zoom client in a Qubes-style VM on standard KVM.	privacy-minded Linux users	none	3	security & privacy
+42765081	A secure, driverless printing stack with trustworthy printer firmware.	IT security teams	none	3	security & privacy
+42522362	A sentiment analysis of HN on AI usage.	tech community observers	none	1	data & analytics
+26329369	Drone geofencing that allows limited low-altitude flight in restricted zones instead of a total lockout.	hobby drone pilots	implied	3	hardware & IoT
