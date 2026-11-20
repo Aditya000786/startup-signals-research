@@ -1,0 +1,93 @@
+27304927	Web developers would pay for a docs subscription only if the money funds core reference documentation	web developers	explicit	2	developer tools
+42685610	Small IRC network operators want an opt-out standard like robots.txt and notice from indexing sites	IRC community admins	implied	2	communication & social
+41981369	Book apps struggle with poor book metadata: unlinked author names, bad genre tags, no edition grouping or series	book app builders	explicit	4	media & content
+46022797	Documentation teams outgrow Markdown but find Sphinx, DocBook and AsciiDoc painful to set up	technical writers	implied	3	developer tools
+38104485	Consumers want low-fee metered data plans with fair per-GB pricing	mobile and broadband users	implied	2	consumer & home
+46622562	Buyers of far-UVC lamps lack a cheap tester showing whether a lamp emits effective 222nm light safely	far-UVC lamp buyers	implied	3	hardware & IoT
+47871167	Firefox privacy users want a per-site permission prompt to reveal their timezone instead of forced UTC	privacy-minded browser users	implied	2	security & privacy
+40214225	Small businesses selling across EU states face complex tax and registration compliance in each country	small cross-border sellers	implied	4	SMB & back-office
+48725771	Windows users want a lightweight edition without bloat and annoyances	Windows users	implied	3	consumer & home
+49466662	Small sellers must pay costly per-country packaging regulation registrations to sell into the EU	small e-commerce exporters	implied	4	legal & government
+39479726	Developers find stacked pull requests painful on GitHub	software developers	implied	3	developer tools
+36482112	Firms running specialty low-latency hardware depend on RHEL-family distros for vendor driver support	trading and HPC firms	implied	2	devops & infra
+39428200	Spotify users want power-user tools to organize their library and dig deeper for new music	music power users	implied	3	media & content
+49828341	Free-tier API providers need to block coordinated bot signups without walls that block VPN users	API and SaaS founders	implied	4	security & privacy
+42070528	HP calculator fans want a maintained HP50G emulator for iOS	calculator enthusiasts	implied	2	consumer & home
+41245218	Developers want concrete code examples when evaluating new concurrency models	software developers	implied	1	developer tools
+36448263	Game developers want a more elegant way to express behavior trees composed with coroutines	game developers	implied	2	developer tools
+17593064	Hobbyist server admins would pay about $10 a year for a binary license, but not a high price	hobbyist sysadmins	explicit	2	devops & infra
+49409366	Developers want a VS Code-like full IDE that runs in the terminal	terminal-centric developers	implied	2	developer tools
+47500817	Teams find static-IP allowlisting for cloud access a support nightmare when people travel	small engineering teams	implied	3	devops & infra
+42799894	Basement and home workers want artificial lights that mimic parallel natural sunlight to reduce eye strain	remote workers	implied	2	hardware & IoT
+43161175	Developers want a tool that connects to their Postgres database and surfaces useful correlations and patterns automatically	indie developers	implied	3	data & analytics
+46764891	Software maintainers find building packages for every Linux distro and old release a nightmare	open-source maintainers	implied	3	devops & infra
+31257790	Hosts would pay for an app that makes throwing parties less stressful	party hosts	explicit	2	consumer & home
+49750897	Developers want a fast, embeddable scripting language with static typing, big integers and good tooling	software developers	implied	2	developer tools
+46862383	Desktop app developers lack a viable lightweight Electron alternative that controls the browser engine version	desktop app developers	implied	3	developer tools
+47782907	Readers cannot access out-of-print nonfiction that only lives on shadow libraries	researchers and readers	implied	3	education & learning
+13657638	Teams running Kubernetes on AWS must set up their own overlay network because VPC lacks per-pod IPs	platform engineers	implied	2	devops & infra
+36236228	Language learners want an AI-enhanced drill tool like Anki for vocabulary and speaking practice with context-aware speech recognition	language learners	implied	3	education & learning
+49807535	AI subscription users want transparent usage meters showing token use and cost per model	AI power users	implied	3	AI & ML tooling
+46594006	Accounts payable teams need near-perfect invoice extraction with human review only for low-confidence fields	accounts payable teams	implied	4	SMB & back-office
+44700125	Websites find age verification painful to implement and it tanks signup conversion	website operators	implied	3	legal & government
+44953605	Privacy-minded users want an alternative phone-and-accessories ecosystem with end-to-end encryption and open standards that matches Apple's conveniences	privacy-minded consumers	implied	4	security & privacy
+49191881	Teams building webhook ingestion on AWS struggle with timeouts, retries and poison messages	backend engineers	implied	3	devops & infra
+36919534	Open-source projects want a chat platform that is searchable, public and open, unlike Discord	open-source communities	implied	4	communication & social
+40177867	Rust game developers lack a UI framework for the Bevy ECS that supports reusable widgets and text input	Rust game developers	implied	3	developer tools
+42797884	Consumers cannot tell evidence-based sleep and neurotech products from snake oil	health-tech consumers	implied	3	health & fitness
+49501183	Server admins want a service that looks up abuse contacts and files abuse reports from their access logs	server admins	implied	3	security & privacy
+36072944	Distributed systems developers want tools to guarantee and debug forward progress in stateful systems like Raft	distributed systems engineers	implied	3	developer tools
+41571968	Immigrants find the USCIS process slow, ambiguous and paper-based, and pay thousands for lawyers	immigrants	implied	4	legal & government
+49241886	Players of AI mystery games want to reveal the answer after time runs out, and want strategy games with free-form AI diplomacy	gamers	implied	1	media & content
+49810733	Parents with kids at several schools need one feed that filters school updates scattered across email, SMS, apps, paper and Facebook	busy parents	implied	4	consumer & home
+44698602	Regulated orgs need approval workflows so IAM admins cannot make instant, irreversible changes	security teams in regulated industries	implied	4	security & privacy
+42070102	Caregivers of family members with mental illness lack resources and community for their own needs	family caregivers	implied	4	health & fitness
+44758299	Parents find parental controls weak and want a single under-12 lockdown setting backed by content-rating standards	parents	implied	4	consumer & home
+31380138	Users would pay for an ad-free premium Google subscription	Google users	explicit	3	consumer & home
+48695803	OpenTTD players want one comprehensive interface to configure gameplay rules and mods	simulation gamers	implied	2	media & content
+41493549	Visitors to Rome find taxis scarce and hard to get	travelers in Italy	implied	2	travel & local
+39401428	Home server owners need a cheap remote KVM-over-IP to fix machines without moving them to a desk	homelab users	implied	3	hardware & IoT
+44325213	Systems programmers want a systems language with Elixir-style pattern matching on structs and function signatures	systems programmers	implied	2	developer tools
+45747908	Patients want a service that automatically audits and negotiates every medical bill	US patients	implied	5	health & fitness
+44986946	Go developers find debugging painful because unused variables block compilation	Go developers	implied	2	developer tools
+46457270	Job seekers want to check whether a recruiter is legit before responding	job seekers	implied	3	hiring & careers
+48664016	E-reader owners want an open Linux e-ink device with an app SDK and no cloud sync of reading progress	e-reader enthusiasts	implied	3	hardware & IoT
+41411777	Developers find Linux distro library versioning and packaging a burden when shipping language-specific dependencies	application developers	implied	2	devops & infra
+49037781	Users want an LLM frontend where they can click any token, pick alternatives and regenerate from there, like DeepL	expert LLM users	implied	3	AI & ML tooling
+49570250	People want concrete evidence of how short-video algorithms harm vulnerable users	concerned friends and family	implied	2	media & content
+49595348	Teams using AI coding assistants lack a good way to version and share skills files	engineering teams using AI	implied	3	AI & ML tooling
+43301446	Daters want a dating app that pushes quick in-person meetings rather than AI-mediated chatting	online daters	implied	3	communication & social
+48389067	Gamers want a curated list of open-source game engine reimplementations	retro gamers	implied	1	media & content
+49632403	Consumers and merchants want a low-fee card network with no rewards and no checkout surcharges	merchants and shoppers	implied	3	finance & money
+43273230	Linux kernel contributors find email patch review painful: no thread resolution, unknown base commits, manual version comparison	kernel contributors	implied	4	developer tools
+46200419	Online sellers need AI listing and description tools that are accurate and do not sound AI-generated	online sellers	implied	3	commerce & marketplaces
+40257073	TypeScript developers find tsconfig confusing, with a misleading strict flag that leaves many checks off	TypeScript developers	implied	2	developer tools
+47706561	Developers want a simple cross-platform installer with a hosted install spec, permissions, signature and SBOM validation	CLI tool authors	implied	3	developer tools
+49441590	Rust developers want a language server that uses far less RAM	Rust developers	implied	3	developer tools
+39801777	Disc collectors find maintaining a home media server a huge pain and beyond non-technical people	physical media collectors	implied	3	media & content
+35729091	Parents want streaming services that can skip gratuitous sex scenes so films are family-watchable	families	implied	3	media & content
+49634984	Forum readers want criticism grouped in one thread so it doesn't drown technical discussion	forum readers	implied	1	communication & social
+49234144	Developers fear AI coding tools copying licensed code into their projects without attribution	open-source developers	implied	3	AI & ML tooling
+32128002	Firefox users would pay directly for the browser but have no way to	Firefox users	explicit	3	consumer & home
+28994305	Space fans would pay for print-resolution versions of astronomy images for wall-sized prints	astronomy enthusiasts	explicit	2	media & content
+35705172	Privacy users want a browser that rotates engine fingerprints while keeping user data in a separate layer they control	privacy-minded users	implied	3	security & privacy
+49463209	Developers want a code forge alternative with a reasonable AI-use policy	developers	implied	2	developer tools
+41860012	Developers find native development and Docker on macOS painful	Mac developers	implied	3	developer tools
+37377486	Multi-country companies need ERP and payment systems that handle each country's accounting and invoicing laws	finance teams at multinationals	implied	4	SMB & back-office
+35679638	Experienced self-taught developers want a cheap degree equivalent that employers respect	self-taught developers	implied	3	hiring & careers
+42400153	History fans want maps showing the languages, cultures and religions of each area over time, not just nations	history enthusiasts	implied	2	education & learning
+41851298	Naturalists want a self-hostable species ID log with confidence levels that also contributes to shared databases	naturalists and growers	implied	3	education & learning
+49336665	Readers want a repository of every already-digitized book	readers and researchers	implied	2	education & learning
+43503191	Apple users suffer laggy iPhone mirroring, broken document scanning and slow system settings	Apple users	implied	3	consumer & home
+38979321	Founders find it hard to reach enough of a target segment to validate a startup idea	early-stage founders	implied	3	commerce & marketplaces
+50480256	MCP server developers suffer months-long, ever-changing directory review processes	MCP server developers	implied	4	AI & ML tooling
+50383709	Developers find keeping CLI tools integrated with many MCP servers a huge pain	AI tool users	implied	3	AI & ML tooling
+48987117	Rust developers want to mark safe code that unsafe blocks depend on, without allowing unsafe operations	Rust developers	implied	2	developer tools
+49918603	Unity mobile developers find the double compile through Xcode a nightmare	Unity mobile developers	implied	3	developer tools
+48992087	Shell users want a portable way for xargs to split on newlines only	shell users	implied	2	developer tools
+49460362	Developers want databases to accept structured, machine-readable queries instead of string-built SQL from ORMs	application developers	implied	3	data & analytics
+19693092	Database users would pay a fixed price for a DB client version they can keep using forever, not a yearly subscription	database developers	explicit	3	data & analytics
+40517856	Build engineers want one standard way to route every package manager through an internal artifact cache	build engineers	implied	3	devops & infra
+43652495	CPAP users get no help configuring machines and masks, so default settings make their sleep worse	sleep apnea patients	implied	4	health & fitness
+13615818	Go web developers struggle to build reusable template components that load their own data	Go web developers	implied	2	developer tools
+798998	Consumers would pay thousands for working augmented-reality glasses or contact lenses	early tech adopters	explicit	3	hardware & IoT
