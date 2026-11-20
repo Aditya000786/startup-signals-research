@@ -1,0 +1,81 @@
+28944375	Fast shared folders between Docker containers and the host on macOS without sync tools.	Mac developers using Docker	none	3	developer tools
+33042494	Open-source building energy management software with a broad driver and plugin ecosystem.	homeowners and building operators	none	3	hardware & IoT
+42323047	A shared glossary that maps internal code names to what they mean across a big company.	employees at large tech companies	none	3	productivity & work
+39566862	Easy access to the browser Intl API from Elm without kernel-code hacks.	Elm developers	none	2	developer tools
+16544766	A high-quality personal finance aggregator like Mint that keeps data private, paid by subscription.	privacy-minded personal finance users	explicit	4	finance & money
+35474903	A GDPR compliance starter kit for startups: template terms, data-rights features and a checklist.	early-stage startups	implied	4	legal & government
+47701974	Structured LLM queries that keep track of who said what in a conversation.	LLM app developers	none	3	AI & ML tooling
+47711194	A macOS tiling window manager that floats apps by default and tiles only chosen ones.	Mac power users	none	2	productivity & work
+41947636	Control phone settings in natural language, such as stopping notifications from interrupting audiobooks.	smartphone users	none	3	consumer & home
+47664990	Identity verification that works for elderly people with SMS-only flip phones.	elderly people and their helpers	none	4	security & privacy
+43473418	Per-query and per-project hard limits on scanned bytes and slot hours in BigQuery to prevent surprise bills.	cloud data users	implied	4	devops & infra
+45179845	An ad blocker that allows only privacy-respecting unobtrusive ads without pay-to-whitelist deals.	web users	none	3	media & content
+45997788	An anonymized AI assistant in search that can discuss adult topics with safe-search off.	adult search users	implied	2	AI & ML tooling
+33330769	Data engineering dev environments that mirror prod, with quick infra spin-up and human-readable test data.	data engineers	none	3	data & analytics
+27708817	A polished desktop OS like classic Snow Leopard that still gets security updates and runs 32-bit apps.	longtime Mac users	explicit	2	consumer & home
+33166454	A service that provides a UK phone number forwarding calls and texts to a US number, with outbound from the UK number.	expats	implied	3	communication & social
+31496162	Opt-in break reminders and feed stops on social media for people with ADHD.	social media users with ADHD	none	3	health & fitness
+45251884	A reusable open-source baseline platform for student CubeSat projects.	university CubeSat teams	none	3	education & learning
+44336587	A cheaper ad-free YouTube tier without YouTube Music bundled.	YouTube viewers	explicit	3	media & content
+43384716	A tool that compares ACA health plan costs across incomes without repeatedly simulating enrollment.	health insurance shoppers	none	3	health & fitness
+44043612	A lightweight JS-to-executable tool between bundled Node binaries and QuickJS.	JavaScript developers	none	2	developer tools
+45552843	Open a link in a normal tab from private mode in mobile Firefox, including home screen shortcuts.	mobile Firefox users	none	2	consumer & home
+45837863	An archive service that stores AI summaries and key quotes of web pages.	readers of paywalled news	none	2	media & content
+45808185	An objective benchmark that scores overall OS responsiveness to measure bloat.	Windows users	none	2	consumer & home
+50450786	Cache Secure Enclave SSH key touch approvals for a session to make commit signing in rebases usable.	developers signing commits	none	3	security & privacy
+47970811	A silent air conditioner that can cool a bedroom at night.	light sleepers	implied	3	consumer & home
+49271425	Easy Windows packaging of apps with many C/C++ library dependencies.	cross-platform app maintainers	none	3	developer tools
+29155341	A search engine that lets you permanently exclude chosen domains from results.	web searchers	explicit	4	media & content
+42541776	An engineer-hiring matchmaking service, paid by employers, that intelligently matches both sides instead of AI cover-letter spam.	hiring managers and engineers	implied	4	hiring & careers
+32023749	Small, efficient light pickup trucks available in the US market.	US truck buyers	implied	3	travel & local
+34234155	A payment dispute mediator between merchants and processors like Stripe or PayPal that resolves held funds.	online merchants	explicit	4	finance & money
+47353890	A tool or machine that speeds up warping a loom and tensioning hundreds of warp ends.	hand weavers	implied	2	hardware & IoT
+46686034	A job site that limits applications per day so each one signals genuine interest.	job seekers and recruiters	none	3	hiring & careers
+40694819	A one-command way to import a GGUF model file into Ollama without writing a Modelfile.	local LLM users	none	1	AI & ML tooling
+42834849	A modern hardware description language with good debugging and verification that does not compile to unreadable SystemVerilog.	FPGA and chip designers	none	3	developer tools
+47431704	A consistent per-user temp directory convention on Linux used by all apps.	Linux developers	none	2	security & privacy
+48941674	Cooled steering wheels for cars in hot climates.	drivers in deserts	implied	2	travel & local
+45923017	Easier containerization of legacy Windows software so it can run on Linux.	IT teams with legacy Windows apps	implied	3	devops & infra
+42910756	Free software that exposes client process and user info to a gateway proxy for per-app filtering.	network administrators	none	2	security & privacy
+34820120	Awareness and testing of low-frequency PWM flicker in LED headlights.	night drivers	none	3	travel & local
+45467225	A phone app setting that confirms before dialing to prevent accidental calls, with the callee's local time.	elderly phone users	none	3	consumer & home
+48372007	Legal recourse for users when prediction markets change resolution rules.	prediction market users	none	3	legal & government
+23700348	Unbundled streaming TV where you pay only for the channels you want.	cord-cutters	explicit	3	media & content
+50332527	Open-source TV firmware, like DD-WRT for routers, for a private smart TV.	privacy-minded TV buyers	implied	3	consumer & home
+37442018	An AI tool that vectorizes logos into semantic SVG shapes like circles instead of raw paths.	designers	none	3	media & content
+38355641	Ready-made pf firewall configs for FreeBSD web servers that handle IPv6 and ICMP well.	FreeBSD admins	none	2	devops & infra
+31352301	Simple, reliable multi-device audio recording setup on Linux.	Linux audio engineers	none	3	media & content
+48664079	An SDK for building custom apps on cheap e-ink readers.	e-reader hobbyists	none	2	hardware & IoT
+47611206	A short, memorable way to write the node part of an IPv6 address while the network prefix fills in automatically.	network engineers	none	2	devops & infra
+43384185	Easy Nvidia closed-driver setup on NixOS, including external GPUs.	NixOS users with Nvidia GPUs	none	3	devops & infra
+47233475	An affordable local machine with HBM-class memory bandwidth for running large models.	local AI developers	implied	3	hardware & IoT
+39507781	Easy private key management for consumers that avoids lockout without SMS backdoors.	app users with 2FA	none	3	security & privacy
+43699465	A modern, batteries-included Python project template with a solid default toolchain.	Python developers	none	2	developer tools
+50109615	Large poster-size e-ink panels sold to hobbyists for tinkering.	DIY electronics hobbyists	implied	3	hardware & IoT
+35011450	Help tech workers start small farms: find land with a house, lease out acreage, and phase startup costs.	career changers starting farms	implied	3	other
+47496547	A coding assistant mode that pushes back on the user instead of agreeing when challenged.	developers using AI assistants	none	3	AI & ML tooling
+33780921	Well-moderated paid Mastodon instances with discovery feeds.	social media users leaving Twitter	explicit	3	communication & social
+38059270	Stable mobile OS APIs, and permission policies that allow new full-screen notification use cases.	small Android developers	none	3	developer tools
+20919177	Reliable automatic bank data import for plain-text accounting like ledger-cli.	plain-text accounting users	implied	4	finance & money
+11704259	Bands selling drone or pro video recordings of each concert to attendees.	concertgoers	explicit	3	media & content
+44595327	Pragmatic official language documentation between beginner tutorials and the technical reference.	developers learning a language	none	2	education & learning
+19709048	Funding for non-sensational, purely informational educational videos.	curious viewers	explicit	3	media & content
+48940948	AI-text detectors that do not falsely flag dictated, grammar-corrected writing.	people who dictate their writing	none	3	AI & ML tooling
+45924147	A simpler way than Helm charts to deploy self-written services to Kubernetes.	platform engineers	none	3	devops & infra
+44239639	An independent tracker that benchmarks hosted AI models over time to detect silent quality drops.	AI API users	none	3	AI & ML tooling
+48818288	Voice-based OpenStreetMap survey questions while cycling.	cyclists contributing to maps	none	2	travel & local
+32094838	Honest lifecycle environmental cost breakdowns for each power source.	energy policy readers	none	3	data & analytics
+48639396	Calendar and event apps that store and let users set an IANA time zone per event.	users scheduling across time zones	none	3	productivity & work
+48479966	An OS setting that disables accidental Insert overwrite mode.	keyboard users	none	2	productivity & work
+43717801	Editor feedback that shows where code gets SIMD vectorized and where it does not.	performance-focused developers	none	2	developer tools
+31285752	Public GraphQL APIs with predictable rate limits and direct queries to nested objects.	API integrators	none	3	developer tools
+47472319	A professional in-browser video editor replacing enshittified Clipchamp.	video creators	implied	3	media & content
+42047454	A good HP 50g calculator emulator on iOS.	engineers	none	2	education & learning
+37113255	Software jobs beyond microservices plumbing, and easier entry into embedded development.	software engineers	none	2	hiring & careers
+16368391	A German bank with a modern app, quick onboarding and reliable support.	bank customers in Germany	implied	3	finance & money
+49435967	A mini UPS with USB-C pass-through made to attach to a Mac mini or Mac Studio.	desktop Mac users	implied	2	hardware & IoT
+48546712	A well-known cybercrime hotline where victims can report scams and get help.	individuals targeted by cybercrime	none	3	security & privacy
+49203706	A Linux phone that works well with little tinkering.	privacy-minded phone users	implied	3	hardware & IoT
+44895007	A scalable hosted private Python package registry.	companies with private Python packages	explicit	4	developer tools
+47172062	A terminal three-way merge tool like JetBrains', launchable from the git CLI.	developers resolving conflicts	none	3	developer tools
+47443067	A safe, anonymous whistleblower platform for engineers reporting product decline.	tech employees	none	2	other

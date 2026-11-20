@@ -1,0 +1,88 @@
+46785640	An LLM gateway that accurately counts streaming tokens across providers and unifies their schemas for billing and logging.	teams running multi-provider LLM apps	implied	3	AI & ML tooling
+40099765	A text-centric feed with TikTok-level recommendation accuracy across many interests, without dopamine-driven design.	readers wanting calm discovery	none	3	communication & social
+45531508	Organize and search across many terminal tabs running parallel coding agents.	developers running multiple AI agents	none	3	developer tools
+27620453	A single subscription that removes ads across many sites instead of paying each separately.	web readers	explicit	3	media & content
+47648938	A backup plan and human support channel for businesses suspended or deindexed by Google.	small sites and Workspace customers	implied	4	SMB & back-office
+45870319	A CRM layer that helps sales teams explore their CRM data easily.	revenue operations teams	implied	3	SMB & back-office
+41818073	A game setting to preload everything with longer loading screens instead of in-game shader and streaming stutter.	PC gamers	none	3	media & content
+46400876	Guides and tools to revive end-of-life computers with Linux instead of discarding them.	owners of old computers	none	3	consumer & home
+41256000	Translate legacy COBOL into a theorem-proving language to prove the translated logic behaves the same.	organizations running critical COBOL	implied	3	developer tools
+49449615	Remove Shorts from the YouTube app so kids see only long-form videos.	parents	none	4	consumer & home
+46342138	A code-based CAD tool that handles precise gears, fillets and hard booleans, and exports OBJ.	makers and engineers	none	2	hardware & IoT
+47901936	A StackOverflow-like knowledge base where AI agents post questions they get stuck on and humans curate answers.	developers using coding agents	none	3	AI & ML tooling
+46997247	A standard Parquet-compatible file format optimized for cheap row-by-row appends.	data engineers	none	3	data & analytics
+31804467	Design tools and workflows built around fluid, responsive-first layouts instead of fixed viewport sizes.	product designers and engineers	none	3	developer tools
+45321219	A NotebookLM-like research tool with a proper markdown notes section with folders and easy text editing.	researchers and students	none	3	productivity & work
+48817317	A beginner-friendly mobile OpenStreetMap editor that can also add simple roads and footpaths.	casual map contributors	none	2	travel & local
+36197937	A mid-2000s style search engine where users can downvote SEO spam blogs.	web searchers	none	4	media & content
+36973338	Unified medical billing across ACA, Medicare Advantage and commercial payers for small providers.	healthcare providers	implied	3	health & fitness
+29850095	A reliable WebSub/pubsub hub service for push updates of RSS and podcast feeds.	podcast and feed app developers	implied	3	media & content
+42087741	Language support for fields that are assignable once after construction, then immutable.	TypeScript and imperative-language developers	none	2	developer tools
+41720387	Math teaching that gives students a concrete strategy for choosing which technique to apply to a problem.	math students	none	3	education & learning
+48495525	Pin package versions in Homebrew and Brewfiles to avoid forced upgrades.	Mac developers	none	3	developer tools
+29899783	Secure cross-platform messaging between iPhone and Android without asking friends to install a new app.	people with mixed-phone friends	none	4	communication & social
+43271879	An easy, reliable non-profit way to reach your home servers and cameras from anywhere.	home lab users	none	2	devops & infra
+47322001	More well-made mobile puzzle games that are not obnoxious with ads.	mobile gamers	implied	2	media & content
+45745403	A Safari setting that stops websites from forcing their native app to open.	iPhone users	none	3	consumer & home
+41236409	A simple Python dependency workflow like `dotnet add package` with clear root dependencies and project-scoped installs.	Python newcomers	none	4	developer tools
+46278628	An easy way for SaaS apps to complete SMS regulatory registration so alert texts get delivered.	SaaS developers sending SMS	implied	4	communication & social
+40275955	Mark highly upvoted but insecure Q&A answers with a clear warning so people stop copying unsafe code.	developers copying answers	none	3	developer tools
+39370219	A PWA wrapper for app stores that never needs rebuilds for each new target SDK requirement.	small open-source app maintainers	none	3	developer tools
+49789564	A universal "I need help" emergency button for rideshare passengers and drivers.	rideshare users	none	3	travel & local
+37137045	Cut the payment processing fees doctors pay to receive insurance reimbursements.	medical practices	implied	3	health & fitness
+36016493	An ethical slower-shipping option that protects warehouse and delivery workers.	conscientious online shoppers	implied	2	commerce & marketplaces
+40354504	A simpler container image build tool than Dockerfiles without hidden footguns or Bazel's complexity.	DevOps engineers	none	3	devops & infra
+44765872	Browse any regional Amazon store without switching account profiles, and filter by sellers in your country.	international shoppers	none	3	commerce & marketplaces
+46451246	A browser extension to open paywalled articles in an archive service with one click.	news readers	none	2	media & content
+26679031	A Mac file manager with real cut-and-paste and Enter-to-open behavior.	Mac power users	explicit	2	productivity & work
+44751318	A tool that explains from history why a laptop did not sleep and what drained the battery.	laptop users	none	3	consumer & home
+41650111	A federated social protocol that is simple to implement and keeps your identity independent of any server admin.	social app developers	none	3	communication & social
+41855171	Incremental data models with easy backfills and refactors across deep DAGs.	data engineers	implied	3	data & analytics
+45182797	Practical examples of building applications on CRDTs with deterministic reads.	distributed systems developers	none	2	developer tools
+43775774	New-entrant European suppliers for tanks, armored vehicles and air defense.	European defense buyers	explicit	3	hardware & IoT
+46124360	A live-coding music tool that maps onto traditional music and rhythm notation.	trained musicians	none	2	media & content
+48700974	Turn HDR off per app or on demand on phones.	phone video watchers	none	2	consumer & home
+49231588	An e-ink notebook that makes handwritten notes searchable and portable.	note-takers	implied	3	productivity & work
+40360826	Fuzz-tested distro upgrades that guarantee an upgraded system matches a fresh install.	Linux users	none	3	devops & infra
+46102327	A NixOS-style declarative OS built on FreeBSD or Illumos with native ZFS and dtrace.	advanced system administrators	none	2	devops & infra
+13652992	Mobile software for Amazon FBA resellers to track sourcing costs and cross-list products across marketplaces.	online resellers	explicit	4	commerce & marketplaces
+45389878	AI agents that compartmentalize information by context, like a professional keeps IP private.	AI agent builders	none	3	AI & ML tooling
+50319936	Sort a curated tech video site by recency to find recent gems.	tech video watchers	none	2	media & content
+42101090	Canvas text layout that handles vertical CJK, ligature-heavy scripts, Thai and good underlines.	web graphics developers	none	3	developer tools
+42950629	A news source with chronological archives and periodic summaries rather than drip-fed breaking updates.	news readers avoiding outrage	implied	3	media & content
+45450613	Move an old Windows XP installation, with all its apps, into a virtual machine.	people keeping legacy PCs	none	2	consumer & home
+44855049	Blind model comparisons on your own custom prompts and categories.	people choosing AI models	none	3	AI & ML tooling
+40243077	One-step cross-platform desktop app packaging and signing that users can install without warnings.	indie desktop developers	none	3	developer tools
+44634549	Good open-source XSLT 2+ and XPath 2+ processors besides Saxon.	XML developers	none	2	developer tools
+35515579	Let engineers try managing reports for a period without being locked into management.	technical staff	none	2	hiring & careers
+49634759	Affordable home iPhone repair without renting expensive vendor tools for glued parts.	DIY phone repairers	implied	3	hardware & IoT
+34189028	Online shopping with easy in-person returns and reachable human customer service.	online shoppers	implied	3	commerce & marketplaces
+37021525	Public transit routing that makes a 12-minute drive commute feasible without hour-long transfers.	suburban commuters	none	3	travel & local
+27350257	A healthy product that recreates the ritual of a short smoke break without nicotine.	ex-smokers	explicit	2	health & fitness
+28929926	A scoping template and process that helps consultancies align client stakeholders before a build.	product consultancies	none	2	SMB & back-office
+40248599	Make business compliance and bureaucracy easy for sole proprietors in Germany.	small business owners in Europe	implied	4	legal & government
+47741011	Apply keyboard layout and system settings to the phone's login screen.	multilingual phone users	none	3	consumer & home
+35874523	Hold tech companies accountable when privacy features like deleting sensitive locations fail to work.	privacy-conscious users	none	3	security & privacy
+49532881	A toothbrush that tracks which teeth were cleaned, or a mouthpiece that brushes all teeth at once.	people who want better brushing	none	3	health & fitness
+47766879	Fair pricing for backup services that does not drop features for cloud-synced folders.	backup service customers	implied	3	consumer & home
+49151004	A roughly 100B mixture-of-experts open model with about 10B active parameters for fast, smart local use.	local LLM users	none	2	AI & ML tooling
+38058445	Cheap, easy code signing and distribution for Windows apps, including open-source projects.	Windows software developers	implied	3	developer tools
+27279462	An auto-inliner tool that flattens layered abstractions so you can see where the real work happens.	developers reading enterprise code	none	3	developer tools
+36690670	Docks that reliably tunnel DisplayPort over USB-C without crashing the computer.	laptop users with docks	implied	3	hardware & IoT
+49823616	Easy private certificates on Android and homelab apps, and simple exposure without convoluted VPNs.	homelab users	none	3	devops & infra
+28361522	A combined app for live music fans: listening, tracking, tours, tickets, merch, and fan connections.	live music fans	none	3	media & content
+27267435	Make math notation searchable and explainable for self-learners.	self-taught engineers	none	3	education & learning
+45764887	Browser automation for AI agents that does not load the whole DOM into context.	developers using AI for web debugging	none	3	AI & ML tooling
+48760884	A single unified type-safe toolchain for web development.	web developers	none	3	developer tools
+48937688	More interactive textbooks like immersive linear algebra, for statistics, probability and robotics.	STEM learners	implied	3	education & learning
+45634593	A practical documentation framework that tells you how to build docs for a specific project.	technical writers and developers	none	2	developer tools
+48365440	A reliable Linux dev environment on Windows without file permission and filesystem breakage.	developers on Windows	implied	3	developer tools
+32957997	Battery-swap stations so EV drivers can swap a pack in minutes.	EV drivers	none	3	travel & local
+44715775	A new card payment network not controlled by Visa and Mastercard.	merchants and content platforms	implied	3	finance & money
+45991396	An immersive zoomable world history map showing what happened in each place at each time.	history and map enthusiasts	implied	3	education & learning
+38938104	An ahead-of-time CUDA/HIP C++ compiler targeting SPIR-V or DXIL so ML kernels run on any GPU.	ML inference engineers	implied	4	AI & ML tooling
+40789613	More regex crossword puzzles.	puzzle lovers	none	1	media & content
+48361128	A paid in-person ID verification service to recover locked or hacked social media accounts.	locked-out social media users	explicit	4	security & privacy
+47689677	Noise-cancelling earbuds that let horns and bike bells through.	cyclists and riders with earbuds	none	3	hardware & IoT
+40818820	Linux GPU drivers that work out of the box without power throttling.	Linux desktop users	implied	3	hardware & IoT
+22146386	A universal micropayment platform with low per-site prices.	web readers	explicit	3	media & content
