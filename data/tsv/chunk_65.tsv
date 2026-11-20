@@ -1,0 +1,76 @@
+34797418	An open-source interactive xBase-style table-oriented scripting environment for small data apps.	small-group app builders	none	2	developer tools
+40022951	A full desktop OS like Debian that runs from a docked Android phone with notification integration.	mobile power users	implied	3	consumer & home
+28094986	More walkable neighborhoods available in the US.	people who want walkable living	implied	3	travel & local
+45992997	A bounty market for hunting ransomware organizations.	companies hit by ransomware	none	2	security & privacy
+28007059	Tools that discover the actual schema variations inside a document database.	developers maintaining NoSQL data	none	3	data & analytics
+47147400	Transparency into leveraged buyout terms that hurt retailers.	investors and employees	none	2	finance & money
+43067601	A reliable way to verify that a login prompt is genuine and not a phishing relay.	enterprise users	none	4	security & privacy
+38808503	Use Microsoft Teams with multiple tenants at the same time.	consultants with several tenants	none	3	productivity & work
+37293901	Studies and tools to reduce risk in academic MATLAB codebases.	academic researchers	none	2	education & learning
+9814019	A crowdfunded open-sourcing of Sublime Text.	Sublime Text users	explicit	2	developer tools
+44264998	A good third mobile OS option besides iOS and Android.	smartphone users	implied	3	consumer & home
+32541797	A readable, modern alternative to Make for project task scripts.	developers	none	2	developer tools
+40316671	An easy way to run Android apps with Play Services on Linux desktops.	Linux desktop users	none	3	consumer & home
+42764472	A feasible alternative to Microsoft Office for corporate users.	corporate employees	implied	3	productivity & work
+49065573	Easy dry-run and recovery of iCloud Keychain for phones that may be wiped.	travelers with secure phones	none	3	security & privacy
+36533778	Hardware of Apple's quality with better, more open software.	laptop and phone buyers	implied	3	hardware & IoT
+26115614	Ad-free paid versions of the services people use.	privacy-minded users	explicit	3	media & content
+37971408	A non-echo-chamber online community for high-quality discussion on any topic.	curious discussers	none	3	communication & social
+45486713	A trail traffic dashboard for Salt Lake City to pick quiet times for trail runs.	trail runners	none	2	travel & local
+29909487	A cleaned-up TypeScript with sound types, no legacy JS quirks, and runtime-checked casts.	TypeScript developers	none	3	developer tools
+46366838	A modern tool showing current and accumulated transfer rate per socket and process.	sysadmins	none	2	devops & infra
+33717118	A central link library for academic papers backed by P2P storage, with older papers included.	researchers	none	3	education & learning
+44763489	Browser-native public-key identity that works across domains.	web developers	none	3	security & privacy
+9586891	MacBook Pro configurations with 32-64 GB of RAM.	pro laptop users	explicit	3	hardware & IoT
+45424780	Git-based comments for static sites with auth, moderation and spam control.	static site bloggers	none	3	media & content
+45293601	A way out of templating scripts inside markup config files like YAML.	DevOps engineers	none	3	devops & infra
+46704178	Simpler company formation and operation in Germany for small businesses.	small business founders in Germany	implied	4	legal & government
+33082570	Frictionless pay-per-consumption payments to content creators, like paying per podcast episode.	content consumers	explicit	4	media & content
+42638373	A dropdown of example programs in the web editor of a graphics tool.	graphics hobbyists	none	1	developer tools
+18431282	Predictable international voice and data roaming tied to a single messaging number.	travelers and expats	explicit	3	travel & local
+47111756	An audit trail that traces actions taken by autonomous AI agents back to the human who authorized them.	users of autonomous agents	none	4	AI & ML tooling
+40826589	A Craigslist saved-search filter that hides re-posts and cross-posts unless the price drops.	used goods hunters	none	3	commerce & marketplaces
+26266688	Transparent diagnosis of why legitimate transactional emails land in Gmail spam.	SaaS businesses	implied	4	communication & social
+39748122	Cheap home blood tests for vitamin D, calcium and other minerals.	people self-managing health	implied	3	health & fitness
+21571516	Build tools that print the actual underlying commands being executed.	developers	none	2	developer tools
+44161321	An open-source "everything" workspace combining chat, kanban, bots, dashboards and notebooks.	small teams	none	3	productivity & work
+22245283	A competent, affordable alternative to SAP ERP with good UIs and support.	enterprises using SAP	implied	4	SMB & back-office
+38091244	A quick way to cancel saving a duplicate download in Firefox.	Firefox users	none	1	consumer & home
+40412208	An easy way for AI apps to bill a modest surcharge on top of LLM usage costs.	AI app developers	implied	4	AI & ML tooling
+49651055	A service that tracks real-world coding agent quality over time.	developers using coding agents	none	3	AI & ML tooling
+46841988	An ergonomic split keyboard combining Glove80's design with a built-in mouse.	developers with RSI concerns	implied	2	hardware & IoT
+48574466	Command-line tools split into a scriptable library plus a CLI, so scripts don't parse stdout.	tool scripters	none	3	developer tools
+44083651	Real metrics on whether LLM-generated code is more efficient than writing it yourself.	senior engineers	none	3	AI & ML tooling
+46547063	An open local TTS model with voice cloning as good as ElevenLabs, including non-English languages.	TTS users	implied	3	AI & ML tooling
+26646686	A privacy VPN available in all countries.	international VPN users	explicit	2	security & privacy
+41647902	Regulations requiring 240V charging at all parking spots.	EV owners	none	3	travel & local
+44735770	Ways to support dragonfly populations for natural mosquito control.	homeowners	none	1	consumer & home
+47150924	A standard separate log or debug output stream between stdout and stderr.	CLI developers	none	2	developer tools
+41202440	Standard min and max functions in the C standard library.	C programmers	none	1	developer tools
+26836801	A polished native app that repackages daily science news in an Axios-like readable format.	science-curious readers	explicit	3	media & content
+41587435	Cheap hosting for many tiny rarely-used self-hosted apps without per-app pricing.	self-hosting hobbyists	implied	3	devops & infra
+46243162	A public database of corporate ASNs and IP ranges to identify non-household traffic.	website operators	none	3	security & privacy
+48276423	Phone OS updates that don't need 13-15 GB of free storage.	iPhone owners with small storage	none	3	consumer & home
+43999421	An xarray-style labeled array API built on top of PyTorch.	scientific Python developers	none	2	data & analytics
+15636246	Easily downloadable government geospatial data instead of clunky portal downloads.	geospatial developers	none	3	data & analytics
+28576387	Flash Fill-style example-based data transformation in other spreadsheet apps.	spreadsheet users	implied	3	productivity & work
+43196928	An easy way to request a Wayback Machine snapshot for historical preservation.	web archivists	none	1	media & content
+47345683	An AI-based replacement for Jira.	software teams	implied	4	productivity & work
+45435313	Separate work and personal profiles for shell history search.	developers	none	2	developer tools
+45331769	Easy rate limiting for public dataset downloads without building auth infrastructure.	public data hosts	none	3	devops & infra
+43789848	A streaming sound mix that emphasizes dialogue over loud music and effects.	home viewers	none	4	media & content
+47347811	Dual-layer rewritable optical discs for consumers.	archivists	implied	2	hardware & IoT
+44499847	Affordable DIY tools for tinkering at the molecular scale.	hobbyist scientists	implied	2	hardware & IoT
+41771914	Long-term firmware support for IoT gateways deployed for decades.	operators of large IoT deployments	implied	4	hardware & IoT
+40232620	A Thonny-like beginner IDE for Lua and LÖVE as a step up from Scratch.	young programmers	none	2	education & learning
+46026774	An easier way to authorize a new device's hardware-backed SSH key on all servers you use.	developers with many servers	none	3	security & privacy
+28323632	A good options screener for retail traders.	options traders	explicit	3	finance & money
+39046088	Trust-based scan-as-you-go self-checkout like Switzerland's, instead of weight-checking every item.	shoppers in the US and UK	none	3	commerce & marketplaces
+43446818	More real-life examples of neurosymbolic programming languages compared to Prolog.	language learners	none	1	education & learning
+44150316	A modern Atari ST clone keyboard computer with HDMI, USB-C and a three-button mouse.	retro computing fans	implied	2	hardware & IoT
+37852647	Concrete side-by-side result comparisons between paid search and free alternatives.	search engine shoppers	none	2	media & content
+39258270	A small, repairable, maintainable music player with modern storage and battery.	dedicated music player users	implied	2	hardware & IoT
+26329178	A paid Google search tier with advanced features and better results.	power searchers	explicit	3	media & content
+45998212	Linear sorting by column and up-to-date data on GitHub language stats.	language trend watchers	none	1	data & analytics
+36676035	Easy HTTPS certificates for services on private local networks.	developers and homelabbers	none	3	security & privacy
+26994719	Higher-end streaming devices with no load times.	streaming TV viewers	explicit	2	hardware & IoT
