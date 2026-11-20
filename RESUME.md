@@ -8,7 +8,7 @@ _Last updated: 2026-11-20._
 |---|---|
 | 1. Fetch (`fetch.py`) | Done. 38,273 comments from 37 search phrases, 2007-2026, in `data/comments.jsonl.gz` |
 | 2. Extract (`ralph.py`, Pro-only) | **57 of 256 chunks done.** 8,550 comments read, 5,511 signals in `data/signals.jsonl` |
-| 3a. Cluster (`local_cluster.py`) | Re-run on the 5,511 signals: 570 clusters of 3+ commenters |
+| 3a. Cluster (`local_cluster.py`) | Re-run on the 5,511 signals: 713 clusters of 3+ commenters |
 | 3b. Idea cards (`cards.json` + `make_ideas.py`) | 36 hand-written cards covering 44 clusters, plus 40 draft clusters with no card yet |
 | 4. Site (`build_site.py`) | Built: `site/index.html` (ideas) and `site/signals.html` (raw signals and rejected comments) |
 
@@ -44,7 +44,7 @@ In a new Claude Code session with this repo:
 ```bash
 pip install scikit-learn fastembed
 gunzip -k data/comments.jsonl.gz
-python ralph.py status        # should say 57/256 chunks done
+python ralph.py status        # should say 72/256 chunks done
 ```
 
 Then start the loop with this prompt:
