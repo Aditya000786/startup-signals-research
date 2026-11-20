@@ -1,0 +1,95 @@
+44943181	A native iPad app for running classic Mac OS with touch-friendly controls.	retro Mac fans	none	1	consumer & home
+20883654	Home robots for gutter cleaning, driveway leaf sweeping and rodent control in garages.	homeowners	explicit	3	hardware & IoT
+44465346	A rigorous way to measure and compare tech product reliability over time.	consumers and tech journalists	none	2	data & analytics
+45483324	An easy cross-platform local network file sharing protocol that is simpler than SMB and NFS.	home and small office users	none	3	devops & infra
+25617335	Collaboration tools where you can easily list your own documents and do code review intuitively.	Atlassian users	implied	3	productivity & work
+26881001	A clear commercial license for on-prem Grafana to avoid AGPL concerns.	enterprise IT teams	explicit	3	devops & infra
+44987655	Email address portability between providers, like phone number porting.	email users	implied	4	communication & social
+47420571	Fast light e-bikes legal to ride at 40 mph with a normal driver's license.	commuters	none	3	travel & local
+37859630	A generic control plane that generates and pushes per-instance configuration to backend services.	platform engineers	none	3	devops & infra
+48501571	Tools that keep AI agents consistent with style guidelines across large projects.	developers using coding agents	none	3	AI & ML tooling
+46019152	A browser that spoofs a complete realistic fingerprint profile from common presets.	privacy-minded web users	none	3	security & privacy
+34222172	A Windows debloater that explains what each component does and checks that removing it won't break updates.	Windows power users	none	3	consumer & home
+45938833	A style guide for clear mathematical writing.	math writers	none	1	education & learning
+46032769	Faster, more reliable page monitoring that tracks changes to a specific section of a web page.	professionals tracking regulations	explicit	4	productivity & work
+42476713	A tool that improves vague project requirements during grooming meetings.	product and engineering teams	none	3	productivity & work
+47055152	Migrate a whole Discord community, with channels, history, roles and emoji, to another platform.	online community admins	implied	4	communication & social
+39818329	Python dependency specs that can encode GPU-specific PyTorch download URLs.	Python ML developers	none	3	developer tools
+48362859	Export executable course lectures to PDF for offline reading.	ML students	none	1	education & learning
+40928830	A convention for attaching the prompt text to AI-generated images.	readers of AI-illustrated content	none	1	media & content
+42225767	An affordable Spotify-like bundle for high-quality journalism with personalized recommendations.	news readers	implied	4	media & content
+19788284	A CI server where plugins and core can be upgraded safely without breaking.	Jenkins users	implied	4	devops & infra
+39830231	One-time-purchase versions of pro creative software like Photoshop for casual users.	hobbyist photo editors	explicit	3	media & content
+46974412	Proper alpha-transparency layer editing in Windows Paint.	casual image editors	none	1	media & content
+45212372	Swappable batteries without tools on handheld Linux computers.	handheld computer owners	none	1	hardware & IoT
+39640334	Network security tools that can classify encrypted traffic from Google, Apple and Microsoft for compliance.	corporate network security teams	implied	4	security & privacy
+45287566	A Slack alternative with good search, stable mobile apps, and reminders, at fair prices.	teams facing Slack price hikes	implied	4	communication & social
+34940659	Pay-as-you-go satellite messaging for emergencies without a yearly subscription.	occasional outdoor adventurers	implied	3	travel & local
+23687494	A payment method for subscriptions that doesn't expire with plastic cards, front-loads fraud checks, and offers opt-in escrow.	SaaS businesses	implied	4	finance & money
+13929293	Crowdsourced ad-skipping for podcasts with paid feeds that pay podcasters.	podcast listeners	explicit	3	media & content
+22406219	AI code completion that works behind corporate proxies and can activate licenses there.	enterprise developers	explicit	3	developer tools
+45087980	A safe, non-addictive nicotine-like focus aid for adults with ADHD.	adults with ADHD	implied	3	health & fitness
+47162212	A simpler Google Cloud auth model for AI API keys with clear scoping.	developers using Gemini	none	3	devops & infra
+45911351	Syntax-aware merges built into git for CSV and list-style edits.	developers	none	3	developer tools
+40999937	A positive, public way to acknowledge leaving a PhD program.	PhD students	none	2	education & learning
+44942563	A TypeScript version of a code-first alternative to MCP tool definitions.	AI agent developers	none	2	AI & ML tooling
+33425342	Union contract templates protecting artists against being replaced by AI.	working artists and musicians	implied	3	legal & government
+41832351	A beautifully built split or ergonomic keyboard with HHKB-level build quality.	keyboard enthusiasts	implied	2	hardware & IoT
+42809239	Attractive diffusion covers for recessed ceiling lights that soften harsh light.	home office workers	implied	3	consumer & home
+40445004	A C++ compiler setting that disables unsafe language features and enforces good practices.	C++ teams	none	3	developer tools
+36172386	Evidence-based guides on which homelessness spending actually works.	policymakers	none	3	legal & government
+25188372	A libre-hardware 13-inch laptop with modern performance, even at a premium price.	open-hardware enthusiasts	explicit	3	hardware & IoT
+25324692	Low-fee, simple international payments without archaic account numbers.	international payers	implied	3	finance & money
+45469085	Exclude optional dependencies at pip install and stub them at runtime.	Python developers	none	2	developer tools
+28972982	Recovering a Google account and payments when flagged as fraud, without losing email.	Google users	none	4	security & privacy
+43488000	A widely supported tabular file format using ASCII unit and record separators, avoiding CSV escaping.	data engineers	none	2	data & analytics
+45243587	A proper JavaScript alternative to Jupyter notebooks that runs top to bottom.	JS data analysts	none	2	data & analytics
+28412518	Project management with good subtasks, a WYSIWYG editor and easy tables for non-technical users.	software teams	none	3	productivity & work
+27707587	A way for individual constituents to get real answers from their representatives.	voters	none	3	legal & government
+45471677	Shared, version-aware Electron runtimes so apps don't each bundle a copy.	desktop users	none	3	consumer & home
+28133611	A Linux port of iTerm.	Linux terminal users	explicit	2	developer tools
+26396816	Free access to ISO standards like the C++ standard.	developers	none	2	legal & government
+47343872	Apple Health exports that include more metrics, like breathing disturbances.	health data enthusiasts	none	2	health & fitness
+44857043	Clear, practical getting-started documentation for Microsoft Entra ID SSO.	developers integrating SSO	none	3	developer tools
+47321007	A Postgres plugin for fast simple analytics without a separate database.	Postgres users	implied	3	data & analytics
+48117661	Fast, transparent photo sync and downloads from iCloud.	Apple users	none	3	consumer & home
+46581012	Good guides on using LLM coding tools effectively and sustainably.	developers adopting AI	none	3	AI & ML tooling
+4060503	A true tiling window manager for macOS.	Mac power users	explicit	3	productivity & work
+45308336	A lightweight native mobile version of Obsidian that starts fast with big vaults.	Obsidian mobile users	none	3	productivity & work
+36350959	A cloud provider with consistent, well-integrated services and good docs.	cloud developers	implied	3	devops & infra
+46642602	Clear licensing for open TTS models with GPL dependencies like eSpeak-NG.	developers using TTS	none	2	AI & ML tooling
+42340290	Public awareness and disruption of health insurance billing practices that skim doctors' revenue.	doctors	none	4	health & fitness
+30759863	A pro photo workflow that produces HDR HEIC images.	photographers	none	2	media & content
+25088827	A single schema that drives database, types, validation and CRUD API generation.	backend developers	none	4	developer tools
+28939945	A code CAD tool combining CSG modeling with proper fillets, chamfers and intuitive face selection.	makers using code CAD	none	3	hardware & IoT
+44922629	Tools to mix event-sourced and non-event-sourced parts within one system.	backend architects	none	2	developer tools
+45687669	Accurate room-level presence detection that works even when people are still.	smart home users	none	3	hardware & IoT
+27173550	A thoughtful, profile-focused dating platform like early OkCupid.	singles	implied	3	communication & social
+45427317	Keyword blocking in news aggregator apps to hide stories about specific people.	news readers	none	2	media & content
+44780728	A static-site social media platform that works in 90s browsers.	retro web fans	none	1	communication & social
+45423662	An open-source license that forbids use in weapons development.	open-source developers	none	2	legal & government
+39229094	More turn-based, chess-like tactics games like Advance Wars for portable play.	strategy gamers	implied	2	media & content
+33357267	A GNOME default theme with dense desktop layouts rather than phone-like spacing.	Linux desktop users	none	2	consumer & home
+43392690	Product demo and case studies on lease-negotiation tools instead of funneling users into sales calls.	renters evaluating tools	none	1	commerce & marketplaces
+28869082	A CI system that forces containerized, reproducible builds instead of bespoke Groovy scripts.	DevOps teams	none	3	devops & infra
+48884548	A cross-platform native GUI framework for Go that doesn't need cgo.	Go developers	none	2	developer tools
+29285413	Streaming that lets you pay only for the content you want, with good curation.	streaming viewers	implied	4	media & content
+34599645	Electric cars with high-quality interiors and physical controls, without big touchscreens.	car buyers	implied	3	travel & local
+27266391	Flashcards covering 90%+ of AWS certification exam material.	AWS certification candidates	explicit	3	education & learning
+26563371	Automatic HTTPS certificates for LAN-only embedded devices without internet.	embedded device makers	none	3	security & privacy
+49678397	Easy sandboxing of untrusted apps like Zoom on Linux.	Linux users	none	3	security & privacy
+46157938	Phones that let owners add their own bootloader signing keys.	phone owners	none	3	hardware & IoT
+27855050	A book on mathematical descriptions of cartographic visualizations.	cartographers and data viz developers	explicit	2	education & learning
+27909564	Cloud billing with hard monthly spending caps that are actually enforced.	cloud developers	implied	4	devops & infra
+25366850	A FOSS license requiring companies above a revenue threshold to pay.	open-source maintainers	implied	3	legal & government
+39418298	A way for designers to make sweeping style changes without touching dozens of Tailwind component files.	design system designers	none	3	developer tools
+25045330	A tool that exports a prototype spreadsheet into a full application with named functions and a UI wizard.	finance analysts	implied	4	productivity & work
+38182083	Automated packaging of software across many Unix distributions.	open-source developers	none	3	developer tools
+48567495	A playbook for online marketing aimed at indie hackers.	indie founders	implied	2	SMB & back-office
+48433087	A raw SVG copy option in animated icon libraries.	front-end developers	none	1	developer tools
+40951224	A smooth programming environment setup on Windows for learners, without PATH and antivirus problems.	students learning to code	none	3	education & learning
+30473912	More comprehensible-input resources for learning Dutch.	Dutch learners	none	2	education & learning
+28315105	Issue tracking that handles tasks blocked by multiple other issues as easily as a spreadsheet.	project managers	none	2	productivity & work
+46536951	Back up iCloud Photos with album structure preserved, including from Windows.	iCloud Photos users	implied	3	consumer & home
+30327009	Reliable mail-order pharmacy refills without unexplained interruptions.	people on regular prescriptions	implied	4	health & fitness
+34193094	A simple, clean interface for Nix development environments.	Nix users	none	3	devops & infra

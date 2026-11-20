@@ -1,0 +1,86 @@
+42758545	A CLI tool for downloading subtitles from YouTube and other video sites.	developers and video researchers	none	1	media & content
+44325265	A shared library of freely available AI-generated videos and songs to avoid wasteful regeneration.	content creators	none	2	media & content
+26227908	AI summaries of product reviews from trusted sources with fake-review detection.	online shoppers	implied	4	commerce & marketplaces
+45673019	A comparison table of offline chess engine frontends.	chess players	none	1	media & content
+47741197	Service level agreements and transparent quotas for paid AI coding plans.	paying AI subscribers	implied	4	AI & ML tooling
+26867439	High-integrity paid tech journalism.	tech professionals	explicit	3	media & content
+46851560	A safe way for companies to ship AI-generated code at scale without catastrophic failures.	engineering organizations	implied	4	AI & ML tooling
+38911966	Government guidance and solutions for draught-proofing and insulating old stone houses without causing damp.	owners of old homes	implied	4	consumer & home
+40245417	Crisp, correctly scaled WebGL text rendering across browsers and fractional display scaling.	web graphics developers	none	2	developer tools
+41918720	Browser container groups that always open listed domains in an isolated container.	privacy-minded browser users	none	3	security & privacy
+29716175	Less boilerplate for sum types and type guards in TypeScript.	TypeScript developers	none	2	developer tools
+38292030	Cheap ways for supporters to contribute server capacity to nonprofit services like Signal.	privacy app supporters	implied	2	communication & social
+43403980	An easy toggle between original and translated text in browser translation for language learners.	language learners	none	2	education & learning
+48133920	AI tools that handle bookkeeping and admin for very small businesses.	micro-business owners	implied	4	SMB & back-office
+37947906	A paid Firefox Developer Edition subscription that funds development, with better devtools like postMessage tracing.	web developers	explicit	3	developer tools
+44342649	File IO APIs that handle flaky network drives and files changing mid-operation.	app developers	none	2	developer tools
+39796461	Archive links that work with privacy DNS resolvers.	privacy-minded readers	none	2	media & content
+46171920	An integrated open-source alternative to Mathematica.	scientists and engineers	implied	3	education & learning
+42629438	Tools that generate meshes and PBR materials from controlled photography to simplify asset authoring.	game artists	implied	3	media & content
+47880936	Easy CORS setup in development environments without hacks leaking into production.	web developers	none	3	developer tools
+42035710	Cache and reuse Python virtualenvs in CI, keyed by Python version and dependencies.	CI engineers	none	3	devops & infra
+48783111	Purchasable video recordings of expert programming courses.	programmers	explicit	2	education & learning
+27008076	HDL tooling that makes timing closure manageable when designs are refactored.	FPGA developers	none	2	hardware & IoT
+33798999	A no-build web workflow with TypeScript that scales.	web developers	none	2	developer tools
+34961058	A phone forwarding service with random disposable numbers, like Hide My Email.	privacy-minded consumers	implied	3	security & privacy
+37048505	Structured logging with extra context fields and color in IDE debug consoles.	app developers	none	2	developer tools
+47006357	Desktop apps that don't require installing Java manually.	developers trying new tools	none	1	developer tools
+37223618	Air purifiers that accept cheap standard furnace filters.	home air quality buyers	implied	3	consumer & home
+48278831	Reliable smart home device pairing and voice control that work consistently.	smart home owners	implied	4	hardware & IoT
+13699931	Seamlessly run occasional Windows apps on Linux.	Linux users	explicit	3	consumer & home
+46448990	A small home pressure-washing gadget for dishes, like those in big restaurants.	home cooks	none	2	consumer & home
+24987890	A retained-mode GUI library as easy to embed in games as Dear ImGui.	game and graphics developers	none	3	developer tools
+40800773	Built-in vertical sidebar tabs in Firefox.	browser power users	none	3	consumer & home
+24947902	A practical guide for first-time founders: health insurance, corporate cards, tools and costs.	aspiring founders	implied	3	SMB & back-office
+38655174	Phone settings that stay off after OS updates, plus an easy reboot option on iOS.	privacy-minded iPhone users	none	3	consumer & home
+46661148	A Hacker News-style community for data science and ML content.	data practitioners	none	2	communication & social
+49758297	Passkeys that work smoothly across multiple people, accounts and devices.	families and multi-device users	none	4	security & privacy
+27556049	A parallel single-file copy tool that saturates fast NVMe IOPS.	database administrators	none	2	devops & infra
+44592264	A small phone with physical keys that still runs WhatsApp, banking, payments and government apps.	dumb phone seekers	implied	3	hardware & IoT
+25547576	Inline images in terminals written directly to stdout.	terminal users	explicit	2	developer tools
+49716605	Easier Google OAuth app publishing so personal tools don't need constant re-auth.	indie developers	none	3	developer tools
+22492389	Staging environments with pricing tied to production use rather than a high flat fee.	startup engineering teams	explicit	3	devops & infra
+29379088	An 8GB version of the keyboard-integrated Raspberry Pi.	Raspberry Pi users	implied	1	hardware & IoT
+41444300	Recourse for gamblers when online casino games are rigged and companies won't respond.	online gamblers	none	3	legal & government
+37363599	Fitting, non-clickbait headlines on news aggregators.	news readers	none	1	media & content
+34180816	Custom search shortcuts that do multi-site actions, like opening a URL in several archives at once.	power searchers	none	2	productivity & work
+37597821	Clear documentation for configuring VLAN-aware Linux bridges.	Linux network admins	none	2	devops & infra
+47020110	A blog directory filter that hides paywalled sites.	blog readers	none	2	media & content
+29958395	Faster, more reliable Bayesian inference tools than MCMC that don't need deep technical expertise.	scientists using statistics	none	3	data & analytics
+45407572	Evidence-based anti-bullying programs for schools.	schools and parents	none	3	education & learning
+46239171	An orchestration tool that handles Google Sheets auth, hosting and monitoring for small automations.	automation builders	implied	3	productivity & work
+19303159	A wildcard phone number service that forwards to your mobile and tracks which company leaked your number.	privacy-minded consumers	explicit	3	security & privacy
+27720412	RSS feed support in Pocket.	read-it-later users	none	2	media & content
+44441808	Easy auto-posting to social media for small businesses.	small business owners	implied	3	SMB & back-office
+47998725	An easy way to geolocate IP addresses by US state for compliance blocking.	website operators	none	3	legal & government
+42549505	Accessible vehicle service documentation and diagnostics for fleet managers.	fleet managers	none	3	travel & local
+45708566	A uBlock filter list that hides AI widgets on websites.	web users	none	3	media & content
+37799974	An open GPU compute platform as easy and powerful as CUDA.	GPU developers	implied	4	AI & ML tooling
+33625853	Simple EVs with physical buttons and traditional design, not tablet-on-wheels.	EV buyers	implied	3	travel & local
+16242486	A fast native paid desktop email client that isn't an Electron memory hog.	email power users	explicit	3	communication & social
+47403990	Affordable, simple industrial control systems instead of expensive SCADA stacks.	small industrial operators	implied	3	hardware & IoT
+20842080	Faster Google Docs and Gmail performance in Firefox.	Firefox users	none	3	consumer & home
+40141909	Permanently block YouTube videos matching specific keywords or people from recommendations.	YouTube viewers	none	3	media & content
+30907016	Guaranteed paid apprenticeships from college degree into software jobs.	new graduates	none	3	hiring & careers
+40156244	A self-hosted newsletter platform as easy as Substack without platform risk.	newsletter writers	implied	3	media & content
+40944910	Easy search through huge Usenet archives.	Usenet users	none	2	media & content
+48277039	A reading interface that pairs programming books with an AI tutor.	developers learning from books	none	3	education & learning
+34892200	High-core-count ARM laptops and small desktops with serious hardware.	power users	implied	3	hardware & IoT
+26524006	A device that alerts you when a self-driving beta car is nearby.	cautious drivers	explicit	2	travel & local
+43750639	Use action cameras and drones without mandatory account registration.	camera and drone buyers	none	3	hardware & IoT
+42026959	A bridge tool that moves Excel users to formal code with testing and type safety while keeping spreadsheet visibility.	Excel power users	implied	4	productivity & work
+48034506	A mostly 3D-printable mini robot dog kit.	robotics hobbyists	none	2	hardware & IoT
+32695042	Responsive human support for Amazon sellers on bans, trademark infringers and listing hijacks.	Amazon brand sellers	implied	4	commerce & marketplaces
+11065448	A "Netflix for text": one subscription to many publications.	news readers	explicit	3	media & content
+48325686	A camping and fishing mode in open-world games.	casual gamers	none	1	media & content
+45478233	Digital estate and account recovery help for people with declining mental faculties.	caregivers	implied	4	security & privacy
+36458610	A keyboard layout optimized for typing common letter sequences with alternating fingers.	typists	none	2	productivity & work
+40198431	Offline fallback for retail point-of-sale and fulfillment when systems are down after a cyberattack.	retail chains	implied	4	SMB & back-office
+28611379	A keyboard for the Framework laptop with a trackpoint and three buttons.	ThinkPad fans	explicit	3	hardware & IoT
+46789897	Live video effects that can be used as a virtual camera in Meet and Zoom.	video call users	none	2	media & content
+40270005	Practical guides for debugging deep reinforcement learning when training goes wrong.	RL practitioners	none	3	AI & ML tooling
+26375355	Privacy-friendly web analytics with client access limited to their own sites.	web agencies	explicit	3	data & analytics
+43140196	A workflow automation platform with a built-in low-code UI builder for human-in-the-loop steps.	operations teams	implied	3	productivity & work
+45415633	AI coding assistants that remember your library and language versions.	developers using AI	none	3	AI & ML tooling
+46641756	File-type search in the Wayback Machine, like all .s3m files on a site before 1998.	digital archaeologists	none	2	media & content
+43792515	An in-memory Kafka server for simple testing.	backend developers	none	2	developer tools
