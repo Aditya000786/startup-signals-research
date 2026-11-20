@@ -1,0 +1,90 @@
+46245327	iPad users lack a sane default window management model	iPad power users	implied	3	productivity & work
+41925521	E2E test teams cannot easily diagnose why flaky tests fail across service logs	QA and platform engineers	implied	4	developer tools
+46871309	Single-user Linux desktops suffer from login-manager state splits for WiFi and power settings	Linux desktop users	implied	2	productivity & work
+26137454	No-code builders lack source control and become a mess once custom code is needed	no-code agencies	implied	4	developer tools
+41916343	Platforms struggle to moderate subtle hate speech and evolving dog whistles automatically	trust and safety teams	implied	3	AI & ML tooling
+45505085	Small-business IT managers find Linux laptops hard to enroll with compliance and policy enforcement	SMB IT managers	implied	4	devops & infra
+43246396	Users want carefully crafted software that does not nag them	software users	implied	2	productivity & work
+47540032	Self-taught math learners want rigorous material taught with intuitive visualizations	self-taught math learners	implied	3	education & learning
+46188821	Engineers struggle with real-world DFTs on missing, uneven or noisy samples	signal processing engineers	implied	3	data & analytics
+41353165	Small defense contractors face cash-flow gaps from slow government payments and FAR rules	small defense contractors	implied	4	legal & government
+30570841	Readers would pay for a clean-reader service for articles across many sources	web readers	explicit	3	media & content
+30175781	Designers would pay for premium customizable 3D icon sets with animated exports	designers	explicit	2	media & content
+44639100	Rural homeowners face $50-100k grid connection costs and want off-grid solar plus storage	rural homeowners	implied	4	consumer & home
+48716651	Job seekers are scored by unreliable LLM resume screeners	job seekers	implied	3	hiring & careers
+49572334	Hobbyists designing electronics want a service that safety-reviews their schematics	electronics hobbyists	implied	3	hardware & IoT
+41801992	Managers get swamped by approval requests when automated processes route exceptions to them	operations managers	implied	3	SMB & back-office
+45698738	Users want social sharing with clear privacy tiers from private to broadcast	social media users	implied	2	communication & social
+47664645	Apps lack a clean OS-level way for browsers to detect if a desktop app is installed	desktop app developers	implied	2	developer tools
+46105211	Physics simulation developers find implementing fast N-body methods painful	scientific programmers	implied	2	developer tools
+49798636	Teams face a painful SHA-256 git migration that breaks references and signatures	engineering teams	implied	3	developer tools
+41698214	Indie hackers want tools that mine YouTube comments for product pain points	indie hackers	implied	2	data & analytics
+47703321	Developers have no good way to make structured, machine-first queries to LLMs	AI app developers	implied	3	AI & ML tooling
+46003671	Teams struggle to architect RAG over 10M+ documents	AI engineering teams	implied	3	AI & ML tooling
+44532779	Postgres users find LISTEN/NOTIFY does not scale for queues	backend developers	implied	3	data & analytics
+47456351	AI editor users face bugs, inefficient token use and missing side-by-side review	AI-assisted developers	implied	3	developer tools
+45983800	Users want email clients with powerful regex filtering and a good iOS client	power email users	implied	3	communication & social
+45846771	Solo developers lack clear guidance on cheap, secure deployment, hosting and scaling	solo developers at startups	implied	4	devops & infra
+49677927	Workers want separate identities for work apps and personal payroll and benefits portals	employees	implied	3	security & privacy
+46235747	Managers lack the support and courage to push back on harmful decisions from above	middle managers	implied	2	hiring & careers
+41528302	Users want natural-language search over aerial and street imagery with shareable URLs	urban researchers	implied	2	data & analytics
+32300947	Language learners would pay for a dictionary app that shows word derivations and structure	language learners	explicit	2	education & learning
+45522055	Drivers lack an easy, reliable way to cut engine power in an emergency	drivers	implied	2	hardware & IoT
+49698805	Engineers processing large telemetry data find Rust auto-vectorization a nightmare	performance engineers	implied	3	developer tools
+44265623	C++ developers find high-performance allocators painful to build and statically link	C++ infrastructure engineers	implied	2	developer tools
+42727440	RSS readers waste time deciding whether items are worth reading and want curated highlight feeds	RSS readers	implied	3	media & content
+29165276	Users would pay to not be served ads at all	ad-averse users	explicit	2	media & content
+43671583	Office workers stuck on Windows find everyday tasks needlessly complicated	office workers	implied	2	productivity & work
+41394000	Teams find auto-generated architecture diagrams rarely match how maintainers see the system	software teams	implied	3	developer tools
+48395373	Ops teams want a cron that supports business-calendar schedules like the last Friday of the month	sysadmins	implied	2	devops & infra
+45613035	Aerospace engineers cannot access NASA's institutional data and knowledge	aerospace engineers	implied	3	education & learning
+41387850	Developers want one modern software design resource focused on typed functional programming	software engineers	implied	2	education & learning
+44382978	Organizations find replacing Microsoft Active Directory's integrated ecosystem nearly impossible	enterprise IT teams	implied	4	devops & infra
+45397077	Households want a simple stereo-style audio streamer that keeps working for decades	home audio users	implied	3	hardware & IoT
+44121179	Data scientists want to fork background experiment runs from Jupyter notebooks and merge results	data scientists	implied	3	data & analytics
+44110520	Developers find LLMs ignore requirements and break existing structure even on simple tasks	developers using AI	implied	3	AI & ML tooling
+46205475	Parents struggle to manage kids' gaming permissions across multiple account systems	parents of gamers	implied	4	consumer & home
+37555736	Non-technical support staff cannot inspect SQLite app data	app support teams	implied	2	developer tools
+45751800	App developers resent paying platform fees for distribution outside the store	Android app developers	implied	3	developer tools
+41096834	.NET developers want direct control of AVX-512 mask registers	performance engineers	implied	1	developer tools
+43818444	US drivers get far weaker driver training than drivers in Germany	US drivers	implied	2	education & learning
+44268111	Users get dangerously agreeable answers from AI chatbots on health and practical questions	AI chatbot users	implied	4	AI & ML tooling
+44381944	Users find ffmpeg filter documentation hard to turn into working settings	media developers	implied	2	developer tools
+45180555	YouTube creators get no transparency when platform metrics that drive their income shift	YouTube creators	implied	4	media & content
+41048292	Readers would pay $10-20 a month for Netflix-style access to scientific papers with AI summaries	science-curious readers	explicit	4	education & learning
+43780368	Phone users want complete backups without trusting vendor clouds	privacy-minded phone users	implied	3	security & privacy
+42378825	Home growers want forums for climate-resilient food growing	home growers	implied	1	communication & social
+26970638	Users would pay for a self-hosted personal finance simulator, even on a dedicated home device	privacy-minded savers	explicit	3	finance & money
+40983752	Learners want spaced repetition that handles grouped facts, sequences and context	SRS learners	implied	3	education & learning
+46926457	Teams building with AI agents lack quantitative benchmarks for agent tooling claims	engineering leaders	implied	3	AI & ML tooling
+49172519	Developers want secrets injected at runtime by an outbound proxy instead of sitting in env vars	developers	implied	3	security & privacy
+45567898	Mac utility developers find reliable app and window state tracking a nightmare	Mac utility developers	implied	2	developer tools
+49094612	AI coding agents lack precise refactoring tools like moving a function between files	developers using coding agents	implied	3	developer tools
+50347401	Archivists want tools to diff and explore web archive captures	web archivists	implied	2	media & content
+41450702	Teachers need assignment workflows that reveal student thinking instead of unreliable AI detectors	teachers	implied	3	education & learning
+45538499	Teams running global multi-master Postgres find DDL and replication edge cases a nightmare	database teams	implied	3	data & analytics
+47852139	Investors want a long-hold investment market as an alternative to quarterly-driven public markets	long-term investors	implied	2	finance & money
+21713721	Engineers cannot inspect Kubernetes pods that crash immediately in CrashLoopBackOff	Kubernetes engineers	implied	4	devops & infra
+43544193	Film crews found early raw digital cinema cameras a huge pain	cinematographers	implied	1	media & content
+40731441	Meetup organizers want event discoverability without being locked into one platform	community organizers	implied	3	communication & social
+49613203	TV buyers want a dumb mode that works without accounts, apps or tracking	TV buyers	implied	4	hardware & IoT
+45461242	Seniors find smartphone onboarding and app stores confusing	seniors	implied	3	consumer & home
+43522667	PWA developers struggle with inconsistent storage, background sync and protocol limits across platforms	web app developers	implied	3	developer tools
+45808455	TUI developers cannot know how many columns a Unicode character will take across terminals	terminal app developers	implied	2	developer tools
+49525601	Users want to cancel and edit in-flight AI agent research queries	AI agent users	implied	2	AI & ML tooling
+40812584	E-reader owners want a native RSS reader on Kindle and better read-later delivery	e-ink readers	implied	3	media & content
+46100326	Power users want to turn off system reminders injected into AI agent context	AI coding power users	implied	2	AI & ML tooling
+27666208	People cannot easily deposit cash as banks remove cash machines	cash users	implied	3	finance & money
+40752818	Readers want an engaging book on how science corrected its mistaken theories	science readers	implied	2	education & learning
+43558715	Teams want a migration path from managed server tools to Ansible	PHP teams	implied	2	devops & infra
+41703886	Nonprofits need a low-cost digital-services partner for websites, CRM, events and grants	small nonprofits	implied	4	SMB & back-office
+43574815	Users want browsers to vet sites before they can request push notifications	web users	implied	3	security & privacy
+45833147	African organizations cannot source parts or repair high-density electronics locally	African development organizations	implied	4	hardware & IoT
+43907861	Small businesses pay $250-500 an hour for boilerplate legal contracts without guarantees	small businesses	implied	4	legal & government
+47625948	Puzzle makers lack research on how maze construction affects difficulty for humans	puzzle designers	implied	1	other
+45255730	Multinationals have no visa for short-term skilled work assignments in the US	multinational employers	implied	4	legal & government
+49205902	Users cannot trust USB-C cable labels and want a guaranteed baseline transfer speed	USB-C users	implied	3	hardware & IoT
+45268338	C++ developers waste huge amounts of time on long compile times they cannot analyze project-wide	C++ developers	implied	4	developer tools
+47103376	Users would fund a crowdsourced non-profit for site reputation lists and user-friendly internet tools	privacy-minded users	explicit	3	security & privacy
+47469256	Art lovers want discovery tools that surface small independent artists instead of attention bait	art and music lovers	implied	2	media & content
+49370117	Developers want a place to publish elegant algorithms with visual proofs	developers	implied	2	education & learning
