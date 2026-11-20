@@ -1,0 +1,80 @@
+38651021	Kubernetes users find YAML-based templating like Helm hard to parse, debug and secure	platform engineers	implied	3	devops & infra
+44027720	Readers want a tech news site that only covers products already available, with no future announcements	tech news readers	implied	2	media & content
+45932816	Historians find reading and translating 16th-century handwritten Spanish archives a nightmare	historical researchers	implied	3	education & learning
+43360428	Small employers want a free tool to build monthly staff schedules under shift and day-off constraints; HN users want to search their own comments	small business managers	implied	3	SMB & back-office
+37955579	JS teams find publishing and versioning shared packages across repos a huge pain	frontend teams	implied	3	developer tools
+44679680	Developers want voiceover support when recording terminal sessions	developer educators	implied	2	developer tools
+38016969	SaaS developers struggle to choose tenant isolation (shared tables, row-level security, or separate databases) in Postgres	SaaS developers	implied	3	data & analytics
+36618677	Developers with bursty, mostly idle databases want a hosting plan between hobby and full paid tiers	indie SaaS developers	implied	3	devops & infra
+48220114	AI labs find training on mixed-generation GPU clusters a nightmare	AI infrastructure teams	implied	3	AI & ML tooling
+50489291	Synth owners find mini-jack MIDI adapters incompatible and unreliable	electronic musicians	implied	3	hardware & IoT
+42628949	Job seekers want a standard machine-readable JSON attachment alongside their PDF resume for applicant tracking systems	job seekers	implied	3	hiring & careers
+24285961	Viewers cannot legally stream some classic musicals because of unresolved rights	movie fans	explicit	3	media & content
+44319497	Windows and Linux users want Apple-quality laptop hardware	non-Mac laptop buyers	implied	3	hardware & IoT
+46409295	Web developers want a native accessible tabs element in HTML	web developers	implied	3	developer tools
+30687647	PC builders find frequent CPU socket changes force motherboard replacement	PC builders	implied	2	hardware & IoT
+36981795	Japanese learners want practice scenarios that make them use polite keigo	Japanese learners	implied	2	education & learning
+46706523	Network admins find managing per-host firewalls without NAT a huge pain and lack good tools	network admins	implied	3	security & privacy
+37911155	Non-technical users have a nightmare of weak, reused and compromised passwords	non-technical computer users	implied	4	security & privacy
+49698798	Engineers want design docs that take less time to read and keep up with fast AI-driven development	software engineers	implied	2	productivity & work
+43374595	ERs want to triage and redirect non-critical patients to nearby urgent care that treats them quickly	hospital systems	implied	4	health & fitness
+46384214	Polyglot monorepo teams find Bazel a huge pain with Rust and Cargo tooling	monorepo teams	implied	3	developer tools
+47328572	Online communities lack a good way to fight AI-driven karma farming and bot posts	online community moderators	implied	3	communication & social
+34542984	Rust developers want error types in Results inferred automatically as the union of possible errors	Rust developers	implied	2	developer tools
+27803334	Searchers would pay for a search engine that excludes domains they choose, like content-farm scrapers	power searchers	explicit	3	consumer & home
+49581790	Forum readers want a browser extension that labels front-page posts with AI-writing detection scores	forum readers	implied	2	media & content
+42952631	News readers would subscribe to a minimal news wire of a few tweet-length, link-free factual stories a day	news readers	explicit	3	media & content
+37350306	Linux users with mixed-DPI monitors find switching scale factors on X11 a huge pain	Linux laptop users	implied	2	consumer & home
+31482806	Searchers would pay for manually curated search results in niche product categories	technical buyers	explicit	3	consumer & home
+32102064	Clients hiring freelancers face many fake identities on Upwork	clients hiring freelancers	implied	4	hiring & careers
+48257071	E-reader hackers lack an e-reader-focused desktop environment that runs on mainline Linux	e-reader hackers	implied	2	hardware & IoT
+47265363	Knowledge base teams find rolling back edits after a week a huge pain to reconcile	knowledge base operators	implied	2	productivity & work
+35047920	Admins find running IPv4 and IPv6 side by side extra work with no clear payoff	network admins	implied	2	devops & infra
+16527739	Developers want a lightweight editor with IDE-grade refactoring and find-usages across many languages	polyglot developers	implied	3	developer tools
+49755505	Web users find passkey logins unreliable and want a global opt-out	web users	implied	3	security & privacy
+43384394	Dev teams want a simple, opinionated agile tracker like Pivotal Tracker instead of complex Jira	software teams	implied	4	productivity & work
+46958021	Teams want Discord alternatives with good mobile clients and integrated voice and video	online communities	implied	3	communication & social
+37122246	Developers want a lightweight CLI refactoring tool backed by LSP without a heavy editor	CLI-focused developers	implied	2	developer tools
+47909725	Developers find reviving decade-old untyped Node projects with broken dependencies a nightmare	developers maintaining legacy code	implied	3	developer tools
+32813145	Non-Apple users want an integrated device ecosystem that restores a lost phone with all keys and cards	smartphone users	implied	3	consumer & home
+47111687	Facebook users want to block all reshared posts to cut down on slop	Facebook users	implied	2	media & content
+48811336	Solo founders want tools to build empathy with users unlike themselves	solo founders	implied	2	productivity & work
+32517557	Users want browsers to label sites they previously verified so phishing pages are obvious	web users	implied	3	security & privacy
+37615034	Teams upgrading Java versions face rare JIT bugs that are a nightmare to debug	Java backend teams	implied	2	developer tools
+44714697	Developers find formal verification too painful to write	software engineers	implied	2	developer tools
+35798995	Indie game devs want help keeping public dev logs going after a break	indie game developers	implied	2	media & content
+30851975	Developers would pay for a terminal text editor that supports the VS Code extension API	terminal-centric developers	explicit	3	developer tools
+48593427	Teams find per-tool OAuth flows for MCP servers a huge pain and want centrally managed tokens	enterprise AI teams	implied	4	AI & ML tooling
+34519557	Developers want data access libraries designed for relational or event-sourced models instead of OOP	backend developers	implied	2	developer tools
+46585946	Self-hosters want to share access to personal machines with anyone, on approval, like Google Docs sharing	self-hosters	implied	3	devops & infra
+42985957	Web creators lack an MP4 equivalent for animations with transparent backgrounds	web content creators	implied	2	media & content
+44661781	Editor users want a settings UI, removable buttons and more flexible panel layouts in Zed	Zed editor users	implied	2	developer tools
+35355402	Linux users find fractional HiDPI scaling makes text blurry and tiring	Linux desktop users	implied	3	consumer & home
+28103670	Researchers would pay for a legal subscription with Sci-Hub's breadth and convenience across paywalled journals	academic researchers	explicit	4	education & learning
+49584670	Junior developers want teams that share dotfiles, tools and workflows	junior developers	implied	2	productivity & work
+49777227	EV owners want safe automatic charging that doesn't need exposed high-voltage contacts	EV owners	implied	2	hardware & IoT
+48872717	Phone photographers want an option to disable AI post-processing	smartphone photographers	implied	3	consumer & home
+37513912	Unreal developers find Blueprints slow, hard to read and impossible to diff or merge in version control	game developers	implied	3	developer tools
+43534909	Gamers want a pocketable x86 handheld that plays their existing PC game libraries	handheld gamers	explicit	3	hardware & IoT
+15310824	Consumers want the right to delete their record from credit bureaus	consumers	implied	3	finance & money
+43337651	Home battery makers find consumer Wi-Fi unreliable for coordinating devices over years	home energy device makers	implied	3	hardware & IoT
+42623499	Developers want a 40-inch curved ultrawide monitor with QHD, a moderate curve and a matte finish	developers	implied	2	hardware & IoT
+37510105	Companies find font licensing a nightmare and risk legal threats	design and marketing teams	implied	4	legal & government
+49950155	Viewers want a documentary on Silicon Valley from the 2000s onward	tech history fans	implied	1	media & content
+35322070	Beginner programmers lack guidance on technical decisions, tooling and deployment	beginner programmers	implied	3	education & learning
+44198335	Video creators and viewers want a YouTube alternative without slop, broken search and anti-download measures	video viewers	implied	4	media & content
+46237970	Developers want a standard whatisthis command where any tool or package describes itself	developers	implied	2	developer tools
+36519890	YouTube viewers want to give the recommendation algorithm explicit rules for each topic	YouTube viewers	implied	3	media & content
+32849772	Developers want databases that pin query plans at deploy time or accept plans directly instead of SQL	backend developers	implied	3	data & analytics
+45713150	Solo developers find free AI coding tools break files and are slow	solo developers	implied	3	AI & ML tooling
+40661477	Package ecosystems need standard repository APIs for querying metadata instead of encoding it in file names	package tooling developers	implied	2	developer tools
+40525836	ISP customers want transparency when router firmware incidents brick devices	ISP customers	implied	3	security & privacy
+43751184	Desktop web users want a button to make narrow centered sites use full width	desktop web users	implied	2	consumer & home
+46465176	Developers find Nix adds debugging complexity on top of the tools they want to install	developers	implied	2	developer tools
+45347631	Homeowners want a window-mounted energy recovery ventilator	homeowners	implied	3	consumer & home
+49367047	Travelers find US visa rules, even for transit, a nightmare	international travelers	implied	3	travel & local
+22625722	Developers want DB drivers that map native SQL results to typed structures with correct time and encoding handling	backend developers	implied	3	data & analytics
+33878601	Quiz takers want political quizzes with well-posed questions and a "question is ill-posed" option	quiz takers	implied	1	media & content
+31783235	CAD users want FreeCAD backed by a funded foundation with paid support so it gets polished	FreeCAD users	implied	3	developer tools
+46499675	Game preservers have no registry to find who owns rights to old intellectual property	game preservationists	implied	3	legal & government
+42198984	Homeowners want appliances that are easy to repair, with open diagnostics and firmware	homeowners	implied	3	consumer & home
