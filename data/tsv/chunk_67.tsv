@@ -1,0 +1,67 @@
+46429546	Let people export their eSIM profile as a backup file they can restore to a new phone without carrier hassle.	smartphone users switching or replacing phones	none	3	consumer & home
+42926108	Automatically apply no-panic annotations to every function in a Rust file or crate and report which ones can panic.	Rust systems programmers	none	2	developer tools
+30763426	Give video viewers a switch to turn off algorithmic recommendations and auto-generated mixes entirely.	YouTube viewers who dislike recommendations	none	3	media & content
+37851161	Provide secure, theft-proof bike parking at shops and destinations across a city.	urban cyclists	implied	3	travel & local
+40203456	Make declarative, repeatable dev container configs that work the same in Codespaces and CI without manual fiddling.	developers using cloud dev environments	implied	4	devops & infra
+44151396	Provide a reliable library for direct browser-to-browser connections that handles NAT traversal failures well.	web developers building P2P apps	none	2	developer tools
+36237761	Build a mobile moderation app that bundles approve, remove, user notes and bans into one fast workflow.	volunteer community moderators	implied	3	communication & social
+45244840	Make compostable waste bags that stay strong for more than a few days and do not degrade on the roll.	home composters	implied	2	consumer & home
+23898176	Build a cross-platform notes app with reliable sync where renaming and reorganizing notebooks just works.	heavy note-takers on Windows, Linux and iPad	implied	3	productivity & work
+42749478	Let email users hard-block spam senders without clicking unsubscribe links that confirm their address is live.	email users flooded with spam	none	3	security & privacy
+28431040	Offer infrastructure-as-code for Azure that reads live cloud state instead of a statefile that stores secrets.	cloud infrastructure teams on Azure	implied	3	devops & infra
+38764086	Split a monthly subscription fee among websites based on what you actually read so niche sites earn without ads.	readers who block ads	implied	3	media & content
+41214852	Mark hiking paths on open maps as field-verified versus traced from aerial imagery.	hikers using open map data	none	2	travel & local
+44192274	Provide an easy way to calibrate cheap home CO2 and VOC sensors outside a lab.	hobbyists building home air monitors	implied	3	hardware & IoT
+40921996	Create a marketplace where writers can sell rewritten manuals and datasheets to overseas manufacturers.	freelance technical writers and hardware makers	implied	2	commerce & marketplaces
+39305341	Provide a turnkey library that lets a running application checkpoint and restore its own state reliably.	backend and systems developers	none	3	developer tools
+26482580	Make a container runtime for macOS that does not burn CPU when containers are idle.	developers running Docker on Macs	explicit	4	developer tools
+34727167	Create an in-depth interactive explainer showing exactly how floating-point rounding errors arise bit by bit.	programmers learning numerics	none	2	education & learning
+30403759	Generate accurate transcripts for podcasts that do not publish them, including hard proper names.	readers who prefer text over audio	implied	3	media & content
+46145959	Build a dashboard comparing live mortgage rates across European lenders without relying on a broker.	home buyers in Europe	implied	3	finance & money
+43641141	Standardize the cable exit direction on plugs so multiple plugs fit neatly on an extension lead.	households using extension leads	none	1	hardware & IoT
+46432926	Make wired earbuds with active noise cancelling as good as premium wireless ones.	commuters who prefer wired audio	implied	3	hardware & IoT
+33669558	Offer web search that filters out scraper and aggregator sites and shows only original content from real people.	everyday web searchers	implied	4	media & content
+46211335	Build a wearable that records and transcribes conversations all day and sends timestamped, actionable notes to your phone.	busy professionals who forget details	implied	3	productivity & work
+27848738	Build a personal finance and retirement simulator with German tax, stock and inflation data.	German savers planning finances	explicit	3	finance & money
+43607131	Find and suggest deleting near-duplicate and redundant photos in a cloud photo library.	people with huge photo libraries	implied	3	consumer & home
+28840677	Turn notebooks into repeatable, version-controlled pipelines that cache slow steps and run on a schedule.	data scientists and analysts	implied	4	data & analytics
+37897828	Let Rust async libraries be written once and run on any async runtime.	Rust library authors	none	2	developer tools
+37894184	Offer a self-hostable proxy browser that pre-renders and compresses pages for fast, JS-free mobile browsing on weak signal.	privacy-minded mobile users with bad coverage	implied	3	security & privacy
+42454256	Keep network controller admin credentials and configs recoverable so businesses are not locked out after vendor turnover.	small businesses with managed Wi-Fi	implied	3	SMB & back-office
+45915980	Package retro screen shaders as a drop-in plugin for game frameworks and the browser.	indie game developers	none	2	developer tools
+34887869	Ship a mainstream browser with a one-click Tor privacy mode.	privacy-conscious web users	none	3	security & privacy
+44054520	Expose a Python monorepo dependency graph as structured data so CI only runs affected projects.	Python monorepo maintainers	none	3	devops & infra
+31553369	Make home automation hubs reliable after upgrades and configurable without a hard-to-remember YAML language.	smart home hobbyists	implied	3	hardware & IoT
+31993482	Provide a feed of newly uploaded videos by language and region that users can filter with their own rules.	viewers of regional-language channels	explicit	2	media & content
+41310723	Support native embedded objects in relational databases without falling back to JSON columns.	application developers designing schemas	none	2	data & analytics
+24129609	Sell a retro computer case and keyboard for a Raspberry Pi with firmware that boots straight into emulation.	retro computing hobbyists	explicit	2	hardware & IoT
+39443340	Let all stakeholders, including other teams, get notified of planning meetings and add agenda items ahead of time.	product and engineering teams	implied	2	productivity & work
+45734706	Make it easy to migrate a terabyte photo library off a cloud ecosystem to another provider.	locked-in cloud photo users	implied	4	consumer & home
+42936453	Offer accessible consumer tests that measure microplastic accumulation in the body.	health-conscious consumers	implied	3	health & fitness
+50269888	Build a review service focused on honest long-term reliability reports for products and restaurants.	shoppers researching purchases	implied	3	commerce & marketplaces
+34168001	Build an affordable rover that seeds and then cultivates weeds precisely along crop rows on small farms.	small regenerative farmers	implied	4	hardware & IoT
+36081724	Manage over-the-air updates and hardware revision compatibility across a large regulated IoT device fleet.	IoT companies with embedded fleets	implied	4	devops & infra
+21550216	Offer one subscription that unlocks articles across many major newspapers instead of separate paywalls.	news readers hitting paywalls	explicit	4	media & content
+44628076	Build a tracker of the world's unscanned and untranslated books, such as Neo-Latin works.	scholars and translators	none	2	education & learning
+35820960	Publish independent lab test results for supplements so buyers can verify claims.	supplement buyers	implied	3	health & fitness
+44330513	Fine-tune coding assistants on existing codebases in niche languages like Common Lisp.	developers in niche languages	implied	3	AI & ML tooling
+37641117	Make a password manager with a polished UI, tags instead of rigid folders, and easy family sharing.	families managing many passwords	implied	3	security & privacy
+45782850	Provide an open source Android TV distribution for streaming sticks, like LineageOS for phones.	streaming stick owners	none	3	consumer & home
+40633915	Create a job marketplace for burned-out workers offering meaningful, low-stress, autonomous roles with basic benefits.	tech workers recovering from burnout	none	3	hiring & careers
+44711830	List affordable remote PhD and master's-plus-PhD programs in one place.	working adults seeking advanced degrees	implied	2	education & learning
+40515029	Start an open source, modular, bare-bones electric truck design that a community can build and customize.	DIY vehicle enthusiasts	implied	3	hardware & IoT
+29615668	Provide fast, accurate go-to-definition and find-usages for Ruby codebases in lightweight editors.	Ruby developers	implied	3	developer tools
+33691276	Sell protection for missed connections on multi-country European train journeys, as airlines do.	international rail travelers in Europe	implied	3	travel & local
+6768796	Let shoppers pay extra to choose their delivery carrier on online orders.	online shoppers with unreliable local carriers	explicit	2	commerce & marketplaces
+45605055	Build a modular, extensible code editor like VS Code but written natively for speed.	developers wanting a fast editor	none	2	developer tools
+43675898	Bring mutation testing that injects bugs to check test quality to JavaScript projects.	JavaScript developers	none	3	developer tools
+40257392	Make TypeScript configuration in pnpm monorepos automatic and keep the language server fast.	TypeScript monorepo teams	implied	4	developer tools
+25551902	Help accidental citizens navigate renouncing citizenship and back-tax filings affordably.	accidental US citizens abroad	implied	4	legal & government
+36014004	Build affordable open source physical-design chip tools to replace million-dollar EDA licenses.	chip design teams	implied	4	hardware & IoT
+23826926	Offer streaming services in Australia at fair prices without regional content restrictions.	Australian TV viewers	explicit	3	media & content
+23894348	Make kitchen appliances like microwaves with open, user-tweakable firmware.	tinkerers and home cooks	none	1	hardware & IoT
+31262461	Migrate a large media library and its metadata from Plex to Jellyfin automatically.	home media server users	none	3	media & content
+34899771	Add richer analytics, visualization and comparisons on top of personal health data from watches and scales.	quantified-self users	implied	3	health & fitness
+40472547	Offer an affordable license for occasional use of extra IDEs beyond your main one.	developers who mostly use one IDE	explicit	2	developer tools
+23881331	Provide plain libraries for HTTP, rendering and security that compose without a heavy framework's DI container.	.NET backend developers	none	2	developer tools
+46056368	Provide a solid, official-quality library for programmatically injecting footprints and symbols into PCB designs.	electronics engineers automating PCB design	implied	3	hardware & IoT

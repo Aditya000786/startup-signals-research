@@ -1,0 +1,61 @@
+23875420	Build remote learning for young kids that keeps them engaged with real depth without needing a parent hovering.	working parents of young remote learners	implied	4	education & learning
+44553394	Offer a code editor build with all telemetry and forced AI assistants removed but full extension compatibility.	privacy-minded developers	none	3	developer tools
+44451541	Help non-technical users export saved browser passwords before a browser drops the feature.	non-technical browser users	none	3	security & privacy
+37673934	Make small expansion-card graphics adapters that upgrade older laptops' video output.	owners of older laptops	implied	2	hardware & IoT
+46738689	Help self-hosted mail servers get outgoing mail reliably delivered past big providers' spam filters.	people running their own mail servers	implied	4	communication & social
+39937874	Publish parking garage vertical clearances in maps and booking apps so tall-vehicle drivers can plan ahead.	drivers of tall work trucks and vans	none	3	travel & local
+45724239	Build a network KVM that sits on the PCIe bus and needs no HDMI capture.	sysadmins managing remote machines	implied	2	devops & infra
+19980371	Sell access to individual in-depth news analysis pieces instead of all-or-nothing paywalls.	readers who want depth, not fluff	explicit	2	media & content
+26470674	Offer a secure messenger with a cheap paid tier around three dollars a month and no ads.	privacy-minded messaging users	explicit	2	communication & social
+45015961	Make a competitively priced robotics compute module that is easier to work with than the dominant vendor's.	robotics developers	implied	3	hardware & IoT
+26211098	Help Americans abroad file US taxes and foreign account reports correctly without costly CPAs.	Americans living abroad	implied	4	finance & money
+36336193	Let chat communities publish selected conversations as public, searchable pages.	community managers on chat platforms	none	3	communication & social
+43730082	Certify and badge companies that avoid dark patterns so users can choose them.	consumers tired of manipulative UX	none	2	commerce & marketplaces
+43007479	Help people reconcile mismatched names across birth certificates, IDs and social security records.	people with inconsistent legal documents	implied	3	legal & government
+44722700	Provide live phone-call translation that speaks your requests in the other party's language.	expats calling local businesses	implied	4	communication & social
+44549713	Let users fund browser developers directly for user-centric features they choose.	browser users wanting to support devs	explicit	2	other
+46144790	Add optional cross-device sync to offline printable task planners.	people using minimal planners	none	1	productivity & work
+44190440	Build a better cataloging and search scheme for large digital book collections.	readers browsing digital libraries	none	2	education & learning
+45385863	Create spaces or groups around libraries where people with shared interests socialize and build community.	readers seeking community	none	2	communication & social
+49647044	Make recirculating water heat exchangers easy to clean and keep hygienic.	homeowners with heat pump water heaters	none	2	consumer & home
+45159241	Build focused self-training apps for specific health checks, like learning to spot suspicious skin lesions.	health-conscious consumers	none	3	health & fitness
+23843454	Auto-generate and maintain living documentation of how a large legacy codebase and its policies work.	developers joining messy legacy codebases	implied	4	developer tools
+24289966	Automatically migrate visualization code and examples across breaking library versions.	data visualization developers	none	2	developer tools
+21509745	Let paying users customize and filter their forum feed, such as hiding repeat job posts from the same company.	heavy forum readers	explicit	2	communication & social
+39428021	Give music streaming power users advanced library organization and deep discovery tools while paying artists fairly.	music power users	implied	3	media & content
+41379960	Provide a high-level API to log common vision model outputs like pose and object detections into a multimodal visualizer.	computer vision developers	none	2	AI & ML tooling
+46473408	Let static site generators publish directly into the fediverse without running a server.	bloggers with static sites	none	2	media & content
+30830119	Make cloud-free self-hosting of files and video work through NAT with encryption, auth and mirroring.	people who want to self-host content	implied	3	devops & infra
+19570187	Build a location-based app that gathers current local events and alerts for places you plan to visit.	travelers	explicit	3	travel & local
+42351253	Create an investment fund that donates a share of profits to the open source packages its companies use.	open source maintainers and investors	none	2	finance & money
+44950201	Offer a tool that checks whether an image carries an AI-generation watermark.	journalists and fact-checkers	none	3	AI & ML tooling
+40865731	Build a privacy-first email and calendar client with excellent search.	privacy-minded professionals	explicit	3	productivity & work
+46396554	Let readers flag and filter AI-generated slop articles before clicking into them.	web readers	none	3	media & content
+23645820	Clean and correct self-recorded GPS location history as well as big map apps do, entirely offline.	privacy-focused location trackers	none	2	security & privacy
+44801593	Provide a lightweight basic-HTML frontend for code hosting that works on old browsers and slow networks.	developers on slow connections	none	2	developer tools
+25299496	Let viewers outside the US subscribe to region-locked streaming services legally.	international streaming viewers	explicit	3	media & content
+43825126	Combine plain HTML and JS apps with brand-agnostic cloud or local storage for user data.	makers of small free web apps	none	2	developer tools
+42419770	Let creators protect their uploaded content from being scraped for AI training.	online creators	implied	3	security & privacy
+41390589	Publish practical guides that walk through real-life situations as they actually play out.	readers seeking practical life skills	none	1	education & learning
+43892267	Provide offline, locked-down programming exam labs with just a compiler and documentation.	computer science instructors	implied	3	education & learning
+37741961	Make full-disk encryption and booting from encrypted RAID simple to set up on Linux.	Linux users securing disks	none	2	security & privacy
+42481306	Make it easy to archive and self-host online videos like live performances with tag-based browsing.	music fans and archivists	none	3	media & content
+41664811	Make passing the app store's restricted-scope security assessment cheap and straightforward for small developers.	indie Android developers	implied	4	developer tools
+4564519	Provide clean, continuously updated public transit data built from messy GTFS feeds as a subscription.	transit app builders and riders	explicit	3	data & analytics
+40142421	Let searchers hide all commercial SEO-driven news and entertainment outlets from results.	web searchers	none	3	media & content
+24964513	Build an emergency crisis app that gives local step-by-step guidance, records evidence and forwards details to insurers.	people facing accidents or emergencies	implied	3	consumer & home
+40181548	Build a crowdsourced, statistically normalized tracker of how common account lockouts and outages really are.	users worried by anecdotal reports	none	2	data & analytics
+44735426	Provide a cross-platform, editor-independent C# code formatter that teams agree on, like Prettier.	C# development teams	none	3	developer tools
+41110207	Track transparency reports for social media bans across platforms.	social media users and researchers	none	2	communication & social
+44540701	Teach digital filtering in terms of discrete arrays and periods rather than normalized frequency.	programmers processing sampled data	none	2	education & learning
+45231022	Build a MIDI controller with a built-in computer that runs a DAW and plugins for gigs without a laptop.	gigging electronic musicians	implied	3	hardware & IoT
+44301306	Offer a test number that lets people safely verify their phone can reach emergency services.	everyday phone users	none	2	legal & government
+47052500	Launch a product showcase community that bans AI-generated products.	makers and early adopters	none	2	communication & social
+36942223	Offer a barebones browser for work with good devtools and no bundled bloat.	developers and office workers	none	2	developer tools
+38105172	Let drivers set a preferred audio app per car Bluetooth connection.	drivers using phone audio in the car	none	2	consumer & home
+45828366	Build a lightweight self-hosted git web frontend better than cgit.	self-hosting developers	none	2	developer tools
+47158782	Make debugging wasted memory in garbage-collected apps easy.	backend developers	implied	3	developer tools
+46157981	Sell affordable prosumer 10Gb network switches.	homelab enthusiasts	implied	2	hardware & IoT
+43702677	Offer an all-you-can-listen audiobook subscription around fifteen dollars a month.	audiobook listeners	explicit	4	media & content
+22058553	Provide zero-knowledge encrypted browser sync that works across different browser engines, plus private calendar and mail.	privacy-focused web users	explicit	3	security & privacy
+25194254	Let viewers block recommendations containing specific words in titles or descriptions.	video viewers wanting control	none	3	media & content

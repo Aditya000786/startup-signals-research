@@ -1,0 +1,85 @@
+24175921	A version control tool whose simple operations have one safe, obvious answer, unlike git.	developers and non-expert users	none	3	developer tools
+45547244	Clear focus and selection highlighting in Apple TV and iOS, with easy-to-find settings.	Apple device users	none	3	consumer & home
+22179127	A sustainable business model for in-depth, magazine-style journalism without ad dependence.	readers of long-form news	implied	3	media & content
+26120504	Easy backup and cloning of FIDO2 hardware keys so losing one doesn't lock you out.	security key users	implied	4	security & privacy
+44779984	Jest-style matchers for Node's built-in test runner.	Node.js developers	none	2	developer tools
+32682391	A paid service that brings your top 5 car picks to your home for test drives.	car shoppers	explicit	4	commerce & marketplaces
+27779960	A creator-friendly video platform where anyone can upload without approval queues or instance confusion.	video creators leaving YouTube	implied	3	media & content
+35022238	Car navigation that is fast, with analog controls offered as an option.	car buyers	explicit	3	travel & local
+45953262	A global open index where anyone can post content that search will find, without auth.	web publishers	none	2	media & content
+43756201	Pipeline operators that support pattern-matching destructuring ergonomically.	Elixir developers	none	1	developer tools
+47571229	Transparency into what influenced an LLM's answer, such as ads or sources.	AI assistant users	none	3	AI & ML tooling
+43173212	A free open-source project that tracks AI crawler user agents for robots.txt.	bloggers	none	3	security & privacy
+42672167	Easier native-image compilation of existing Clojure codebases.	Clojure developers	none	2	developer tools
+35982106	Paid subscriptions for static Jekyll blogs that also work well in feed readers.	static site bloggers	implied	2	media & content
+41728039	Standard traits in Rust for common services so code can swap library implementations.	Rust developers	none	2	developer tools
+43696554	A minimal vector drawing format far simpler than SVG.	developers embedding vector graphics	none	2	developer tools
+38541154	One clear, open, cross-hardware alternative to CUDA instead of many competing frameworks.	ML engineers	none	3	AI & ML tooling
+39728577	Capture audio from a single application on Windows without virtual sound cards.	streamers and screen recorders	none	3	media & content
+24051297	A service that notifies family and hands over credentials and documents if you are kidnapped or die.	people planning for emergencies	explicit	4	security & privacy
+45990080	Self-serve, automated regulatory approval with clear yes/no answers for EU compliance.	EU businesses	implied	3	legal & government
+43998084	An alternative HN front page listing flagged discussions by upvotes.	HN readers	none	2	media & content
+19921977	A Cargo-like per-project package manager for OCaml that works well on Windows.	OCaml developers	none	3	developer tools
+48991946	A CLI that packages data-heavy codebases and schemas into compact LLM context.	developers using AI agents	none	3	AI & ML tooling
+41551003	Interactive visualizations of Jensen's inequality with non-uniform distributions.	statistics students	none	1	education & learning
+41610970	A school-tablet app that enables parent video chat only during lockdowns.	schools and parents	none	3	education & learning
+41713189	Legal protection for archives of historical music recordings.	music archivists	none	3	legal & government
+45452476	Browser automation that reliably handles late-injected DOM elements in enterprise portals like Coupa.	AR/AP automation teams	implied	3	AI & ML tooling
+47464984	An off switch for AI features in Windows.	Windows users	none	3	consumer & home
+42024371	A straightforward way to get legitimate senders unblocked by Proofpoint email filtering.	small businesses sending email	implied	4	communication & social
+44212814	A middle-priced ChatGPT tier with more voice mode minutes.	ChatGPT voice users	explicit	3	AI & ML tooling
+44080742	A dotfiles manager that cleanly handles per-OS and work-specific config without branch juggling.	developers with many machines	none	2	developer tools
+46644161	More community spaces designed to encourage interaction to combat loneliness.	lonely adults	none	3	communication & social
+27571232	An OS built for cloud-scale problems at the kernel level, as an alternative to AWS's service sprawl.	cloud infrastructure engineers	none	2	devops & infra
+47212259	A K-like array language that works with single-precision floats for graphics.	graphics programmers	none	1	developer tools
+45195253	A community-edited wiki that allows whimsical diagrams.	science enthusiasts	none	1	education & learning
+45470539	Easy cross-compilation of JNI native libraries for every platform, for example using Zig.	Java library authors	none	3	developer tools
+22101742	A cross-platform password manager for iOS, Mac and Windows that avoids the clipboard.	password manager users	implied	3	security & privacy
+33968844	Clear cost comparison between pricing models on Cloudflare Workers.	Workers customers	none	2	devops & infra
+47384407	Standard GUI conventions across apps, like CLI tooling standards.	desktop users	none	1	consumer & home
+13705925	Transactional email providers with good deliverability for low volumes and responsive support.	small SaaS developers	implied	3	communication & social
+24353554	A git-backed documentation tool with a good web editor and access statistics to find stale docs.	engineering teams	none	3	productivity & work
+41899442	An open-source effort to capture detailed street-level imagery maps of cities.	mapping enthusiasts	none	2	data & analytics
+38303523	A way to find out which real estate agents are good, beyond references.	home sellers	none	3	commerce & marketplaces
+47015586	A "new" view on a blog aggregator.	blog readers	none	1	media & content
+35705433	Approachable, fast, offline-capable, E2E-encrypted relational databases in a notes app, like Notion.	personal organizers	implied	3	productivity & work
+39701888	A browser extension to blacklist domains with a note explaining why.	mobile browser users	none	2	consumer & home
+41447503	Usable tools to manage SELinux policies, such as labeling sensitive files in home directories.	Linux security admins	none	3	security & privacy
+43596579	An open-source HD Radio (IBOC) exporter for broadcasters.	small radio broadcasters	none	2	media & content
+43826076	A "report spam" button for phone calls.	phone users	none	4	communication & social
+45674329	An apt repository with auto-updates for the Stalwart mail server.	self-hosted mail admins	none	2	devops & infra
+44508962	An open license for the Parasolid CAD kernel, like the Linux kernel.	CAD software developers	none	2	hardware & IoT
+47204934	A "reverse init" that consolidates and minimizes layered CLAUDE.md files.	Claude Code users	none	2	AI & ML tooling
+40221918	A guided walkthrough of the ML pipeline that explains each term as you meet it.	ML learners	none	3	education & learning
+44974011	Better protection from AI crawlers that crash small websites.	small website owners	implied	4	security & privacy
+44624160	A Pi-hole-like blocker for AI-generated content on the web.	web users tired of AI	none	3	media & content
+45931025	An Uber- or Waymo-style on-demand service for plumbing and HVAC.	homeowners	implied	4	consumer & home
+42519213	An easy way to put a basic mobile UI on top of CLI apps.	CLI tool users on mobile	none	2	developer tools
+44241505	Detailed documentation of how hobbyist robot projects actually work.	robot hobbyists	none	2	hardware & IoT
+24744601	Hackable, upgradable open hardware consumer electronics.	tinkerers	explicit	2	hardware & IoT
+49387995	A capable AI model specialized for technical writing.	technical writers and developer-tool companies	implied	3	AI & ML tooling
+42119793	A reliable confidence or "I don't know" signal from LLMs.	AI application builders	implied	4	AI & ML tooling
+45594950	A single-page list and filters for Mac game source ports.	Mac gamers	none	1	media & content
+40600764	A way to verify and signal that a public-facing camera keeps footage locally with short retention.	privacy-minded camera owners	none	2	security & privacy
+28604311	An easy wireless way to get free ebooks onto e-readers like Kobo without a laptop and Calibre.	e-reader owners	none	3	media & content
+44526779	A simple way to measure mental energy spent on a task, not just time.	knowledge workers	none	2	productivity & work
+41400269	Self-serve, credit-card pricing for enterprise search software without long sales cycles.	small and mid-size startups	implied	3	devops & infra
+46321182	A way to lock browser scrolling during mobile drag-and-drop.	mobile web users	none	1	developer tools
+24226429	Support for multiple compression methods in SQLite archive files.	developers archiving files	none	1	developer tools
+41661798	An open-source API-compatible alternative to Shizuku for elevated Android system API access.	Android power users	none	3	security & privacy
+45178087	A 30-minute option for temporary phone focus or notification settings.	phone users	none	1	consumer & home
+26354334	A paid search engine that serves users rather than advertisers.	web searchers	explicit	4	media & content
+47174797	A way for HN to help small sites survive traffic spikes from front-page posts.	small site owners	none	2	devops & infra
+43948055	A clear, well-written spec for the Model Context Protocol.	AI tool developers	none	3	AI & ML tooling
+48445131	Personal finance software that handles multi-currency transactions with per-operation exchange rates.	people in high-inflation countries	implied	3	finance & money
+41347077	Easier data entry and syncing for TV apps across devices on the same network.	TV app users	none	2	media & content
+45245365	More standalone 3D rendering engines like Irrlicht and Ogre3D.	game and graphics developers	none	2	developer tools
+43249509	A Linux laptop experience as polished as a MacBook Pro.	Linux laptop buyers	implied	3	hardware & IoT
+46095633	Faster resolution of false-positive malware flags on legitimate software and websites.	corporate IT staff	none	3	security & privacy
+18856184	Hermetic Python dependency handling in Bazel monorepos.	Python monorepo teams	none	3	devops & infra
+4210661	A robust, fast, modern, non-bloated paid IMAP email client.	email power users	explicit	4	communication & social
+32328855	An auto-filter that hides TikTok-branded memes shared in your feeds.	social media users	none	1	media & content
+46557149	Protection against losing your phone number, which is treated as identity for account access.	phone users	none	4	security & privacy
+32412848	Reliable rural fiber internet with competent, accountable customer service.	rural residents	explicit	4	consumer & home
+46572442	A public database showing whether a company is owned by private equity.	consumers and patients	none	3	data & analytics
+41891333	A real-time protocol suited to serverless environments, as an alternative to WebSockets.	serverless developers	none	3	devops & infra
