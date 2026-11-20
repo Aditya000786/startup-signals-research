@@ -1,0 +1,96 @@
+49208320	Clear USB-C cable labeling and a cheap tester that shows a cable's real capabilities.	USB-C device owners	implied	3	hardware & IoT
+48730631	Organized historical documentation of how programming ideas developed.	developers interested in history	none	1	education & learning
+44419313	Pronunciation and memorable aliases for unfamiliar Indigenous place names in maps and apps.	residents and visitors	none	2	travel & local
+38816951	A simple Linux audio plugin host that just works on ALSA without JACK, and saves reliably.	Linux musicians	none	3	media & content
+41946955	A minimal "dumb" phone that still supports password managers, 2FA apps and encrypted messaging.	people limiting phone use	implied	3	hardware & IoT
+45177861	More text-based exploration games like Seedship.	casual gamers	none	1	media & content
+47635225	A rule or filter for AI-generated Show HN submissions.	HN readers	none	2	communication & social
+41288271	Affordable DIY fiber optic termination tools for home installs.	home network installers	implied	3	hardware & IoT
+46551805	A directory of specialized single-purpose LLM tools.	people looking for AI tools	none	2	AI & ML tooling
+47173599	Direct DOM access from WebAssembly so web apps can be written fully in other languages.	web developers	none	3	developer tools
+26467032	A useful, ad-free paid search engine.	web searchers	explicit	3	media & content
+10895575	A home screen widget that surfaces the five most contextually relevant apps without reshuffling icons.	smartphone users	explicit	2	consumer & home
+20233523	Easy TOTP 2FA migration and backup devices when switching or losing phones.	2FA users	none	3	security & privacy
+45827605	Practical advice for engineers dealing with unreasonable CTOs and VPs of Engineering.	software engineers	none	2	hiring & careers
+29557463	Simpler company formation and closure in Brazil without lasting credit penalties.	Brazilian entrepreneurs	implied	4	legal & government
+46433862	A research group or methodology for rigorous engineering with LLMs that keeps modeling and verification.	software engineers using AI	none	2	AI & ML tooling
+33597882	Fine-grained mocking in JavaScript tests, like Python's mock.patch.	JavaScript developers	none	3	developer tools
+36602317	Large-scale document co-authoring that actually works with dozens of contributors.	large writing teams	none	2	productivity & work
+41473787	A single modern software design resource focused on typed functional programming with TypeScript and Rust examples.	software engineers	none	2	education & learning
+50052010	Native templating support in HTML itself.	web developers	none	2	developer tools
+27204893	Front-end developer interviews that test real UI work instead of algorithm puzzles.	front-end developers	none	3	hiring & careers
+46856615	A nicely rendered calculator REPL language with variables and history.	students and engineers	none	2	education & learning
+47864783	Built-in verification of LLM-parsed PDF financial data before analysis.	personal finance analysts	none	3	finance & money
+48041715	Working read/write calendar sharing on Proton Calendar for iOS.	Proton users	implied	3	productivity & work
+45081833	A foldable phone with an e-ink outer screen and an OLED inner screen.	phone readers	implied	2	hardware & IoT
+47899331	A generic immutable, A/B-boot, declarative home server OS that runs Docker, Kubernetes or QEMU workloads.	homelab users	none	3	devops & infra
+31096936	A QEMU book and architecture documentation for power users and would-be contributors.	QEMU power users	none	3	developer tools
+31780181	A big-data platform linking microbiome tests, diet and outcomes for personalized probiotic advice.	people with digestive and mood issues	implied	3	health & fitness
+46699871	Fully local PDF tools including OCR and translation, without cloud uploads.	privacy-minded document users	implied	3	productivity & work
+45990484	Run Android apps on Linux phones with working GPS, compass and background navigation.	Linux phone users	none	3	consumer & home
+46501448	Laws requiring large social media sites to publish data on astroturfing and sockpuppets.	social media users	none	3	legal & government
+45566578	A universal sane locale with ISO dates, UTF-8, decimal points and A4.	software developers	none	2	developer tools
+37971876	Car infotainment that reliably connects to the right driver's phone, with better CarPlay switching in rental cars.	drivers	none	3	travel & local
+44957364	A good open-source alternative to Obsidian's features built on plain markdown files.	note-takers	none	3	productivity & work
+38201309	Up-to-date consumer guidance on real estate commissions and buyer agent fees.	home buyers and sellers	none	3	finance & money
+48076344	VPNs that work reliably across home and mobile networks for non-technical relatives.	families of older people	implied	3	security & privacy
+34234659	Paid executive escalation support from payment processors for frozen merchant funds.	online merchants	explicit	4	finance & money
+29492507	Shared best-practice designs and standard parts for US infrastructure projects to cut costs.	transportation agencies	none	3	legal & government
+24566373	A paid Firefox-only product, without Pocket or a VPN bundle.	Firefox users	explicit	3	consumer & home
+46017415	A paid service that fixes the most annoying bugs in commonly used software, through bounties.	software users	explicit	3	developer tools
+42769701	A modern, enjoyable alternative to ROS for programming robots.	robot builders	none	3	hardware & IoT
+24238478	A paid membership to support MDN Web Docs with recognition perks.	web developers	explicit	2	developer tools
+29853592	A Swift framework bundling licensing, trials, crash reporting and auto-updates for apps sold outside the Mac App Store.	indie Mac app developers	implied	4	developer tools
+46917357	More legal BASE jumping sites on US public lands.	BASE jumpers	none	2	travel & local
+46658517	A browser permission that blocks sites from playing sound unless allowed.	web users	none	3	consumer & home
+39794927	Reliable remote automated QA device testing for Android, as good as for iOS.	mobile QA teams	implied	3	developer tools
+44799473	Simpler, cheaper versions of old boring business tools that are too complex or expensive for small firms.	small and medium businesses	implied	3	SMB & back-office
+29480608	Easy production deployment of Django, with dev environments that match production on a plain Linux host.	Django developers	none	3	devops & infra
+46544158	A way to disable a laptop touchscreen that keeps getting touched by accident.	ThinkPad users	none	2	hardware & IoT
+45060144	A write-through union filesystem that works at the filesystem level, including over FUSE.	Linux power users	none	2	devops & infra
+43106741	A global uv virtual environment for quick scripts, and the Python version kept in pyproject.toml.	Python developers	none	2	developer tools
+43977134	Clear information on which Android phones will get the latest OS update and when.	Android phone shoppers	none	3	consumer & home
+42979940	A single standard for software signing that clients verify automatically.	software distributors	none	3	security & privacy
+25581053	Apple Maps with complete business data, cycling directions, speed limits and areas of interest in Europe.	Apple Maps users in Europe	none	3	travel & local
+38629374	An option to turn off adaptive cruise control's phantom braking and use plain cruise control.	Tesla drivers	none	4	travel & local
+43622153	A public, fee-free national eID and instant payment system not controlled by banks.	Swedish citizens	none	3	finance & money
+4320447	Entertaining interactive educational videos and games about tech history and science.	learners	explicit	2	education & learning
+39840664	An in-app feedback channel for paying users, and voice editors that keep cursor focus on tab switch.	voice dictation users	none	2	productivity & work
+44643880	VS Code automatically detecting the virtual environment uv creates for scripts.	Python developers	none	3	developer tools
+25800274	Easy tooling for fast feedback loops: multi-environment deploys, hot reload and debugging for small teams.	developers	none	3	devops & infra
+46824942	A standard environment variable that tells CLI apps the terminal's background color.	CLI developers	none	2	developer tools
+39930208	Real-time disclosure of each card's merchant fee so card surcharges reflect actual costs.	consumers and small merchants	none	3	finance & money
+25215190	A service that encapsulates a VPN and automatically solves CAPTCHAs for you.	VPN users	explicit	3	security & privacy
+43987475	Take-home assignments with real feedback for candidates who are rejected.	job candidates	none	3	hiring & careers
+43455854	An app to organize real-life games like Assassin in suburbs with neighbors.	adults wanting playful local games	none	2	communication & social
+25560740	Version control for Word documents that survives people emailing attachments back and forth.	corporate document collaborators	implied	4	productivity & work
+44492818	A tracker of untranslated classical texts like cuneiform and Neo-Latin works.	historians and AI dataset builders	none	2	education & learning
+47933746	A Lean tactic that proves goals using the Z3 SMT solver.	formal verification users	none	2	developer tools
+37227396	Clear documentation of which training data counts as unsafe for model fine-tuning.	AI developers	none	2	AI & ML tooling
+41019438	Easy bulk deployment of endpoint security agents that satisfies compliance without vendor lock-in.	IT security teams	implied	3	security & privacy
+43984624	Respect screen brightness settings and allow disabling HDR photo display, including when casting.	iPhone users	none	3	consumer & home
+25544544	Error messages with lookup codes so users and support can diagnose problems.	consumers and support staff	none	2	consumer & home
+46789564	More honest cross-comparisons of what it is like to use different web frameworks.	developers choosing frameworks	none	2	education & learning
+46956816	A way to hold companies accountable when they change stated values or commitments.	customers	none	2	legal & government
+39118425	A standard integrated build and test tool for C and C++, like Cargo.	C/C++ developers	none	3	developer tools
+49047228	Benchmark leaderboards that include open-weight models across all tests.	open model users	none	2	AI & ML tooling
+36330696	A custom search engine for e-commerce built on cheap embeddings and vector search.	SaaS and e-commerce teams	implied	4	AI & ML tooling
+36059947	Web designers using standalone pages instead of modal windows so details can be opened in tabs and compared.	web users	none	2	developer tools
+23566411	Built-in auto-formatters in GitHub that are easy to enable on new projects.	software teams	explicit	3	developer tools
+29256759	Tooling for stacked code changes outside big tech.	developers who left big tech	implied	4	developer tools
+5013832	A premium Windows touch laptop worth $1400 or more.	Windows laptop buyers	explicit	3	hardware & IoT
+44309759	Social sites that resurface evergreen content to people who haven't seen it.	community readers	none	2	communication & social
+33965424	A recovery plan for your online identity, keeping your phone number, email and domains if you are locked out.	independent writers	implied	4	security & privacy
+44209448	European cloud providers with hyperscaler-level capability for governments.	European governments	implied	4	devops & infra
+29395836	A data warehouse with reliable materialized views, rich types and good observability, as an alternative to Redshift.	data engineers	implied	4	data & analytics
+45038034	Banking services that don't require a smartphone app for login and approvals.	bank customers without smartphones	none	3	finance & money
+42210722	A WebGPU profiler in dev tools showing draw-call timings and shader flamegraphs.	web graphics developers	none	3	developer tools
+45533335	A Hacker News live feed with dark mode and the ability to comment.	HN readers	none	1	media & content
+46238250	An iPhone keyboard with reliable autocorrect and precise cursor placement for editing.	iPhone users	none	3	consumer & home
+26152187	Programmable, affordable e-ink note-taking devices with documented APIs.	e-ink device users	implied	3	hardware & IoT
+28184715	A subscription service that adds strong security and privacy controls to devices.	security-minded companies and individuals	explicit	2	security & privacy
+45287843	A visual debugger for Lisp and Scheme.	Lisp developers	none	2	developer tools
+26575233	A paid unlock option for iPhones that allows full control of the device.	iPhone power users	explicit	3	consumer & home
+46412934	A non-spammy way for solo developers to get their first testers and users.	indie developers	implied	4	SMB & back-office
+46059715	A button to switch keyboard focus between the minibuffer and text in Emacs on Android.	Emacs users on Android	none	1	developer tools
+48315760	A clearly specified reliable power supply standard for Raspberry Pi boards.	Raspberry Pi users	none	2	hardware & IoT

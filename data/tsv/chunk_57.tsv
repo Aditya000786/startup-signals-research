@@ -1,0 +1,96 @@
+45424209	A browser tool to drop in CSV, JSON, Excel and Parquet exports, join and aggregate them, and share a live link without a warehouse.	business analysts	implied	4	data & analytics
+28874853	VR base-station tracking that keeps working when you are under a blanket.	VR users	none	1	hardware & IoT
+44982359	Controlled long-term diet trials in managed populations to establish nutrition causality.	nutrition researchers	none	2	health & fitness
+46433000	Easy packaging of Python apps with C-extension and OS dependencies like GTK.	Python app developers	none	3	developer tools
+48449383	Control which app Spotlight shows first, e.g. your own music app instead of Apple Music.	Mac users	none	2	productivity & work
+49225326	Compact a long AI coding conversation into a context-complete prompt for a fresh session.	developers using AI assistants	none	3	AI & ML tooling
+30235884	A code CAD tool with fillets, chamfers, CSG modeling and an intuitive way to select faces and edges.	makers using code CAD	none	3	hardware & IoT
+28361291	A notification service that keeps court case parties informed of dates and updates.	court systems and case parties	implied	3	legal & government
+47559188	A rebalanced open remake of Master of Orion 2.	4X strategy gamers	implied	1	media & content
+39180947	A stable embedded Linux base with long-term security updates for appliance vendors.	embedded appliance companies	implied	4	devops & infra
+44955166	Coherent desktop theming that works at odd UI scales without hand-tweaking configs.	Linux desktop users	none	2	consumer & home
+41272503	A bookmark-integrated personal search and link discovery tool built on RSS or federation.	web researchers	none	3	media & content
+47973205	An affordable, maintained iSCSI initiator for macOS.	Mac users with network storage	implied	3	devops & infra
+31985841	More PoE-powered smart home sensors and devices instead of WiFi or Zigbee.	smart home builders	implied	3	hardware & IoT
+42011688	A customizable dumb-phone Android OS where you pick allowed apps and the Play Store is disabled.	parents and people limiting phone use	implied	3	consumer & home
+30224418	A Teams alternative with good video calls for larger groups and native notifications on Mac.	office workers	implied	3	productivity & work
+43494065	A simple form-based screen library wrapping curses for terminal input screens.	terminal app developers	none	2	developer tools
+46180976	Prebuilt tiny Linux images for Allwinner single-board computers.	SBC hobbyists	none	2	hardware & IoT
+21129956	A guided path from validated problem to first customers for founders without a network.	first-time founders	implied	3	SMB & back-office
+46150358	Vulnerability disclosure and hosting options that suit European developers outside US CLOUD Act jurisdiction.	European developers	none	3	security & privacy
+36035990	A one-key mute-all-notifications control across desktop apps, especially for presentations.	office workers	none	3	productivity & work
+42206348	Math learning resources that explain how each concept was discovered and why it is useful.	adult math learners	implied	3	education & learning
+23974617	Customer service chatbots that actually resolve issues or hand off to a human quickly.	online customers	none	3	SMB & back-office
+40007954	A mail-in home water testing kit with clear pricing and aggregated public results, like 23andMe for water.	homeowners worried about PFAS	explicit	4	health & fitness
+48121188	A prediction market on space compute milestones.	space tech watchers	none	1	finance & money
+42112530	Free trials for paid browsers so users can evaluate before committing.	browser shoppers	none	1	consumer & home
+36833074	A version control system for large game projects that beats Perforce, without full history downloads.	game studios	implied	4	developer tools
+49135229	An ORM that mixes cached slow-changing data with live subqueries for fast-changing data.	backend developers	none	2	developer tools
+31348900	Larger, higher-quality symbolic music datasets for training music models.	music AI researchers	none	2	AI & ML tooling
+48006718	An AI tool that arranges unfinished loops into full song sections inside FL Studio.	music producers	implied	3	media & content
+27170314	Standard, widely available FPGA modules with stable toolchains and supply.	hardware designers	none	2	hardware & IoT
+43320741	An illustrated explainer of Nikon autofocus motor systems like the Canon one.	Nikon photographers	none	1	education & learning
+49152057	AI-assisted COBOL-to-Java migration that produces idiomatic maintainable Java while preserving behavior.	enterprises with legacy COBOL	implied	4	developer tools
+38078133	A simple binary serialization format that gives precise control over wire layout, like exact 16-bit integers.	protocol developers	none	2	developer tools
+44024884	A government-standardized accessible HTML subset that can be enforced against overly complex sites.	people with disabilities	none	2	legal & government
+27405675	More designated off-leash areas for dogs.	dog owners	none	2	travel & local
+46167695	A capable LLM voice assistant puck to replace degraded Google Home and Alexa devices.	smart home users	implied	3	hardware & IoT
+33250978	A programming-first audio DSP course that builds intuition before heavy theory.	audio engineers learning to code	implied	3	education & learning
+45043022	A single simple way to build and distribute GUI apps across Linux distros.	desktop app developers	none	4	developer tools
+24811344	Licensed private Docker images and Kubernetes manifests for self-hosting SaaS tools like Atlassian.	companies with private clouds	explicit	4	devops & infra
+48682618	A declarative, Nix-style router and firewall OS as an alternative to pfSense.	homelab network admins	none	2	devops & infra
+47137608	Device-level child mode set by parents instead of online ID-based age verification.	parents and privacy-minded adults	none	3	security & privacy
+42012533	Community Notes-style crowd ranking to downvote junk search results.	web searchers	none	3	media & content
+40429226	A Qt QML setting to disable click-drag flicking while keeping wheel and touchpad scrolling.	Qt developers	none	1	developer tools
+38966817	A GitHub Actions API that returns a trackable run ID when you trigger a workflow.	CI tool builders	none	2	devops & infra
+39027713	A standard way to declare a repo as not accepting pull requests, and to disable the PR tab.	open-source maintainers	none	2	developer tools
+43392589	Plug-and-play LTO tape backup for Linux and laptops without SAS cards and arcane setup.	home archivists	implied	3	hardware & IoT
+41956865	A shared family inbox for SMS and communications from institutions, so both parents see bills and messages.	families	implied	3	consumer & home
+44235477	Dense, fast desktop UIs without excess padding, animations or hidden scrollbars.	power users	none	2	consumer & home
+25764356	Annual cloud plans for light users at around $20 a year or less.	light cloud service users	explicit	3	productivity & work
+48999668	A legal way to read Kindle ebooks on open e-reader devices.	e-reader owners	implied	3	media & content
+44576708	Small on-demand screening rooms where groups can watch any film from a large catalog.	movie lovers	implied	3	media & content
+20470347	An easy way to record studio-quality audio from remote podcast guests.	podcasters	explicit	3	media & content
+40301240	A lightweight tool to control Logitech keyboard settings like backlight without Logitech's software.	Mac keyboard users	none	2	hardware & IoT
+26323696	Objective pay-equity analysis across employees with similar titles.	HR teams and employees	none	3	hiring & careers
+46092607	A cheap uptime monitoring service at about 25 cents per monitor per month.	indie developers	explicit	3	devops & infra
+45002428	An IDE integration that lets Go compile with unused variables and imports while debugging.	Go developers	none	2	developer tools
+39543188	Fast isolated test databases created from a migrated template per test.	backend developers	none	3	developer tools
+28253120	Easier, faster native-module interop for WebAssembly in Node, without big generated glue code.	Node.js developers	none	2	developer tools
+40613387	A paid, minimal Windows edition for developers with no ads, telemetry, OneDrive or junkware.	developers on Windows	explicit	4	consumer & home
+46185242	Automated detection of hallucinated citations and fabricated references in research submissions.	conference reviewers	none	4	education & learning
+44465830	A coding agent setting that uses a stronger model for planning and a cheaper one for execution.	AI coding agent users	implied	3	AI & ML tooling
+49500765	A map toggle that shows internationally accepted place names.	map users	none	2	travel & local
+32210466	Detect substandard component swaps among look-alike marketplace sellers.	online shoppers	none	3	commerce & marketplaces
+20984810	A modern bezel-less phone with premium metal design and a headphone jack.	phone buyers	explicit	2	hardware & IoT
+37527687	Kakoune-style editing modes for JetBrains IDEs.	modal editing fans	none	1	developer tools
+45746206	Ski race timing systems that can't be bricked by forced OS updates on race day.	ski clubs running races	implied	4	hardware & IoT
+44021040	A YouTube setting to base recommendations only on your own watch history.	YouTube viewers	none	3	media & content
+47730263	A human-memorizable strategy guide for winning Connect 4.	board game players	none	1	education & learning
+30025155	Access to in-person social skills therapy and special education spots for autistic children.	parents of autistic children	implied	4	health & fitness
+28221819	Better first-mile and last-mile connections to public transit for suburban riders.	suburban commuters	none	3	travel & local
+11896693	Easier per-app privacy and notification settings, plus predictable volume button behavior on iOS.	iPhone users	none	2	consumer & home
+43498599	A photo editing tool that recreates Piranesi-style multi-perspective correction for architecture images.	architectural photographers	none	2	media & content
+40353001	iPad text editing with clipboard shortcuts, spacebar cursor movement and good multilingual spellcheck.	iPad users	none	3	consumer & home
+43347048	Unambiguous identification of medical devices across hospital databases and EHRs.	hospital IT and safety teams	implied	4	health & fitness
+43863748	A rich charting library ecosystem for Java desktop apps.	Java desktop developers	none	2	developer tools
+49685535	CUDA compatibility on older AMD RDNA1 GPUs.	owners of older AMD cards	none	2	AI & ML tooling
+45855249	Permanently disable YouTube Shorts for users with ADHD, even for Premium subscribers.	YouTube Premium subscribers with ADHD	explicit	4	media & content
+46829550	Email filters that classify messages with emoji-heavy subject lines as marketing.	email users	none	2	communication & social
+45100802	An open, libre phone that privacy-focused Android distros can target.	privacy-minded phone users	implied	3	hardware & IoT
+48271365	Easy-to-use HTTP/3 libraries that beat hand-written HTTP/1 for speed.	backend developers	none	2	developer tools
+1404280	A paid ad-free social network that friends would actually join.	social media users	explicit	3	communication & social
+49205110	Affordable fast PCB fabrication for hobbyists.	electronics hobbyists	implied	3	hardware & IoT
+42146214	An affordable regional air taxi for long rural distances, like Perth to towns 500 km away.	families in remote regions	explicit	3	travel & local
+46049598	Long-lasting, high-capacity archival storage for consumer backups.	home data hoarders	implied	4	hardware & IoT
+49982662	Fully digital car titling and registration across states.	online car buyers and sellers	implied	3	legal & government
+46641728	A permission management layer for AI coding agents with a UI that avoids constant permission prompts.	heavy coding-agent users	implied	4	AI & ML tooling
+48215584	A play button or hotkey to hear the selected scale or chord in music learning tools.	music learners	none	1	education & learning
+49973450	A block-user button on Hacker News.	HN readers	none	1	communication & social
+45688168	Hide YouTube Shorts in the mobile app, not just in the browser.	YouTube Premium users	explicit	3	media & content
+34550125	Searchable public bug tracking for game mods instead of Discord servers.	game mod users	none	3	communication & social
+44507954	Native-performance map clustering in React Native across Google and Apple Maps.	React Native developers	implied	3	developer tools
+47503530	A desktop OS alternative to Windows 11 that average users can adopt easily.	average PC users	implied	3	consumer & home
+42087241	A major discussion platform that keeps a balanced mix of viewpoints instead of an echo chamber.	people wanting balanced discussion	none	3	communication & social
+29910488	A workflow that turns data scientists' notebook code into reviewed, tested library code.	data science teams	none	3	data & analytics
+31521455	A one-click reset-database option and saved preferences in the online SQLite fiddle.	SQLite learners	none	1	developer tools

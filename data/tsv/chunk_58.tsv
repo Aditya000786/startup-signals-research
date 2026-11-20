@@ -1,0 +1,86 @@
+49485999	A Hacker News-style site for non-tech intellectual content only.	curious readers	none	2	media & content
+26215179	A service that finds your social media footprint, compares it to your desired privacy level and helps scrub or take down content.	privacy-conscious individuals	explicit	4	security & privacy
+33159189	A way to find reliable, competent home repair contractors in small towns.	homeowners in small towns	implied	3	consumer & home
+34797861	Help IT managers evaluate the real security of vendor software instead of trusting big brands.	enterprise IT managers	implied	3	security & privacy
+7278591	A daily dinner delivery subscription for areas with few takeout options.	busy professionals	explicit	3	consumer & home
+45439864	Workplaces where neurodivergent employees can opt out of forced social events and work quietly.	autistic employees	none	3	hiring & careers
+48869892	A notation or reading tool that links concepts to deep dives and alerts you when new findings extend them.	science learners	none	2	education & learning
+44741324	Science writing pitched between beginner and expert, for curious readers with some coursework.	science enthusiasts	implied	3	media & content
+46974805	A site that checks whether your installed browser extensions are malicious or spying.	browser users	none	4	security & privacy
+47806026	A terminal graphics library like libchafa for SDL2 apps.	terminal hackers	none	1	developer tools
+24141877	A browser clearly better on privacy, ad blocking, speed and dev tools, worth paying for.	power browser users	explicit	3	consumer & home
+44183172	A reliable way to stop specific apps from running in the background on Android.	Android users	none	3	security & privacy
+33873593	A markup language with unambiguous parsing and AST source positions for tooling.	documentation tool builders	none	2	developer tools
+43628504	More visualization options in self-hosted BI tools like Metabase.	small business analysts	none	2	data & analytics
+45911444	A setting to stop an AI chatbot from receiving your name and location.	privacy-minded AI users	none	2	AI & ML tooling
+49352241	Affordable, reliable CI for large projects on GitHub without runaway costs and downtime.	large open-source and company projects	implied	4	devops & infra
+44334787	A reliable tool on macOS and Linux to inspect and extract Windows MSI installers.	cross-platform IT staff	explicit	2	developer tools
+46321506	LLMs trained on text up to each decade to study how attitudes changed over time.	historians and researchers	none	2	AI & ML tooling
+27465372	A web browser with privacy by default that is not funded by advertising.	privacy-minded web users	implied	3	security & privacy
+40380169	Standards for web-stack-based command-line interfaces.	CLI tool builders	none	1	developer tools
+44204501	A plugin that filters out users who only post political content, or a one-click block.	forum readers	none	2	communication & social
+44695731	Automatically persist an AI coding agent's in-memory context to a file on compaction or commit, to survive crashes.	coding agent users	none	3	AI & ML tooling
+34725329	An AI system that stores facts and relationships and reasons over them reliably instead of guessing.	knowledge workers	none	3	AI & ML tooling
+48494390	Easy rollback of Homebrew package updates on a home server.	home server admins	none	3	devops & infra
+36618665	A quiet, even-cooling, mold-resistant window air conditioner with good temperature control.	apartment dwellers	implied	3	consumer & home
+26248591	A paid Firefox subscription without sponsored tiles.	Firefox users	explicit	3	consumer & home
+41553747	A tool that removes unused CSS rules based on a set of static HTML files.	static site developers	none	2	developer tools
+39928774	A mobile payment method that doesn't rely on Apple or Google.	privacy-minded phone users	none	3	finance & money
+46578239	Accurate PDF text extraction that groups lines into paragraphs.	app developers processing PDFs	none	3	developer tools
+25845937	A statically checked dialect of PowerShell, like TypeScript for JavaScript.	PowerShell scripters	none	2	developer tools
+47479361	Archive services that work for users stuck in endless CAPTCHAs on residential IPs and VPNs.	web archive users	none	2	media & content
+42115537	A shared open web search index that small search startups can all use, like OpenStreetMap for search.	search engine startups	none	3	data & analytics
+48135884	A type checker setting that flags inferred Any or Unknown types inline in the IDE.	Python developers	none	2	developer tools
+29807443	Reliable versioned backup and multi-device sync for local plain-text notes, with failure alerts.	note-takers using local files	implied	3	productivity & work
+27596936	A paid search engine with an open-source backend.	privacy-minded searchers	explicit	2	media & content
+25843032	PowerShell with bash-like fail-fast on native command errors and stack traces by default.	PowerShell scripters	none	2	developer tools
+27022845	Convenient EV charging for apartment dwellers without dedicated spots.	apartment EV owners	implied	4	travel & local
+25838744	Dead-simple hosting for Docker containers with a few exposed ports, without learning all of AWS networking.	small app developers	implied	4	devops & infra
+46216227	More factory and industrial facility tours open to the public.	curious families	none	2	travel & local
+41395891	Clear legal guidance on what the AGPL requires so companies can use AGPL components.	corporate legal and engineering teams	implied	3	legal & government
+37907478	Affordable non-chemical weed control for young tree plantations.	small farmers in Southeast Asia	implied	3	other
+42096544	A browser that blocks ads and trackers and redirects to privacy-friendly front ends out of the box, auto-updating.	web users	none	3	security & privacy
+31810378	A way for office-preferring engineers to find teams that work in person.	engineers who prefer offices	none	3	hiring & careers
+45968467	Enforcement and tech against high-beam glare from cars and motorcycles at night in India.	night drivers in India	none	3	travel & local
+24545176	Usage-based streaming pricing that bills only for what you watch.	light streaming viewers	explicit	2	media & content
+48381342	A modern stunt-racing game distilled to the essence of the classic game Stunts.	racing game fans	none	1	media & content
+29749672	Faster consular services and interview scheduling for passports, visas and trusted traveler programs.	international travelers and couples	none	4	legal & government
+25816139	Easy Matrix account migration between servers with history and attachments.	Matrix users	none	3	communication & social
+19666700	Clear answers from banks on how court-ordered debt collection affects your account.	people in debt	none	3	finance & money
+45276681	A way for network admins to manage DNS-over-HTTPS without full TLS inspection.	network administrators	none	2	security & privacy
+45490295	A way to link Linux binaries against an older minimum glibc ABI.	Linux software distributors	none	3	developer tools
+48122136	A good mechanical keyboard with a ThinkPad-style pointing stick.	keyboard enthusiasts	implied	2	hardware & IoT
+24419590	Modern hospital outpatient queueing with SMS alerts, plus digital ECG and health record transfer between hospitals.	patients in developing countries	implied	4	health & fitness
+21529980	Project-based developer learning that produces portfolio work you host on your own site.	junior developers	explicit	2	education & learning
+49888212	Browsers that skip onboarding pop-ups and UI tips, especially on servers.	sysadmins and power users	none	2	consumer & home
+25839154	Container tabs and tree-style tabs in Chromium-based browsers like Brave.	people juggling many email accounts	none	2	productivity & work
+42007297	A C# attribute that fails compilation on hidden allocations in hot code paths.	performance-focused C# developers	none	2	developer tools
+35737290	One-click subscription cancellation, and a tool that tracks and re-requests retention discounts.	consumers with subscriptions	implied	3	finance & money
+46157681	Car repairability scores for consumers.	car buyers	none	3	travel & local
+43498003	A delayed mic-and-camera playback test in video calling apps so you can hear how you sound.	remote workers	none	3	productivity & work
+26314715	High-refresh-rate monitors in the productivity category with color accuracy and high resolution.	professionals	implied	3	hardware & IoT
+37350335	A real (non-VoIP) SMS number service for verification codes without a burner phone.	privacy-minded people	implied	3	security & privacy
+44009628	A transpiler from a familiar syntax into TLA+.	engineers using formal methods	none	3	developer tools
+45614756	A legal streaming experience as good as piracy: complete seasons, permanent purchases, no ads and good discovery.	streaming viewers	implied	4	media & content
+49238405	More games based on Persian lore.	fantasy gamers	none	1	media & content
+46446832	A fast, snappy app launcher for Windows like tofi on Linux.	Windows power users	none	2	productivity & work
+36516610	A more efficient Canadian government process for companies hiring tech workers there.	employers hiring in Canada	implied	3	hiring & careers
+46852885	Prevent AI agents in different jj workspaces from interfering with each other.	developers running parallel agents	none	3	AI & ML tooling
+44595322	An independent cross-project bug tracker that catalogs bugs for users and resists stale-bot closures.	software users	none	3	developer tools
+49354341	Print editions available in tech book bundles, not just ebooks.	technical book readers	explicit	2	media & content
+41746223	A UX team to streamline painful government processes like US immigration.	immigrants and citizens	none	4	legal & government
+24940381	A cheaper YouTube Premium without the bundled music subscription.	YouTube viewers	explicit	3	media & content
+25746203	Matrix end-to-end encryption that trusts new devices smoothly instead of constant manual verification.	Matrix users	none	3	communication & social
+44767074	A marketplace filter that shows only sellers within your region, such as the EU.	international shoppers	none	3	commerce & marketplaces
+27526226	An iOS app for a short abstract board game.	board game fans	explicit	1	media & content
+49103476	Night vision glasses for people with night blindness.	people with night blindness	implied	3	health & fitness
+48640980	A hands-on evaluation where developers build real projects with each LLM and share their experience.	developers choosing AI models	none	3	AI & ML tooling
+27962052	Polished, well-documented Julia libraries for distributed arrays and linear algebra with explicit memory control.	scientific programmers	none	3	developer tools
+41387475	A hacker collective that teaches reverse-engineering HVAC protocols and building ESP32 replacements for proprietary controls.	smart home hobbyists	none	2	hardware & IoT
+50096715	A European, GDPR-focused alternative to Gmail.	European email users	implied	3	communication & social
+46519934	A Hacker News front page that shows LLM-extracted key details of each article.	HN readers	none	2	media & content
+47657879	Symmetric gigabit fiber for blocks stuck on slow cable in big cities.	urban residents with slow internet	implied	3	consumer & home
+45482384	A sane email client for threaded workplace discussions, as an alternative to Slack threads.	knowledge workers	none	2	communication & social
+37345119	Easy aggregations, joins, safe transactions and trigram search in MongoDB without paying for Atlas.	MongoDB developers	none	3	developer tools
+35355663	Simple low-cost electric micro-vehicles, like a $4K electric tuk-tuk.	budget commuters	implied	3	travel & local
+46982628	A VR headset with unified high-bandwidth memory like the Xbox 360.	VR developers	none	1	hardware & IoT
