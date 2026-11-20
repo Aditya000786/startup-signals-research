@@ -1,0 +1,81 @@
+24707649	Upscale and colorize old family home videos, like 1990s wedding tapes, to modern quality.	families with old home videos	explicit	3	media & content
+29441714	Easy Android phone migration that carries over account settings and 2FA codes.	Android users switching phones	implied	3	consumer & home
+46436292	Stable ABIs for critical Linux libraries like libc and OpenSSL so binaries keep working.	Linux app distributors	none	3	developer tools
+40869248	Editors and tooling that work on the AST so each developer can view code in their preferred syntax.	developers	none	2	developer tools
+45000042	A US website that showcases regulations that improve everyday life, like the EU one.	US citizens	none	2	legal & government
+47360033	Detect when an AI coding agent starts drifting or degrading mid-session.	developers using coding agents	none	3	AI & ML tooling
+27371146	An AeroPress-style coffee maker made of metal, glass or ceramic instead of plastic.	coffee enthusiasts	explicit	3	consumer & home
+44405486	A privacy-respecting alternative to Facebook and Instagram.	social media users	implied	3	communication & social
+48084644	Simple cross-distro packaging of Linux apps without static linking and sandbox headaches.	Linux app developers	none	4	developer tools
+41055178	Insulin pumps with informative vibration patterns that cut notification fatigue.	people with type 1 diabetes	implied	4	health & fitness
+29398803	A stable, well-documented Nix experience with working VM orchestration.	homelab users	none	3	devops & infra
+48594572	A good batteries-included Emacs config that uses standard Emacs keybindings without evil mode.	Emacs users	none	2	developer tools
+36610957	Let open-source maintainers sort and prioritize issues by the reporter's track record.	open-source maintainers	none	3	developer tools
+27944282	A paid minimal Windows edition without forced updates, telemetry, Defender or Cortana.	Windows power users	explicit	4	consumer & home
+48188885	An affordable monitor with built-in KVM, PIP and split-screen at 120Hz and high brightness.	people using two computers	explicit	3	hardware & IoT
+34934919	A simple, unified Microsoft gaming account signup and settings experience for kids' games like Minecraft.	parents of young gamers	none	3	consumer & home
+47156143	Wider bus seats, more frequent service, and well-placed stops to grow ridership.	bus riders	none	2	travel & local
+44446933	Let corporate IT fully control browser update prompts and timing.	corporate employees	none	2	devops & infra
+28354216	A self-hosted or bring-your-own-backend end-to-end encrypted alternative to Google Photos.	privacy-minded photo users	explicit	3	security & privacy
+46848020	A macOS version of an adventure game creation tool.	hobbyist game makers on Mac	none	2	media & content
+44811282	Documented FPGA bitstream formats and open toolchains not locked to vendor tools.	FPGA developers	none	3	hardware & IoT
+48315610	A way for niche bloggers to get paid for views without ads.	niche bloggers	implied	2	media & content
+48103989	An updated High Performance Browser Networking book covering HTTP/3 and QUIC.	web performance engineers	implied	2	education & learning
+47038976	Easy self-hosted messaging that does not depend on DNS and TLS certs or a third party.	privacy-minded people	none	3	communication & social
+37329208	Monitors that wake reliably from sleep without needing a power-button tap.	desktop users	none	2	hardware & IoT
+49607658	AI-assisted triage and fixing of the long tail of website compatibility bugs in new browser engines.	browser engine developers	none	3	developer tools
+39417040	A tamper-proof security event log on phones and watches that makes it easy to spot a hack.	security-conscious device owners	none	2	security & privacy
+40147529	Reliable calendar sharing and sync across Google and Proton accounts.	small teams on mixed providers	implied	3	productivity & work
+47233109	Share a photo or music library between family accounts on Apple devices.	families sharing Apple devices	none	3	consumer & home
+42610988	A lightweight goal-setting process for big companies that avoids months-long OKR cascades.	managers at large companies	none	2	productivity & work
+49846500	A Wikipedia exploration UX that lets you browse linked topics like exploring a map.	curious readers	none	2	education & learning
+38700798	Detect and disclose purchased upvotes and astroturf accounts on discussion sites.	online community moderators	none	3	communication & social
+44872054	A crowdfunded legal fund that backs the strongest copyright cases against AI companies.	authors and artists	implied	3	legal & government
+40481756	Easy delayed-delete with undo for app developers without messy soft-delete columns.	app developers	none	2	developer tools
+42813761	Curated standard library sets with shorter compatibility guarantees for languages with small stdlibs.	JavaScript and Rust developers	none	2	developer tools
+30761290	EV battery subscriptions with quick battery swaps on road trips.	EV owners on road trips	implied	3	travel & local
+44500744	A way to monetize richer web games beyond hyper-casual ones, plus better web game APIs.	web game developers	implied	3	media & content
+26875517	Programming guides that explain the concepts behind syntax like method calls, not just syntax lists.	beginner programmers	none	3	education & learning
+26868218	Music theory lessons that show how scales and modes overlap instead of piling on names.	self-taught musicians	none	2	education & learning
+29332604	Image color profiles that display correctly everywhere without having to strip them.	web and print designers	none	2	media & content
+40021076	Beginner programming references that start from many concrete functions to play with.	beginner programmers	none	2	education & learning
+45321445	Compact foldable-prong USB chargers for Europlug sockets.	travelers and European users	implied	2	hardware & IoT
+46863933	Detect new accounts that astroturf hot-button threads.	forum readers	none	3	communication & social
+44369029	A filter on vacation rental sites for hosts who live on site versus remote operators.	vacation rental guests	none	3	travel & local
+39875417	End-to-end security tests run on built binaries to catch silently disabled protections.	open-source distro maintainers	none	3	security & privacy
+44945918	Easy-to-set-up open-source local speech-to-text with low resource use.	dictation users	none	3	AI & ML tooling
+34066424	A hermetic build tool that respects native package managers like cargo and npm rather than replacing their APIs.	polyglot build engineers	none	3	devops & infra
+49277679	Clear lists of which AI models are served by which providers and settings.	AI chat users	none	1	AI & ML tooling
+48373993	Easy procurement of AI models inside existing cloud contracts at large enterprises.	enterprise IT buyers	implied	3	AI & ML tooling
+48833197	Local newspapers with real local reporters covering local stories.	local residents	implied	3	media & content
+47663967	A keyboard protocol that reports layout or sends characters so computers need no layout setup.	keyboard users	none	2	hardware & IoT
+24897871	A service that removes or disables smart TV wireless modules so TVs work offline.	privacy-minded TV owners	explicit	3	consumer & home
+37819164	Something that quickly resets your circadian rhythm for business travel.	frequent business travelers	implied	3	health & fitness
+39388152	An archive of old iOS apps for legacy iPads stuck on old iOS versions.	owners of old iPads	none	2	consumer & home
+40975807	A paid browser with a sustainable subscription model that protects privacy instead of collecting ad data.	privacy-minded browser users	explicit	3	security & privacy
+47755380	Preview UI changes as CLI commands and apply the same config changes across many domains on Cloudflare.	people managing several domains	none	3	devops & infra
+42624293	Fair anti-scalper purchase lotteries for GPU launches tied to shipping addresses.	PC gamers	implied	3	commerce & marketplaces
+45602565	Community security patches for Windows 10 after end of support, so gamers can keep using it.	Windows 10 gamers	implied	3	security & privacy
+49502121	Simple utilitarian furniture like a basic leather sofa without gadgets.	furniture shoppers	implied	2	consumer & home
+49410807	A tool that helps citizens vote in an informed way on specific issues.	voters	none	2	legal & government
+48825080	Off-the-shelf compliant driver-assist hardware and software for startup vehicle makers facing new regulations.	vehicle startups	implied	3	hardware & IoT
+24156929	A show watching famous CEOs and engineers play factory-building games like Factorio.	gamers curious about leaders	explicit	1	media & content
+43346602	A usable web browser and PDF reader that run without X, in a minimal window manager setup.	minimalist Linux users	none	1	consumer & home
+42635659	A reliable way to refill SodaStream cylinders fully from a bulk CO2 tank.	home soda makers	implied	2	consumer & home
+46132092	An eval benchmark that tests whether coding agents avoid destructive actions like dropping databases.	teams deploying coding agents	none	4	AI & ML tooling
+47499152	Force mismanaged game companies to divest beloved IP to studios that will develop it.	gamers	none	2	media & content
+41650002	Digital school textbooks that are readable on small Chromebooks side by side with homework.	students and parents	none	3	education & learning
+29288959	Affordable practical ransomware protection and insurance for small businesses.	small businesses	implied	4	security & privacy
+49125178	More simple, satisfying puzzle games like Elevators.	casual puzzle gamers	none	1	media & content
+20663322	A single streaming service with base plus add-on catalogs and fairly priced rentals, so you don't need to track which platform has what.	families who stream	explicit	4	media & content
+50321671	A minimal Casio-style watch with only frequent heart rate tracking.	minimalist fitness trackers	implied	2	hardware & IoT
+43998779	A performant Python alternative for numeric work without NumPy vectorization tricks.	scientific programmers	none	3	developer tools
+28350504	A locally run end-to-end encrypted photo library.	privacy-minded photo users	explicit	3	security & privacy
+39029211	Better Bluetooth multipoint with manual source switching, or an audio mixer that merges devices into one headset.	headphone users with many devices	implied	3	hardware & IoT
+49051182	Simpler service configuration and greppable plain log files instead of systemd overrides and journalctl.	Linux admins	none	3	devops & infra
+44185340	A browser API and UI to firewall which local network addresses and ports a site may reach.	privacy-minded web users	none	3	security & privacy
+44446171	A browser extension that filters out AI/LLM hype content from the web.	readers tired of AI hype	none	2	media & content
+44299926	Clean, aligned public datasets for mapping internet availability against census demographics.	researchers studying the digital divide	none	3	data & analytics
+22065234	A fast, predictable Chrome extension review process with real support.	browser extension developers	explicit	4	developer tools
+47374294	A tool that turns off all RGB lighting once without running in the background.	PC owners	none	2	hardware & IoT
+38680731	An email service with disposable relay addresses that keep the inbox to a handful of messages.	personal email users	implied	3	communication & social
