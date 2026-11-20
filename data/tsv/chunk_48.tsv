@@ -1,0 +1,69 @@
+32826960	Banks need a way to roll out regulatory changes across many overlapping vendor core systems without year-long integration work.	bank IT teams	implied	3	finance & money
+37705967	Share a physical chalkboard or whiteboard clearly in video calls as a first-class participant.	hybrid meeting presenters	none	2	productivity & work
+32812426	Julia developers need fast single-test runs, debugging in Vim/Emacs, and better linting.	Julia developers	none	3	developer tools
+47372253	Show exactly which leftover AWS resource is still billing after you deleted everything.	occasional AWS users	implied	3	devops & infra
+44811364	Task runners need a standard way to keep subprocess colors and formatting while relaying output line by line, without a nested terminal emulator.	developer tool builders	none	3	developer tools
+50478456	Rackmountable cases that properly secure and space multiple GPUs for home AI rigs.	home GPU server builders	implied	3	hardware & IoT
+42340086	Visual programming editor for OpenSCAD models that scales beyond one screen and supports richer GUIs.	hobbyist CAD makers	none	2	developer tools
+36906617	High-quality English cathedral organ sample sets for open-source virtual organ software.	organists using GrandOrgue	implied	2	media & content
+39818183	Automatically subset fonts and freeze variable-font features for static websites.	web developers	none	3	developer tools
+41480449	Find nearby people who share a mix of niche hobbies and organize events with them, without Facebook groups.	hobbyists	none	3	communication & social
+49962967	A modern, simple, intuitive drag-and-drop app builder like classic VB6.	hobbyist and beginner programmers	none	3	developer tools
+44060271	An AI coding agent that can work across a large multi-language app (mobile, web, server) instead of hiring a programmer.	solo app owners	implied	3	AI & ML tooling
+31283757	Two-factor login for researchers at remote harsh sites where phones and hardware keys fail.	field researchers	none	3	security & privacy
+49602056	Forum voting richer than up/down to surface posts that add to the debate.	discussion forum readers	none	2	communication & social
+43397553	Network-wide blocking of infinite short-video feeds like Shorts and Reels while keeping the rest of the app.	people fighting doomscrolling	implied	3	consumer & home
+49350206	Send delivery notifications to a second phone number without adding them to a household account.	online shoppers	none	2	commerce & marketplaces
+33076431	Easier switching and permission grants across many AWS accounts in the console and CLI.	cloud teams with many AWS accounts	implied	3	devops & infra
+40315497	Rootless per-window remote desktop streaming that works with ordinary Windows clients.	remote Linux desktop users	implied	3	devops & infra
+48676738	A modern Ngram-style tool that tracks when words and phrases rise in online writing and speech.	language enthusiasts and researchers	none	2	data & analytics
+43915023	An AI coding editor with a tree-shaped undo history so agentic edits and manual edits on top of them are never lost.	developers using AI code editors	none	3	developer tools
+44611669	A handheld device in a Switch/DS form factor that boots into a coding environment with a free indie app store.	hobbyist programmers and learners	implied	2	hardware & IoT
+42587842	Affordable modern hardware design and verification tooling to replace Verilog/VHDL ecosystems.	chip designers	implied	3	developer tools
+29963247	A universal machine-readable resume format that applicant tracking systems can parse reliably.	job seekers and recruiters	none	3	hiring & careers
+21156243	A paid DNS resolver option that keeps privacy while working with sites that block privacy resolvers.	privacy-minded travelers	explicit	2	security & privacy
+47544348	A trust and reputation layer so AI agents can decide whether to transact with each other.	AI agent builders	none	2	AI & ML tooling
+49394428	Better third-party apps and a good book-reading experience on the reMarkable 2.	e-ink tablet owners	none	2	consumer & home
+32651580	Turn medical research papers into structured symptom and drug-effect data for a trustworthy health reference.	health information sites	none	3	health & fitness
+42890082	In-person curated tailored wardrobe service in the US, not an online subscription box.	professionals wanting tailored clothes	implied	2	consumer & home
+39792950	A YouTube frontend that surfaces only high-quality long-form lecture series.	self-learners	none	3	education & learning
+39638776	Make long IBANs easier to type, read and remember.	bank customers in Europe	none	2	finance & money
+18423446	Server and client tooling that makes building and consuming hypermedia REST APIs practical.	API developers	none	3	developer tools
+40439381	A university ranking based only on undergraduate teaching quality.	prospective students	none	3	education & learning
+41664596	A cheaper, simpler path through Google's security assessment for apps that need Drive access.	small app developers	implied	3	developer tools
+34380337	A phone keyboard that learns to stop autocorrecting unusual words you keep reverting.	smartphone users	none	2	consumer & home
+32474048	Reliable, well-supported WiFi access points with a polished controller and timely firmware updates.	home network enthusiasts	implied	3	hardware & IoT
+39777294	Budgeting apps that do not depend on fragile bank API aggregators for transaction imports.	personal budgeters	implied	3	finance & money
+40379085	A modern text interface to computers with structured output instead of escape codes and string parsing.	developers	none	2	developer tools
+49291141	Extract text, tables and figures from documents with complex multi-column layouts and handwriting.	document processing developers	implied	3	AI & ML tooling
+48261035	An app that offloads all phone data to a personal cloud before a border crossing and restores it afterwards.	international travelers	none	3	security & privacy
+44545702	A federated YouTube alternative that creators actually use.	video viewers and creators	none	3	media & content
+32614283	Easy booking and scheduling for less-than-carload rail freight shipments.	shippers	implied	3	commerce & marketplaces
+43321758	Food delivery that properly refunds or fixes botched orders, as an alternative to DoorDash.	delivery app customers	implied	3	commerce & marketplaces
+23663819	Repairs and OS support for laptops after the maker declares them vintage.	older MacBook owners	none	2	hardware & IoT
+47760012	Generate unambiguous record ids before the database write to make retries and distributed systems simpler.	backend developers	none	2	developer tools
+49905935	A design tool where you can select objects in a photo of a room or garden and move them in 3D, with an AI driving it by prompt.	homeowners redesigning spaces	none	3	consumer & home
+40489606	A curated, expert-moderated short-form social feed with the quality of a strict subreddit.	readers tired of noisy social media	none	3	communication & social
+32587752	Better tools for debugging complex TypeScript types and guides for writing libraries.	TypeScript library authors	none	3	developer tools
+28284890	A 3D music sequencer available as a VST plugin with MIDI output for DAWs.	music producers	explicit	3	media & content
+43853766	A dating app built around evidence on which partner traits actually matter, not engagement.	singles	implied	3	communication & social
+32955907	A Python tool for mostly declarative CRUD API routes and forms on FastAPI with built-in auth.	Python web developers	none	3	developer tools
+32256373	A useful home for biographies of people deleted from Wikipedia for low notability.	people removed from Wikipedia	none	2	media & content
+30888681	Help families understand ICU treatment decisions and research for a relative with a brain injury.	families of critically ill patients	none	4	health & fitness
+47048446	A step-by-step visual bridge from gradient math to gradient-descent code for PyTorch learners.	ML beginners	none	2	education & learning
+41734421	A beautiful component library that keeps HTML semantic and readable instead of class soup.	front-end developers	none	2	developer tools
+48517733	A way to support creators with a clear upfront price instead of guilt-trip tip buttons.	readers who want to pay creators	implied	2	media & content
+37589791	A simple portable GUI framework with TUI qualities: works everywhere, simple API, accessible.	app developers	none	3	developer tools
+33008252	Easy deployment and distribution of custom memory-efficient attention kernels.	ML engineers	none	3	AI & ML tooling
+48828225	Make Samba shares on a home NAS work reliably with iPhones.	home NAS owners	none	3	consumer & home
+38858554	Statically check the impact of removing CLI options and auto-migrate scripts that use them.	OS and tool maintainers	none	2	developer tools
+27636792	A debloated, telemetry-free lightweight Windows build that runs on older PCs.	PC users on older hardware	explicit	3	consumer & home
+36374427	Coherent, flexible window snapping and management built into macOS.	Mac power users	implied	3	productivity & work
+29018669	A laptop with a mechanical keyboard plus Touch ID.	laptop buyers	explicit	2	hardware & IoT
+48228743	A portable open-source mini Linux handheld with a LoRa module.	hardware hackers	implied	2	hardware & IoT
+45704982	An AI-guided walkthrough of a pull request that steps reviewers through the why and each change with commentary.	code reviewers	none	3	developer tools
+45420323	A site that compares health risk factors like alcohol, diet and sitting on one standardized scale.	health-conscious people	none	3	health & fitness
+40129306	Help patients and families navigate a serious illness and the health system before a crisis.	seriously ill patients and families	none	4	health & fitness
+46729493	Good Swift language server support for editors other than Xcode, including SwiftUI.	Swift developers outside Xcode	none	3	developer tools
+40260520	A Homebrew package for the Dillo browser on macOS.	macOS users of lightweight browsers	none	1	developer tools
+29895938	A standard, easy userspace library for TLS plus WebSocket servers outside web frameworks.	systems developers	none	2	developer tools

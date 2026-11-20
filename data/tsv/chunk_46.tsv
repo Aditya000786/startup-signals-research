@@ -1,0 +1,101 @@
+33282606	Small B2B teams find Node.js stacks a huge pain compared to a simple LAMP setup	small B2B engineering teams	implied	2	developer tools
+29669849	Drivers want a reset button for frozen infotainment and safe aftermarket head unit options	car owners	implied	2	hardware & IoT
+50499142	AI agent users want automatic backups or confirmation before destructive file operations	users of AI agents	implied	4	AI & ML tooling
+49615082	Consumers want TVs with a mandated dumb mode free of spying	TV buyers	implied	3	consumer & home
+49824788	TTS users want precise pronunciation control without specifying everything	voice content creators	implied	2	AI & ML tooling
+41659927	Home sellers want resources to DIY real estate transactions	home sellers	implied	3	commerce & marketplaces
+36962105	Streaming engine builders want research on network backpressure stacks for modern hardware	data infrastructure engineers	implied	1	data & analytics
+40282059	Consumers want simple, promoted guidance to call back via trusted channels to avoid scams	consumers	implied	3	security & privacy
+46630606	OSS maintainers lack payment infrastructure and face bureaucracy to accept small earnings	open-source maintainers	implied	4	finance & money
+31885489	Users switching phones find re-enrolling app-based 2FA on every account a huge pain	security-conscious users	implied	4	security & privacy
+50060647	Minimal-phone users want a dumbphone with a good telephoto camera	digital minimalists	implied	2	hardware & IoT
+41133793	Laptop buyers want rugged, quiet, quality hardware like old MacBooks from other makers, with good EU support	laptop buyers	implied	3	hardware & IoT
+47436574	Claude Code users want a tool that auto-resumes work when the usage quota resets	AI coding tool users	implied	2	AI & ML tooling
+49515810	Safari users want to add search engines beyond the whitelist	Safari users	implied	1	consumer & home
+49870237	Teams find mixing C++ with other languages a huge pain	polyglot engineering teams	implied	3	developer tools
+46287500	Phone users want a permission option that feeds apps fake contacts and data	privacy-minded phone users	implied	3	security & privacy
+42150981	Readers want a cheap push-based way to follow thousands of feeds without constant RSS polling	heavy feed readers	implied	3	media & content
+48517337	Desktop app developers want memory-safe compiled languages with ergonomic imperative UI frameworks	desktop app developers	implied	2	developer tools
+26438187	Security teams would pay for a context-aware scanner with few false positives	security teams	explicit	4	security & privacy
+32563273	Users want encrypted email search without downloading everything, and decentralized alternatives to E2EE	privacy-minded email users	implied	2	security & privacy
+50015889	Users of free alternative apps lack how-to guides, and LLMs hallucinate their menus	creative software users	implied	2	media & content
+48114360	Touchscreen users want a mode button instead of long-press and previews of what a button will do	mobile users	implied	1	consumer & home
+41080445	Users want low-friction microtransactions to pay for online services instead of ads	web users	implied	3	finance & money
+44078784	City residents commuting from suburbs want decent transit options	commuters	implied	2	travel & local
+35895115	Viewers want to pay for ad-free YouTube without being tracked	privacy-minded viewers	explicit	3	media & content
+40417744	Job seekers and employers waste huge effort on interviews with no reliable way to prove skills	job seekers and employers	implied	5	hiring & careers
+29901844	Users would pay for a downloadable offline version of AI image generators	AI art hobbyists	explicit	3	AI & ML tooling
+49342643	People want local repair cafes with experienced help for devices like vacuums and consoles	people with broken devices	implied	3	consumer & home
+45324191	Developers want a high-performance mainstream language that makes both mutable and functional styles ergonomic	software developers	implied	2	developer tools
+48909692	Users want mobile devices with USB4 support	mobile power users	implied	2	hardware & IoT
+46783241	Shoppers want stores without gates and surveillance screens, and more hardware store variety	in-store shoppers	implied	2	commerce & marketplaces
+13038656	Mac desktop users find multi-monitor support poor in recent macOS releases	Mac desktop users	implied	2	productivity & work
+47862935	Consumers want brands that keep product quality instead of cheapening production	quality-conscious shoppers	implied	3	commerce & marketplaces
+48408205	Parents in Germany find high-quality daycare hard to find	German parents	implied	4	consumer & home
+47198403	Users want a blind A/B testing proxy to compare search engine results objectively	search users	implied	2	consumer & home
+48639453	Developers find recompiling old Linux software with old toolchains and dependencies a nightmare	Linux software maintainers	implied	2	developer tools
+49005382	Users want to ban in-app embedded browsers that trap them	smartphone users	implied	2	consumer & home
+33489798	Climate researchers want the cheapest self-powered standalone sensors with satellite comms	environmental monitoring builders	implied	3	hardware & IoT
+45328902	Small sellers find accepting crypto payments painful	small sellers	implied	2	finance & money
+47072331	Desktop users want a company offering a suite of consistent native desktop apps	desktop users	implied	2	productivity & work
+43378453	Low-resource users want a text browser backed by a remote headless Chromium for modern sites	low-bandwidth users	implied	3	consumer & home
+50031377	Truck drivers find urban warehouse delivery a nightmare	truck drivers	implied	2	travel & local
+49304932	Users want a more open and free phone OS	smartphone users	implied	3	consumer & home
+24552055	Users would pay for browser extensions like ad blockers and 2FA through a store	browser extension users	explicit	2	consumer & home
+43452182	Developers want parallel coprocessors like the Cell's SPUs alongside modern CPUs	game and HPC developers	implied	1	hardware & IoT
+42732223	RSS readers want a standard to publish and consume "likes" for item-level recommendations from similar readers	RSS users	implied	3	media & content
+33453344	Logistics software teams find EDI integrations painful and want them hosted with storage and triggers	logistics software teams	implied	4	SMB & back-office
+48641326	Concert-goers want better ways to defeat ticket scalpers	concert fans	implied	3	media & content
+27537897	Developers would pay for a hosted GraphQL edge cache instead of building their own	GraphQL developers	explicit	3	devops & infra
+33441912	C++ learners find dependency and package management a nightmare and want a Cargo-like standard tool	C++ developers	implied	4	developer tools
+43869362	Consumers find Apple's refund status UX antiquated	app store customers	implied	1	consumer & home
+33081972	Clinicians suffer alert fatigue from drug interaction warnings on incomplete medication lists	clinicians and pharmacists	implied	3	health & fitness
+46848872	Residents want a device that automatically closes windows when neighbors' smoke drifts in	apartment residents	implied	3	consumer & home
+36507933	Consumers want efficient inverter window AC units with HEPA filtering, fresh air exchange, mold control and heat pump mode	apartment dwellers	implied	3	consumer & home
+29934754	Professionals would pay a $10 lifetime fee for an accomplishments journal	working professionals	explicit	2	productivity & work
+43621006	CI users want a standard protocol for tools to report progress to CI environments	CI engineers	implied	2	devops & infra
+33441152	C++ learners find modern C++ 20/23 resources scarce and error messages indecipherable	C++ learners	implied	3	education & learning
+41613949	Agencies find moving WordPress hosts hard and get squeezed by price hikes	WordPress agencies	implied	3	devops & infra
+37221253	Viewers want dialog-only subtitles and audio tracks without distracting sound effects like dog barks	streaming viewers	explicit	3	media & content
+38684518	Consumers waste hours navigating maze-like support phone trees and websites to rebook flights	airline customers	implied	4	travel & local
+48257500	.NET developers want a good unified UI story across desktop, mobile and web	.NET developers	implied	3	developer tools
+47485805	Developers find Windows native app development a mess and bridging JS to native code a huge pain	Windows app developers	implied	3	developer tools
+37840529	Mobile gamers want a Steam-like store for quality games on mobile	mobile gamers	implied	2	media & content
+46405020	SBC users find driver support for niche ARM boards a nightmare	single-board computer users	implied	3	hardware & IoT
+34741610	Seed producers find producing hybrid seeds a huge pain due to manual detasseling labor	seed farmers	implied	2	other
+50099718	Users want to silence unknown-tracker alerts for specific trusted AirTags	Android users with AirTags	implied	2	consumer & home
+20267542	Musicians would pay for a preconfigured Raspberry Pi that auto-records multitrack audio from a USB interface	bands and musicians	explicit	3	hardware & IoT
+48261193	Developers want to pin dependency versions reliably in Go, and find package management unsolved	Go developers	implied	2	developer tools
+37857820	Owners of cordless yard tools want standardized interchangeable large batteries instead of brand lock-in	cordless tool owners	implied	3	hardware & IoT
+33329791	Backend teams on Python must bolt on linters and type checkers to approach compiled-language safety	backend teams using Python	implied	2	developer tools
+37818190	Hardware founders want a general-contractor equivalent to manage manufacturing	hardware founders	implied	4	hardware & IoT
+50329079	Patients cannot get price quotes ahead of medical procedures	US patients	implied	4	health & fitness
+44952991	Browser builders want a simpler minimal browser standard so new engines are feasible	browser developers	implied	2	developer tools
+49648872	AI users want a tracker that detects when model quality quietly degrades after launch	AI power users	implied	3	AI & ML tooling
+43783451	Facebook users want to block reshared posts and keep suggested posts turned off permanently	Facebook users	implied	3	media & content
+46238164	Teams find managing Jenkins a nightmare needing dedicated devops babysitting	engineering teams on Jenkins	implied	3	devops & infra
+27291437	Viewers want legal access to shows in their region at release	international TV fans	explicit	3	media & content
+47631041	Naturalists want a desktop app to organize full-quality observation media locally while syncing copies to iNaturalist	amateur naturalists	implied	3	data & analytics
+44445562	Web users find sites built only for Chromium slow or broken in other browsers	Firefox and Safari users	implied	2	consumer & home
+25215444	Presenters would pay for an easier OBS-like presentation tool that doesn't hog the CPU and supports multiple decks	presenters and founders	explicit	3	productivity & work
+47990384	Users with many devices find syncing a KeePass vault between them a nightmare	multi-device users	implied	3	security & privacy
+48358652	Leaders lack a way to measure AI's productivity gain versus hiring more developers	engineering leaders	implied	3	AI & ML tooling
+42978866	People want a heatmap of their city based on commute times to their key places when choosing where to live	home buyers and renters	implied	3	travel & local
+45708298	Users want a global toggle to turn off AI feature pop-ups across their tools	knowledge workers	implied	4	productivity & work
+43860573	Teams find migrating many Redis deployments to a fork a huge pain	engineering teams	implied	2	devops & infra
+48446136	Forum readers want comment sort options other than engagement ranking	forum readers	implied	2	communication & social
+47550547	Developers want an offline Tree-sitter-powered code navigation tool like ctags	developers	implied	2	developer tools
+48913756	Shoppers find buying HDMI, DisplayPort and USB-C cables a nightmare because specs aren't printed on connectors	cable buyers	implied	3	hardware & IoT
+50122877	Viewers want plain-text summaries instead of long videos	busy readers	implied	1	media & content
+41100271	Environmental engineers find filtering nanocrystal photocatalysts out of treated water a huge pain	water treatment engineers	implied	2	other
+34236702	Merchants want payment processors to provide real customer service when funds are held	online merchants	implied	4	finance & money
+28806588	Radio hobbyists want a licensed band with fewer content restrictions, allowing encryption and commercial use	amateur radio operators	implied	2	hardware & IoT
+46930296	Developers find agent-written code with many single-use variables a nightmare to read	developers using AI	implied	3	AI & ML tooling
+26066893	TV fans would pay for RSS feeds notifying them when new episodes of their shows air	TV viewers	explicit	3	media & content
+33174431	Beginner OS developers find x86 segmentation a nightmare and need clear guidance	hobby OS developers	implied	1	education & learning
+35750346	Small businesses find moving customer deposits between banks to stay under insurance caps a huge pain	small business finance teams	implied	4	finance & money
+38509302	Developers want a simple way to deploy Cloudflare Workers from a monorepo without wrangler	edge developers	implied	3	devops & infra
+49289142	Readers want a browser feature that forces sites to use normal scrolling	web readers	implied	2	consumer & home
+49042515	Self-hosted mail servers find deliverability to Gmail and Hotmail a nightmare	email self-hosters	implied	4	communication & social
+35460193	Automakers find key provisioning for authenticated CAN bus communications a huge pain	automotive engineers	implied	3	hardware & IoT
+49879803	Developers lack good ways to store modern time types beyond timestamps in relational databases	backend developers	implied	2	data & analytics
