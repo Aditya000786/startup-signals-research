@@ -1,0 +1,85 @@
+37747462	Give home buyers downloadable listing data and per-showing agent service instead of commission-based agents.	home buyers	implied	3	commerce & marketplaces
+42120326	Provide a unified, easy dashboard for managing and monitoring containers and VMs on a home server.	homelab users	implied	3	devops & infra
+45173194	Filter large volumes of unqualified job applicants quickly and fairly.	hiring managers	implied	4	hiring & careers
+41246903	Improve observability of eventually consistent distributed systems.	distributed systems engineers	implied	3	devops & infra
+40216605	Offer a good scripting language and tool for managing many machines declaratively.	ops engineers	none	2	devops & infra
+45091058	Ship a mainstream Linux phone distribution with a usable app store.	people wanting alternative phone OSes	none	3	hardware & IoT
+45517484	Send compressed context to LLMs to cut token usage and costs.	AI app developers	implied	3	AI & ML tooling
+41593100	Create sustainable funding for open source maintainers from the companies that rely on them.	open source maintainers	implied	4	developer tools
+27665046	Make type 1 diabetes management closer to automatic with affordable, accurate insulin dosing.	type 1 diabetics	implied	5	health & fitness
+40316510	Run Android apps easily on Linux desktops.	Linux desktop users	none	3	consumer & home
+43134161	Build a smart temperature-controlled mattress cover that works offline without a subscription.	sleepers wanting climate control	implied	3	consumer & home
+45567128	Explain what problem each modern command-line tool solves compared to the classic one.	developers evaluating CLI tools	none	1	developer tools
+33775420	Let search users permanently exclude result languages they never use.	multilingual searchers	none	2	media & content
+41500292	Let browsers and apps ignore some system languages when choosing which localized content to serve.	language learners	none	3	consumer & home
+42351514	Make domain ownership and self-hosted email resilient to registrar and payment failures.	people owning their email identity	implied	3	communication & social
+42875257	Run desktop Electron apps as plain web servers on unsupported operating systems.	users of niche operating systems	none	2	developer tools
+43559316	Make chat logins work even when browsers clear cookies.	privacy-minded chat users	none	2	communication & social
+32315461	Avoid split cross-platform and native mobile codebases with tooling that keeps performance and hiring simple.	mobile teams	implied	3	developer tools
+22920016	Build accessible developer tools and office navigation aids for blind software engineers.	visually impaired engineers	implied	4	developer tools
+4346309	Offer ad-free paid versions of email and social networks where the user is the customer.	privacy-minded users	explicit	3	communication & social
+46098682	Build parental-control-style screen-time limits that adults set for themselves.	adults addicted to phones	implied	4	health & fitness
+22130336	Offer a personal finance aggregator with end-to-end encryption so transaction data cannot be sold.	privacy-conscious budgeters	explicit	4	finance & money
+25557548	Offer a simple, pleasant issue tracker so teams never have to use heavyweight enterprise ones.	software teams	explicit	3	productivity & work
+35568731	Help developers navigate over-abstracted codebases by jumping straight from interfaces to their sole implementations.	developers maintaining enterprise code	implied	3	developer tools
+38344177	Let CDNs serve different formats from one URL based on the Accept header, for linked data.	maintainers of scientific databases	none	2	devops & infra
+37068476	Export a Postgres database to a portable SQLite file, with transformations.	developers sharing small databases	none	3	data & analytics
+41846570	Offer long-lived certificates or easy renewal for local-network device web interfaces.	makers of local network devices	implied	3	security & privacy
+28663713	Create a statically typed language with stackful coroutines and manual yield.	game developers	none	2	developer tools
+41279904	Emit generated source code from compile-time metaprogramming so it can be inspected.	Zig and systems developers	none	2	developer tools
+44285998	Unify container tooling across Docker and Podman with a good security model.	container users	implied	3	devops & infra
+45427447	Let news aggregator readers browse previous days' news.	news readers	none	1	media & content
+28289541	Build a federated marketplace that orders from many independent shops through one checkout and tracking view.	shoppers avoiding Amazon	implied	4	commerce & marketplaces
+41402730	Cross-link historical footage with the passages in books that describe it.	history enthusiasts	none	1	education & learning
+42380499	Offer a lightweight version control system with only a handful of essential commands.	developers overwhelmed by git	none	3	developer tools
+44879822	Build an old-fashioned n-gram and PageRank web search engine.	searchers wanting classic results	none	2	media & content
+41494237	Make laptop batteries easy to replace without glue and solvents.	laptop owners extending device life	implied	3	hardware & IoT
+42564092	Let users delete their profile and comments from forums and the archives that mirror them.	privacy-minded forum users	none	2	security & privacy
+37520211	Offer a simple, recoverable hardware security key setup that is practical for everyday developers.	developers using hardware keys	implied	3	security & privacy
+42198742	Generate diagrams of function call chains in large Python codebases.	Python developers	none	3	developer tools
+46192195	Let browsers disable WebAssembly or ask before enabling it per site.	security-minded browser users	none	2	security & privacy
+20376411	Offer a paid premium browser not funded by search deals.	browser users	explicit	2	consumer & home
+39439445	Provide a small, easy-to-build GPU-accelerated vector graphics library.	graphics developers	none	3	developer tools
+43572426	Let PC handheld games ship on plug-and-play cartridges.	handheld gamers	none	1	media & content
+20894934	Offer a video course teaching Terraform, Ansible, Packer and CI as one connected toolset.	engineers moving into cloud ops	implied	2	education & learning
+46040397	Build a sane, modern alternative to SLURM for HPC job scheduling.	research computing teams	implied	3	devops & infra
+24607258	Make cherry-picking and dropping independent changes easy with patch-based version control.	developers juggling parallel work	none	2	developer tools
+41193281	Prioritize showing the URL over icons in narrow browser windows.	users who tile browser windows	none	1	consumer & home
+19441426	Migrate existing CMS comments to a hosted comment system without a signup wall.	site owners on WordPress or Drupal	implied	3	media & content
+32915046	Help consumers enforce carrier unlock policies on used phones.	used phone buyers	implied	3	legal & government
+45151383	Provide a client-friendly binary API format that is easy for web and mobile teams to use.	API developers	none	2	developer tools
+44382444	Build a solid open source replacement for Active Directory.	organizations reducing Microsoft dependency	implied	4	devops & infra
+40972443	Build an open source camera with an open lens mount and an open image pipeline.	photography hobbyists	none	2	hardware & IoT
+40755519	Offer lightweight, removable LLM framework pieces instead of a monolithic agent framework.	AI app developers	implied	3	AI & ML tooling
+45790982	Detect AI-generated fake receipts in expense reports.	finance and expense teams	implied	4	finance & money
+41103565	Build a reader that strips every page down to just the article text on any modern site.	web readers tired of clutter	none	3	media & content
+45705599	Let homeowners trial heating options like infrared heaters before buying and installing them.	homeowners comparing heating	implied	2	consumer & home
+37451914	Make nested Rust smart-pointer types more readable with chainable helpers.	Rust developers	none	1	developer tools
+36277555	Make running a decentralized forum node easy, with bounded storage and shared spam filtering.	people running decentralized forums	implied	3	communication & social
+37385098	Give driver-assist cars a shared map of known road geometry and tricky interchanges to check before relying on cameras.	driver-assist car owners	none	3	travel & local
+43541581	Make SQLite replication for web servers simple, or show when a small Postgres is the better choice.	small web app developers	none	2	data & analytics
+44683531	Make paying creators with crypto easy for people in strict identity-check countries.	people paying adult creators	implied	2	finance & money
+33747479	Build a Linux desktop environment that faithfully clones macOS conventions.	Mac users moving to Linux	none	3	consumer & home
+37275703	Create a discussion forum for high-quality, evidence-based debate without heavy ideological moderation.	people seeking good-faith political debate	none	2	communication & social
+45570548	Turn off autoplay rabbit holes and history-based recommendations on video apps.	people trying to cut screen time	none	2	health & fitness
+38511249	Build a CI system with Jenkins-level flexibility and a clean, maintainable design.	build and release engineers	implied	4	devops & infra
+48691409	Make gaming PCs reliable plug-and-play appliances.	PC gamers	implied	3	hardware & IoT
+37069306	Provide a simple hosted way to keep posting automated bot messages after social API changes.	hobbyist bot makers	explicit	2	developer tools
+29760160	Make installing alternative Android OSes as easy as installing Linux, without bricking devices.	Android tinkerers	none	3	consumer & home
+19813515	Let readers pay publishers directly instead of being tracked by ads.	readers who block ads	explicit	3	media & content
+42158949	Clearly explain what new hobby operating systems are and what they support.	OS enthusiasts	none	1	other
+45640879	Make capable single-board computers that cost under ten dollars.	makers and educators	implied	2	hardware & IoT
+37524101	Mandate standard package sizes to curb shrinkflation and ease price comparison.	grocery shoppers	none	3	legal & government
+40948073	Let container registries create repositories automatically on push.	DevOps teams using ECR	implied	3	devops & infra
+9635272	Offer affordable, free-to-search legal research to rival Westlaw and LexisNexis.	lawyers and legal researchers	implied	4	legal & government
+8206233	Keep music hosting ad-free through paid creator plans.	independent music producers	explicit	2	media & content
+35274210	Emulate old PowerPC Macs well enough to run BeOS.	retro computing enthusiasts	none	1	other
+39348272	Provide a library for dynamically allocating and sharing GPUs among researchers.	university and research computing teams	implied	4	AI & ML tooling
+22991526	Explain wave-particle duality intuitively.	curious science learners	none	1	education & learning
+22838600	Build team chat with threads that are easy to follow and switch between.	teams overwhelmed by chat	implied	3	communication & social
+37864727	Sell a turnkey home server with file sharing, photos, docs and family social apps preinstalled.	families wanting self-hosted services	implied	4	consumer & home
+45629243	Let viewers block recommendation overlays that cover the end of videos.	video viewers	none	2	media & content
+32877642	Fund research on whether summarizing by typing helps learning as much as handwriting does.	students and lifelong learners	none	1	education & learning
+49536330	Make passkey account recovery foolproof so consumers do not get locked out.	consumers adopting passkeys	implied	4	security & privacy
+42837041	Give people with TB vaccine false positives clear documentation that avoids unneeded treatment.	people vaccinated against TB abroad	implied	3	health & fitness
+22830102	Improve per-display settings for large e-ink monitors in desktop environments.	e-ink monitor users	none	2	hardware & IoT
