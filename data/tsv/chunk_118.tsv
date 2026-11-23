@@ -1,0 +1,103 @@
+32347247	Build a modern HyperCard for non-programmers to make anything.	hobbyist creators	implied	3	developer tools
+30396546	Debug code emitted by transpilers to C.	language implementers	none	2	developer tools
+17668277	Offer cheap annual ad blocking as a VPN add-on for iOS.	iPhone users	explicit	3	security & privacy
+20859989	Use one account across all Stack Exchange sites.	Q&A contributors	none	2	developer tools
+34508727	Sort HN chronologically with a vote threshold filter.	HN readers	none	1	communication & social
+36755590	Write WebGPU compute shader tutorials beyond JS.	GPU programmers	none	2	education & learning
+33252259	Provide a cross-platform standard for filesystem events.	developers	none	3	developer tools
+25640894	Aggregate per-article news micropayments into one monthly subscription.	news readers	explicit	4	media & content
+34321489	Replace make for task running without escaping pitfalls.	developers	none	2	developer tools
+31507342	Make a supercomputer-hosted game with planet-scale detail.	gamers	none	1	media & content
+30664254	Disambiguate .NET Framework vs .NET Core docs in search.	.NET developers	none	2	developer tools
+35372350	Develop a vaccine blocking opioid effects for addicts.	people with addiction	implied	3	health & fitness
+30256350	Create a cross-platform filesystem standard beyond FAT32.	multi-OS users	none	3	consumer & home
+4078189	Build an idea management app with notes and lists.	idea collectors	implied	2	productivity & work
+30548496	Let developers opt test Apple accounts out of 2FA.	iOS developers	none	2	developer tools
+37365471	Load nested models in Go database tooling.	Go developers	none	3	developer tools
+32027019	Spin up an HN-style community quickly with an SDK.	community builders	implied	3	communication & social
+30206355	Send hard currency to relatives in the Middle East easily.	diaspora families	implied	4	finance & money
+36579273	Offer more GDPR-compliant analytics options.	EU website owners	implied	3	data & analytics
+37633270	Let readers try mobile text-editing demos on their own device.	mobile developers	none	1	developer tools
+33059926	Visually wire state machines in the IDE integrated with JS code.	JS developers	implied	3	developer tools
+35250429	Put fzf-selected filenames into shell history.	terminal users	none	1	developer tools
+28462607	Regenerate resources and decay structures in old Minecraft worlds.	Minecraft server hosts	none	1	media & content
+37114374	Emulate Apple BLE ecosystem handshakes on Android.	Android users	none	1	hardware & IoT
+30993852	Filter AliExpress resellers out of Etsy search.	Etsy buyers	implied	4	commerce & marketplaces
+28735718	Explain what central banks do in accessible ways.	public	none	1	education & learning
+22535055	Assign domain lists to Firefox containers and open other links outside.	Firefox users	none	3	security & privacy
+34138165	Quantify user annoyance from dark patterns.	UX designers	implied	2	data & analytics
+27766930	Add contact tracing and testing options to pandemic simulations.	simulation players	none	1	education & learning
+23660640	Summarize news into short factual briefs.	busy readers	explicit	3	media & content
+20355191	Research links between dog food and heart disease.	dog owners	none	3	health & fitness
+39096804	Make serverless backends pleasant to develop locally.	backend developers	implied	3	devops & infra
+37329327	Repurpose CJK IME input for English phrase completion.	fast typists	none	2	productivity & work
+37505018	Build one IDE supporting all languages in Bazel monorepos.	polyglot developers	implied	3	developer tools
+40214102	Make Python tooling for embedded development reliable.	embedded developers	none	2	developer tools
+18635858	Search the App Store by app release year and revive classic games.	mobile gamers	explicit	2	media & content
+43539258	Handle rich text editing edge cases in CRDT sync.	collaborative app developers	implied	3	developer tools
+2079876	Stream local team baseball without cable.	sports fans	explicit	4	media & content
+29892673	Share trusted recommendations transitively across people online.	web users	none	2	communication & social
+29546217	A/B test and refactor regulations scientifically.	policymakers	none	1	legal & government
+27319156	Search and jump to old iMessage conversations with context.	iPhone users	implied	4	communication & social
+36521289	Produce foods with neither sugar nor sweeteners.	health-conscious shoppers	implied	2	health & fitness
+33672456	Convert between bioinformatics file formats easily.	bioinformaticians	implied	3	data & analytics
+23580022	Collect data on whether economic systems need change.	researchers	none	1	data & analytics
+34615799	Offer pay-as-you-go or cheaper LLM chat tiers.	light AI users	explicit	4	AI & ML tooling
+32130386	Switch browser tabs in most-recently-used order across windows.	heavy tab users	none	3	consumer & home
+32469420	Include YAML parsing in JavaScript runtimes' core.	JS developers	none	2	developer tools
+29032893	Attach iPad keyboards in portrait mode for coding.	iPad developers	implied	2	hardware & IoT
+33516325	Build good prediction markets for public questions.	forecasters	none	2	finance & money
+36813417	Share a list of customers who file chargebacks without reason.	small merchants	implied	3	commerce & marketplaces
+30136452	Let browsers handle third-party consent directly instead of site owners.	web developers	none	3	legal & government
+33951365	Make car buying painless at dealerships.	car buyers	implied	4	commerce & marketplaces
+29255483	Get timely PR reviews without begging.	developers	implied	3	developer tools
+36804645	Switch between multiple custom instruction presets in ChatGPT.	ChatGPT users	implied	2	AI & ML tooling
+36705804	Bring Maker Faire-style events to the UK.	UK makers	none	1	hardware & IoT
+34124255	Make EV charging work reliably in cold weather.	EV owners in cold climates	implied	3	travel & local
+19217650	Generate customizable social media SVG icons.	designers	explicit	2	media & content
+35525596	Offer product analytics with session recordings and responsive support.	SaaS founders	implied	3	data & analytics
+26877703	Browse new music releases by genre on Spotify and fix Chromecast.	music listeners	implied	3	media & content
+29968723	Inspect Android app permissions by decompiling easily.	privacy-curious users	none	2	security & privacy
+31981756	Teach clean code practices through mentorship.	junior developers	none	2	education & learning
+28758480	Find resources for developing wisdom.	young adults	none	1	education & learning
+18615198	Keep messaging contacts reachable across countries and number changes.	international movers	implied	4	communication & social
+5266824	Build a lightweight IDE-style editor with integrated terminal command recipes.	developers	explicit	3	developer tools
+22252707	Help bioinformatics labs build quality software and curate datasets.	bioinformatics researchers	implied	3	data & analytics
+18551755	Dig urban tunnels faster and cheaper.	city transit planners	none	2	travel & local
+32352100	Offer precise verbatim search.	power searchers	implied	3	consumer & home
+35952785	Build a decent open-source tax filing app.	US taxpayers	implied	4	finance & money
+25876718	Let org SSO users view private GitHub Pages without GitHub licenses.	enterprises	implied	3	devops & infra
+19314507	Fund high-quality municipal public transit.	city residents	explicit	2	legal & government
+28134664	Offer a paid Reddit alternative without politics creep and power mods.	forum users	explicit	3	communication & social
+24239299	Teach Python beginners with zero-setup project courses.	coding beginners	implied	3	education & learning
+31844171	Diff table rows across different databases efficiently.	data engineers	implied	3	data & analytics
+34237438	Set a global setting to keep leading zeros in Excel.	spreadsheet users	implied	3	productivity & work
+16011795	Make NFS netbooting easy with consistent user IDs.	Raspberry Pi fleet admins	none	2	devops & infra
+26092969	Enable and disable fonts per project to keep apps fast.	designers on Linux	implied	3	media & content
+22506508	Summarize useful tips from long Airbnb reviews.	travelers	implied	3	travel & local
+31513085	Make an action RPG where you control a large party.	RPG gamers	none	2	media & content
+30257913	Offer sliding-window tiling window managers on all desktops.	power users	none	2	consumer & home
+29852122	Fund printer startups without recurring ink revenue models.	printer buyers	implied	2	hardware & IoT
+26559566	Serve web UIs from LAN-only embedded devices over HTTPS.	embedded developers	implied	4	hardware & IoT
+34111062	Disable eval and exec in Python for security.	Python security teams	none	2	security & privacy
+30267412	Jam ultrasonic signals apps use to detect rooms.	privacy-minded users	none	2	security & privacy
+35045727	Publicly report dark patterns in cancellation and account deletion.	consumers	none	3	consumer & home
+18577620	Provide a lightweight standard library across browsers for JS.	JS developers	none	3	developer tools
+28803723	Offer a no-frills Firefox fork without Pocket and suggestions.	Firefox users	implied	3	consumer & home
+36535666	Export sounds from web music toys as phone alert files.	hobbyists	none	1	media & content
+17588807	Rent Netflix offline libraries for long periods.	occasional streamers	explicit	2	media & content
+36967453	Trim CSS down to its powerful core.	web developers	none	1	developer tools
+22983123	Set up TypeScript monorepos with shared projects easily.	TypeScript developers	implied	3	developer tools
+29962915	Request full CPU power only while an app runs on Windows.	game developers	none	2	developer tools
+35545101	Blank TV video and sound temporarily to skip ads.	TV viewers	none	2	consumer & home
+18571535	Ship an out-of-box Rust IDE and stable library ecosystem.	businesses adopting Rust	implied	3	developer tools
+15153166	Use a fast remote desktop for developer workstations.	remote developers	explicit	3	developer tools
+33422176	Record geolocation in the background from installed PWAs.	hiking app developers	none	3	developer tools
+35820733	Let businesses bulk-update OpenStreetMap listings via API.	retail chains	implied	3	data & analytics
+35176826	Recover Consul clusters easily after failure.	platform engineers	implied	3	devops & infra
+20911485	Encrypt password manager entries with a hardware key.	security-minded users	implied	3	security & privacy
+33462991	Track resolutions of payment account lockouts.	online sellers	none	2	finance & money
+14463159	Let users own and delete their social media content.	social media users	none	3	security & privacy
+32316183	Offer a well-designed dictionary app on the App Store.	iPhone users	implied	2	education & learning
+35613412	Make Broadcom wireless chips work on Linux.	Linux users	none	3	hardware & IoT
+25344307	Make small-form-factor PC builds easy with compatible parts and good thermals.	PC builders	implied	3	hardware & IoT
