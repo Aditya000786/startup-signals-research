@@ -1,0 +1,65 @@
+{
+ "appideas": {
+  "cursor": 1735672931,
+  "done": false,
+  "kept": 7,
+  "scanned": 2500,
+  "since": 1730419200
+ },
+ "bookkeeping": {
+  "cursor": 1732374108,
+  "done": false,
+  "kept": 2,
+  "scanned": 2900,
+  "since": 1730419200
+ },
+ "freelance": {
+  "cursor": 1788271040,
+  "done": false,
+  "kept": 10,
+  "scanned": 23400,
+  "since": 1730419200
+ },
+ "humanresources": {
+  "cursor": 1731288392,
+  "done": false,
+  "kept": 0,
+  "scanned": 2300,
+  "since": 1730419200
+ },
+ "lawfirm": {
+  "cursor": 1739382779,
+  "done": false,
+  "kept": 14,
+  "scanned": 23800,
+  "since": 1730419200
+ },
+ "projectmanagement": {
+  "cursor": 1732741663,
+  "done": false,
+  "kept": 5,
+  "scanned": 4000,
+  "since": 1730419200
+ },
+ "propertymanagement": {
+  "cursor": 1732738419,
+  "done": false,
+  "kept": 4,
+  "scanned": 2800,
+  "since": 1730419200
+ },
+ "restaurateur": {
+  "cursor": 1795459938,
+  "done": true,
+  "kept": 10,
+  "scanned": 12452,
+  "since": 1730419200
+ },
+ "somebodymakethis": {
+  "cursor": 1748064425,
+  "done": false,
+  "kept": 11,
+  "scanned": 3500,
+  "since": 1730419200
+ }
+}
