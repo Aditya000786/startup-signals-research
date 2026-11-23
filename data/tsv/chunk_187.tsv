@@ -1,0 +1,131 @@
+21719885	Use one integrated app replacing team chat and task boards.	teams	implied	3	productivity & work
+11858193	Handle errors in Go without repetitive boilerplate.	Go developers	none	2	developer tools
+10968517	Build web UIs with logic-free templates and reusable components in more languages.	web developers	none	2	developer tools
+21315631	Help laid-off workers find new jobs quickly.	laid-off workers	none	3	hiring & careers
+19128204	Run Wayland on devices without GLES drivers.	embedded Linux users	none	2	hardware & IoT
+15935451	Buy a family home in Silicon Valley without competing with investors.	Bay Area renters	implied	5	consumer & home
+18385637	Commute easily to new office hubs.	commuters	none	2	travel & local
+9219686	Abstractly transform families of case classes in Scala.	Scala developers	none	2	developer tools
+12567029	Find neutral analysis of space program spending.	taxpayers	none	1	legal & government
+20254342	Require mandatory insurance for nuclear plant meltdowns.	policymakers	none	2	legal & government
+11063006	Find plain code snippets for common tasks in Haskell.	Haskell developers	none	3	developer tools
+838159	Write real Lisp-style macros in JavaScript.	JavaScript developers	none	1	developer tools
+18598109	Summon repeatable checklists by context in a simple app.	knowledge workers	none	3	productivity & work
+3101718	Share book highlights and notes within a team.	team leads	explicit	3	productivity & work
+20287734	Control external monitor brightness and contrast from the computer.	desktop users	none	3	hardware & IoT
+8927578	Turn off a laptop screen on demand on Windows and Linux.	laptop users	none	2	consumer & home
+826501	Build a fast compiler for dynamic languages like Ruby.	language implementers	none	1	developer tools
+17271287	Play games that teach functional programming.	programmers	none	1	education & learning
+17302218	Use free outdoor playgrounds designed for adults.	adults	none	2	health & fitness
+8533594	Pay for hosted peer-to-peer file sync from an open-source project.	file sync users	explicit	3	productivity & work
+17723208	Get static typing in editors without Flow setup pain.	JavaScript developers	none	2	developer tools
+5181637	Run a clean, modern forum without dated or bloated software.	community owners	implied	3	communication & social
+20138222	Prevent end users from accessing app databases directly.	app developers	none	3	security & privacy
+16974668	Use domain fronting to evade censorship without hosting bans.	privacy app developers	none	3	security & privacy
+24017501	Use terminal emulators with consistent native UX.	developers	none	1	developer tools
+7963295	Offset major medical expenses without crowdfunding.	cancer patients	implied	5	health & fitness
+2329729	Get hospitals to adopt tablet-based clinical software.	healthcare IT vendors	implied	3	health & fitness
+16094141	Buy more banana varieties in grocery stores.	shoppers	implied	2	consumer & home
+16825200	Break long-running jobs into scheduled steps with stored continuations.	backend developers	implied	3	devops & infra
+11059610	Get high-quality email templates for self-hosted newsletter tools.	newsletter senders	explicit	3	SMB & back-office
+20115754	Filter open-source game clones playable without original files.	gamers	none	1	media & content
+15647168	Keep family gear in a car while using self-driving services.	parents	none	2	travel & local
+20821619	Reverse-enrich or dilute nuclear waste.	energy industry	none	1	other
+8267820	Map Markdown to a tree structure with metadata support.	documentation tools	none	2	developer tools
+20656261	Get a robot haircut without small talk.	introverts	implied	2	consumer & home
+14095823	Find community type definitions for Flow libraries.	JavaScript developers	none	2	developer tools
+724903	Automate proposals and client previews for a small ad agency.	freelance designers	implied	3	SMB & back-office
+19866379	Auto-generate inheritance documentation for class-based code.	developers	none	2	developer tools
+17733565	Build network file sync on Windows without filesystem pain.	sync providers	none	2	productivity & work
+20779056	Preview new music community platforms before signing up.	musicians	none	1	media & content
+12455098	Share and collaborate on spreadsheets with functional scripting.	business analysts	implied	3	productivity & work
+20369289	Use 2D CAD with more keyboard shortcuts.	woodworkers	none	1	developer tools
+5054749	Install software on Windows via a proper package manager.	Windows users	none	4	consumer & home
+17410602	Keep trash out of recycling streams.	recyclers	none	3	other
+13672242	Modernize airline operations for today's consumers.	airlines	implied	3	travel & local
+11410450	Show users what their installed apps can access through permissions.	smartphone users	none	3	security & privacy
+21022996	Require developers to build housing in balanced phases.	city planners	none	2	legal & government
+11035074	Implement iCloud sync and shared keychain on iOS without pain.	iOS developers	none	3	developer tools
+18134993	Take advanced online courses implementing models from recent research.	ML learners	implied	3	education & learning
+11888045	Manage reservations for any rentable entity in one flexible system.	hotels and rental businesses	implied	3	SMB & back-office
+8174626	Learn to use PGP encryption via simple one-page flowcharts.	non-technical users	explicit	3	security & privacy
+19846820	Get formal training in guiding people through psychedelic experiences.	aspiring facilitators	implied	2	health & fitness
+21894654	Design LEGO models with a touchscreen CAD app with full parts.	LEGO hobbyists	none	2	consumer & home
+17973642	Rent a gas car for long trips easily as an EV owner.	EV owners	implied	3	travel & local
+20695741	Get competitive broadband options in dense cities.	city residents	implied	4	consumer & home
+18915027	Ban the dynamic keyword at compile time in .NET projects.	.NET teams	none	1	developer tools
+7110951	Automate business tasks with visual block programming.	non-programmers	explicit	4	productivity & work
+19032695	Make spam calls unprofitable with per-call pricing.	phone users	none	3	communication & social
+8891643	Navigate Italian bureaucracy to start a company.	founders in Italy	implied	3	legal & government
+14736722	Store and manage 2FA backup codes safely.	security-conscious users	none	3	security & privacy
+19770554	Get music recommendations that explain your taste.	music fans	none	2	media & content
+21266488	Protect the elderly from multi-level marketing schemes.	elderly people	none	2	finance & money
+5963539	Read human-curated news in fields beyond tech.	readers	explicit	3	media & content
+19623346	Skip music tracks while driving without looking at the phone.	drivers	none	3	consumer & home
+22228687	Redesign dangerous multi-lane intersections.	city planners	none	2	travel & local
+9604838	Recognize and recover from job burnout early.	sysadmins	none	4	health & fitness
+17672830	See data separating top earners by income versus wealth over time.	economists	none	1	data & analytics
+21918999	Counter hype around medical ML breakthroughs.	readers	none	1	AI & ML tooling
+18732355	Test systems against new laws before they take effect.	public sector IT	implied	3	legal & government
+13352499	Read text in your preferred formatting regardless of the author's style.	readers	none	1	media & content
+19150249	Access spare tires on electric pickups without unloading the bed.	truck owners	none	1	travel & local
+21600681	Try identity verification services with a demo.	developers	none	2	security & privacy
+16211200	Use a statically typed language on the BEAM VM.	Elixir developers	none	3	developer tools
+19309372	Buy laptops with comfortable keyboards.	laptop users	implied	3	hardware & IoT
+17631111	Escape urban noise from cars and neighbors.	city dwellers	none	3	consumer & home
+5626848	Get a production studio for crowdfunded films.	independent filmmakers	implied	3	media & content
+20382931	Self-host a Discord-like chat with good admin tools.	community admins	none	3	communication & social
+13900276	Write cloud infrastructure configs that port across providers.	DevOps engineers	none	2	devops & infra
+21201594	Set a permanent single-column view in ebook readers.	ebook readers	none	1	media & content
+16436438	Get news without personalized propaganda filter bubbles.	news consumers	none	3	media & content
+14999711	Tag forum posts as factually wrong.	forum readers	none	2	communication & social
+16048567	Find large companies' biggest pain points to build products for.	founders	none	2	SMB & back-office
+9705457	Buy seats on aircraft demo flights.	aviation enthusiasts	explicit	2	travel & local
+9158801	Manage anxiety and depression while leading a startup.	startup executives	implied	5	health & fitness
+23134821	Share readable code images that don't encourage dense code.	developers	none	1	developer tools
+13061796	Get readable LaTeX error messages.	LaTeX users	none	3	productivity & work
+8858784	Learn programming for marketing and SEO tasks.	marketers	explicit	3	education & learning
+6069391	Donate to support quality tech journalism.	readers	explicit	2	media & content
+18902193	Discard typed-ahead terminal input when a command fails.	terminal users	none	2	developer tools
+16527608	Bring domain experts into startups disrupting traditional industries.	founders	none	1	SMB & back-office
+18179884	Extend parent templates in Vue components natively.	Vue developers	none	2	developer tools
+12438313	Live in walkable neighborhoods near tech hubs.	tech workers	none	2	consumer & home
+12276907	Ride reliable, frequent city buses instead of driving.	commuters	none	2	travel & local
+13152124	Save for a home in a tax-advantaged account.	young professionals	none	3	finance & money
+3839627	Pay for an email account with human support that won't suspend you without warning.	email users	explicit	4	communication & social
+16644409	Deploy driver-assist safety systems instead of attention-dependent autonomy.	automakers	none	2	travel & local
+17314332	Keep customers through a hardware platform transition.	hardware companies	none	1	hardware & IoT
+1085869	Buy ebooks instantly for less than print with no storage needs.	readers	explicit	3	media & content
+12063830	Measure individual developer value objectively.	engineering managers	none	2	hiring & careers
+19137335	Get coaching to reflect on your behavioral patterns.	professionals	implied	2	health & fitness
+10975486	Develop and run .NET apps fully on Linux.	Linux developers	none	3	developer tools
+17414448	Block a repeatedly failing Windows driver update.	Windows users	none	2	consumer & home
+19719443	File taxes simply without dark-pattern upsells.	taxpayers	implied	4	finance & money
+20076586	Compile logic formulas into the right SMT logic automatically.	formal methods users	none	1	developer tools
+17533604	Keep your job through re-application restructurings.	corporate employees	none	2	hiring & careers
+14099913	Get detailed Nginx server status metrics in the open-source edition.	sysadmins	implied	3	devops & infra
+19274416	Expand shell one-liners into explained step-by-step scripts.	developers	none	3	developer tools
+15456388	Handle secrets and slow runs in config management.	DevOps engineers	none	3	devops & infra
+16274364	Find console games young kids can play on their own.	parents	implied	2	media & content
+16749200	Make build scripts reproducible across machines.	Java developers	none	2	developer tools
+19830849	Keep browser extensions working when signing certificates expire.	Firefox users	none	4	security & privacy
+14438540	Manage JavaScript module dependencies properly.	front-end developers	none	2	developer tools
+19009045	Make supersonic passenger travel affordable.	travelers	none	1	travel & local
+18531679	Learn how to ask acceptable Stack Overflow questions.	developers	none	1	developer tools
+21302643	Isolate Google tracking with a browser container extension.	privacy-conscious users	none	2	security & privacy
+20641552	Rent electric boats for sea-worthy bay cruising.	boaters	implied	2	travel & local
+19409774	Contact customer support via chat instead of phone.	customers	none	3	communication & social
+17228129	Host issues and project metadata in a federated system.	open-source developers	none	3	developer tools
+17475286	Find personal, vulnerable blogs instead of corporate ones.	readers	none	2	media & content
+11071264	Get sparkling water from the tap.	households	explicit	1	consumer & home
+4664919	Build reusable single-stage hydrogen launch vehicles.	space companies	none	2	hardware & IoT
+20268284	Write Elixir with a C-like syntax.	C-family developers	none	1	developer tools
+22806869	Unlock phones with face recognition while wearing a mask.	smartphone users	none	3	consumer & home
+21696708	Run data visualization tools locally via npm install.	data analysts	none	1	data & analytics
+17522232	Design cities for pedestrians and transit instead of cars.	city planners	none	2	travel & local
+19854653	Buy longevity-focused LED bulbs that don't die or buzz.	homeowners	explicit	3	consumer & home
+10862934	Distribute software updates via binary patching API.	software vendors	explicit	3	developer tools
+10000979	Back crowdfunded hardware without forced DRM delays or refunds.	crowdfunding backers	none	2	commerce & marketplaces
+16097794	Use a phone answering machine to respond to calls at your convenience.	busy people	none	3	communication & social
+14160720	Clarify trademark and binary packaging rules for forked open-source tools.	distribution packagers	none	2	legal & government
+20733133	Find concrete ways to support overseas protest movements.	concerned citizens	none	2	other
