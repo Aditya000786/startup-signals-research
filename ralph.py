@@ -123,9 +123,17 @@ def restratify():
 
 
 def extend():
-    """Append comments that are in comments.jsonl but not yet in the order (e.g. new
-    Reddit rows) as extra chunks, mixed round-robin by search phrase."""
+    """Merge data/reddit/comments.jsonl (from fetch_reddit.py) into comments.jsonl, then
+    append comments not yet in the order as extra chunks, mixed round-robin by search
+    phrase. Inside a phrase, Reddit rows go by upvotes, others newest first."""
     p, ids = load()
+    rd = DATA / "reddit" / "comments.jsonl"
+    if rd.exists():
+        com = comments()
+        add = [l for l in rd.open() if json.loads(l)["id"] not in com]
+        with (DATA / "comments.jsonl").open("a") as f:
+            f.writelines(add)
+        print(f"merged {len(add)} new Reddit comments into comments.jsonl")
     have, com = set(ids), comments()
     by_phrase = {}
     for i, c in com.items():
@@ -133,8 +141,8 @@ def extend():
             by_phrase.setdefault(c.get("phrase", ""), []).append(i)
     if not by_phrase:
         print("nothing new to queue"); return
-    for q in by_phrase.values():  # newest first inside each phrase
-        q.sort(key=lambda i: -com[i]["t"])
+    for q in by_phrase.values():
+        q.sort(key=lambda i: (-(com[i].get("score") or 0), -com[i]["t"]))
     queues, new = list(by_phrase.values()), []
     while any(queues):
         for q in queues:

@@ -1,3 +1,5 @@
 __pycache__/
 data/comments.jsonl
+data/reddit/comments.jsonl
+data/reddit/*.tmp
 data/cur.txt
