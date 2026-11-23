@@ -14,17 +14,24 @@
   "since": 1730419200
  },
  "contractor": {
-  "cursor": 1744699188,
+  "cursor": 1756677778,
   "done": false,
-  "kept": 29,
-  "scanned": 51400,
+  "kept": 54,
+  "scanned": 104500,
   "since": 1730419200
  },
  "ecommerce": {
-  "cursor": 1758100980,
+  "cursor": 1772563486,
   "done": false,
-  "kept": 46,
-  "scanned": 84200,
+  "kept": 109,
+  "scanned": 135100,
+  "since": 1730419200
+ },
+ "etsy": {
+  "cursor": 1744465833,
+  "done": false,
+  "kept": 36,
+  "scanned": 43600,
   "since": 1730419200
  },
  "freelance": {
@@ -35,31 +42,31 @@
   "since": 1730419200
  },
  "humanresources": {
-  "cursor": 1753627932,
+  "cursor": 1767199431,
   "done": false,
-  "kept": 50,
-  "scanned": 88700,
+  "kept": 84,
+  "scanned": 135000,
   "since": 1730419200
  },
  "lawfirm": {
-  "cursor": 1790103284,
-  "done": false,
-  "kept": 102,
-  "scanned": 117300,
+  "cursor": 1795460635,
+  "done": true,
+  "kept": 107,
+  "scanned": 124393,
   "since": 1730419200
  },
  "marketing": {
-  "cursor": 1746191811,
+  "cursor": 1758683860,
   "done": false,
-  "kept": 36,
-  "scanned": 84000,
+  "kept": 68,
+  "scanned": 130000,
   "since": 1730419200
  },
  "msp": {
-  "cursor": 1731697160,
+  "cursor": 1741108401,
   "done": false,
-  "kept": 3,
-  "scanned": 7500,
+  "kept": 46,
+  "scanned": 57000,
   "since": 1730419200
  },
  "projectmanagement": {
@@ -70,10 +77,10 @@
   "since": 1730419200
  },
  "propertymanagement": {
-  "cursor": 1789657969,
-  "done": false,
-  "kept": 100,
-  "scanned": 101000,
+  "cursor": 1795460635,
+  "done": true,
+  "kept": 119,
+  "scanned": 110228,
   "since": 1730419200
  },
  "restaurateur": {
@@ -83,11 +90,18 @@
   "scanned": 12452,
   "since": 1730419200
  },
- "shopify": {
-  "cursor": 1735544978,
+ "saas": {
+  "cursor": 1733570881,
   "done": false,
-  "kept": 16,
-  "scanned": 18000,
+  "kept": 54,
+  "scanned": 41500,
+  "since": 1730419200
+ },
+ "shopify": {
+  "cursor": 1752083833,
+  "done": false,
+  "kept": 52,
+  "scanned": 80000,
   "since": 1730419200
  },
  "somebodymakethis": {
