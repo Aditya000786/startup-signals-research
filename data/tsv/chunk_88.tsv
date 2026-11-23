@@ -1,0 +1,73 @@
+43386471	Make a self-hosted smart home hub that non-technical consumers can set up easily.	privacy-minded consumers	implied	4	hardware & IoT
+42226981	Let developers save and favorite network request filters in browser devtools.	web developers	none	2	developer tools
+27621956	Let people buy blockchain domains with normal money without buying crypto first.	brand domain buyers	implied	2	commerce & marketplaces
+37354832	Plan flattest, quietest cycling routes by default using terrain data.	urban cyclists	implied	3	travel & local
+32892259	Offer a simple permanent URL to view any patent by number.	inventors and researchers	none	1	legal & government
+42022327	Show at a glance whether expensive home upgrades pay off in a given region.	New England homeowners	none	1	consumer & home
+40672785	Publish a guide for disabling the cellular telematics module on every car model.	privacy-minded drivers	none	3	security & privacy
+40694678	Build an open source 3D Stellarium-like space exploration tool.	astronomy hobbyists	none	2	education & learning
+28490957	Label announced software as vaporware, beta or production ready.	tech news readers	none	1	media & content
+3702333	Offer an autonomous manufacturing-as-a-service with a simple API.	hardware startups	explicit	3	hardware & IoT
+29282162	Sell DRM-free digital movies people can truly own.	movie collectors	explicit	3	media & content
+35506322	Build a compelling alternative live streaming platform to Twitch.	streamers and viewers	implied	2	media & content
+38898763	Plan college course schedules across semesters like an RPG skill tree.	college students	explicit	4	education & learning
+26474349	Manage and update 2FA phone numbers across accounts for people who change numbers and travel.	frequent travelers and expats	implied	4	security & privacy
+29351626	Offer a cheaper Prime tier with only delivery benefits.	Amazon shoppers	implied	2	commerce & marketplaces
+23382037	Make Python dependency packaging reliable for software shipped to non-technical users.	Python app distributors	implied	4	developer tools
+24290490	Build a sci-fi cyberpunk themed web browser UI.	cyberpunk fans	explicit	1	consumer & home
+36636059	Provide a sturdier docking connector for handheld gaming PCs used with monitors.	Steam Deck users	implied	2	hardware & IoT
+40817724	Make official Nvidia drivers work smoothly with Secure Boot on Linux.	Linux users with Nvidia GPUs	implied	3	devops & infra
+34164641	Add native window management and per-device scroll direction on macOS.	Mac users	implied	2	productivity & work
+42451623	Add native rotated text label support to Dear ImGui.	ImGui developers	none	2	developer tools
+34924889	Build modern Rust tooling and RTOS support for connected IoT microcontrollers.	embedded developers	none	3	developer tools
+37868246	Make car radio anti-theft activation codes easy to recover without a dealer.	car owners	implied	2	consumer & home
+40242993	Translate patents into plain readable language.	engineers and inventors	none	2	legal & government
+37938169	Provide an easy way to distribute free open source iOS apps outside the App Store.	FOSS iOS developers	none	3	developer tools
+22457377	Capture and surface institutional knowledge from meetings and decisions automatically.	teams with turnover	implied	4	productivity & work
+40614138	Make small Kei-style cars and trucks available and easy to license in the US.	US drivers wanting small vehicles	implied	3	travel & local
+29672819	Let federated protocols fall back to gossip delivery when servers are unreachable.	decentralized protocol developers	none	2	communication & social
+41284715	Offer lightweight modular C++ utility libraries that are easy to add.	C++ developers	none	2	developer tools
+40541670	Build a well-moderated site for reasonable political debate.	politically curious readers	implied	2	communication & social
+32883147	Offer dialogue-only captions delayed slightly to avoid spoilers.	TV viewers who miss quiet dialog	none	3	media & content
+33129728	Recover email account access securely when all 2FA devices are lost.	people at risk of losing devices	implied	4	security & privacy
+41385639	Publish a practical middle-ground guide to weed control.	home gardeners	implied	2	consumer & home
+38077816	Let users block all bulk-sent email to their address.	email users	implied	3	communication & social
+40813022	Commercialize easy WebRTC UDP networking for browser games.	browser game developers	explicit	3	developer tools
+41486676	Provide standard source-available licenses for personal-use-only software.	indie software authors	none	2	legal & government
+20480544	Ship Microsoft Office natively on Linux.	Linux desktop users	explicit	3	productivity & work
+39234464	Edit podcasts to remove the host and keep only guest segments.	podcast listeners	none	1	media & content
+29317135	Build tools that make mastery learning practical for teachers.	schoolteachers	implied	3	education & learning
+38978052	Build a lightweight sane-commentary news site for local and world news.	news readers tired of outrage media	implied	3	media & content
+32330241	Filter reposted TikTok-style content out of YouTube Shorts.	YouTube Shorts viewers	none	2	media & content
+39609471	List hidden basic pricing tiers for SaaS companies on one website.	SaaS buyers	none	3	SMB & back-office
+41037058	Flag and hide AI-generated sleeper accounts in forum threads.	forum readers	none	3	communication & social
+33069098	Help HOAs and apartments plan shared EV charger installation.	EV owners in shared housing	implied	3	consumer & home
+30155008	Transmit non-sensitive web data signed but unencrypted.	web performance purists	none	1	security & privacy
+6480689	Add fresh gameplay depth and multiplayer to casual iOS spell games.	mobile gamers	explicit	1	media & content
+39642909	Guide beginners to build home labs from old e-waste computers.	home lab beginners	none	2	hardware & IoT
+26895328	Share validation logic between front end and back end across languages.	full-stack teams	none	2	developer tools
+33278599	Aggregate hiring freezes, salaries, benefits, reviews and referrals per company in one place.	job seekers	implied	4	hiring & careers
+40308416	Connect buyers directly with local farmers to share bulk whole-animal meat purchases.	ethical meat buyers	implied	3	commerce & marketplaces
+41990441	Split one large monitor into multiple logical screens at the OS level.	large-display users	implied	3	productivity & work
+25039518	Sell an iPad-class tablet with a root shell out of the box.	power users and developers	implied	2	hardware & IoT
+35350750	Build a cheap flat-pack electric microcar for around $4K.	budget urban drivers	implied	3	travel & local
+40192989	Chain terminals side by side for event-driven continuous reading.	terminal power users	none	1	developer tools
+30917221	Find and book qualified home energy retrofit contractors.	homeowners installing heat pumps	implied	4	consumer & home
+19850271	Let shoppers buy simple Apple accessories quickly, e.g. via vending machines.	in-store shoppers	explicit	2	commerce & marketplaces
+37434844	Build a home automation hub with a separate HA rule engine and UI.	smart home enthusiasts	implied	3	hardware & IoT
+38884184	Provide a reliable rich-text to markdown sync component for editors.	editor app developers	implied	3	developer tools
+42275916	Explain clearly how TTYs, shells, pipes and buffers fit together.	developers	none	2	education & learning
+38304506	Build a paid package ecosystem with warranties that pays upstream maintainers.	companies using open source	explicit	3	developer tools
+39156683	Let backup tools report completion status for monitoring during a run.	sysadmins	none	2	devops & infra
+43054590	Deploy apps to PaaS without needing to know Docker.	application developers	implied	4	devops & infra
+38645816	Track historical shrinkflation and recipe changes by brand.	grocery shoppers	none	3	commerce & marketplaces
+39875591	Evaluate infrastructure condition claims independently.	citizens and journalists	none	1	legal & government
+41985528	Use an existing iMac as a display for a Mac mini.	Mac owners	implied	3	hardware & IoT
+41907657	Build a USB-C dock that just works across laptops.	laptop users	explicit	4	hardware & IoT
+36535371	Build a config management tool like Ansible in a typed real programming language.	DevOps engineers	implied	3	devops & infra
+33591958	Make GDPR compliance cheap and simple for startups.	EU startups	implied	3	legal & government
+32041486	Guide VSCode users to switch to Neovim while keeping familiar features.	developers learning vim	none	2	developer tools
+41586460	Correct IP geolocation misclassification for hosting providers.	small web operators	implied	2	devops & infra
+33790234	Use a data format with schemas, comments and record streaming instead of JSON.	data engineers	none	2	developer tools
+37444314	Build a high-quality marketplace for mid to long-term freelance contracts.	freelancers and contractors	implied	3	hiring & careers
+38673185	Manage all version pins across Dockerfiles and configs in one tool.	developers maintaining containers	implied	3	devops & infra
