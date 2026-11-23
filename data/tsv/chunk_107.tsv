@@ -1,0 +1,113 @@
+28820920	Recommend which version to use for production on every tool's download page.	developers	none	2	developer tools
+34287870	Sell a simple offline device for kids to chat and draw with nearby friends.	parents	implied	3	consumer & home
+28946507	Keep unreliable ML out of high-stakes uses like policing and fraud detection.	citizens	none	3	AI & ML tooling
+36959442	Replace Airflow with reliable workflow orchestration.	data engineers	implied	3	data & analytics
+24579644	Sell affordable hearing aids without audiologist visits and insurance hassle.	people with hearing loss	implied	4	health & fitness
+33592793	Mandate notice periods before layoffs.	tech workers	none	3	legal & government
+37799263	Regulate safeguarding of consumer DNA data.	genetic testing customers	none	3	security & privacy
+31868248	Make hobby servos with fine resolution across the duty cycle.	maker hobbyists	implied	2	hardware & IoT
+38114898	Fund offline-first personal finance apps via a nonprofit endowment.	privacy-minded budgeters	implied	3	finance & money
+32308916	Recommend good books on unit testing and TDD.	software engineers	none	1	education & learning
+5823539	Open source discontinued Google services so users can self-host them.	Google Reader fans	explicit	2	media & content
+36069415	Embed static files in compiled Deno binaries via native PE and ELF resources.	Deno developers	none	2	developer tools
+37762552	Offer a web version of LibRedirect usable as a search bang.	privacy-minded web users	none	1	consumer & home
+36214506	Scan cheap newsprint magazines cleanly without bleed-through.	magazine archivists	none	2	media & content
+34508522	Hire a local expert to plan a trip to a completely unfamiliar place.	travelers	explicit	3	travel & local
+31554820	Open and close windows automatically based on weather and indoor conditions.	smart home users	implied	3	hardware & IoT
+35345424	Offer iPad-native versions of iPhone apps like Calculator.	iPad users	none	1	consumer & home
+2093389	Build an iOS app to create and edit org-mode files natively.	org-mode users	explicit	3	productivity & work
+34084355	Automate compliance review of off-label claims in pharma digital content.	pharma digital teams	implied	3	health & fitness
+29998972	Offer quality Kubernetes operators for specialized self-hosted deployments.	platform engineers	implied	2	devops & infra
+34064489	Let bank customers use hardware keys instead of app-only verification.	business banking customers	implied	3	security & privacy
+17720692	Fund independent researchers outside PhD programs credibly.	independent researchers	implied	2	education & learning
+7482061	Offer non-subscription paid upgrades for occasional software users.	light software users	explicit	3	productivity & work
+37630362	Write guides on complex error handling patterns.	programmers	none	1	education & learning
+35707029	Build a viable third mobile OS with good apps.	phone users	implied	2	hardware & IoT
+35043068	Explain when not to use a given database technology.	developers	none	2	education & learning
+31350809	Host WordPress cheaply on modern cloud platforms.	WordPress site owners	implied	2	devops & infra
+35845609	Offer non-Google signup and working feedback in apps.	privacy-minded users	none	1	consumer & home
+37504405	Make LLM outputs deterministic for debugging.	LLM app developers	none	3	AI & ML tooling
+36963688	Share a reputation list of sites using dark patterns.	web users	none	3	consumer & home
+35241688	Show previews and samples before buying AI headshots.	professionals	implied	2	AI & ML tooling
+42428621	Replace pip with a fast reliable Python package manager.	Python developers	implied	3	developer tools
+28138500	Measure individual engineer value to set fair pay.	engineering managers	none	2	hiring & careers
+26578895	Exchange currency for specific new banknotes as cash.	collectors	implied	1	finance & money
+38902142	Discover relevant conferences before they happen.	hardware founders	none	2	SMB & back-office
+38420805	Donate anonymously to open source projects via crypto.	donors	none	2	finance & money
+38058186	Heat a greenhouse cheaply and simply on freezing nights.	gardeners	none	1	consumer & home
+28864306	Provide physical stores for Android phone support and repairs.	non-technical phone buyers	implied	3	commerce & marketplaces
+35391426	Download game metadata databases as JSON without API limits.	gaming hobbyists	none	1	data & analytics
+40265778	Represent language selection without country flags.	web designers	none	1	developer tools
+22400619	Redesign core internet protocols to make ransomware attackers traceable.	security researchers	none	2	security & privacy
+24524192	Whitelist-only browsing mode for focused work on laptops.	distracted workers	none	3	productivity & work
+17634811	Make displays with smooth spectra that are easier on circadian rhythms.	screen users	implied	2	hardware & IoT
+22078927	Migrate live services between hosts with minimal downtime.	indie game operators	implied	3	devops & infra
+34439804	Write a test-driven book series for building 2D graphics projects.	programmers	implied	2	education & learning
+25554192	Rip VHS tapes to files directly without DVD burning and DRM.	home video archivists	implied	3	media & content
+33329847	Rent a battery range-extender trailer for EV highway trips.	EV road trippers	implied	3	travel & local
+17518305	Stop sales teams from dictating ad-hoc enterprise software features.	enterprise developers	none	3	productivity & work
+45226702	Find a monetization model for desktop operating systems.	Linux desktop projects	implied	2	consumer & home
+31737331	Identify target prospects and responsible people at companies for B2B sales.	B2B founders	explicit	4	SMB & back-office
+38878532	Sell a phone flip case with a physical keyboard.	smartphone typists	implied	2	hardware & IoT
+38430593	Disable auto-updates for CAD and slicer software.	makers	none	2	consumer & home
+33135640	Show vertical line numbers for column jumps in vim.	vim users	none	1	developer tools
+5161265	Sell individual TV episodes at a few dollars each.	TV viewers	explicit	3	media & content
+35550975	Add Racket-style language features to Janet.	Lisp programmers	none	1	developer tools
+42476969	Run Python ML projects on NixOS easily.	NixOS ML developers	none	3	AI & ML tooling
+36317441	Build a Livebook-style notebook with smart cells for Python.	Python data scientists	none	3	data & analytics
+37251122	Find old replies in Discourse forums without endless scrolling.	forum users	none	2	communication & social
+33149442	Support repeatable multi-part motions in modal editors like Helix.	modal editor users	none	1	developer tools
+23863449	Recover locked accounts without obscure account creation details.	locked-out Google users	implied	4	security & privacy
+18435892	Build housing in dense cities without destroying existing owners' equity.	city homeowners	none	2	consumer & home
+36429519	Communicate long-term drug harms convincingly to young people.	parents and educators	none	2	health & fitness
+36927784	Disable the macOS Dock completely.	Mac users	none	2	consumer & home
+34722363	Offer a privacy-respecting desktop OS that works for daily production use.	privacy-minded professionals	implied	4	security & privacy
+24447457	Enforce systematic error handling without checked exceptions' pain.	Java developers	none	2	developer tools
+39833142	Build interactive tools for learning to code.	coding learners	none	2	education & learning
+32235378	Build community wireless networks paid in mainstream crypto.	IoT device makers	implied	2	hardware & IoT
+16296504	Make credit scores reflect real loan risk fairly.	consumers	none	3	finance & money
+37984422	Ban data mining in paid products by law.	consumers	none	2	legal & government
+20170404	Fix C's legacy footguns like switch fallthrough in a modern C.	systems programmers	none	1	developer tools
+31956078	Install scientific Python packages easily in production.	backend developers	none	2	developer tools
+29105219	Make public transit safe and attractive in US cities.	US residents	none	3	travel & local
+33712630	Require reasons for downvotes on HN.	HN users	none	1	communication & social
+24112759	Export bank transaction data in structured formats like CSV or OFX for free.	bank customers	implied	4	finance & money
+37943375	Write news articles with linked citations like research papers.	news readers	none	2	media & content
+36967073	Build Linux phones with true root and full hardware control.	Linux enthusiasts	implied	3	hardware & IoT
+18056048	Package Ruby apps as portable self-contained binaries cross-platform.	Ruby developers	implied	3	developer tools
+28129479	Offer an encrypted photo service with sharing and albums.	privacy-minded families	implied	4	security & privacy
+39312192	Reduce npm dependency bloat in JavaScript projects.	JavaScript developers	none	3	developer tools
+36939147	Build a secure chat-only Matrix sub-protocol and client.	Matrix users	none	2	communication & social
+20068132	Offer an ad-free personalized search engine for $10-15 a year.	searchers	explicit	3	media & content
+33223236	Filter low-effort recurring jokes out of HN comment threads.	HN readers	none	1	communication & social
+32784263	Build an easy all-in-one self-hosted encrypted password sync for families.	families	implied	3	security & privacy
+37452637	Reduce Kubernetes operational overhead for small platform teams.	platform engineers	implied	4	devops & infra
+29271693	Unify animal microchip databases into one reliable registry.	pet owners and shelters	implied	4	consumer & home
+32275139	Allow notifications only from chosen contacts across all messaging apps.	people avoiding distractions	none	3	communication & social
+38133436	Fix poor auto wipers and wiper speed controls in Teslas.	Tesla owners	none	2	travel & local
+22024004	View abstracted code with function calls and macros inlined.	developers	none	2	developer tools
+39450401	Sell durable, repairable, private appliances.	appliance buyers	implied	4	consumer & home
+17582111	Share advanced Vuex usage patterns and plugins.	Vue developers	none	1	developer tools
+10428557	Offer ad-free YouTube for about $20 a year.	YouTube viewers	explicit	3	media & content
+37245369	Sell an in-window heat-recovery ventilator for renters.	renters	implied	3	consumer & home
+36250871	Pay a few hundred dollars to have a startup incorporated and filings handled.	first-time founders	explicit	4	legal & government
+5407102	Gather blunt onboarding feedback from new users.	app developers	explicit	2	developer tools
+39239139	Offer a lightweight classic UI option on Windows.	Windows users	none	2	consumer & home
+31329497	Channel idle speculative capital into community investment.	investors	none	1	finance & money
+37994382	Build a Linux PDF reader as light as SumatraPDF that remembers tabs.	Linux users	none	2	productivity & work
+36079524	Offer built-in analytics in Python PaaS deployments.	Django developers	implied	2	devops & infra
+34403203	Block all channels and collaborations from a specific YouTube creator.	YouTube viewers	none	2	media & content
+29453041	Regulate crypto exchanges for hack restitution and consumer protection.	crypto users	none	3	finance & money
+34018088	Build a stable frontend framework that doesn't need constant maintenance.	web developers	implied	3	developer tools
+29319711	Keep peer feedback one-on-one, separate from performance reviews.	employees	none	2	hiring & careers
+33730043	Make offline map apps pan and zoom smoothly.	offline map users	none	2	travel & local
+32369937	Make BSD command-line tools compatible with GNU flags.	cross-platform scripters	none	2	developer tools
+26099908	Offer abuse contact channels for apps hammering third-party APIs.	API operators	none	2	devops & infra
+24522326	Build an open distributed social protocol with social-graph spam filtering.	internet users	none	3	communication & social
+18032981	Build a high-performance terminal from the makers of Sublime Text.	developers	explicit	3	developer tools
+24322035	Build a fediverse app modeled on MySpace-style personal pages.	social media users	none	2	communication & social
+25858007	Build well-documented modding environments for games.	game modders	none	2	media & content
+37117194	Sell affordable off-brand laser printers without lock-in.	printer buyers	implied	3	hardware & IoT
+34785172	Show EV efficiency in miles per kWh prominently.	EV buyers	none	2	travel & local
+37071131	Let users turn off donation nags after donating.	FOSS extension users	none	1	consumer & home
+33644370	Make secure boot easy to configure on Linux.	Linux users	none	3	security & privacy
