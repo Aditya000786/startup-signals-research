@@ -22,7 +22,7 @@ DATA = ROOT / "data"
 def quote(cid, com):
     c = com[cid]
     return {"id": cid, "author": c["author"], "year": time.gmtime(c["t"]).tm_year,
-            "thread": c.get("story_title"), "text": c["text"][:700]}
+            "thread": c.get("story_title"), "text": c["text"][:700], "url": c.get("url")}
 
 
 def main():

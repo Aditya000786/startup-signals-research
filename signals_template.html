@@ -68,7 +68,7 @@ function rows() {
     && (!q || ((r.p || "") + " " + r.x + " " + (r.w || "")).toLowerCase().includes(q)));
 }
 function row(r) {
-  const link = `<a href="https://news.ycombinator.com/item?id=${esc(r.id)}" target="_blank" rel="noopener">${r.yr} · ${esc(r.t)} ↗</a>`;
+  const link = `<a href="${esc(r.u || "https://news.ycombinator.com/item?id=" + r.id)}" target="_blank" rel="noopener">${r.yr} · ${esc(r.t)} ↗</a>`;
   if (!r.p) return `<div class="row rej"><p class="prob">Rejected: not a concrete need</p>
     <div class="chips"><span class="chip no">rejected</span><span class="chip">matched "${esc(r.m)}"</span></div>
     <p class="src">${esc(r.x)}\n${link}</p></div>`;

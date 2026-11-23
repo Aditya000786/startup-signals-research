@@ -6,6 +6,8 @@ keep recommending. This tool mines them for unmet needs instead.
 
 ```
 fetch.py       HN Algolia API: comments containing ~40 "pain / wish / I'd pay" phrases, 2007 to now
+fetch_reddit.py  Reddit via the free Arctic Shift archive: same phrase idea, appended to the same
+               comments.jsonl (ids rd_*, authors reddit:*), then `python ralph.py extend`
 extract.py     Claude Haiku 5.5 reads each comment and returns: real need? problem, who, pay signal, pain 1-5, category
 synthesize.py  Claude Opus 5.5 clusters the problems by category, scores the clusters, writes idea cards for the top N
 build_site.py  writes site/index.html (ranked idea cards with source quotes linking back to HN)

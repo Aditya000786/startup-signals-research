@@ -168,7 +168,7 @@ def main():
             "pay_signals": c["pay_signals"], "avg_intensity": c["avg_intensity"],
             "mentions": len(c["members"]),
             "quotes": [{"id": q, "author": com[q]["author"], "year": time.gmtime(com[q]["t"]).tm_year,
-                        "thread": com[q].get("story_title"), "text": com[q]["text"][:700]} for q in quotes],
+                        "thread": com[q].get("story_title"), "text": com[q]["text"][:700], "url": com[q].get("url")} for q in quotes],
             "sources": c["members"],
         })
     (DATA / "ideas.json").write_text(json.dumps(ideas, indent=1))

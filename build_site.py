@@ -53,7 +53,7 @@ def main():
     for cid in read:
         c, s = com[cid], sig.get(cid)
         r = {"id": cid, "yr": time.gmtime(c["t"]).tm_year, "t": (c.get("story_title") or "")[:60],
-             "m": c.get("phrase", ""), "x": re.sub(r"\s+", " ", c["text"])[:250]}
+             "m": c.get("phrase", ""), "u": c.get("url"), "x": re.sub(r"\s+", " ", c["text"])[:250]}
         if s:
             r.update(p=s["problem"], w=s["who"], y=s["pay"], n=s["intensity"], c=s["category"], i=idea_of.get(cid))
         rows.append(r)

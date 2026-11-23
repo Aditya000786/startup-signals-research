@@ -11,6 +11,9 @@ Usage:
   python ralph.py next                 print the next unprocessed chunk
   python ralph.py save <chunk> <tsv>   record Claude's verdicts for that chunk
   python ralph.py status
+  python ralph.py extend               queue comments added to comments.jsonl since
+                                       init (e.g. by fetch_reddit.py) as NEW chunks at
+                                       the end; finished chunks are untouched
   python ralph.py restratify           re-order the UNREAD comments round-robin by
                                        search phrase (read chunks keep their ids)
 TSV columns (one line per signal; non-signals are simply omitted):
@@ -119,6 +122,35 @@ def restratify():
     print(f"re-ordered {len(unread)} unread comments across {len(queues)} phrases")
 
 
+def extend():
+    """Append comments that are in comments.jsonl but not yet in the order (e.g. new
+    Reddit rows) as extra chunks, mixed round-robin by search phrase."""
+    p, ids = load()
+    have, com = set(ids), comments()
+    by_phrase = {}
+    for i, c in com.items():
+        if i not in have:
+            by_phrase.setdefault(c.get("phrase", ""), []).append(i)
+    if not by_phrase:
+        print("nothing new to queue"); return
+    for q in by_phrase.values():  # newest first inside each phrase
+        q.sort(key=lambda i: -com[i]["t"])
+    queues, new = list(by_phrase.values()), []
+    while any(queues):
+        for q in queues:
+            if q: new.append(q.pop(0))
+    cs, last = p["chunk_size"], p["chunks"] - 1
+    if len(ids) % cs and last in p["done"]:
+        # appending would grow an already-read short chunk; never re-label read work
+        sys.exit(f"last chunk {last} is short and already done; pad logic needed")
+    start = len(ids)
+    ids += new
+    p["chunks"] = -(-len(ids) // cs)
+    ORDER.write_text(json.dumps(ids))
+    PROG.write_text(json.dumps(p))
+    print(f"queued {len(new)} new comments as chunks {start // cs}..{p['chunks'] - 1} (now {p['chunks']} chunks)")
+
+
 def status():
     p, _ = load()
     n = sum(1 for _ in SIG.open()) if SIG.exists() else 0
@@ -131,4 +163,5 @@ if __name__ == "__main__":
     elif cmd == "next": next_chunk()
     elif cmd == "save": save(sys.argv[2], sys.argv[3])
     elif cmd == "restratify": restratify()
+    elif cmd == "extend": extend()
     else: status()

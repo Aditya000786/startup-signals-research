@@ -52,7 +52,7 @@ blockquote a{color:var(--mute);font-size:12px;display:block;margin-top:4px}
 </style>
 </head>
 <body>
-<header><div class="wrap"><h1>Hacker Ideas</h1><p>Startup ideas mined from problems Hacker News commenters keep describing.</p><nav><a href="index.html" class="here">Ideas</a><a href="signals.html">Raw signals</a></nav></div></header>
+<header><div class="wrap"><h1>Hacker Ideas</h1><p>Startup ideas mined from problems Hacker News and Reddit commenters keep describing.</p><nav><a href="index.html" class="here">Ideas</a><a href="signals.html">Raw signals</a></nav></div></header>
 <div class="meta wrap" id="meta"></div>
 <div class="bar"><div class="wrap">
   <input id="q" type="search" placeholder="Search ideas, problems, products…" aria-label="Search">
@@ -110,7 +110,7 @@ function card(i) {
       ${row("Problem", i.problem)}${row("Customer", i.customer)}${row("Evidence", i.evidence)}
       ${row("Solution", i.solution)}${row("First version", i.mvp)}${row("Business model", i.business_model)}
       ${row("Alternatives", i.alternatives)}${row("Why now", i.why_now)}${row("Risks", i.risks)}</dl>
-      ${i.quotes.map(q => `<blockquote>${esc(q.text)}<a href="https://news.ycombinator.com/item?id=${esc(q.id)}" target="_blank" rel="noopener">${esc(q.author)}, ${q.year}${q.thread ? " · " + esc(q.thread) : ""} ↗</a></blockquote>`).join("")}
+      ${i.quotes.map(q => `<blockquote>${esc(q.text)}<a href="${esc(q.url || "https://news.ycombinator.com/item?id=" + q.id)}" target="_blank" rel="noopener">${esc(q.author)}, ${q.year}${q.thread ? " · " + esc(q.thread) : ""} ↗</a></blockquote>`).join("")}
     </details></article>`;
 }
 
