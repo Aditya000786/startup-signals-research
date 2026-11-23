@@ -14,24 +14,24 @@
   "since": 1730419200
  },
  "contractor": {
-  "cursor": 1756677778,
+  "cursor": 1777481988,
   "done": false,
-  "kept": 54,
-  "scanned": 104500,
+  "kept": 103,
+  "scanned": 164300,
   "since": 1730419200
  },
  "ecommerce": {
-  "cursor": 1772563486,
+  "cursor": 1786694685,
   "done": false,
-  "kept": 109,
-  "scanned": 135100,
+  "kept": 151,
+  "scanned": 192800,
   "since": 1730419200
  },
  "etsy": {
-  "cursor": 1744465833,
+  "cursor": 1764707713,
   "done": false,
-  "kept": 36,
-  "scanned": 43600,
+  "kept": 70,
+  "scanned": 100600,
   "since": 1730419200
  },
  "freelance": {
@@ -42,10 +42,10 @@
   "since": 1730419200
  },
  "humanresources": {
-  "cursor": 1767199431,
+  "cursor": 1785890185,
   "done": false,
-  "kept": 84,
-  "scanned": 135000,
+  "kept": 142,
+  "scanned": 197200,
   "since": 1730419200
  },
  "lawfirm": {
@@ -56,17 +56,17 @@
   "since": 1730419200
  },
  "marketing": {
-  "cursor": 1758683860,
+  "cursor": 1778797215,
   "done": false,
-  "kept": 68,
-  "scanned": 130000,
+  "kept": 93,
+  "scanned": 184000,
   "since": 1730419200
  },
  "msp": {
-  "cursor": 1741108401,
+  "cursor": 1752006911,
   "done": false,
-  "kept": 46,
-  "scanned": 57000,
+  "kept": 96,
+  "scanned": 117200,
   "since": 1730419200
  },
  "projectmanagement": {
@@ -91,17 +91,17 @@
   "since": 1730419200
  },
  "saas": {
-  "cursor": 1733570881,
+  "cursor": 1738300588,
   "done": false,
-  "kept": 54,
-  "scanned": 41500,
+  "kept": 113,
+  "scanned": 104100,
   "since": 1730419200
  },
  "shopify": {
-  "cursor": 1752083833,
+  "cursor": 1761927377,
   "done": false,
-  "kept": 52,
-  "scanned": 80000,
+  "kept": 87,
+  "scanned": 122800,
   "since": 1730419200
  },
  "somebodymakethis": {
