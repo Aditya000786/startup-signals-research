@@ -1,0 +1,107 @@
+34585467	Organize non-hierarchical files by metadata and search instead of folders.	office workers	none	2	productivity & work
+27663277	Build more velodromes for track cycling.	cyclists	none	1	health & fitness
+35612892	Run LLM coding prompts inside the editor with file writes and test execution.	developers	implied	4	AI & ML tooling
+33354390	Export Google Photos incrementally by date for backups.	Google Photos users	implied	4	consumer & home
+28764524	Develop affordable small work/live structures under new zoning.	remote workers	implied	2	consumer & home
+31181039	Require survey companies to disclose recruitment and compensation methods.	survey consumers	none	1	data & analytics
+19637412	Stop iMessage texts and iCloud codes appearing on a spouse's devices.	shared Apple households	none	2	consumer & home
+25913008	Offer reliable APK sources including for older Android versions.	Android users	none	2	consumer & home
+20147688	Offer a paid browser that doesn't track users.	privacy-minded users	explicit	3	security & privacy
+27417037	Offer a fixed-release FreeBSD with stable package upgrades.	FreeBSD users	none	3	devops & infra
+35097979	Make Linux debugging as easy as Visual Studio.	Linux developers	implied	3	developer tools
+35051033	Create a decent parallel-parseable file format for tabular data.	data engineers	none	3	data & analytics
+36159524	Require news articles to link their textual sources.	news readers	none	1	media & content
+38728138	Make running your own email server deliverable to big providers.	self-hosters	implied	3	communication & social
+37924128	Make cheap methane or propane from excess solar.	energy producers	none	2	other
+31199441	Pre-register pets and streamline airport security for pet travel.	pet owners who fly	implied	3	travel & local
+18243661	Build a power-on-to-code computer for first-time programmers.	kids learning to code	implied	2	education & learning
+29905779	Add a keyword shorthand for std::forward in C++.	C++ developers	none	1	developer tools
+29076415	Make carpet-free flooring standard in US rentals.	renters	none	1	consumer & home
+32058721	Let people review realtors without retaliation.	home buyers	implied	3	commerce & marketplaces
+29700359	Let search users block sites from results synced across devices.	search users	implied	3	consumer & home
+23679273	Implement GPU-accelerated geometry kernels for CAD and manufacturing.	CAD engineers	implied	3	hardware & IoT
+33256891	Build iPhone autocorrect that only underlines errors instead of changing words.	iPhone users	none	3	consumer & home
+33924015	Fix AWDL Wi-Fi interference in dense apartment buildings.	Mac users	none	2	hardware & IoT
+37252738	Make the airport experience from booking to gate painless.	air travelers	implied	3	travel & local
+22688437	Create more structured, project-based coding courses with debugging projects.	learners	implied	3	education & learning
+25803607	Build an open federated messenger with Signal-level security.	privacy-minded users	none	3	communication & social
+39482978	Reduce JIRA overhead for developers.	developers	implied	3	productivity & work
+32271253	Offer a photo album service to rival Google Photos and iCloud.	social media users	implied	2	consumer & home
+5140173	Fund RubyGems with a paid subscription for full-time maintainers.	Ruby developers	explicit	3	developer tools
+37629268	Evolve DMARC to validate only DKIM, not SPF.	email admins	none	2	security & privacy
+36895733	Build a browser people actively love, not the least bad option.	web users	implied	2	consumer & home
+18853599	Offer a driver-assist "nanny mode" to hot lap race tracks.	car enthusiasts	explicit	2	travel & local
+34217728	Make classic games like Alpha Centauri playable on modern setups.	retro gamers	implied	2	media & content
+35753051	Show moderately complex example projects for new live-coding languages.	language explorers	none	1	developer tools
+21355510	Let users keep familiar mobile UI behaviors after OS updates.	aging smartphone users	implied	3	consumer & home
+39360539	Make powerline networking work across US split-phase circuits.	home network users	none	2	hardware & IoT
+28004245	Offer free easy-to-use OCR.	everyday users	implied	3	productivity & work
+32421575	Add an OS-level setting to open links in the default browser for all apps.	mobile users	none	3	consumer & home
+23951126	Guide transatlantic movers on cross-border investment taxation.	expats	implied	3	finance & money
+37546429	Make pinning a fixed Rust compiler version practical.	security software teams	none	2	developer tools
+37749255	Make a thin lightweight 12–13 inch Chromebook.	mobile workers	implied	2	hardware & IoT
+21857409	Offer GDPR-style privacy rights tools for US residents.	US consumers	none	2	security & privacy
+22249287	Make creating many fake identities exponentially costly to stop sybil attacks.	social platforms	implied	3	security & privacy
+19564723	Compare cross-border money transfer options and fees.	international senders	implied	3	finance & money
+17455276	Deploy fair queuing widely to fix home bufferbloat.	home internet users	none	3	devops & infra
+28856833	Provide simple secure multi-tenant container sandboxes for SaaS.	SaaS founders	implied	4	devops & infra
+1254990	Build an open source front end for organizing social feeds in web apps.	web app developers	explicit	3	communication & social
+26946621	Help ADHD remote workers stay on task through pairing.	remote workers with ADHD	implied	3	health & fitness
+35267152	Deploy any Dockerfile to a fresh VM with auto-restart, no Kubernetes.	small teams	implied	4	devops & infra
+37674196	Make ExpressCard or M.2 external video cards.	laptop users	implied	2	hardware & IoT
+21463510	Offer a browser demo of desktop apps before downloading.	software evaluators	none	1	developer tools
+21853045	Track how ethically electronics companies source cobalt.	conscious consumers	implied	3	commerce & marketplaces
+29506662	Convert inline CSS styles to Tailwind classes automatically.	web developers	none	2	developer tools
+31503563	Make a game where time travel is the core mechanic.	gamers	none	2	media & content
+36077263	Make Supabase easy to self-host.	developers	implied	3	devops & infra
+22178626	Build a relevant, diverse, non-daily news service with analysis.	news readers	implied	3	media & content
+17949695	Make C/C++ library dependencies easy to build on Windows for engineers.	engineers on Windows	implied	4	developer tools
+31581978	Show data on the cost of replacing experienced devs versus raises.	engineering managers	none	2	hiring & careers
+36651891	Add filters to monthly dividend stock indexes.	dividend investors	none	2	finance & money
+3195953	Crowdfund fonts with refund-if-unfunded or pay-what-you-want models.	font buyers	implied	2	commerce & marketplaces
+38653730	Offer an affordable MIT-licensed cross-platform GUI toolkit.	desktop app developers	implied	3	developer tools
+40290475	Let headphones paired to multiple devices avoid unwanted auto-switching.	headphone users	none	3	hardware & IoT
+16944387	Build a polished workstation OS that runs on many PCs.	ex-Mac professionals	implied	3	consumer & home
+39013521	Make SDL2 games build easily for Android and iOS.	game developers	none	3	developer tools
+33153131	Fund nutrition research on B12 and folate.	health-conscious people	none	1	health & fitness
+31969834	Make frontend bundler upgrades painless.	frontend developers	none	3	developer tools
+34014852	Provide clean country road networks from OSM in standard GIS formats.	GIS analysts	implied	3	data & analytics
+35872759	Publish more plain-language summaries of ML papers.	ML practitioners	none	2	education & learning
+16503187	Build social networks designed for civil discussion.	social media users	none	2	communication & social
+20207388	Let users donate to the developers of free ad blockers.	ad blocker users	explicit	2	security & privacy
+27340399	Arrange end-to-end trips to hard-to-visit countries like Iraq.	adventurous travelers	implied	3	travel & local
+36021264	Standardize coffee bag labels for origin, process and roast date.	specialty coffee drinkers	none	2	commerce & marketplaces
+36382707	Offer seedboxes with a single unified media automation interface.	seedbox users	explicit	4	media & content
+17972500	Make US healthcare costs certain upfront for tests and treatments.	US patients	implied	4	health & fitness
+38589394	Put full demo videos on AI tool landing pages.	prospective users	none	1	AI & ML tooling
+32557653	Make DOM APIs ergonomic from Rust/WASM.	Rust web developers	none	3	developer tools
+31350810	Fund foundations to actively develop open source projects they steward.	OSS users	none	2	developer tools
+24535746	Document event infrastructure lessons for temporary camps.	event organizers	none	1	other
+40110245	Make GitHub repo browsing fast with reliable URLs.	developers	none	2	developer tools
+21306998	Build a language that moves gradually from dynamic to strict.	growing startups	none	3	developer tools
+30769695	Explain GPU naming and relative speeds clearly.	GPU buyers	none	1	hardware & IoT
+19167006	Build a GUI app to copy data between databases, files and APIs.	data workers	implied	4	data & analytics
+38602068	Offer affordable quad-channel DDR5 platforms for local LLMs.	local AI hobbyists	implied	2	hardware & IoT
+10955229	Give personalized exercise safety advice and expert technique feedback.	fitness video users	explicit	4	health & fitness
+22719836	Stream high-quality periodic photos of a board game to remote players.	remote board gamers	implied	3	media & content
+36828735	Improve browser support for HTTP Basic Auth UX.	hobby developers	none	1	developer tools
+27162492	Make ad-hoc technical plots quick without relearning plotting APIs.	engineers	implied	3	data & analytics
+17095388	Make a utilitarian dumb phone with maps, GPS and tools but no distractions.	digital minimalists	implied	3	hardware & IoT
+31553571	Open windows automatically to keep heat and humidity out.	renters without AC	implied	3	hardware & IoT
+37737202	Export Mermaid diagrams easily to PNG or PDF.	documentation writers	none	3	developer tools
+29025742	Simplify multi-codec video encoding for the web.	web developers	implied	3	media & content
+32568470	Build a portless smartphone with flush cameras.	phone buyers	none	1	hardware & IoT
+35758741	Build a micropayment system for quick tips per view.	content consumers	implied	3	finance & money
+39026457	Offer recipe search free of blog spam.	home cooks	implied	3	consumer & home
+23088248	Throttle or pause inactive browser tabs for responsiveness.	heavy tab users	none	3	productivity & work
+37224960	Let wedding guests share photos easily in one place.	wedding couples	implied	3	consumer & home
+31624559	Show clear demos and explanations on project landing pages.	tool evaluators	none	1	developer tools
+26038922	Install and switch between multiple versions of packages in Homebrew.	Mac developers	none	3	developer tools
+20091052	Fund a great terminal email client.	terminal users	explicit	3	productivity & work
+29846051	Build a polished router-plus-home-server box with easy dynamic DNS.	home users	implied	3	hardware & IoT
+24180045	Create a developer-friendly local Kubernetes with ports, ingress, PVs and monitoring.	developers	implied	4	devops & infra
+19489307	Provide production-ready Helm charts like Kafka with TLS.	platform teams	implied	3	devops & infra
+33324355	Add HDMI sound control, window snapping and MTP to macOS.	Mac users	implied	3	consumer & home
+38588049	Let minimalist calendar generators pick any year.	calendar printers	none	1	productivity & work
+35994301	Make lightweight VR headsets for fitness.	VR fitness users	implied	3	health & fitness
+36088897	Build a BetterTouchTool equivalent for Linux.	Linux laptop users	implied	3	consumer & home
