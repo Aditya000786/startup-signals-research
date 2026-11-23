@@ -44,6 +44,7 @@ main{padding:16px}
   <input id="q" type="search" placeholder="Search problems and comment text…" aria-label="Search">
   <select id="cat" aria-label="Category"><option value="">All categories</option></select>
   <select id="pay" aria-label="Pay signal"><option value="">Any pay signal</option><option>explicit</option><option>implied</option><option>none</option></select>
+  <select id="src" aria-label="Source"><option value="">All sources</option><option value="hn">Hacker News</option><option value="reddit">Reddit</option></select>
   <select id="kind" aria-label="Show">
     <option value="sig">Extracted signals</option>
     <option value="rej">Rejected comments</option>
@@ -62,8 +63,8 @@ $("#meta").textContent = META.note || "";
 [...new Set(ROWS.filter(r => r.c).map(r => r.c))].sort().forEach(c => $("#cat").insertAdjacentHTML("beforeend", `<option>${esc(c)}</option>`));
 
 function rows() {
-  const q = $("#q").value.toLowerCase(), cat = $("#cat").value, pay = $("#pay").value, kind = $("#kind").value;
-  return ROWS.filter(r => (kind === "all" || (kind === "sig") === !!r.p)
+  const q = $("#q").value.toLowerCase(), cat = $("#cat").value, pay = $("#pay").value, kind = $("#kind").value, src = $("#src").value;
+  return ROWS.filter(r => (kind === "all" || (kind === "sig") === !!r.p) && (!src || (r.s || "hn") === src)
     && (!cat || r.c === cat) && (!pay || r.y === pay) && (!noIdea || (r.p && !r.i))
     && (!q || ((r.p || "") + " " + r.x + " " + (r.w || "")).toLowerCase().includes(q)));
 }
@@ -85,7 +86,7 @@ function render(reset) {
   $("#list").innerHTML = xs.length ? xs.slice(0, limit).map(row).join("") : `<p class="empty">Nothing matches.</p>`;
   $("#more").style.display = xs.length > limit ? "block" : "none";
 }
-["#q", "#cat", "#pay", "#kind"].forEach(s => $(s).addEventListener("input", () => render(true)));
+["#q", "#cat", "#pay", "#src", "#kind"].forEach(s => $(s).addEventListener("input", () => render(true)));
 $("#noidea").onclick = () => { noIdea = !noIdea; $("#noidea").classList.toggle("on", noIdea); render(true); };
 $("#more").onclick = () => { limit += 100; render(); };
 render(true);

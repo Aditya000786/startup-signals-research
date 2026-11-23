@@ -1,6 +1,6 @@
 """Stage 4: render the results into a static two-page site.
 
-  site/index.html    ranked idea cards (data/ideas.json), with source quotes linking to HN
+  site/index.html    ranked idea cards (data/ideas.json), with source quotes linking to HN / Reddit
   site/signals.html  every comment read so far: the extracted problem next to the
                      original comment, plus the comments that were rejected, so you
                      can judge extraction quality by eye
@@ -47,13 +47,16 @@ def main():
                 idea_of.setdefault(m, x["name"])
     for i, x in enumerate(ideas):
         x["key"] = f"i{i}-{x['name'][:24]}"
+        mem = x.get("sources", [])
+        rd = sum(str(m).startswith("rd_") for m in mem)
+        x["src"] = {"hn": len(mem) - rd, "reddit": rd}
         x.pop("sources", None)  # keep page small; quotes carry the evidence
 
     rows = []
     for cid in read:
         c, s = com[cid], sig.get(cid)
         r = {"id": cid, "yr": time.gmtime(c["t"]).tm_year, "t": (c.get("story_title") or "")[:60],
-             "m": c.get("phrase", ""), "u": c.get("url"), "x": re.sub(r"\s+", " ", c["text"])[:250]}
+             "m": c.get("phrase", ""), "u": c.get("url"), "s": c.get("source", "hn"), "x": re.sub(r"\s+", " ", c["text"])[:250]}
         if s:
             r.update(p=s["problem"], w=s["who"], y=s["pay"], n=s["intensity"], c=s["category"], i=idea_of.get(cid))
         rows.append(r)

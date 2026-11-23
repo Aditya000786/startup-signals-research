@@ -37,6 +37,7 @@ main{padding:16px}
 .chips{display:flex;gap:6px;flex-wrap:wrap}
 .chip{background:var(--chip);border-radius:999px;padding:2px 9px;font-size:12px;color:var(--mute)}
 .chip.pay{color:var(--acc)}
+.chip.both{color:var(--acc);font-weight:600}
 .acts{flex:none;display:flex;gap:6px}
 .acts button{padding:4px 9px;font-size:13px}
 details{margin-top:12px;border-top:1px solid var(--line);padding-top:10px}
@@ -57,6 +58,10 @@ blockquote a{color:var(--mute);font-size:12px;display:block;margin-top:4px}
 <div class="bar"><div class="wrap">
   <input id="q" type="search" placeholder="Search ideas, problems, products…" aria-label="Search">
   <select id="cat" aria-label="Category"><option value="">All categories</option></select>
+  <select id="src" aria-label="Source">
+    <option value="">All sources</option><option value="hn">Has Hacker News evidence</option>
+    <option value="reddit">Has Reddit evidence</option><option value="both">Seen on both</option>
+  </select>
   <select id="sort" aria-label="Sort">
     <option value="signal">Sort: signal strength</option>
     <option value="verdict">Sort: analyst score</option>
@@ -82,14 +87,22 @@ $("#meta").textContent = META.note || "";
 [...new Set(IDEAS.map(i => i.category))].sort().forEach(c => $("#cat").insertAdjacentHTML("beforeend", `<option>${esc(c)}</option>`));
 
 function render() {
-  const q = $("#q").value.toLowerCase(), cat = $("#cat").value, sort = $("#sort").value;
+  const q = $("#q").value.toLowerCase(), cat = $("#cat").value, sort = $("#sort").value, src = $("#src").value;
+  const S = i => i.src || {hn: i.mentions, reddit: 0};
   let xs = IDEAS.filter(i => (!cat || i.category === cat)
+    && (!src || (src === "both" ? S(i).hn && S(i).reddit : S(i)[src]))
     && (!onlyStar || store.star[i.key]) && (showHidden || !store.hide[i.key]) && (showDrafts || !i.draft)
     && (!q || JSON.stringify(i).toLowerCase().includes(q)));
   const k = {signal: i => i.signal_score, verdict: i => i.verdict_score ?? -1, recent: i => Math.max(...i.years), pay: i => i.pay_signals}[sort];
   xs.sort((a, b) => k(b) - k(a));
   $("#count").textContent = `${xs.length} of ${IDEAS.length} ideas`;
   $("#list").innerHTML = xs.length ? xs.map(card).join("") : `<p class="empty">No ideas match.</p>`;
+}
+
+function srcChip(i) {
+  const s = i.src; if (!s) return "";
+  const parts = [s.hn ? `HN ${s.hn}` : "", s.reddit ? `Reddit ${s.reddit}` : ""].filter(Boolean);
+  return `<span class="chip${s.hn && s.reddit ? " both" : ""}" title="Supporting comments per source">${parts.join(" · ")}</span>`;
 }
 
 function card(i) {
@@ -100,7 +113,7 @@ function card(i) {
       ${i.draft ? `<div class="score draft" title="Cluster without an idea card yet"><b>–</b><span>draft</span></div>` : `<div class="score" title="Analyst score out of 10"><b>${i.verdict_score}</b><span>/ 10</span></div>`}
       <div class="title"><h2>${esc(i.name)}</h2><p class="one">${esc(i.one_liner)}</p>
         <div class="chips"><span class="chip">${esc(i.category)}</span>${i.draft ? `<span class="chip">draft</span>` : ""}
-          <span class="chip">${i.authors} commenters</span><span class="chip">${i.mentions} mentions</span>
+          <span class="chip">${i.authors} commenters</span>${srcChip(i)}<span class="chip">${i.mentions} mentions</span>
           <span class="chip">${yrs}</span>${i.pay_signals ? `<span class="chip pay">💰 ${i.pay_signals} pay signals</span>` : ""}
           <span class="chip">pain ${i.avg_intensity}/5</span></div></div>
       <div class="acts"><button data-star="${esc(i.key)}" aria-label="Star">${store.star[i.key] ? "★" : "☆"}</button>
@@ -122,7 +135,7 @@ document.addEventListener("click", e => {
 $("#starred").onclick = () => { onlyStar = !onlyStar; $("#starred").classList.toggle("on", onlyStar); render(); };
 $("#drafts").onclick = () => { showDrafts = !showDrafts; $("#drafts").classList.toggle("on", showDrafts); render(); };
 $("#hidden").onclick = () => { showHidden = !showHidden; $("#hidden").classList.toggle("on", showHidden); render(); };
-["#q", "#cat", "#sort"].forEach(s => $(s).addEventListener("input", render));
+["#q", "#cat", "#src", "#sort"].forEach(s => $(s).addEventListener("input", render));
 render();
 </script>
 </body>
