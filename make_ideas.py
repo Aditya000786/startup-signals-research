@@ -25,6 +25,16 @@ def quote(cid, com):
             "thread": c.get("story_title"), "text": c["text"][:700], "url": c.get("url")}
 
 
+def with_reddit(picked, members, sig, com, n):
+    """Keep the picked quotes but make sure up to 2 Reddit comments are shown when the idea
+    has Reddit evidence (hand-picked card quotes predate the Reddit source)."""
+    rd = sorted((m for m in members if m.startswith("rd_") and m in com and m not in picked[:n]),
+                key=lambda m: (-sig[m]["intensity"], -com[m]["t"]))
+    have = sum(m.startswith("rd_") for m in picked[:n])
+    extra = rd[: max(0, 2 - have)]
+    return [m for m in picked if m not in extra][: n - len(extra)] + extra
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--drafts", type=int, default=40, help="also list this many top clusters that have no card yet")
@@ -54,7 +64,7 @@ def main():
         ideas.append({**fields, "cluster": " + ".join(c["title"] for c in cl) or "(anchors only)",
                       "category": cat, "signal_score": st["signal_score"], "authors": st["authors"],
                       "years": st["years"], "pay_signals": st["pay_signals"], "avg_intensity": st["avg_intensity"],
-                      "mentions": len(members), "quotes": [quote(q, com) for q in qs[:5]], "sources": members})
+                      "mentions": len(members), "quotes": [quote(q, com) for q in with_reddit(qs, members, sig, com, 5)], "sources": members})
         if not cl:
             print(f"  warning: card '{card['name']}' matched no cluster; using its anchors only")
 
@@ -69,7 +79,7 @@ def main():
                       "signal_score": c["signal_score"], "authors": c["authors"], "years": c["years"],
                       "pay_signals": c["pay_signals"], "avg_intensity": c["avg_intensity"], "mentions": len(c["members"]),
                       "problem": "; ".join(sig[m]["problem"] for m in best[:6]),
-                      "quotes": [quote(m, com) for m in best[:4]], "sources": c["members"]})
+                      "quotes": [quote(m, com) for m in with_reddit(best, c["member_ids"], sig, com, 4)], "sources": c["members"]})
 
     (DATA / "ideas.json").write_text(json.dumps(ideas, indent=1, ensure_ascii=False))
     print(f"{len(cards)} cards from {len(owner)} clusters, plus {len(drafts)} draft clusters -> data/ideas.json")

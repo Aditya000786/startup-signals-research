@@ -1344,6 +1344,14 @@
     "thread": "Confer – End to end encrypted AI chat",
     "text": "My issue is it claims to be end-to-end encrypted, which is really weird. Sure, TLS between you and your bank's server is end-to-end encrypted. But that puts your trust on the service provider.\n\nUsually in a context where a cypherpunk deploys E2EE it means only the intended parties have access to plaintexts. And when it's you having chat with a server it's like cloud backups, the data must be encrypted by the time it leaves your device, and decrypted only once it has reached your device again. For remote computing, that would require LLM handles ciphertexts only, basically, fully homomorphic encryption (FHE). If it's that, then sure, shut up and take my money, but AFAIK the science of FHE isn",
     "url": null
+   },
+   {
+    "id": "rd_m85ibf4",
+    "author": "reddit:Agile-Rub5098",
+    "year": 2025,
+    "thread": "r/SaaS: Beta Testers hop In! I will give my product for free to first 50 DMers\n",
+    "text": "Hear me out. I think what you did is cool, but I wouldn't pay for it.\n\nwhat I would pay for is if my AI chats could talk to each other. almost like different agents.\n\nOne agent is the CEO and knows the overall direction and goal. and then under the CEO is the front end dev agent, the back end dev agent, the cloud dev agent, the security agent...\n\nThis way, I could keep each chat hyper specific and much more organized. When the front-end agent needs to connect to the back end, it can talk to the back-end agent, and together, they can make the API call.\n\n\nif you could do that, I would be a tester, pay for the app, and I'd even be down to help you code it.\n\nBest of luck to you!",
+    "url": "https://www.reddit.com/r/SaaS/comments/1i5l6c1/_/m85ibf4/"
    }
   ],
   "sources": [
@@ -1667,6 +1675,14 @@
     "thread": "Ask HN: Looking for a 24-7 Real-Time Voice Transcription Tool",
     "text": "I'm interested in the same thing and have spent quite a bit of time looking.\n\nRewind.ai is ok (transcription accuracy is meh)\n\nVoice Memos.app is ok (though no native transcription, and requires stopping and starting)\n\nOtter.ai is ok (though there's a 4 hour limit on recordings, and there's no paid plan that allows for enough recording minutes to do 24/7)\n\nMy ideal solution would be that Otter comes out with a Pro 24/7 plan with 60,000 minutes per month and no max recording length, for $60-80/mo.\n\nI would pay for this and have paid for alternatives, though I'd prefer to use an existing company that I've used for a while and that has lots of users, due to privacy/trust, or perhaps a small sta",
     "url": null
+   },
+   {
+    "id": "rd_peieiv5",
+    "author": "reddit:toe_beans35",
+    "year": 2026,
+    "thread": "r/AppIdeas: would you use a product that does your computer work as you while you're away?",
+    "text": "Yes if it was absolutely perfect I would pay for this but the problem is, I’ve tried this already with nearly every agent and they all fuck up or make me sound either like a robot, insane, or dumb. Sometimes all three. \n\nBut yes sure if you can essentially clone me I’d pay a lot more than $20z",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1x06o7u/_/peieiv5/"
    }
   ],
   "sources": [
@@ -1745,6 +1761,14 @@
     "thread": "There's something off about LED bulbs",
     "text": "Yeah, I'm back to wanting a curated shopping experience.  I don't want the cheapest thing.  I don't want multiple options- thats worse than nothing.  I don't want to worry about counterfeits or knockoffs.  I don't want to do research, consult the relevant /r and then look through comment history to see who is paid to say what.  I want a store to have an opinion and stock high quality stuff.  I would happily pay a premium to offload decision making.",
     "url": null
+   },
+   {
+    "id": "rd_nja73r5",
+    "author": "reddit:klitarate",
+    "year": 2025,
+    "thread": "r/ecommerce: Selling on Amazon is dead",
+    "text": "We spend a significant amount of time playing wack a mole these days. Imitation is not flattery in this regard. It creates customer confusion when buying and we've found that often times these sellers are in fact buying the produxt from FBA sending it to their customer and asking for a full refund. Its wild.\n\n\nIts a good idea in theory, and I would say that someone should make a simple tool that identifies and assists in reporting to the different \"places/entities\" (?) The real crux is getting the big fish to do something about the actual problem - i.e. amzn, google ads, allowing the accounts to flourish and not be shut down or wildly pop up again and again. The issue as you mentioned is Chi",
+    "url": "https://www.reddit.com/r/ecommerce/comments/1o5l5yz/_/nja73r5/"
    }
   ],
   "sources": [
@@ -4913,12 +4937,12 @@
     "url": null
    },
    {
-    "id": "46905605",
-    "author": "phatfish",
+    "id": "rd_ox0fwex",
+    "author": "reddit:Smart-Status-3684",
     "year": 2026,
-    "thread": "Unsealed court documents show teen addiction was big tech's \"top priority\"",
-    "text": "Revanced YouTube app, turn off all the crap. Sometimes I open the official YouTube app to check my subscriptions and wonder how anyone uses it. If Google wasn't so ghastly and YouTube Premium had all the features of Revanced I would happily pay for it.\n\nI use the Revanced patched app logged out so Google doesn't decide to ban my account on a whim. Yes, one day I will dump Gmail, its getting closer with the state of things at the moment.",
-    "url": null
+    "thread": "r/AppIdeas: Which small Chrome extension would actually be useful enough for you to pay for?",
+    "text": "honestly if someone made an extension that just blocks youtube recommendations i'd pay for it in a second, the algorithm is too good at making me waste three hours",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1utuexw/_/ox0fwex/"
    }
   ],
   "sources": [
@@ -8301,12 +8325,12 @@
     "url": "https://www.reddit.com/r/PropertyManagement/comments/1s6hc6y/_/od35utd/"
    },
    {
-    "id": "46396554",
-    "author": "MoltenMan",
-    "year": 2025,
-    "thread": "[dead]",
-    "text": "I wish there was a way to report AI slop articles; it's frustrating clicking a link and reading a paragraph or two before realizing.",
-    "url": null
+    "id": "rd_lywowiq",
+    "author": "reddit:JouniFlemming",
+    "year": 2024,
+    "thread": "r/SaaS: I Quit My Job to Earn $15,000+ Monthly with Just 2 AI Influencers",
+    "text": "Here is a new saas idea: A filter that would remove this type of AI cancer from my internet. I'd pay for it.",
+    "url": "https://www.reddit.com/r/SaaS/comments/1gzjdqw/_/lywowiq/"
    }
   ],
   "sources": [
@@ -9143,12 +9167,12 @@
     "url": null
    },
    {
-    "id": "16351593",
-    "author": "rdtsc",
-    "year": 2018,
-    "thread": "GDPR: sorting the fact from the fiction",
-    "text": "Wonder how much of a secondary consultancy market this is going to create. I can just see \"GDPR consultant charging $450/hour with a minimum 2 weeks worth of work\" job listings.\n\nIt would be interesting what companies do about it. Will any of them pull out of the EU market. Or maybe make users sign away their rights on their next login \"If you use this service, you give us permission to use your data in this and that way which may or may not be GDPR compliant, if you refuse we'll delete your profile and you'll have to find an another service to solve your problem\".\n\nAs a consumer, I like what GDPR is doing. As a developer having to implement compliance for it, it is a huge pain.",
-    "url": null
+    "id": "rd_lyexybf",
+    "author": "reddit:Competitive_Aside461",
+    "year": 2024,
+    "thread": "r/SaaS: How to do guys deal with free trial abuse?",
+    "text": "Thanks for the reply. Kudos to you on studying GDPR. It always tends to stress me out. Maybe someone should make it more accessible and understandable in easier words. But again, that's just my opinion :)",
+    "url": "https://www.reddit.com/r/SaaS/comments/1gx2fb3/_/lyexybf/"
    }
   ],
   "sources": [
@@ -13228,12 +13252,12 @@
     "url": null
    },
    {
-    "id": "22749873",
-    "author": "igetspam",
-    "year": 2020,
-    "thread": "1.1.1.1 for Families",
-    "text": "My kid is 2.5 and especially now when we can't get her out of the house, we're relying on a tablet for some of her socializing (seeing friends and family on video chat).  We often use this while we're cooking and cleaning. Amazon looooooves to push ads to her tablet and the kid friendly mode they offer is a nightmare to try and use. I filter content for her because as much as we'd like to, we can't always be watching.\n\nShe's 2.5. Lots of things in her life aren't voluntary. It's my responsibility and choice to keep her safe. You can let your kids watch all the lemon parties they want but I'll just keep that stuff blocked.",
-    "url": null
+    "id": "rd_nvmca46",
+    "author": "reddit:PsychologicalVideo14",
+    "year": 2025,
+    "thread": "r/AppIdeas: Parenting Calander App for Parents",
+    "text": "Well... I don’t think everything is solvable that way. But what you are suggesting can. \n\nMaybe you are lacking adding something different that a LLM cannot do. E.g.: what about instead of just suggesting content you actually act as the single source of content for the kid? You can stream a curated list of YouTube vídeos, free books, etc. \n\nYour app could even be the only app in a kids tablet. The content could be unlocked by the parents in a specific order or schedule. \n\nI would not pay for your initial ideia, but I would pay for something hassle free that I can easily setup everything including free contents.",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1ptttci/_/nvmca46/"
    }
   ],
   "sources": [
@@ -15583,12 +15607,12 @@
     "url": null
    },
    {
-    "id": "32179556",
-    "author": "jasonlotito",
-    "year": 2022,
-    "thread": "The Great Tech Salary Crash",
-    "text": "\"2022 is the year where Tech Compensation drops for the first time in decades.\"\n\nFirst line of the actual article.\n\nSubheader: \"2022 is bringing us one of the largest declines in tech compensation in decades\"\n\nNot sure how you are confused. Yes, Salary was used in headline, but the article made it very clear it was instead referring to compensation as a whole, and how this was affecting, basically, your take home.\n\nSo, not sure where the article (which is pedantically separate from the headline) is confusing about this.\n\nMeta: It's annoying to see comments discuss the typos, the precise definition of things, and the otherwise useless pedantic-isms in HN articles. This isn't a recent occurren",
-    "url": null
+    "id": "rd_miynjsp",
+    "author": "reddit:Fabulous7-Tonight19",
+    "year": 2025,
+    "thread": "r/AppIdeas: What's your I wish there was an app for that' moment?",
+    "text": "I wish there was an app that automatically deletes BS posts like climate change denial and conspiracy theories right when they’re typed. Imagine how much cleaner and smarter the internet would be. We’ve got apps that can do crazy stuff, but we can't manage to create one to filter out nonsense. It blows my mind.",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1jg7o4r/_/miynjsp/"
    }
   ],
   "sources": [
@@ -16161,12 +16185,12 @@
     "url": null
    },
    {
-    "id": "29901844",
-    "author": "hypertele-Xii",
-    "year": 2022,
-    "thread": "Welcome to Waifu Labs v2: How Do AIs Create?",
-    "text": "Why do stuff like this never come down from the web? I'd pay for a program I could download and use with my own image files.",
-    "url": null
+    "id": "rd_ok81jpf",
+    "author": "reddit:Character_Job8291",
+    "year": 2026,
+    "thread": "r/AppIdeas: AI porn generator/best AI porn generator: We have 30+ tools but no way to manage them. Is this the real gap?",
+    "text": "Honestly the discovery problem is real but I think workflow is the bigger pain. I burned like 3 weekends jumping between platforms trying to find one that does decent img2vid AND lets me keep a consistent character across generations. Ended up with a messy spreadsheet tracking which one does what, credits left, output quality, NSFW limits etc. Half of them gate the actually useful stuff behind premium tiers you can only judge after paying. The thing nobody talks about is asset management. Once you've generated a few hundred outputs, organizing them is a nightmare. No tagging, no character library, no project folders. Curious tho, would you actually pay for a meta-layer or do you think people",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1sys276/_/ok81jpf/"
    }
   ],
   "sources": [
@@ -20114,12 +20138,12 @@
     "url": null
    },
    {
-    "id": "32479851",
-    "author": "randomsearch",
-    "year": 2022,
-    "thread": "Apple tells employees to work at the office three times per week starting Sept",
-    "text": "Being individually very productive is not necessarily good for a company. Just wanted to point that out as a lot of HN (and offline) commenters say - well, I get so much more done when I’m not at work. But that misses the point: what matters is the team’s overall progress, which is (1) certainly not equal to the sum of each individual’s perceived productivity and (2) heavily a function of personal relationships and communication. that is why remote might seem like a great idea for the individual coder yet have managers stressed out of their minds.\n\nI’ve spoken to so many managers about remote. Off the record, all of them have said it is a nightmare for them to coordinate the team.",
-    "url": null
+    "id": "rd_m2h6j2y",
+    "author": "reddit:Beginning_Cod64",
+    "year": 2024,
+    "thread": "r/SomebodyMakeThis: SMT: A timezone app for people, not places",
+    "text": "This is genius and kind of overdue, honestly. People are so obsessed with places like they're set in stone or something. The idea of focusing on people instead of places is huge. But honestly, there’s something satisfying in not knowing the time zones everyone is in and just letting chaos reign. Who wants structure and organization when you can thrive on confusion? But seriously, if someone makes this, make sure it has an aggressive, eye-bleeding color scheme to punish those who dare want order in their lives. And throw in a random time scramble feature, just for kicks. But yeah, I'd pay for this too!",
+    "url": "https://www.reddit.com/r/SomebodyMakeThis/comments/1hfrdb1/_/m2h6j2y/"
    }
   ],
   "sources": [
@@ -25250,12 +25274,12 @@
     "url": null
    },
    {
-    "id": "50060564",
-    "author": "ConceitedCode",
-    "year": 2026,
-    "thread": "Show HN: Opus 5.5 made a fully featured Figma clone in 3 hours / 8 prompts",
-    "text": "I feel like I'm missing something. Every time I attempt something similar, I end up with something that looks reasonable but doesn't hold up to scrutiny. To me, it feels like the models have become great at making demos more so than \"fully featured clones\". Admittedly, these demos keep getting better.\n\nI wish there was a more standardized way of sharing these prompts, results and token usage.",
-    "url": null
+    "id": "rd_miry7ka",
+    "author": "reddit:ravihustler",
+    "year": 2025,
+    "thread": "r/AppIdeas: Would You Use an App to Save and Share AI Prompts?",
+    "text": "Right now, most people probably just save their prompts in Notion, Google Docs, or even random notes apps, but those aren’t really built for managing and optimizing prompts. Having a dedicated space where you can organize, refine, and collaborate on prompts would definitely add value.\n\nA few things that could make it even more appealing:\n\n* Smart Search & Tagging – Finding past prompts quickly is a huge pain.\n* Community Sharing – Sometimes, you don’t know how good a prompt can be until others test and tweak it.\n* Built-in AI Improvement feature– Maybe an option to improve or auto-optimize prompts using AI?\n* Privacy Options – Some people might want to keep their prompts private, while other",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1jfl8i4/_/miry7ka/"
    }
   ],
   "sources": [
@@ -33317,12 +33341,12 @@
     "url": null
    },
    {
-    "id": "18078795",
-    "author": "misabon",
-    "year": 2018,
-    "thread": "Unintended Consequences: How the GDPR Can Undermine Privacy",
-    "text": "If they could tell me where I listened to what I’d love that. I wish there were Services for Feature-lovers. I’d love for my player to be able to handle mood (road trips vs work) and hold all these things without me thinking about it. I don’t want checkbox hell.",
-    "url": null
+    "id": "rd_19sd4792t55b5",
+    "author": "reddit:Last-Fox-",
+    "year": 2026,
+    "thread": "r/SomebodyMakeThis: What's one problem in your daily life that you wish someone would solve with a website or app?",
+    "text": "I wish there was an app for playing music which didn't pull all my music files automatically but instead let pick and choose manually. \nAlso it should be simple and free.",
+    "url": "https://www.reddit.com/r/SomebodyMakeThis/comments/1xpmoj9/_/19sd4792t55b5/"
    }
   ],
   "sources": [
