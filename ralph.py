@@ -8,7 +8,7 @@ Claude Code itself reads the comments chunk by chunk. All state lives in data/:
 
 Usage:
   python ralph.py init [--chunk 150]   build the order + progress (once)
-  python ralph.py next                 print the next unprocessed chunk
+  python ralph.py next [k]             print the next unprocessed chunk (or chunk k)
   python ralph.py save <chunk> <tsv>   record Claude's verdicts for that chunk
   python ralph.py status
   python ralph.py extend               queue comments added to comments.jsonl since
@@ -59,10 +59,11 @@ def load():
     return json.loads(PROG.read_text()), json.loads(ORDER.read_text())
 
 
-def next_chunk():
+def next_chunk(k=None):
     p, ids = load()
     done = set(p["done"])
-    k = next((i for i in range(p["chunks"]) if i not in done), None)
+    if k is None:
+        k = next((i for i in range(p["chunks"]) if i not in done), None)
     if k is None:
         print("ALL DONE"); return
     com = comments()
@@ -168,7 +169,7 @@ def status():
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "status"
     if cmd == "init": init(int(sys.argv[3]) if "--chunk" in sys.argv else 150)
-    elif cmd == "next": next_chunk()
+    elif cmd == "next": next_chunk(int(sys.argv[2]) if len(sys.argv) > 2 else None)
     elif cmd == "save": save(sys.argv[2], sys.argv[3])
     elif cmd == "restratify": restratify()
     elif cmd == "extend": extend()

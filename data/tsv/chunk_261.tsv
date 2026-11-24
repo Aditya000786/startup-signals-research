@@ -1,0 +1,55 @@
+rd_otg7232	Property managers would pay for a service that automates the unit turnover process	property managers	explicit	4	SMB & back-office
+rd_mx7efkt	Marketers spend more time fixing multi-touch attribution than getting insight from it	marketers	implied	3	data & analytics
+rd_oqwmdas	Shopify and Amazon sellers can't find a WMS that handles pack-size unit-of-measure conversions	multichannel sellers	implied	4	commerce & marketplaces
+rd_od7dn2k	Community group organizers manage events manually and want a dedicated app	community organizers	implied	3	communication & social
+rd_opv9svi	Small law firms want simple billing-focused software for time entry and invoices	small law firms	implied	3	legal & government
+rd_mf2phuk	Shopify merchants find sales tax tools expensive and bad at refund and return adjustments	Shopify merchants	explicit	4	finance & money
+rd_oafo3w5	Stores can't see why carts are abandoned because tools miss visitor context	ecommerce marketers	implied	3	data & analytics
+rd_omgjl8e	Ecommerce brands need a single view of customer data across Shopify, ads, email and marketplaces	ecommerce brands	implied	4	data & analytics
+rd_o72z5eb	Caregivers find manually entering medication details painful	caregivers and elderly users	implied	3	health & fitness
+rd_of6kusv	Lawyers want practice software that automatically re-sends unpaid invoices and handles trust accounting natively	law firms	implied	3	legal & government
+rd_olthdpo	Law firms struggle to OCR scanned, handwritten intake forms	law firms	implied	3	legal & government
+rd_o6tfz41	PMs can't see real-time project budget burn against logged hours	project managers	implied	3	productivity & work
+rd_o6z6hl3	Teams find AI meeting action items vague and wrong, so they re-read transcripts	team leads	implied	3	productivity & work
+rd_19rpm8eao46gy	Property management systems can't handle mid-cycle concessions or negotiated caps, forcing parallel spreadsheets	leasing teams	implied	3	SMB & back-office
+rd_ohfh9wi	Construction teams run big projects on WhatsApp and scattered spreadsheets without a single source of truth	construction project managers	implied	4	SMB & back-office
+rd_o3y32ls	People want a simple app that remembers small everyday details without being a task manager	consumers	none	2	productivity & work
+rd_ogbxnxz	Landlords get tenant calls after hours with no triage of real emergencies	property managers	implied	3	SMB & back-office
+rd_o101tag	Self-employed people with multiple income streams find no tool better than custom spreadsheets for personal books	self-employed people	none	2	finance & money
+rd_oe232al	Property managers lack flexible owner reporting in AppFolio	property managers	implied	3	SMB & back-office
+rd_nz78zbo	HR can't afford salary benchmarking data and pieces it together from free sources	small-company HR	implied	3	hiring & careers
+rd_nrb3pne	Etsy shoppers want an easy way to report sellers with fake discounts	online shoppers	none	2	commerce & marketplaces
+rd_ny2leva	Restaurants struggle to reconcile POS and delivery platform sales, fees and sales tax	restaurant bookkeepers	implied	3	finance & money
+rd_nnjy40u	Sellers spend hours editing and resizing product images for each marketplace's requirements	ecommerce sellers	implied	4	commerce & marketplaces
+rd_ogjv8om	High-ticket international orders bring payment and customs problems	ecommerce sellers	none	3	commerce & marketplaces
+rd_nvdzm1v	Shopify-to-QuickBooks sync drops discounts, product names and order edits	ecommerce bookkeepers	implied	3	finance & money
+rd_o2trm9n	Payroll teams face heavy compliance work for no-tax-on-overtime reporting	payroll administrators	implied	4	finance & money
+rd_o5ptza3	Solo lawyers struggle to collect client documents securely in one place	solo lawyers	implied	3	legal & government
+rd_o4zfmoj	Small HR teams want an affordable simple 360 review tool that gets timely responses	small HR teams	implied	2	hiring & careers
+rd_nl6f00j	Original creators want proof-of-creation built into marketplaces to fight copycats	Etsy sellers	implied	3	commerce & marketplaces
+rd_n2oecn7	Small sellers find EU compliance (IOSS, EORI, GPSR, packaging licences) a nightmare	small international sellers	implied	4	legal & government
+rd_o4gd05d	Restaurants juggle POS, inventory, scheduling and reporting systems that don't talk	restaurant owners	implied	3	SMB & back-office
+rd_nssev8x	Small companies with payroll run by their bookkeeper struggle to get payroll reports	small business HR	implied	3	finance & money
+rd_nddqjjm	Shoppers want to see when a listing was first posted to find the original maker	online shoppers	none	2	commerce & marketplaces
+rd_o06c8j6	Commercial property managers spend lots of time processing CAM and vendor invoices	commercial property managers	implied	4	SMB & back-office
+rd_nun4p3z	Multichannel sellers manually track returns across platforms and resync inventory	multichannel sellers	implied	3	commerce & marketplaces
+rd_nodaf21	Businesses with thousands of changing SKUs struggle to maintain item lists in bookkeeping software	wholesale businesses	implied	3	finance & money
+rd_nl52ldr	Property managers with hundreds of homes find bank reconciliation a huge pain	property managers	implied	4	finance & money
+rd_19rq35qdyar9h	Property managers track tenant payment promises manually in shared sheets	property managers	implied	3	SMB & back-office
+rd_nl2m9sy	New Shopify sellers find multistate sales tax registration and filing painful	new Shopify sellers	implied	3	finance & money
+rd_nkqkfoi	Small businesses lose customers over few reviews and want to intercept negative feedback	small businesses	explicit	3	media & content
+rd_ob27ous	Clio users find file storage and calendar integration unreliable for the cost	law firms	implied	3	legal & government
+rd_o2pdiy0	Mid-size companies find BambooHR's reporting rigid and uneditable	HR teams	implied	3	hiring & careers
+rd_o1bh7ky	Contractors doing certified payroll manually in QBO across jobs make errors	contractors	implied	4	finance & money
+rd_mxhtvyx	Lawyers have no good way to compare specific clauses across multiple contracts	lawyers	implied	4	legal & government
+rd_nz3owgq	Grocery sale data is hard to get for recipe and shopping apps	app builders	none	2	consumer & home
+rd_mr8g6il	Marketers want a service to critique creative briefs before sending them	marketers	implied	2	media & content
+rd_mqp8u6j	MSPs want one OSQuery agent feeding all platforms instead of many agents	MSPs	implied	3	devops & infra
+rd_n2bgj1c	Law firms' email attachment limits and SharePoint permissions make sharing files a nightmare	law firm staff	none	2	legal & government
+rd_nbc5u52	Retailers moving to Shopify from a POS need several apps for bundles and inventory	retailers	implied	3	commerce & marketplaces
+rd_n9zrold	Ecom brands want a dashboard combining Shopify, Amazon and ad data that gives real insights	ecommerce brands	implied	4	data & analytics
+rd_n1shwjd	Companies need automatic SMS opt-out handling in business phone systems	IT admins	implied	3	communication & social
+rd_mqia0jk	Shopify Marketplace Connect corrupted Amazon inventory	multichannel sellers	implied	3	commerce & marketplaces
+rd_n71y431	Bookkeepers log into many SaaS portals to find invoices matching bank lines	bookkeepers	implied	4	finance & money
+rd_mko0i7h	Merchants want to flag repeat chargeback scammers and warn other merchants	Shopify merchants	implied	4	finance & money
+rd_mttcvoq	Small healthcare offices struggle to find cloud providers who will sign a BAA	small healthcare practices	implied	3	security & privacy

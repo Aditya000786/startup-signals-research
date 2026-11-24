@@ -1,0 +1,54 @@
+2884446	Site owners want automatic alerts when images or CSS links on their site break	website owners	implied	2	developer tools
+7921600	Android users want a tool that hides root from apps that detect it	Android power users	none	2	security & privacy
+3864295	People want email usage stats reports for Exchange/non-Gmail work mail	office workers	implied	2	productivity & work
+1779428	Non-native writers want a service that corrects their English and explains the mistakes	non-native English writers	implied	3	education & learning
+6338110	Lawyers find reading dense fine print all day exhausting and want easier reading tools	lawyers	implied	3	legal & government
+10325859	Analysts want fast interactive exploration of multi-GB datasets without big-data infrastructure	data analysts	implied	3	data & analytics
+8761285	Contact managers fail at merging, cleaning and unmerging duplicate contacts	professionals with large contact lists	explicit	4	productivity & work
+rd_mhy3nxg	MSPs want an AI-powered RMM that safely automates scripting and remediation	MSP technicians	implied	3	devops & infra
+rd_nq6hcdn	Etsy buyers want to filter out AI-generated listings	online marketplace shoppers	none	3	commerce & marketplaces
+rd_n34m60f	PMs spend effort turning board-tool data into slide decks because leadership can't read status easily	project managers	implied	3	productivity & work
+rd_o64yq5m	Multichannel sellers struggle to keep product data in sync across channels	ecommerce sellers	implied	2	commerce & marketplaces
+rd_m771xz7	Software makers want an affiliate marketplace with referral tracking and payouts for new tech tools	SaaS founders	implied	3	commerce & marketplaces
+rd_19t233whwpyn5	Person wants a habit tracking app that actually fits their needs	consumers	implied	3	health & fitness
+rd_nqx99q7	Drivers want navigation that learns scenic or preferred routes instead of only the fastest	drivers and road-trippers	implied	3	travel & local
+rd_n3q2m4o	Merchants repeatedly rejected by Google Merchant Center would pay for help fixing it	ecommerce merchants	explicit	4	commerce & marketplaces
+rd_mtog22r	Landlords want one place to look up state and county month-to-month lease laws	landlords and property managers	none	2	legal & government
+rd_mwzg2ue	Bookkeepers want software that auto-sorts bank statements and normalizes vendor names during cleanup	bookkeepers	implied	4	finance & money
+rd_mx98jwo	Contractors want invoices from their construction CRM (CoConstruct) to sync to bookkeeping automatically	construction business bookkeepers	implied	3	SMB & back-office
+rd_na5z5zf	Bookkeepers waste time manually entering payroll checks from ADP reports	bookkeepers	implied	3	finance & money
+rd_njxewnk	Construction software (e.g. Procore) is designed by people without construction experience and shows progress wrongly	construction contractors	implied	3	SMB & back-office
+rd_odf3nm1	Importers have no tool to cross-check supplier yarn and fabric lists against the UFLPA forced-labor entity list	ecommerce importers	implied	4	legal & government
+rd_o905z28	Small law firms hate mandatory sales demos and want legal software they can just download and try	solo and small-firm lawyers	implied	3	legal & government
+rd_osc4vwf	Solo lawyers lose hours to chasing client info, copying data across spreadsheets and drafting standard forms	solo lawyers	implied	4	legal & government
+rd_musmpud	Marketers face data blind spots from privacy opt-outs and poor attribution with no good solution	marketers	implied	3	data & analytics
+rd_n1xg585	Marketers have to hand-build scripts to connect invoice data to lead sources for attribution	marketing consultants	none	3	data & analytics
+rd_n5f91gx	Email marketers want a way to keep their emails out of Gmail's Promotions tab	DTC brands	implied	3	media & content
+rd_ok1szak	Ecommerce teams build internal tools to manage supplier communication	ecommerce operators	implied	3	commerce & marketplaces
+rd_oit4t4l	HR still prepares offer or employment letters manually with proofreading before e-sign	HR teams	none	2	hiring & careers
+rd_okk91bi	Property managers lack secure monitored drop spots for rent checks, leading to theft	property managers	none	2	consumer & home
+rd_n4s6mmk	Managers lack time to run quarterly feedback or stay interviews	HR and people managers	none	2	hiring & careers
+rd_mdulh0y	MSPs have no good way to bulk-export Datto backups when retiring the device	MSPs	implied	3	devops & infra
+rd_o3iwsuh	Tenant screening creates manual work when not connected to the management workflow	property managers	implied	2	SMB & back-office
+rd_n6i4kyi	Marketing teams can't find quality freelance writers who don't just use AI or write only for SEO	marketing managers	implied	3	hiring & careers
+rd_n2r6hha	Teams spend hours every week converting dashboards into slide decks for executives	corporate analysts and marketers	implied	3	productivity & work
+rd_otakue6	People want an app that combines data from all their health apps and tells them what to change to feel better	health-conscious consumers	implied	3	health & fitness
+rd_nv4l25x	Mid-market sellers want an affordable multi-warehouse WMS with reliable marketplace integrations	mid-market ecommerce brands	explicit	3	commerce & marketplaces
+rd_oqhgmul	Marketers want to track how their brand appears in AI search overviews; no tool does it well	marketers	implied	3	media & content
+rd_oqi3gti	PMs spend much of the week keeping information consistent across many tools	project managers	implied	3	productivity & work
+rd_nyop38a	Sellers waste time manually checking competitor sites for size and color stock changes	ecommerce sellers	explicit	3	commerce & marketplaces
+rd_o1mhx2m	Contractors track job costs and checklists in a giant spreadsheet	contractors	none	2	SMB & back-office
+rd_njfjaoo	Developers find Jira too complex and want a developer-focused project tool	software teams	implied	3	developer tools
+rd_oc0nu7n	Growing stores outgrow spreadsheet inventory management	small ecommerce stores	implied	2	commerce & marketplaces
+rd_msv7xb6	MSPs find backup appliances overpriced and hard to restore from, so build their own	MSPs	explicit	4	devops & infra
+rd_mevxl5k	Etsy shoppers can't filter out vintage items	online marketplace shoppers	none	2	commerce & marketplaces
+rd_o5qai46	Excavation contractors spend 10 hours a week manually tracking 811 locate tickets and miss expirations	excavation and utility contractors	implied	4	SMB & back-office
+rd_msutx3x	Shopify merchants have no good way to discount off compare-at price without double discounts; paid $4k for custom app	Shopify merchants	explicit	4	commerce & marketplaces
+rd_oo1kn4s	Merchants spend a lot of time manually formatting evidence for payment disputes	ecommerce merchants	implied	4	finance & money
+rd_o0ysjq4	Bookkeepers want a shared database to pull W-9 info from instead of chasing vendors for 1099s	bookkeepers	implied	4	finance & money
+rd_lxr29hv	Consumers want a one-time-purchase local photo organizer that sorts, dedupes and backs up	consumers with large photo libraries	explicit	3	consumer & home
+rd_nm9s9f2	Merchants waste hours defending chargebacks filed without evidence	Shopify merchants	explicit	4	finance & money
+rd_meylijy	Shoppers want a curated directory of genuinely handmade shops to bypass marketplace algorithms	handmade buyers	none	2	commerce & marketplaces
+rd_n5jre96	Small brands can't afford brand-protection services and remove scammers manually	small DTC brands	implied	3	commerce & marketplaces
+rd_mxfr0i7	Designers want AI that manages a design system and iterates on assets from it	marketing designers	implied	3	media & content
+rd_nja73r5	Amazon brands want a tool that identifies counterfeits and handles reporting them	Amazon sellers	implied	3	commerce & marketplaces

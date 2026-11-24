@@ -1,0 +1,28 @@
+rd_mols4v7	Solo lawyers spend 5+ hours a week uploading hours and receipts for court-appointed work billing	solo lawyers	implied	4	legal & government
+rd_na3padp	Shop Pay payouts are a nightmare to reconcile against orders	Shopify merchants	implied	4	finance & money
+rd_mzv4myf	Property managers find tenant document collection doesn't scale with manual tracking	property managers	implied	3	SMB & back-office
+rd_m41ttwl	Small businesses want desktop accounting software they buy once instead of renting	small business owners	explicit	3	finance & money
+rd_ntsfu4y	Clients want to know how their lawyer is using AI on their matter	legal clients	none	2	legal & government
+rd_ockka3e	Ecommerce brands pay agencies to be human middleware because no tool orchestrates decision logic across apps like Klaviyo and LoyaltyLion	ecommerce brands	explicit	4	commerce & marketplaces
+rd_m3msiev	Shopify merchants want to run wholesale separately from retail in one store	Shopify merchants	implied	3	commerce & marketplaces
+rd_mx48w4h	Shopify merchants want shipping costs calculated from total order weight	Shopify merchants	implied	3	commerce & marketplaces
+rd_p9ynj93	Program managers juggle Evernote, Smartsheet, Jira and spreadsheets and built their own system to consolidate	program managers	implied	3	productivity & work
+rd_nhk82m5	Small brands can't tell which sponsorships and events drive sales	small DTC brands	implied	3	data & analytics
+rd_pdgluqm	Car owners want an app for maintenance reminders, repair estimates and parts pricing, paid once	car owners	implied	2	consumer & home
+rd_lxq96aw	SaaS companies hit by AI add-on billing spikes but migrating support platforms is painful	SaaS support teams	implied	3	developer tools
+rd_mjc615w	MSPs lack an API in ConnectWise Unite to handle Microsoft license price changes	MSPs	implied	4	devops & infra
+rd_om0v6nn	Smart TV owners want a remote with a real keyboard for passwords	TV owners	explicit	2	hardware & IoT
+rd_obxwoe2	Personal-injury lawyers waste hours summarizing medical records into chronologies	personal injury lawyers	explicit	4	legal & government
+rd_o4yu08d	Ecommerce brands can't attribute revenue to AI assistant prompts or recommendations	ecommerce marketers	implied	4	data & analytics
+rd_ox0fwex	People want a browser extension that blocks YouTube recommendations	internet users	explicit	2	media & content
+rd_m4m1w1c	Freelancers spend a lot of effort chasing client payments	freelancers	implied	4	finance & money
+rd_lzqtnn3	Businesses need consistent design production that sits between unreliable freelancers and costly agencies	marketing teams	explicit	3	media & content
+rd_msbvlih	Sales teams want tools that detect real buying triggers instead of generic automated outreach	sales teams	implied	3	data & analytics
+rd_o8ey6z1	Merchants waste hours reconciling mismatched data across Shopify, Stripe and QuickBooks	ecommerce merchants	explicit	4	finance & money
+rd_ndnth48	Etsy sellers want to move their shop to their own Shopify store easily	Etsy sellers	none	2	commerce & marketplaces
+rd_oolzdo7	Small HRIS customers get poor vendor support	small-company HR	implied	3	hiring & careers
+rd_nlyl4nz	Shopify merchants reselling branded goods get payouts frozen by blunt copyright bots	Shopify merchants	implied	3	commerce & marketplaces
+rd_o5qv9ys	Flat-fee lawyers can't see when a case is drifting into unprofitable unbilled time	flat-fee lawyers	implied	4	legal & government
+rd_mplo63g	Contractors pay lead services like Angi for fake leads	contractors	explicit	4	SMB & back-office
+rd_o5x3is8	Marketers waste hours maintaining DIY multi-platform analytics dashboards	marketers	explicit	3	data & analytics
+rd_mgtel0n	IT techs want in-app tips surfaced for hidden OS features	IT technicians	none	1	devops & infra

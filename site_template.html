@@ -89,14 +89,20 @@ $("#meta").textContent = META.note || "";
 function render() {
   const q = $("#q").value.toLowerCase(), cat = $("#cat").value, sort = $("#sort").value, src = $("#src").value;
   const S = i => i.src || {hn: i.mentions, reddit: 0};
-  let xs = IDEAS.filter(i => (!cat || i.category === cat)
+  const all = IDEAS.filter(i => (!cat || i.category === cat)
     && (!src || (src === "both" ? S(i).hn && S(i).reddit : S(i)[src]))
-    && (!onlyStar || store.star[i.key]) && (showHidden || !store.hide[i.key]) && (showDrafts || !i.draft)
+    && (!onlyStar || store.star[i.key]) && (showHidden || !store.hide[i.key])
     && (!q || JSON.stringify(i).toLowerCase().includes(q)));
+  let xs = all.filter(i => showDrafts || !i.draft);
+  const hiddenDrafts = all.length - xs.length;
   const k = {signal: i => i.signal_score, verdict: i => i.verdict_score ?? -1, recent: i => Math.max(...i.years), pay: i => i.pay_signals}[sort];
   xs.sort((a, b) => k(b) - k(a));
-  $("#count").textContent = `${xs.length} of ${IDEAS.length} ideas`;
-  $("#list").innerHTML = xs.length ? xs.map(card).join("") : `<p class="empty">No ideas match.</p>`;
+  $("#count").textContent = `${xs.length} of ${IDEAS.length} ideas` + (hiddenDrafts ? ` · ${hiddenDrafts} more in drafts` : "");
+  $("#list").innerHTML = xs.length ? xs.map(card).join("")
+    : hiddenDrafts ? `<p class="empty">No finished cards match, but ${hiddenDrafts} draft${hiddenDrafts > 1 ? "s" : ""} do. <button id="showdr">Show drafts</button></p>`
+    : `<p class="empty">No ideas match.</p>`;
+  const b = $("#showdr");
+  if (b) b.onclick = () => $("#drafts").click();
 }
 
 function srcChip(i) {

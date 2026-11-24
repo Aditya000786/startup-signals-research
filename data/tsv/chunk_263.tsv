@@ -1,0 +1,54 @@
+rd_mp0d5ww	Ecommerce teams can't track holiday campaign ROI, so they restart planning from scratch every year	ecommerce marketers	none	2	data & analytics
+rd_mkmstwj	Yardi users find recurring work orders, rentable items and renewal proration painful	property managers	implied	3	SMB & back-office
+rd_merhq4y	Designers waste time pasting reference screenshots one by one between windows	designers	none	2	productivity & work
+rd_mdu01k4	Shopify merchants can't see which orders came from which Google Ads clicks and spend	Shopify merchants	implied	3	data & analytics
+rd_mc63viv	New MSPs get repeatedly rejected by Microsoft Partner verification with no explanation	MSPs	none	3	devops & infra
+rd_mav2117	MSPs moving large NAS shares to SharePoint hit path limits, sync and permission problems	MSPs	implied	3	devops & infra
+rd_ma2z1m8	Group trip planning is a nightmare	travelers	implied	2	travel & local
+rd_m8m004t	Audited businesses on QuickBooks pay more because controls are manual	small business finance teams	implied	3	finance & money
+rd_lzo78oe	Shopify Email deliverability failures hurt merchants	Shopify merchants	none	3	media & content
+rd_19rq3wi65o29w	Property managers track rent collection follow-ups manually in shared sheets	property managers	implied	3	SMB & back-office
+rd_pe53578	NYC property managers struggle to handle HPD violations	NYC property managers	none	3	legal & government
+rd_p4z9wiv	Property managers lose half a day coordinating tenant, vendor and inspection schedules	property managers	implied	4	SMB & back-office
+rd_orydfdz	Property managers lose hours a month tracking tenant insurance certificate expirations	property managers	implied	4	SMB & back-office
+rd_opwzy36	Lawyers find Word compare on later drafts flags hundreds of formatting changes and hides substantive ones	lawyers	implied	4	legal & government
+rd_onbdf9x	Criminal defense firms pay for junk calls from Google Local Services Ads	law firms	explicit	3	legal & government
+rd_omjor74	Employees wait endlessly on HRA reimbursements with no visibility into status	employees with HRAs	none	3	finance & money
+rd_om2bn4f	HR runs large layoffs in Excel with no dedicated tool	HR teams	implied	3	hiring & careers
+rd_olz1coh	Accounting firms with many clients find QBO Accountant support so bad they're moving to Xero	accounting firms	implied	3	finance & money
+rd_oj5ynf7	Marketing teams find AI translation fine but useless for transcreation across markets	global marketing teams	implied	3	media & content
+rd_oj1fc6e	Creators want instant local file transfer from phone to computer without installing apps on both	content creators	none	2	productivity & work
+rd_ok81jpf	AI image generator users lack asset management: tagging, character libraries, folders	AI content creators	implied	2	AI & ML tooling
+rd_ohyd91n	Businesses outgrow spreadsheets for contract lifecycle and version control at around 15 customers	small B2B companies	implied	3	legal & government
+rd_ohigp6o	Copilot agents in Power Automate are hard to set up and fragile	IT admins	none	2	AI & ML tooling
+rd_odh92ze	Lawyers want case management with a visual dashboard of matters and billable performance	law firms	implied	3	legal & government
+rd_odarfev	WooCommerce stores outgrow CSV and Google Sheets workflows with their 3PL	ecommerce sellers	implied	3	commerce & marketplaces
+rd_oc5knkt	Companies face heavy documentation burden to explain AI decisions under the EU AI Act	compliance teams	implied	4	legal & government
+rd_obyq8pc	Bookkeepers struggle to get usable invoices from Amazon business purchases	bookkeepers	implied	3	finance & money
+rd_obhc9lf	Stores rebranding domains struggle to manage 1,000+ SEO redirects	ecommerce operators	implied	3	media & content
+rd_oaafgan	Recruiters drown screening hundreds of resumes manually	recruiters	implied	3	hiring & careers
+rd_o93ba83	Multichannel sellers can't see SKU-level profitability with ad costs and COGS in one view	multichannel sellers	implied	4	finance & money
+rd_o7plxcb	Paycom becomes manual and painful at 400 employees with no integrations	HR and payroll teams	implied	3	hiring & careers
+rd_o6tdziz	Merchants handle returns over email, losing messages and slowing refunds	ecommerce merchants	implied	3	commerce & marketplaces
+rd_o6koess	Non-technical sellers waste time resizing product images for each platform	ecommerce sellers	implied	3	commerce & marketplaces
+rd_o5xe8a7	Ecommerce businesses manually calculate international VA payouts from time tracking	ecommerce owners	implied	3	finance & money
+rd_o0no1tg	Multi-jurisdiction property managers struggle with late fee compliance	property managers	implied	3	legal & government
+rd_nyknm2u	Sellers want a tool to quickly fix many product photos	ecommerce sellers	implied	2	commerce & marketplaces
+rd_nu4p7wa	Hybrid subscription and one-time stores struggle with inventory sync and failed payment retries	subscription ecommerce brands	implied	3	commerce & marketplaces
+rd_ntpvh17	Subcontractors billing big GCs through Procore get pay apps kicked back and wait 45-60 days	subcontractors	implied	4	finance & money
+rd_npa4716	HR tracks annual bonus calculations and approvals manually	HR and comp teams	implied	3	hiring & careers
+rd_nng6rmx	Small firms can't find free or cheap remote hiring and onboarding software	small businesses	implied	3	hiring & careers
+rd_njv3yel	Sellers can't keep Shopify and Amazon stock in sync; plugins crash	multichannel sellers	implied	4	commerce & marketplaces
+rd_ni39gdj	Shopify Payments payout delays cause cash flow problems for fast-growing stores	Shopify merchants	implied	4	finance & money
+rd_ngobezb	Klarna on Shopify invites easy repeat chargebacks	Shopify merchants	implied	3	finance & money
+rd_ngdh62n	Ecommerce bookkeeping AI miscategorizes transactions and can't handle vendor credits	ecommerce owners	implied	3	finance & money
+rd_nfrw7lp	AppFolio's limited reporting makes portfolio audits hard	property owners and auditors	implied	3	SMB & back-office
+rd_ndfxwuc	Contractors' credit card expense programs are a mess and need better tools	construction finance teams	implied	3	finance & money
+rd_nd51502	Clio's Outlook add-in fails, so lawyers can't file incoming documents	law firms	implied	3	legal & government
+rd_nbu2fjf	Small law firms enter tasks manually without conditional dependencies	small law firms	implied	3	legal & government
+rd_n52ogrh	Small property managers handle vendor scheduling by email and text and want automated job assignment	property managers	explicit	4	SMB & back-office
+rd_n3x7zqq	Sellers can't affordably track competitor prices across 1,200 SKUs	ecommerce sellers	implied	4	commerce & marketplaces
+rd_n2nn3qo	Bookkeepers find exporting reports from QBO painful	bookkeepers	implied	2	finance & money
+rd_n218lgg	Construction PMs compare schedule versions manually in Excel	construction project managers	implied	3	SMB & back-office
+rd_n1hslix	New Shopify makers track material costs and stock levels manually and oversell	small makers	implied	3	commerce & marketplaces
+rd_ni3nsp8	Lawyers are overwhelmed by email volume	lawyers	implied	3	legal & government

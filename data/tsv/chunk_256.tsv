@@ -1,0 +1,37 @@
+rd_okeqwbm	Property managers spend an hour after each inspection matching phone photos to notes to build a report	property managers	implied	4	SMB & back-office
+rd_npsy3m0	Small HR teams drown in manual onboarding, files and benefits admin	small-company HR	implied	3	hiring & careers
+rd_m6ukps9	Sellers entering new language markets find machine-translated store content sounds robotic	ecommerce sellers	explicit	3	commerce & marketplaces
+rd_m6yi2zd	HR teams stuck with slow UKG support but switching HRIS is too painful	HR administrators	implied	3	hiring & careers
+rd_ol84cld	Ecommerce teams spend hours every week reconciling numbers across ads, inventory, shipping and finance tools	ecommerce operators	implied	4	data & analytics
+rd_owasarr	Consumers want an app that alerts them when a subscription price goes up	consumers	implied	3	finance & money
+rd_o7bh5x3	Multichannel sellers struggle to track profitability per sales channel in spreadsheets	ecommerce sellers	implied	3	finance & money
+rd_ndch2sa	Small contracting companies lack a good dedicated app for takeoff and estimating	small contractors	implied	4	SMB & back-office
+rd_mlpchb9	Solo contractors waste time manually turning timesheets into invoices	freelancers and solo IT contractors	implied	3	SMB & back-office
+rd_pczmp42	Small landlords get maintenance requests by text at all hours with no triage of real emergencies	small landlords	implied	3	SMB & back-office
+rd_m5hnn1r	Logo-maker users want a one-time purchase instead of a hard-to-cancel subscription	small business owners	explicit	2	media & content
+rd_m2nygxm	Small service businesses write quotes inefficiently and would pay to fix it	small service businesses	explicit	3	SMB & back-office
+rd_mc75co4	MSPs find NinjaOne patching lacks granular control over patch types and reboot prompts, so build their own app	MSPs	implied	4	devops & infra
+rd_nb9nkna	PM tools don't connect resource allocation, project delays and financial impact without manual Excel work	project managers	implied	3	productivity & work
+rd_nxcz54i	Commercial landscaping is hard to price; bids range wildly for the same job	landscaping contractors	none	3	SMB & back-office
+rd_o8g9bft	Contractors spend hours every week creating, sending and tracking bids and lose jobs to late bids	contractors	explicit	4	SMB & back-office
+rd_lxx8lbz	MSPs can't reliably sync product counts into ConnectWise agreements for accurate billing	MSPs	implied	4	devops & infra
+rd_o5oprpa	Personal-injury firms need medical chronologies built from records and bills	personal injury law firms	implied	4	legal & government
+rd_mj0h9c8	Teams want one tool combining shared inbox, phone, CRM and project management	small teams	implied	2	productivity & work
+rd_nq5mpc7	Etsy sellers have no practical way to stop Temu pop-up shops using their product photos	handmade sellers	implied	3	commerce & marketplaces
+rd_nb4zmdv	Property managers still copy lease details and tenant info between systems by hand	property managers	implied	3	SMB & back-office
+rd_npsu34d	Ecommerce chat tools treat every conversation the same and can't prioritize sales leads	ecommerce support teams	implied	3	commerce & marketplaces
+rd_m2byfjb	Businesses want SEO providers who specialize in their niche	small businesses	implied	2	media & content
+rd_nd5fx2l	Buyers want a marketplace that strictly excludes drop-shippers so they can find real crafters	handmade buyers	implied	3	commerce & marketplaces
+rd_od35utd	Subreddit mods want an automod that detects and blocks AI-written sales posts	community moderators	explicit	3	communication & social
+rd_ovgtdks	Developers waste hours digging Reddit for validated SaaS ideas; mining tools dump raw posts without demand filtering	indie developers	implied	3	data & analytics
+rd_ns2yd6t	People want a calendar that factors in driving and traffic time between events	busy professionals	none	2	productivity & work
+rd_penkznh	Photographers want a fast logbook for camera settings and shooting spots instead of notes or spreadsheets	hobby photographers	implied	3	media & content
+rd_n7wi3xb	Bookkeepers want software that learns vendor categorization rules	bookkeepers	implied	3	finance & money
+rd_ni9d7di	Multi-store retail buyers want a central dashboard to spot trends across stores	retail buyers	implied	3	commerce & marketplaces
+rd_ma4e8kw	Sellers want an easy tool to scrape Amazon top-seller product data	Amazon sellers	none	2	commerce & marketplaces
+rd_ow4zic0	Knowledge workers want an AI that keeps persistent context across apps and proactively organizes tasks and follow-ups	knowledge workers	explicit	4	productivity & work
+rd_n27f2dd	Shopify merchants miscollect sales tax because product categories silently change tax rates, and can't restrict products by state	Shopify merchants	implied	4	commerce & marketplaces
+rd_p47nzed	Consumers want a tracker that flags subscriptions they paid for but didn't use before renewal	consumers	implied	3	finance & money
+rd_lywowiq	People want a filter that removes AI-generated spam content from their feeds	internet users	explicit	2	media & content
+rd_npslmpz	Law firms lack screening and online intake to filter callers before consultations	law firms	none	2	legal & government
+rd_m6h3d6f	People with severe ADHD want a service that actually pays their bills for them	adults with ADHD	explicit	4	finance & money
