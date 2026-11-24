@@ -58,7 +58,10 @@ def main():
         if not cl:
             print(f"  warning: card '{card['name']}' matched no cluster; using its anchors only")
 
-    drafts = [c for ci, c in enumerate(clusters) if ci not in owner][: a.drafts]
+    free = [c for ci, c in enumerate(clusters) if ci not in owner]
+    # Also keep every cluster with Reddit evidence: Reddit is the newer, smaller source, so
+    # its clusters rarely reach the top N by score yet, and the dashboard should still show them.
+    drafts = free[: a.drafts] + [c for c in free[a.drafts:] if any(m.startswith("rd_") for m in c["member_ids"])]
     for c in drafts:
         best = sorted(c["member_ids"], key=lambda m: (-sig[m]["intensity"], -com[m]["t"]))
         ideas.append({"name": c["problem"], "one_liner": "Draft: cluster not yet reviewed. Keywords: " + ", ".join(c["keywords"]),
