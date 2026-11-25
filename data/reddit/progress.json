@@ -1,9 +1,9 @@
 {
  "accounting": {
-  "cursor": 1740329819,
+  "cursor": 1742513934,
   "done": false,
-  "kept": 67,
-  "scanned": 223600,
+  "kept": 90,
+  "scanned": 280600,
   "since": 1730419200
  },
  "appideas": {
@@ -21,10 +21,10 @@
   "since": 1730419200
  },
  "construction": {
-  "cursor": 1744769912,
+  "cursor": 1747862716,
   "done": false,
-  "kept": 81,
-  "scanned": 266000,
+  "kept": 90,
+  "scanned": 320500,
   "since": 1730419200
  },
  "contractor": {
@@ -56,10 +56,10 @@
   "since": 1730419200
  },
  "entrepreneur": {
-  "cursor": 1746070512,
+  "cursor": 1749189476,
   "done": false,
-  "kept": 192,
-  "scanned": 301500,
+  "kept": 229,
+  "scanned": 358000,
   "since": 1730419200
  },
  "etsy": {
@@ -105,10 +105,10 @@
   "since": 1730419200
  },
  "photography": {
-  "cursor": 1768416494,
+  "cursor": 1776187827,
   "done": false,
-  "kept": 176,
-  "scanned": 383800,
+  "kept": 204,
+  "scanned": 435200,
   "since": 1730419200
  },
  "projectmanagement": {
@@ -126,10 +126,10 @@
   "since": 1730419200
  },
  "realtors": {
-  "cursor": 1730567110,
+  "cursor": 1738637438,
   "done": false,
-  "kept": 1,
-  "scanned": 800,
+  "kept": 15,
+  "scanned": 48900,
   "since": 1730419200
  },
  "restaurateur": {
@@ -140,10 +140,10 @@
   "since": 1730419200
  },
  "saas": {
-  "cursor": 1761619987,
+  "cursor": 1764752529,
   "done": false,
-  "kept": 761,
-  "scanned": 513200,
+  "kept": 866,
+  "scanned": 561700,
   "since": 1730419200
  },
  "shopify": {
@@ -154,10 +154,10 @@
   "since": 1730419200
  },
  "smallbusiness": {
-  "cursor": 1735581904,
+  "cursor": 1737786478,
   "done": false,
-  "kept": 61,
-  "scanned": 104000,
+  "kept": 98,
+  "scanned": 151300,
   "since": 1730419200
  },
  "somebodymakethis": {
@@ -175,10 +175,10 @@
   "since": 1730419200
  },
  "sysadmin": {
-  "cursor": 1731173747,
+  "cursor": 1732913880,
   "done": false,
-  "kept": 11,
-  "scanned": 21400,
+  "kept": 41,
+  "scanned": 73400,
   "since": 1730419200
  }
 }
