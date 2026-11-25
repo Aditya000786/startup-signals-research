@@ -1,9 +1,9 @@
 {
  "accounting": {
-  "cursor": 1731972681,
+  "cursor": 1734370466,
   "done": false,
-  "kept": 8,
-  "scanned": 29400,
+  "kept": 28,
+  "scanned": 78800,
   "since": 1730419200
  },
  "appideas": {
@@ -21,10 +21,10 @@
   "since": 1730419200
  },
  "construction": {
-  "cursor": 1734985247,
+  "cursor": 1737919783,
   "done": false,
-  "kept": 25,
-  "scanned": 84000,
+  "kept": 39,
+  "scanned": 138000,
   "since": 1730419200
  },
  "contractor": {
@@ -35,17 +35,17 @@
   "since": 1730419200
  },
  "dentistry": {
-  "cursor": 1759690975,
+  "cursor": 1769834724,
   "done": false,
-  "kept": 79,
-  "scanned": 196100,
+  "kept": 97,
+  "scanned": 250400,
   "since": 1730419200
  },
  "devops": {
-  "cursor": 1770174313,
+  "cursor": 1784837399,
   "done": false,
-  "kept": 146,
-  "scanned": 165400,
+  "kept": 201,
+  "scanned": 214900,
   "since": 1730419200
  },
  "ecommerce": {
@@ -56,10 +56,10 @@
   "since": 1730419200
  },
  "entrepreneur": {
-  "cursor": 1736210830,
+  "cursor": 1738651222,
   "done": false,
-  "kept": 66,
-  "scanned": 107500,
+  "kept": 91,
+  "scanned": 157400,
   "since": 1730419200
  },
  "etsy": {
@@ -105,10 +105,10 @@
   "since": 1730419200
  },
  "photography": {
-  "cursor": 1749038216,
+  "cursor": 1753214667,
   "done": false,
-  "kept": 87,
-  "scanned": 192700,
+  "kept": 112,
+  "scanned": 241100,
   "since": 1730419200
  },
  "projectmanagement": {
@@ -133,10 +133,10 @@
   "since": 1730419200
  },
  "saas": {
-  "cursor": 1752043729,
+  "cursor": 1754081034,
   "done": false,
-  "kept": 370,
-  "scanned": 314100,
+  "kept": 458,
+  "scanned": 365500,
   "since": 1730419200
  },
  "shopify": {
@@ -154,10 +154,10 @@
   "since": 1730419200
  },
  "startups": {
-  "cursor": 1758727497,
+  "cursor": 1767880398,
   "done": false,
-  "kept": 218,
-  "scanned": 190000,
+  "kept": 273,
+  "scanned": 236900,
   "since": 1730419200
  }
 }
