@@ -14,24 +14,31 @@
   "since": 1730419200
  },
  "contractor": {
-  "cursor": 1777481988,
+  "cursor": 1791139332,
   "done": false,
-  "kept": 103,
-  "scanned": 164300,
+  "kept": 138,
+  "scanned": 204800,
+  "since": 1730419200
+ },
+ "dentistry": {
+  "cursor": 1733354649,
+  "done": false,
+  "kept": 2,
+  "scanned": 16000,
   "since": 1730419200
  },
  "ecommerce": {
-  "cursor": 1786694685,
-  "done": false,
-  "kept": 151,
-  "scanned": 192800,
+  "cursor": 1795633108,
+  "done": true,
+  "kept": 166,
+  "scanned": 215104,
   "since": 1730419200
  },
  "etsy": {
-  "cursor": 1764707713,
+  "cursor": 1775286248,
   "done": false,
-  "kept": 70,
-  "scanned": 100600,
+  "kept": 102,
+  "scanned": 133300,
   "since": 1730419200
  },
  "freelance": {
@@ -42,10 +49,10 @@
   "since": 1730419200
  },
  "humanresources": {
-  "cursor": 1785890185,
-  "done": false,
-  "kept": 142,
-  "scanned": 197200,
+  "cursor": 1795633108,
+  "done": true,
+  "kept": 157,
+  "scanned": 221213,
   "since": 1730419200
  },
  "lawfirm": {
@@ -56,17 +63,24 @@
   "since": 1730419200
  },
  "marketing": {
-  "cursor": 1778797215,
-  "done": false,
-  "kept": 93,
-  "scanned": 184000,
+  "cursor": 1795633108,
+  "done": true,
+  "kept": 104,
+  "scanned": 211204,
   "since": 1730419200
  },
  "msp": {
-  "cursor": 1752006911,
+  "cursor": 1759665333,
   "done": false,
-  "kept": 96,
-  "scanned": 117200,
+  "kept": 137,
+  "scanned": 157400,
+  "since": 1730419200
+ },
+ "photography": {
+  "cursor": 1732024521,
+  "done": false,
+  "kept": 8,
+  "scanned": 17600,
   "since": 1730419200
  },
  "projectmanagement": {
@@ -91,17 +105,17 @@
   "since": 1730419200
  },
  "saas": {
-  "cursor": 1738300588,
+  "cursor": 1741079514,
   "done": false,
-  "kept": 113,
-  "scanned": 104100,
+  "kept": 156,
+  "scanned": 141900,
   "since": 1730419200
  },
  "shopify": {
-  "cursor": 1761927377,
+  "cursor": 1771291881,
   "done": false,
-  "kept": 87,
-  "scanned": 122800,
+  "kept": 116,
+  "scanned": 162400,
   "since": 1730419200
  },
  "somebodymakethis": {
@@ -109,6 +123,13 @@
   "done": true,
   "kept": 42,
   "scanned": 16079,
+  "since": 1730419200
+ },
+ "startups": {
+  "cursor": 1732727100,
+  "done": false,
+  "kept": 20,
+  "scanned": 17100,
   "since": 1730419200
  }
 }
