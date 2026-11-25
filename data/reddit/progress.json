@@ -14,17 +14,24 @@
   "since": 1730419200
  },
  "contractor": {
-  "cursor": 1791139332,
-  "done": false,
-  "kept": 138,
-  "scanned": 204800,
+  "cursor": 1795633108,
+  "done": true,
+  "kept": 143,
+  "scanned": 213572,
   "since": 1730419200
  },
  "dentistry": {
-  "cursor": 1733354649,
+  "cursor": 1742097805,
   "done": false,
-  "kept": 2,
-  "scanned": 16000,
+  "kept": 27,
+  "scanned": 74100,
+  "since": 1730419200
+ },
+ "devops": {
+  "cursor": 1743972780,
+  "done": false,
+  "kept": 29,
+  "scanned": 50000,
   "since": 1730419200
  },
  "ecommerce": {
@@ -35,10 +42,10 @@
   "since": 1730419200
  },
  "etsy": {
-  "cursor": 1775286248,
+  "cursor": 1791634485,
   "done": false,
-  "kept": 102,
-  "scanned": 133300,
+  "kept": 137,
+  "scanned": 177100,
   "since": 1730419200
  },
  "freelance": {
@@ -70,17 +77,17 @@
   "since": 1730419200
  },
  "msp": {
-  "cursor": 1759665333,
+  "cursor": 1769108258,
   "done": false,
-  "kept": 137,
-  "scanned": 157400,
+  "kept": 194,
+  "scanned": 203800,
   "since": 1730419200
  },
  "photography": {
-  "cursor": 1732024521,
+  "cursor": 1737428643,
   "done": false,
-  "kept": 8,
-  "scanned": 17600,
+  "kept": 38,
+  "scanned": 74000,
   "since": 1730419200
  },
  "projectmanagement": {
@@ -105,17 +112,17 @@
   "since": 1730419200
  },
  "saas": {
-  "cursor": 1741079514,
+  "cursor": 1744884159,
   "done": false,
-  "kept": 156,
-  "scanned": 141900,
+  "kept": 207,
+  "scanned": 192900,
   "since": 1730419200
  },
  "shopify": {
-  "cursor": 1771291881,
+  "cursor": 1784222961,
   "done": false,
-  "kept": 116,
-  "scanned": 162400,
+  "kept": 158,
+  "scanned": 217000,
   "since": 1730419200
  },
  "somebodymakethis": {
@@ -126,10 +133,10 @@
   "since": 1730419200
  },
  "startups": {
-  "cursor": 1732727100,
+  "cursor": 1740117267,
   "done": false,
-  "kept": 20,
-  "scanned": 17100,
+  "kept": 87,
+  "scanned": 74400,
   "since": 1730419200
  }
 }
