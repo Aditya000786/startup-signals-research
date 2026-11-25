@@ -1,9 +1,9 @@
 {
  "accounting": {
-  "cursor": 1738845205,
+  "cursor": 1740329819,
   "done": false,
-  "kept": 53,
-  "scanned": 181100,
+  "kept": 67,
+  "scanned": 223600,
   "since": 1730419200
  },
  "appideas": {
@@ -21,10 +21,10 @@
   "since": 1730419200
  },
  "construction": {
-  "cursor": 1742772710,
+  "cursor": 1744769912,
   "done": false,
-  "kept": 71,
-  "scanned": 227100,
+  "kept": 81,
+  "scanned": 266000,
   "since": 1730419200
  },
  "contractor": {
@@ -35,10 +35,10 @@
   "since": 1730419200
  },
  "dentistry": {
-  "cursor": 1788305172,
-  "done": false,
-  "kept": 133,
-  "scanned": 335400,
+  "cursor": 1795640320,
+  "done": true,
+  "kept": 141,
+  "scanned": 363898,
   "since": 1730419200
  },
  "devops": {
@@ -56,10 +56,10 @@
   "since": 1730419200
  },
  "entrepreneur": {
-  "cursor": 1743081552,
+  "cursor": 1746070512,
   "done": false,
-  "kept": 157,
-  "scanned": 244200,
+  "kept": 192,
+  "scanned": 301500,
   "since": 1730419200
  },
  "etsy": {
@@ -105,10 +105,10 @@
   "since": 1730419200
  },
  "photography": {
-  "cursor": 1761862500,
+  "cursor": 1768416494,
   "done": false,
-  "kept": 151,
-  "scanned": 327200,
+  "kept": 176,
+  "scanned": 383800,
   "since": 1730419200
  },
  "projectmanagement": {
@@ -125,6 +125,13 @@
   "scanned": 110228,
   "since": 1730419200
  },
+ "realtors": {
+  "cursor": 1730567110,
+  "done": false,
+  "kept": 1,
+  "scanned": 800,
+  "since": 1730419200
+ },
  "restaurateur": {
   "cursor": 1795459938,
   "done": true,
@@ -133,10 +140,10 @@
   "since": 1730419200
  },
  "saas": {
-  "cursor": 1758781840,
+  "cursor": 1761619987,
   "done": false,
-  "kept": 639,
-  "scanned": 462300,
+  "kept": 761,
+  "scanned": 513200,
   "since": 1730419200
  },
  "shopify": {
@@ -147,10 +154,10 @@
   "since": 1730419200
  },
  "smallbusiness": {
-  "cursor": 1733109383,
+  "cursor": 1735581904,
   "done": false,
-  "kept": 28,
-  "scanned": 52000,
+  "kept": 61,
+  "scanned": 104000,
   "since": 1730419200
  },
  "somebodymakethis": {
@@ -161,10 +168,17 @@
   "since": 1730419200
  },
  "startups": {
-  "cursor": 1783093713,
+  "cursor": 1795640320,
+  "done": true,
+  "kept": 436,
+  "scanned": 373079,
+  "since": 1730419200
+ },
+ "sysadmin": {
+  "cursor": 1731173747,
   "done": false,
-  "kept": 390,
-  "scanned": 327200,
+  "kept": 11,
+  "scanned": 21400,
   "since": 1730419200
  }
 }
