@@ -1,9 +1,9 @@
 {
  "accounting": {
-  "cursor": 1780337334,
+  "cursor": 1782864947,
   "done": false,
-  "kept": 437,
-  "scanned": 1062100,
+  "kept": 457,
+  "scanned": 1110900,
   "since": 1730419200
  },
  "appideas": {
@@ -105,10 +105,10 @@
   "since": 1730419200
  },
  "nursing": {
-  "cursor": 1748326735,
+  "cursor": 1750013721,
   "done": false,
-  "kept": 251,
-  "scanned": 725600,
+  "kept": 277,
+  "scanned": 788200,
   "since": 1730419200
  },
  "photography": {
@@ -161,10 +161,10 @@
   "since": 1730419200
  },
  "smallbusiness": {
-  "cursor": 1775359969,
+  "cursor": 1776966423,
   "done": false,
-  "kept": 785,
-  "scanned": 952400,
+  "kept": 828,
+  "scanned": 995900,
   "since": 1730419200
  },
  "somebodymakethis": {
@@ -182,17 +182,17 @@
   "since": 1730419200
  },
  "sysadmin": {
-  "cursor": 1761748914,
+  "cursor": 1763569592,
   "done": false,
-  "kept": 607,
-  "scanned": 879400,
+  "kept": 636,
+  "scanned": 931400,
   "since": 1730419200
  },
  "teachers": {
-  "cursor": 1741769299,
+  "cursor": 1743132281,
   "done": false,
-  "kept": 142,
-  "scanned": 498500,
+  "kept": 161,
+  "scanned": 550600,
   "since": 1730419200
  }
 }
