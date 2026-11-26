@@ -1,0 +1,97 @@
+rd_n8fvmvq	Automated AP coding is ~80% accurate, causing many reclass entries	AP teams	implied	4	finance & money
+rd_n84305d	Juggling quotes and invoices across clients makes it hard to track who paid or signed	freelancers	implied	3	finance & money
+rd_n7nbr6g	NIS2 compliance is a nightmare most small SaaS underestimate	small EU SaaS	implied	4	legal & government
+rd_n7lcscc	ServiceNow doesn't support markdown formatting	sysadmins	implied	2	devops & infra
+rd_n7kje0l	Switching email campaign providers is painful	marketers	none	2	communication & social
+rd_n7gw2ly	Unified SaaS platforms like HubSpot fail when teams don't use them properly	SaaS teams	implied	3	SMB & back-office
+rd_n7d7sl7	Zipped photo deliveries are a nightmare on phones	photography clients	implied	2	media & content
+rd_n7a3yq3	Constant intercompany wires between entities create endless loops to reconcile	accountants	none	3	finance & money
+rd_n71knz7	Supporting an app across 10 different IdPs needs custom documentation for each	SaaS developers	implied	3	security & privacy
+rd_n6wi53w	AI vendors oversell and small businesses face unexpected post-implementation costs	small businesses	implied	3	AI & ML tooling
+rd_n6piwpf	Complex stateful Kubernetes is a nightmare	DevOps engineers	none	3	devops & infra
+rd_n62u5tu	Working with remote offshore devs is a nightmare	founders	none	3	hiring & careers
+rd_n5w5n3b	Hospital food service is a nightmare	food service workers	none	2	hiring & careers
+rd_n5thf7l	Handmade sellers attract other crafters instead of buyers	handmade sellers	none	3	media & content
+rd_n5tbm1e	Make lacks basic array/string functions and escaping quotes is a nightmare	automation builders	implied	3	productivity & work
+rd_n5s4sr6	Supporting desktop printers is a nightmare for IT	sysadmins	none	3	hardware & IoT
+rd_n5erq52	The logo and branding design sector is a nightmare for designers	graphic designers	none	3	media & content
+rd_n5b5mfp	Small business inventory tools must integrate with QuickBooks to avoid manual syncing	small businesses	implied	4	SMB & back-office
+rd_n52jad4	Vendor German-speaking support is a nightmare and ignores email	sysadmins	none	2	devops & infra
+rd_n50tsup	Pushing apps manually to mixed Android/iOS fleets is a nightmare	sysadmins	implied	3	devops & infra
+rd_n4wj1zi	Logging and monitoring tools are overly complex and cause alert fatigue	developers	implied	3	devops & infra
+rd_n4t3d74	Google IAM is a nightmare compared with Azure's	sysadmins	none	3	security & privacy
+rd_n4c2bsh	Tethering camera files to some devices is limited by software and USB 2.0	photographers	none	1	hardware & IoT
+rd_n48vq6n	Teaching high school English to wide ability ranges is a nightmare	teachers	none	3	education & learning
+rd_n44sfe5	Colleagues who don't enjoy IT push back on any automation	sysadmins	none	2	devops & infra
+rd_n3ywuqo	Pay-as-you-go cloud bills shock overnight	sysadmins	implied	4	devops & infra
+rd_n3plhgf	Supporting personal devices on VPN, file shares and AD is a nightmare	sysadmins	none	3	security & privacy
+rd_n3nzquw	Chat-based support sets infinite-availability expectations with scheduled staffing	MSPs	none	3	devops & infra
+rd_n3hdcwp	Hiring accountants is hard enough that owners outsource	business owners	none	3	hiring & careers
+rd_n3b429b	Deploying agents built on many different AI frameworks is a nightmare	AI developers	implied	3	AI & ML tooling
+rd_n2wypkl	US healthcare structure gives doctors under 12 minutes per patient	healthcare workers	none	3	health & fitness
+rd_n2w15zj	Daycare in Ontario is a nightmare to get into	Ontario parents	none	4	consumer & home
+rd_n2vlkb0	Late homework acceptance until quarter end is a nightmare for teachers	teachers	none	2	education & learning
+rd_n2lrvny	Ecommerce brands at 2-3x ROAS need financing for inventory	ecommerce brands	none	3	finance & money
+rd_n2fudnw	RingCentral's TCR texting registration took 6 weeks	MSPs	none	3	communication & social
+rd_n2f3le5	RealPage crashes and its billing department is a nightmare	property accountants	none	3	finance & money
+rd_n2bapnc	Long commutes are unpaid and cross-city traffic is a nightmare	teachers	none	2	travel & local
+rd_n21fblc	Anterior esthetic grafting is a nightmare for GPs	dentists	none	2	health & fitness
+rd_n1q62bm	Getting childcare in Australia is a nightmare	Australian parents	none	4	consumer & home
+rd_n0ub662	Cardholders don't submit receipts at month end	controllers	implied	3	finance & money
+rd_n0svcd9	YouTube lead tracking is a nightmare without UTM setup	marketers	implied	3	data & analytics
+rd_n097hx6	Municipal construction is hard because of managing many subs	contractors	none	3	SMB & back-office
+rd_n06yr9e	Google Alerts miss context in social listening	marketers	implied	2	data & analytics
+rd_n0527nh	Driving tall trucks through low-clearance tunnels is stressful	truck drivers	none	1	travel & local
+rd_n04e4aw	Offshore teams ignore written guidelines and ask the same questions for months	accounting teams	none	3	hiring & careers
+rd_mzy2axr	Fully remote banks like Novo have no human to talk to when things go wrong	small businesses	implied	4	finance & money
+rd_mzv17md	Marketers juggle campaigns, client feedback and assets with no single source of truth	marketers	implied	3	media & content
+rd_mzl3ao5	Fortinet endpoint agents break Windows updates and performance	sysadmins	none	3	security & privacy
+rd_mzk63bl	Systems implementation at medium-sized companies is a nightmare	controllers	none	3	finance & money
+rd_mz5nk7j	Getting into teaching is a nightmare even for experienced teachers	teaching candidates	none	3	hiring & careers
+rd_myy187m	Tracing what installs runtime dependencies on user devices is a nightmare	sysadmins	none	3	devops & infra
+rd_mynntrs	Legacy DOS apps printing to LPT1 are a nightmare	sysadmins	none	2	devops & infra
+rd_myl2ux8	Leaving incomplete Invisalign cases is a nightmare for dentists and practices	dentists	none	2	health & fitness
+rd_myd0lg5	New practice owners struggle collecting while patient base turns over	dentists	none	3	health & fitness
+rd_my9sbi2	Short people struggle to find office chairs where feet reach the floor	office workers	implied	1	consumer & home
+rd_my7mahi	VA community care is underfunded and staffing is a nightmare	VA staff	none	3	health & fitness
+rd_my3dgoc	Researching leads takes days and multiple tools	founders	implied	4	SMB & back-office
+rd_mxy3t6c	Running Exchange email yourself is always a nightmare	sysadmins	none	3	communication & social
+rd_mxrqooc	Macs are a nightmare for Excel-heavy accountants	accountants	none	3	productivity & work
+rd_mxikjkb	Construction teams lose track of what was agreed to when	contractors	implied	4	SMB & back-office
+rd_mwu83o8	Difficult extractions come in streaks	dentists	none	1	health & fitness
+rd_mwrcb5p	Finding good employees who work with urgency is hard	trades businesses	none	4	hiring & careers
+rd_mwbsxel	Customer acquisition is a nightmare for SaaS	SaaS founders	none	3	SMB & back-office
+rd_mw2rpv0	Hospice acquisitions drive out RNs and social workers	hospice staff	none	3	health & fitness
+rd_mvgr8gc	Med-surg is a nightmare for some nurses	nurses	none	2	health & fitness
+rd_muksh75	SPED busing crunches teacher lunch breaks	teachers	none	1	education & learning
+rd_mtsdjmo	Switching from hustle to strategic operations is a nightmare	founders	none	2	SMB & back-office
+rd_mtpcya7	Coffee shops are labor-intensive and can't be run as a side hustle	aspiring cafe owners	none	2	commerce & marketplaces
+rd_mtkjr0p	Multi-platform ecommerce bookkeeping is a shifting puzzle	ecommerce owners	implied	4	finance & money
+rd_mspvbsz	Parking is a nightmare for construction workers	construction workers	none	2	travel & local
+rd_msnlszw	Workday Adaptive Planning implementations are always a mess	FP&A teams	implied	3	finance & money
+rd_msmx9xc	Mixed Google and Microsoft usage is a nightmare without a top-down policy	IT teams	none	3	productivity & work
+rd_ms1yaip	Med-surg nurses have too many patients and no help	nurses	none	4	health & fitness
+rd_mrqqway	Businesses needing outside labor face constant turnover and bad work ethic	small business owners	none	4	hiring & careers
+rd_mrl6swb	Some countries require data localization that cloud providers can't meet	DevOps teams	none	3	legal & government
+rd_mrh1z5e	School pickup lines are a nightmare	parents	none	2	education & learning
+rd_mrc24it	Untrained LPNs are left to handle trach patients	nurses	none	3	health & fitness
+rd_mr67rzw	Getting Pokémon distribution rights is a nightmare	hobby shop owners	none	3	commerce & marketplaces
+rd_mr0qo1m	Some cameras' autofocus is a nightmare in poor light	photographers	none	2	hardware & IoT
+rd_mqvh5pd	Choosing an ERP is a nightmare of options without a champion	small businesses	implied	3	SMB & back-office
+rd_mqrzlg8	Normalizing Zelle, Venmo and inconsistent merchant names is a nightmare	fintech developers	implied	3	finance & money
+rd_mqmyw1j	Practice books kept by office managers have a nightmare chart of accounts	accountants	none	3	finance & money
+rd_mqgm7jo	Job searching is a nightmare in some countries	sysadmins	none	3	hiring & careers
+rd_mqefxkm	Auditing which secrets departing employees had access to is a nightmare	security teams	implied	4	security & privacy
+rd_mqathko	Compiling employee mileage is an administrative nightmare	small businesses	implied	3	SMB & back-office
+rd_mpxteyq	Some legacy accounting systems have terrible security, WAN performance and upgrades	sysadmins	none	3	finance & money
+rd_mps6ono	Block scheduling is a nightmare for teachers	teachers	none	2	education & learning
+rd_mpqlwn5	Authoring Helm charts is a nightmare and they don't compose	DevOps engineers	none	3	devops & infra
+rd_mpnmyfx	Contact center software implementation is a nightmare and reporting lacks custom attributes	support teams	implied	3	SMB & back-office
+rd_mos77eu	Mismatched UPN and primary SMTP is a nightmare	sysadmins	none	2	devops & infra
+rd_morzb9z	Rural home prices have tripled for run-down houses	home buyers	none	3	consumer & home
+rd_monegys	Accountants inherit years of backlogged paperwork	accountants	none	3	finance & money
+rd_mog7vsb	Website builders own your site and switching out is a nightmare	small businesses	none	3	developer tools
+rd_mo8inka	Listing fragmentation would force searching many broker sites	home buyers	none	3	consumer & home
+rd_mo3qz4y	SAP prices out smaller enterprises and implementation is a nightmare	SMEs	none	3	SMB & back-office
+rd_mnhr0bq	Creating SAML apps is a nightmare with remakes and long propagation waits	sysadmins	none	3	security & privacy
+rd_mnbjrd1	Overcrowded classrooms are a nightmare	teachers	none	3	education & learning

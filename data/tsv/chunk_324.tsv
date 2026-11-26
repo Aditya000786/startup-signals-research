@@ -1,0 +1,68 @@
+rd_p3gaqrf	Managing fully remote teams is a nightmare and RTO is used as soft layoffs	managers	none	3	hiring & careers
+rd_oyzao7n	Provisioning storage LUNs without vCenter integration is a manual multi-step chore	sysadmins	implied	3	devops & infra
+rd_owcikw7	Tradespeople lose evenings writing quotes and wait weeks to be paid	tradespeople	implied	4	SMB & back-office
+rd_or1csnn	Post-VMware provisioning is split across Terraform, Ansible and old SSH scripts	sysadmins	implied	4	devops & infra
+rd_onpv97s	Tracking true profitability per client or product is a nightmare	agency owners	implied	4	finance & money
+rd_onmb74q	Unexpected DNS record changes are a nightmare to catch manually	sysadmins	implied	3	devops & infra
+rd_omtk1my	Users won't fill registration and checkout forms and CRO tests take time	SaaS teams	implied	3	SMB & back-office
+rd_oj6ztib	Sorting out business disputes without upfront agreements is expensive	small business owners	none	3	legal & government
+rd_ogg1jpv	Finding insurance for UGC platforms with risky content is a nightmare	UGC platform founders	implied	4	legal & government
+rd_of79yf5	Many parts of Microsoft's stack are broken even with expertise	sysadmins	none	3	devops & infra
+rd_od4074c	White-label deals give up customer relationship control and compress margins	SaaS founders	none	3	SMB & back-office
+rd_o9ufdym	IT can't audit shadow AI usage it can't see	sysadmins	implied	4	security & privacy
+rd_o9nk0c7	Taking manual notes during customer interviews misses nuance and notetakers are intrusive	founders	implied	3	productivity & work
+rd_o8s55ds	Meeting AI bots attach to calls without permission	sysadmins	implied	3	security & privacy
+rd_o8n6jjw	Manual spreadsheets for expenses break past ten transactions a month	small business owners	implied	4	finance & money
+rd_o873ns3	Scaling from 5 to 50 orders a day means hours of where-is-my-order support	ecommerce owners	implied	4	commerce & marketplaces
+rd_o6x6h7k	Scanned PDFs with different vendor layouts break standard extraction tools	accountants	implied	4	finance & money
+rd_o5wlokr	SMB owners shut down cold-call customer discovery	founders	none	2	SMB & back-office
+rd_o5qwd3r	AI agent creativity produces inconsistent results in production ops	MSPs	implied	3	AI & ML tooling
+rd_o3075kk	A Shopify update removed the cart count during peak season	Shopify merchants	none	3	commerce & marketplaces
+rd_o2ouils	Finding good outbound help is a nightmare	founders	none	3	SMB & back-office
+rd_o0vvqkh	Removing US dependencies from the application stack is nearly impossible	European IT teams	none	3	devops & infra
+rd_nvq2mqn	Contractor site orientations take 4 hours for a 5-minute job	field technicians	none	3	SMB & back-office
+rd_nvpt6fq	Refactoring legacy Java apps for distroless images is a nightmare	DevOps engineers	none	3	devops & infra
+rd_nvol3gn	Shopify stores get 2,000 fake signups a day polluting email audiences	Shopify merchants	implied	4	commerce & marketplaces
+rd_nv3jkgb	Moodle and LMS calendar feeds have broken timezones and RRULEs	students and staff	implied	3	education & learning
+rd_nux8nhl	Business transaction delays with inconsistent support cost money	small businesses	none	3	finance & money
+rd_nudvof4	Raw OCR on crumpled receipts drops below 60% accuracy	developers	none	3	AI & ML tooling
+rd_nt2kxkp	Moving cheap goods through some countries' ports and roads is a nightmare	manufacturers	none	3	commerce & marketplaces
+rd_nq14qw0	Hybrid onboarding automation waits 10-20 minutes on sync delays	sysadmins	implied	3	devops & infra
+rd_nor8a9t	Accountants lose hours reformatting scanned statements and want a universal import tool	accountants	implied	4	finance & money
+rd_nlmxy1n	Choosing a development partner requires vetting how they work, not just portfolio	founders	none	2	hiring & careers
+rd_ng7z068	Getting locked out with slow Microsoft vendor support piles up tickets	sysadmins	none	3	devops & infra
+rd_n7n6koq	Set-Acl is a nightmare to use in automation	sysadmins	none	2	devops & infra
+rd_n7337ae	Running a company's AD on a desktop is a nightmare	small businesses	none	2	devops & infra
+rd_n6p9qdy	Kubernetes networking is a pile of plugins	DevOps engineers	none	3	devops & infra
+rd_n3zlvo5	Backup providers losing customers' files is a nightmare	small businesses	none	3	devops & infra
+rd_n0332yj	Poor password policies are a nightmare waiting to happen	sysadmins	none	2	security & privacy
+rd_mpy3ac3	Small delivery businesses need simple mileage tracking for drivers' own vehicles	small delivery businesses	implied	2	SMB & back-office
+rd_mn3emli	Developers need a reliable way to test APIs with payloads before wiring them up	developers	implied	2	developer tools
+rd_maiuru8	Taking screenshots on some devices is a nightmare	IT staff	none	1	hardware & IoT
+rd_m81ipuv	Employee monitoring tools store sensitive data poorly	sysadmins	none	3	security & privacy
+rd_pbfs12m	ArgoCD and Flux are a nightmare to debug	DevOps engineers	none	3	devops & infra
+rd_p911bcp	DDP international shipping is a nightmare	Shopify merchants	none	3	commerce & marketplaces
+rd_ozkj60m	International shipping is a nightmare for Etsy sellers	Etsy sellers	none	3	commerce & marketplaces
+rd_omgyimz	Non-technical buyers use 2009-era software where mistakes cost exact dollars	vertical SaaS buyers	none	3	SMB & back-office
+rd_olz0lfv	Getting teams to put context in tickets or Slack never happens	DevOps teams	none	2	productivity & work
+rd_od2puh8	Founders burn legal budgets before knowing anyone will pay	founders	none	2	legal & government
+rd_oah9aj0	UniFi OS Server can't restore backups across versions	network admins	none	3	devops & infra
+rd_nlo6mf9	Hedge fund K-1s dump items into other income boxes accountants must reclassify	tax preparers	none	3	finance & money
+rd_nk9745x	IPv6 is a nightmare to troubleshoot for network-dependent product support	support engineers	none	3	devops & infra
+rd_n82h5ux	Contract language is a nightmare for most people	consumers	implied	3	legal & government
+rd_mh3yuhr	USPS is a nightmare for small businesses	small business owners	none	2	commerce & marketplaces
+rd_oqtqc0f	SMB clients cling to on-prem servers even when it's a nightmare	MSPs	none	2	devops & infra
+rd_nkfj2os	Smartcards are costly and impractical for remote work	sysadmins	none	2	security & privacy
+rd_n7s8y5d	Bad contact data is a nightmare for anyone building sales systems	sales teams	implied	3	SMB & back-office
+rd_n24b27d	Chat apps cluttered with integrations hide who's messaging and make search a nightmare	office workers	none	3	communication & social
+rd_ocu2hsg	Restaurants fear losing records without digitized transactions	restaurant owners	implied	3	SMB & back-office
+rd_nfb5ykj	Hardware goes walkabout without asset tracking	sysadmins	implied	3	devops & infra
+rd_otkxi65	Remote work brings constant Teams catch-up interruptions	accountants	none	2	communication & social
+rd_o267qq5	Manually reviewing 40+ page bank statements is a nightmare	accountants	implied	4	finance & money
+rd_nvd1z2f	Etsy sellers mess up orders and buyers get no refund	Etsy buyers	none	3	commerce & marketplaces
+rd_n3o7lx8	Phone support calls are the worst for MSPs and transcripts are junk to log	MSPs	implied	3	devops & infra
+rd_oc5vleu	Relying on Google Sign-In alone can lose 500 users overnight	app developers	none	4	developer tools
+rd_nndhr7h	Getting clean data out of PDFs for lenders is painful	lenders	implied	4	finance & money
+rd_o74n75l	Deploying open AI agents org-wide has serious security flaws	sysadmins	none	4	security & privacy
+rd_nhui5rb	Managing 10 freelancers means miscommunication and quality gaps	business owners	implied	3	hiring & careers
+rd_odncl1g	Spreadsheet-based support reporting doesn't scale	MSPs	none	2	devops & infra
