@@ -1,0 +1,52 @@
+rd_n8sd3fm	Small sellers update inventory manually every time new stock arrives	small sellers	implied	3	commerce & marketplaces
+rd_m4foh9r	Tradespeople waste hours looking for misplaced tools	tradespeople	implied	2	hardware & IoT
+rd_ngr3p7j	Patients want medical records from different portals consolidated in one place	patients and caregivers	implied	4	health & fitness
+rd_na36bq1	Teams discover outages without monitoring or log shipping in place	IT teams	implied	3	devops & infra
+rd_n7hjh9s	Service businesses need onboarding, project profitability and invoicing automated	service businesses	implied	3	SMB & back-office
+rd_n4nkgf5	Forms and calculators are a pain to build manually	marketers	implied	2	productivity & work
+rd_19rh9vm4cqxk0	No tool cleanly handles invoices from 30 vendors with different layouts	small businesses	implied	4	finance & money
+rd_19srd5b8e231e	B2B SaaS teams waste hours copying survey results into spreadsheets	SaaS teams	implied	2	data & analytics
+rd_n921r5o	Users can't test a product without free credits	SaaS evaluators	none	1	productivity & work
+rd_n1sheqw	Engineering managers dig through email and Slack for PR review links	engineering managers	implied	3	developer tools
+rd_n4bflzy	Bitnami ending free Helm charts and images forces painful migrations	DevOps teams	implied	3	devops & infra
+rd_p1zojiw	School photographers must ID opted-out kids when reviewing images	school photographers	none	2	media & content
+rd_obx7o9b	People want follow-up reminders that actually reduce mental load	professionals	explicit	3	productivity & work
+rd_nd4nuql	Non-technical founders spend too long building their website with AI tools	non-technical founders	implied	2	media & content
+rd_mj1eb28	Patients want a low-priority call light separate from urgent requests	hospital patients	implied	3	health & fitness
+rd_pegpijg	Employees working for two companies make passwords, logins and files a nightmare	MSPs	none	3	devops & infra
+rd_o9opt9b	Extended month-end close delays all FP&A deliverables	FP&A teams	implied	3	finance & money
+rd_pbqgo08	Founders dig through five dashboards for a quick answer and re-explain business context to AI	founders	implied	4	data & analytics
+rd_o5xgihv	Local SMB tool builders should start with manual outreach	SMB software founders	none	2	SMB & back-office
+rd_nc6anaw	Long multilingual multi-speaker noisy recordings are hard to transcribe accurately	researchers and media teams	explicit	4	AI & ML tooling
+rd_mhm81ke	Photographers switching from Canon to Sony want matching color science	photographers	implied	2	media & content
+rd_n21rzrc	Outdated user-side VSCode extensions can't be force-updated across fleets	sysadmins	implied	3	devops & infra
+rd_nws8k71	Microsoft bundling squeezes e-signature vendors via Entra lock-in	IT buyers	none	2	productivity & work
+rd_p3pgukh	Designers who give free concept work struggle to convert clients	freelance designers	none	2	SMB & back-office
+rd_pashyrw	Agencies want to know local businesses' biggest online-presence pain points	agencies	none	1	media & content
+rd_nj9ch00	VoIP providers lack automation to assign directory contacts to handset line keys	MSPs	implied	2	communication & social
+rd_o4q6opf	Teams use AI agent swarms for multi-step workflows	founders	none	2	AI & ML tooling
+rd_pgh7rd5	Senior media buyers waste billable hours on UTM tagging and pixel QA	agencies	implied	3	media & content
+rd_mf40v0m	Tradespeople want work lights that stay on with a timer	tradespeople	implied	2	hardware & IoT
+rd_o6jhbhd	Doctors wait minutes to open old records in EMR via Citrix	hospital physicians	none	3	health & fitness
+rd_nfs64ji	Accessibility overlay widgets make sites less accessible for disabled users	people with disabilities	none	4	legal & government
+rd_oarcxul	Founders want scattered signals (tickets, calls, churn notes, events) turned into a short daily action list	SaaS founders	implied	4	productivity & work
+rd_n6viy8l	HOA documents aren't available up front to answer buyer questions	home buyers	implied	3	travel & local
+rd_pcyu8nk	Calorie apps require hours of manual input	dieters	none	2	health & fitness
+rd_ojp01w4	Small product makers face hundreds in sample and mold tooling costs	product startups	none	2	commerce & marketplaces
+rd_m8msi0v	Nurses face petty or inappropriate incident reports with no consequences	nurses	none	3	health & fitness
+rd_mszpyny	Unrepresented home buyers need cheap offer-writing help	home buyers	implied	3	travel & local
+rd_pbzjh15	Bot traffic inflates Shopify sessions and skews conversion data	Shopify merchants	none	3	commerce & marketplaces
+rd_o83lxhe	Admins want more USB optical drive emulator options	sysadmins	implied	1	hardware & IoT
+rd_map5pcm	GCP costs spike randomly and are hard to explain	DevOps teams	implied	4	devops & infra
+rd_msam78a	Teachers skip sick days because sub plans are a pain to make	teachers	implied	4	education & learning
+rd_oa2wfh7	Email users want one-click bulk unsubscribe and cleanup without losing important messages	email users	explicit	3	productivity & work
+rd_n2g2hua	Founders would pay for a daily feed of trending ideas	founders	explicit	2	data & analytics
+rd_paov3gk	Inventory sync between platforms breaks as orders jump	ecommerce founders	implied	4	commerce & marketplaces
+rd_o0e2q4m	Nurses with PTSD want peer support from other healthcare workers	nurses	implied	3	health & fitness
+rd_p7y3yuy	Etsy search can't filter out AI and dropshipped listings	Etsy buyers	implied	4	commerce & marketplaces
+rd_mqzl3gf	Adobe software is a pain to support	sysadmins	none	2	media & content
+rd_ox6meva	Employers won't pay for employees' CPA certifications	accountants	none	2	hiring & careers
+rd_nyfb672	Bar and DJ booking platforms need market validation	nightlife businesses	none	2	travel & local
+rd_myyjjf5	Most TPT math resources are low-quality worksheets	math teachers	implied	2	education & learning
+rd_p89e9g8	Lawyers waste hours on specific tasks but ignore AI automation pitches	lawyers	implied	3	legal & government
+rd_mypdsqa	Nurses carry emotional trauma alone	nurses	none	2	health & fitness

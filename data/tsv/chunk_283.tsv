@@ -1,0 +1,59 @@
+rd_lzu91z7	CS graduates from tier-3 colleges face very few campus placements	new graduates	none	3	hiring & careers
+rd_nm5lwao	Replacing a firewall without its tightly linked access points is a pain	MSPs	none	2	devops & infra
+rd_mz15sfu	Backing up petabytes needs offline seed appliances and data triage	enterprise IT	none	3	devops & infra
+rd_mukt4jw	Most network staff don't understand IPv6	network teams	none	2	devops & infra
+rd_okfwubn	Sales reps spend 80% of LinkedIn prospecting time clicking profiles to check relevance	B2B sales reps	implied	4	SMB & back-office
+rd_mv0kxe5	Windows updates break small business PCs and owners waste hours fixing them	small business owners	implied	3	devops & infra
+rd_n6y8pbj	Owners spend hours sorting invoice emails and entering details by hand	small business owners	implied	4	finance & money
+rd_pe5eu0s	Receipt collection and allocation tools don't connect to every card	small businesses	implied	3	finance & money
+rd_mrarxxd	Cofounders disagree on equity splits when formalizing the cap table	startup founders	none	3	legal & government
+rd_okhlhtm	Beauty brand marketplaces face chicken-and-egg problems	marketplace founders	none	2	commerce & marketplaces
+rd_ok7kr8u	Founders cut their tool stack to what they'd pay for if profitable	founders	none	2	productivity & work
+rd_ny9y2t5	Franchise buyers can't tell whether a valuation is reasonable	business buyers	implied	3	finance & money
+rd_n5zww5e	Vintage sellers struggle to import SKUs into new tools	vintage sellers	implied	2	commerce & marketplaces
+rd_o0i1wtd	Chargeback fraud is a nightmare; processors side with buyers without bulletproof evidence	small shops	implied	4	commerce & marketplaces
+rd_nlmovoq	Hreflang issues are a pain to debug for multilingual sites	international sites	implied	3	media & content
+rd_mr4j75r	Teams struggle to measure feature impact without drowning in tagging glue work	product engineering teams	implied	3	data & analytics
+rd_oi2g703	Mid-size companies track vendors in spreadsheets without procurement tools	growing companies	implied	2	SMB & back-office
+rd_mdnj44w	Low-skilled labor companies can't improve quality even paying 50% over market	labor companies	none	3	hiring & careers
+rd_ngc7qfz	Private equity is buying up CPA firms	small business clients	none	2	finance & money
+rd_nfum032	Founders want complaint mining turned into a scored pipeline of what to build	founders	implied	3	data & analytics
+rd_n0q7std	Extracting data from PDFs with scattered tables is spreadsheet hell	analysts	implied	4	data & analytics
+rd_p4h0ros	New realtors need practical post-licensing training on process and paperwork	new realtors	implied	3	education & learning
+rd_n7hnvpy	Albumin tubing becomes useless if not changed right away	nurses	none	2	health & fitness
+rd_nl0uwg8	Configuring a server on HPE's site is a pain without signing in	sysadmins	none	2	hardware & IoT
+rd_mertzk3	Apps sending healthcare notifications hit email daily send limits and migration is a pain	healthcare app teams	implied	3	communication & social
+rd_nx43bl3	Users want software that explains why Windows crashed or froze	Windows users	explicit	4	devops & infra
+rd_mhzfzly	Photographers juggle bookings, payments and file delivery across WhatsApp, Drive and WeTransfer	photographers	implied	3	media & content
+rd_moe4w9p	AWS SES integration from a BMS server failed even with vendor support	IT teams	none	2	devops & infra
+rd_n0m9ms9	Teams mine support chats by hand for customer language	SaaS marketers	none	2	media & content
+rd_oayzzrg	Sysadmins want a help-focused community without hostility	sysadmins	implied	2	communication & social
+rd_nu4h0j6	Founders get overwhelmed by contractors pitching AI automation	founders	implied	3	AI & ML tooling
+rd_nkluasv	Bookkeeping automation tools leave gaps needing manual checks and silent sync failures	SaaS founders	implied	3	finance & money
+rd_ng5ykx0	Small resellers were culled by Broadcom and VMware licensing is a pain	VMware resellers	none	3	devops & infra
+rd_lyxwedd	Early-stage founders are extremely budget constrained	founders	none	2	SMB & back-office
+rd_oeofj54	Founders find buyers ignore MVPs and buy-now buttons	founders	none	2	SMB & back-office
+rd_nwgwhyc	Skill-swap apps raise safety and credibility concerns and lack local density	consumers	implied	2	communication & social
+rd_nenilat	Teams want a tool to check AI-generated code for vulnerabilities and scalability	engineering teams	implied	4	developer tools
+rd_mzd25zb	High-ticket B2B tools need ROI math and usage-based billing	B2B SaaS founders	none	2	finance & money
+rd_ng4mz7a	Microsoft DLP needs auto-classification that few orgs manage to set up	IT security teams	none	3	security & privacy
+rd_mxiw5zk	Teams moving off KACE struggle to balance ease of use and flexibility in help desk tools	IT teams	implied	3	devops & infra
+rd_nc258bw	Switching close-management tools like BlackLine to FloQast is too painful to be worth it	accounting teams	none	2	finance & money
+rd_19s2uqiwszqyr	Firms pay for trendy AI but not the software that could have done it for years	accounting teams	none	2	AI & ML tooling
+rd_nubq4nz	Founders want an intent-keyword alert dashboard, not risky auto-DM bots	founders	explicit	3	media & content
+rd_mg2o8go	Companies with no phone line force customers through email and chatbots	consumers	none	3	communication & social
+rd_nnlpmox	Purview compliance search exports return different results than the search	sysadmins	none	3	security & privacy
+rd_mrzu7k7	Importers waste hours comparing landed costs across countries in spreadsheets	importers	implied	3	commerce & marketplaces
+rd_ngjkzze	Users want to filter out posts pitching AI products	Reddit users	explicit	2	communication & social
+rd_19s1ga601i0pu	Companies of 50 employees going through a merger need an HR compliance audit	growing companies	implied	3	SMB & back-office
+rd_mh4bas0	All-in-one automation platforms try to do too much and do it badly	small business owners	none	2	productivity & work
+rd_npcm1z5	Customers would pay up to €200/month for weekly home resets and deep cleans	households	explicit	3	consumer & home
+rd_me2ele4	Northern tradespeople need heated tool storage because vehicles freeze tools	tradespeople	implied	2	hardware & IoT
+rd_onxo8f2	GitHub workflow tokens and PATs are a nightmare to manage	DevOps teams	implied	3	devops & infra
+rd_meiyax6	Engineering firm founders hate business development and cold calls	engineering firms	none	3	SMB & back-office
+rd_ocxuf1c	Teams running their own AI agents need permissions for email, files and internal systems	IT security teams	implied	4	security & privacy
+rd_ocz5xvb	Founders would pay for consistent qualified demand from channels that don't need ad spend	SaaS founders	explicit	4	SMB & back-office
+rd_od80afx	Small companies hire out of spreadsheet hell	small companies	implied	2	hiring & careers
+rd_n5xa6do	Contractors get several solicitation calls a day and want to turn them off	contractors	explicit	3	communication & social
+rd_n6bc6xx	Shopify store owners complain social content creation takes too much time	Shopify merchants	implied	3	media & content
+rd_m5i71h7	New business owners underestimate cash flow and budgeting	new business owners	none	3	finance & money

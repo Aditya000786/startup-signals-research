@@ -1,0 +1,57 @@
+rd_lzltke0	QuickBooks lacks SaaS accrual revenue recognition integrated with HubSpot	SaaS accountants	implied	4	finance & money
+rd_mpvi1m0	Google Workspace admin requires constant per-user access grants and security verifications	IT admins	none	3	productivity & work
+rd_mjp12cb	Founders waste time finding backlink directories, half of which are dead or spammy	SaaS founders	implied	2	media & content
+rd_o7v5724	Getting customers to actually send testimonials is the real pain	SaaS founders	explicit	3	media & content
+rd_my4f07u	Families juggle WhatsApp groups and calendars for errands and events and still forget	families	explicit	3	consumer & home
+rd_ouow1t7	Interactive product demos break every time the UI changes and need manual re-recording	SaaS marketing teams	implied	4	media & content
+rd_nveg9w0	Front-loaded onboarding teaches UI, not intent; teams need in-workflow guidance	B2B SaaS teams	implied	3	productivity & work
+rd_mx26p2i	Freelancers want accounting SaaS built for freelancing	freelancers	implied	2	finance & money
+rd_ni9e0fq	Salespeople meet many unserious prospects and need easier qualification	salespeople	implied	3	SMB & back-office
+rd_lyoqlt3	Shoppers abandon sites that force account creation	online shoppers	implied	2	commerce & marketplaces
+rd_m1sy8nj	Installing SSL certificates on vCenter is a huge pain	sysadmins	none	2	security & privacy
+rd_lyes52g	Self-hosting tracing on ECS Fargate is painful with poor docs	DevOps teams	implied	3	devops & infra
+rd_ops7dnl	Departments use different versions of the same spreadsheet, so nobody knows the real one	finance and ops teams	implied	4	productivity & work
+rd_mwt6ww1	Data analysts want automated data cleanup that highlights every change it makes	data analysts	explicit	3	data & analytics
+rd_ngect0f	Executives and executive assistants lack trusted platforms to find each other	executives and EAs	implied	3	hiring & careers
+rd_n0xgvws	Schools can't control which tech students use to cheat	teachers	implied	3	education & learning
+rd_mu7qao3	Special ed teachers fight each year to schedule caseload students into the right classes	special education teachers	implied	3	education & learning
+rd_19rtz2cyba282	S/MIME is a huge pain to deploy	sysadmins	none	3	security & privacy
+rd_osrh1eb	Prospective retail tenants face $10-15k AC replacements on old buildings	retail founders	none	3	SMB & back-office
+rd_ophbq5y	Real estate agents chase unresponsive leads, follow up and coordinate site visits by hand	real estate agents	implied	4	SMB & back-office
+rd_o62t89z	Founders want dynamic OG image generation without wrangling headless browsers	founders	explicit	3	developer tools
+rd_p4w9p7g	Clinics using Jane struggle with QBO summary entries and clearing accounts per settlement path	clinic bookkeepers	implied	3	finance & money
+rd_nf49r7o	Laptop buyers can't compare displays side by side before buying	developers	implied	2	hardware & IoT
+rd_19t48wja2a204	Some clients only pay all invoices once a year	freelancers	none	2	finance & money
+rd_lvfn2l0	Teachers rarely take sick days because arranging work is a pain	teachers	none	3	education & learning
+rd_nnl8blp	AI analytics is mostly chat-with-your-data and isn't worth the switch	SaaS teams	none	2	data & analytics
+rd_p4nqppz	Teams waste hours copying vendor invoice and onboarding data from emails and PDFs into spreadsheets	ops teams	implied	3	finance & money
+rd_mjxvk90	Consumers want a hangover logging and prevention app	consumers	implied	1	health & fitness
+rd_mbljxk3	There's no good solution for an internal certificate problem; Azure PKI is untested	sysadmins	implied	2	security & privacy
+rd_ope0b4r	Split email delivery between student and staff domains is a nightmare	school IT	none	2	communication & social
+rd_pghemcf	Sysadmins log their workload hours to prove they need more help	sysadmins	none	2	devops & infra
+rd_oqjgn0z	People will pay for calmer workflows, not more productivity	app users	none	2	productivity & work
+rd_ontop49	Founders want pain points cross-checked across Reddit, G2 reviews and Indie Hackers with revenue data	founders	implied	3	data & analytics
+rd_o5jn628	Truck parts suppliers push customers to Zelle or ACH to avoid card fees	parts suppliers	none	2	finance & money
+rd_mutdf36	New business owners should pay for a one-hour CPA setup consultation	new business owners	explicit	2	finance & money
+rd_m9lfah1	Dental associates face hidden pay deductions in DSO contracts	dentists	none	3	health & fitness
+rd_nxwd6wx	Agents struggle with interior listing photo lighting	real estate agents	none	2	media & content
+rd_onn6wej	Accounting subreddit users are tired of pain-point questions and product plugs	accountants	none	1	communication & social
+rd_ms78mfw	Accountants prefer vertical mice for ergonomics	accountants	explicit	1	hardware & IoT
+rd_n8pa7sh	Small business advocacy groups actually back big business	small business owners	implied	2	legal & government
+rd_oy5z16w	Etsy buyers have to curate real artists by hand to avoid AI shops	Etsy buyers	implied	3	commerce & marketplaces
+rd_m567i41	Founders find community feedback a pain to collect, sort and use	founders	implied	3	productivity & work
+rd_oogpngg	Group homes need internal audit and resident cash handling processes to prevent theft	group home operators	implied	3	finance & money
+rd_on7son3	Doctors won't do interviews but will talk about paperwork and clunky EHRs	health tech founders	none	3	health & fitness
+rd_mr7xlp1	Users want a trustworthy tool that says when to post for maximum visibility	content creators	explicit	2	media & content
+rd_mfmh0nj	Reddit has no option to report scams	Reddit users	implied	2	communication & social
+rd_n5wwnwy	Teachers want classroom cameras for safety and protection against false accusations	teachers	implied	4	education & learning
+rd_oahzkyp	C-section mothers get little rest while caring for newborns	new mothers	implied	3	health & fitness
+rd_o3c6xb8	Teams want AI-visibility tools that start from real user questions and drive demos	SaaS marketers	implied	3	media & content
+rd_oyihdrd	Small business owners can't keep up with constantly changing tech and tool UIs	small business owners	implied	3	productivity & work
+rd_o9ad87a	New nurses want a book of practical tips that seem obvious only once pointed out	new nurses	implied	2	education & learning
+rd_oewmlp3	Retouching hair in photos is a nightmare	photographers	none	2	media & content
+rd_now8d8w	Action1 remote access lacks basics like clipboard sharing	MSPs	implied	2	devops & infra
+rd_oolk449	Tax preparers fudge balance sheets because clients won't pay for proper books	tax preparers	none	3	finance & money
+rd_olzifdp	Customers expect copy-paste migrations to SharePoint that make bad file structures worse	MSPs	none	3	productivity & work
+rd_oydhdlg	PST export's 50GB limit makes splitting giant mailboxes take hours	MSPs	implied	3	productivity & work
+rd_mqff43j	Customers could save with mobile mechanics who source cheap parts	car owners	none	2	consumer & home

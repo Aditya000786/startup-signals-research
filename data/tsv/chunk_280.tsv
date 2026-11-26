@@ -1,0 +1,59 @@
+rd_nowqnx6	Owners submit one-page floor plans that cities reject for commercial permits needing full construction documents	commercial property owners	none	3	legal & government
+rd_odtazi7	Autopilot's Enrollment Status Page is so unreliable admins disable it	sysadmins	none	3	devops & infra
+rd_oy2kq9q	Churn prediction needs product usage, billing and support data stitched together from separate systems	SaaS teams	implied	4	data & analytics
+rd_o1z8cfl	DevOps engineers waste hours jumping between fragmented information sources	DevOps teams	implied	3	devops & infra
+rd_nxcyd0y	Collecting from difficult payers needs dedicated attention small firms don't have	small businesses	implied	3	finance & money
+rd_mdh7gtv	Founders would pay someone to handle taxes and bookkeeping	founders	explicit	3	finance & money
+rd_mlpnd8r	Developers stitch cron jobs and Redis queues together for scheduled delayed actions	developers	implied	3	developer tools
+rd_o4f77an	One apparel design becomes 50 SKUs, a nightmare to manage	apparel sellers	none	3	commerce & marketplaces
+rd_o41hejp	First-time founders struggle with cash flow management	first-time founders	implied	3	finance & money
+rd_mx7fb4o	Home warranty companies deny claims as pre-existing without inspecting first	homeowners	implied	3	consumer & home
+rd_obkcjjh	Security reviews are manual and inconsistent across projects, especially threat modeling	software teams	implied	3	security & privacy
+rd_o7fogze	Teams managing ~100 AWS accounts need dynamic Ansible inventories	DevOps teams	implied	3	devops & infra
+rd_p8nh6q9	Users distrust idea-validation scores and want raw verbatim complaints across threads	founders	implied	3	data & analytics
+rd_ov84toi	Marketing teams want generation tools with brand locks (fonts, colors, logo safe area, tone)	marketing teams	implied	4	media & content
+rd_nu0ehac	Users waste hours hunting for a specific line in videos	researchers and creators	implied	2	media & content
+rd_nt3bx9x	QA doesn't scale with engineering headcount	engineering teams	implied	4	developer tools
+rd_mdaul3i	Prospect data vendors charge $1,500 per 1,000 prospects	B2B sales teams	implied	3	SMB & back-office
+rd_obiwhfo	Musicians track revenue across projects manually	musicians	implied	2	finance & money
+rd_o6qrk5u	Team members contact the same lead separately because no one tracks who talked to whom	small sales teams	implied	3	SMB & back-office
+rd_or7cr2c	Side-project builders can't track which services each project depends on and when trials end	indie builders	implied	2	developer tools
+rd_ntfr88z	Industries waste hours building reports, proposals and onboarding packets from scratch	professional services	implied	3	productivity & work
+rd_m9j071v	Photographers miss Picasa; no desktop photo manager matches its facial recognition and simplicity	photographers	explicit	3	media & content
+rd_od26dm5	Email deliverability fails from DKIM d= misalignment despite records looking correct	email senders	implied	3	communication & social
+rd_oayb1r1	Small contracting crews find dispatch and scheduling platforms built for big operations and pricey	small contractors	implied	3	SMB & back-office
+rd_o3weybb	Agencies drowning in Google Sheets need email-synced CRM	agencies	implied	3	SMB & back-office
+rd_o3ny2ug	TeamViewer enforces rigid cancellation notice, trapping MSPs	MSPs	none	3	devops & infra
+rd_peae7ho	Big-company prospects take demos but never find budget or move procurement	B2B founders	none	3	SMB & back-office
+rd_p6decxf	Payroll training conferences are mostly fluff and product pitches	HR and payroll staff	none	2	education & learning
+rd_ntfjjgp	Solo founders waste hours searching Reddit for posts about their product category	solo founders	implied	3	media & content
+rd_o2dlmdu	Small firms stuck in spreadsheet hell need a basic CRM	small businesses	none	2	SMB & back-office
+rd_ml1a84k	Monopoly bundle pricing leaves no alternative to Microsoft	sysadmins	none	3	productivity & work
+rd_m8z70w4	EHR screens are harsh on the eyes with no dark mode	nurses	implied	2	health & fitness
+rd_o7r2akq	Firewalls with central management and NGFW features have terrible interfaces	MSPs	implied	3	security & privacy
+rd_lxytux9	Moving existing applications to Kubernetes is a huge pain	DevOps teams	none	3	devops & infra
+rd_o5ztyaj	SaaS teams use Discord as a noisy shared inbox and lose track of issues	SaaS support teams	implied	3	communication & social
+rd_p2fpo5s	Setting up subscriptions is a nightmare; founders want one-click setup	SaaS founders	explicit	3	finance & money
+rd_nsxkyx6	Voice AI mishears Indian accents	Indian businesses	implied	4	AI & ML tooling
+rd_m0crxiq	Windows Server 2025 images aren't available in all Azure regions	cloud admins	none	2	devops & infra
+rd_mg5vdv0	SaaS vendors gate SSO behind enterprise plans	SMB IT teams	implied	4	security & privacy
+rd_o2mkf72	MDT driver management across hundreds of hardware models is a nightmare	sysadmins	none	3	devops & infra
+rd_o6kefa5	Etsy sellers struggle to untangle fees into actual income	Etsy sellers	implied	3	commerce & marketplaces
+rd_o4yqw4a	Six-figure ecommerce software does less than an intern's Google Sheet	ecommerce operators	none	3	commerce & marketplaces
+rd_19sdbzoz4i16t	Restaurant apps for waiters need POS integration that doesn't exist yet	restaurant tech founders	none	2	SMB & back-office
+rd_oox98cb	Homebuyers want environmental risk data (superfund, PFAS, mines, emissions) per property	homebuyers	explicit	4	travel & local
+rd_nq7fq4x	Small business owners waste hours building simple spreadsheets; ChatGPT gives tables without downloadable files	small business owners	implied	3	productivity & work
+rd_lyabb6s	Azure admin portals hide group types and VM attributes from queries	cloud admins	none	2	devops & infra
+rd_nd2sdqj	Device license renewals get co-termed to one shifting date, confusing budgeting	IT and finance	none	2	SMB & back-office
+rd_o1faiwx	Teams don't keep CRMs updated by hand	small sales teams	implied	3	SMB & back-office
+rd_nt9aqxr	Help desk techs get constant password-reset calls while writing up tickets	help desk staff	implied	3	devops & infra
+rd_njgnsqd	Solar panels that aren't paid off hurt home resale and are costly to remove for roof work	home sellers	none	3	consumer & home
+rd_o5mw4np	Marketers track 20+ subreddits' posting rules in spreadsheets	marketers	implied	3	media & content
+rd_o1yb363	Teams struggle to share MCP server configs, prompts and AI workflows	AI-using teams	implied	3	AI & ML tooling
+rd_oof4tt5	Realtors won't pay for AI reply tools that hallucinate	realtors	none	3	AI & ML tooling
+rd_19sp49113675v	Commercial power buyers have no marketplace or off-peak plans like residential	commercial power buyers	implied	4	SMB & back-office
+rd_nc539yt	Manufacturing/construction firms find accounting software that can't connect to payroll or bank, with manual AP automation	manufacturing and construction firms	implied	4	finance & money
+rd_m43cvko	Teachers want part-time contracts with fewer classes	teachers	implied	3	education & learning
+rd_ob4smqu	Monitoring tools treat every mention as a lead when 90% is noise	marketers	implied	3	media & content
+rd_nztknrg	Founders juggle scattered spreadsheets to track prospects	founders	implied	3	SMB & back-office
+rd_pca98he	Jungle villa travelers need last-mile transfers solved to book	travelers	explicit	3	travel & local

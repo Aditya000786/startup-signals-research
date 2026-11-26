@@ -1,0 +1,61 @@
+rd_oow6ltm	Homeowners get ghosted by contractors they're trying to pay	homeowners	explicit	3	travel & local
+rd_nxaxptv	Scrolling Meta Ad Library for B2B ads is a pain	B2B marketers	implied	2	media & content
+rd_nkhq32c	Accounting firms don't know which client segments are profitable	accounting firm partners	implied	3	finance & money
+rd_n9ht5r3	Database infrastructure startups struggle with distribution to developers	infra founders	none	2	developer tools
+rd_n9ey6os	Founders waste hours scrolling X for the right threads to reply to	founders	implied	3	media & content
+rd_n8smqcb	Jenkins requires a failing first build to register Jenkinsfile parameters	DevOps teams	implied	2	devops & infra
+rd_nw2rt04	SMB users want their mapped Z drive back instead of SharePoint without VPN	MSP clients	implied	3	productivity & work
+rd_mt14sle	Etsy sellers need recourse against bad buyers via attorney general complaints	Etsy sellers	none	2	commerce & marketplaces
+rd_nevia38	Dentists spend tens of thousands on CE courses with mixed value	dentists	none	2	education & learning
+rd_n900472	Salespeople agonize over how persistent follow-ups can be without being annoying	sales professionals	implied	3	SMB & back-office
+rd_oqlr02t	AI SaaS bills double without visibility into cost per user, workflow and outcome	AI SaaS founders	implied	4	AI & ML tooling
+rd_n4zgcef	SaaS teams waste hours checking rivals' sites for pricing and feature changes	SaaS product teams	implied	3	data & analytics
+rd_lxhfsch	IBM i developers want a small, affordable system for homelab experimentation	IBM i developers	implied	2	hardware & IoT
+rd_o841368	Shopify merchants want to see form submissions in the admin	Shopify merchants	implied	2	commerce & marketplaces
+rd_mbglvjg	LAPS passwords often didn't work in practice	sysadmins	none	3	security & privacy
+rd_npygvpe	SaaS ops teams match customer data between Stripe, Salesforce and dashboards in spreadsheets	SaaS ops teams	implied	4	data & analytics
+rd_19shmoz4acnhf	Tribal knowledge isn't documented, so IT staff interrupt peers	IT teams	implied	3	productivity & work
+rd_nw1areu	RAG chatbots over internal docs retrieve context-less chunks with poor accuracy	internal tools teams	implied	3	AI & ML tooling
+rd_n4xa7mo	Teachers waste hours on irrelevant mandatory PD	teachers	implied	3	education & learning
+rd_o6a4ah8	Founders can't track analytics on AI search citations of their site	SaaS founders	implied	3	media & content
+rd_m7dx0uy	Leftover Webroot traces after a botched removal are a nightmare to clean	MSPs	none	2	security & privacy
+rd_nmbrs29	Non-technical users fear self-hosting NocoDB and stay in spreadsheets	small business owners	implied	2	productivity & work
+rd_m6xzyk0	Users want a build-your-own multitool	tool enthusiasts	implied	2	consumer & home
+rd_nvfitv9	Onboarding flows are a pain to build from scratch each time	SaaS developers	implied	3	developer tools
+rd_n844gaz	Gym trainers in some markets won't pay for software they want	fitness SaaS founders	none	2	health & fitness
+rd_ops8tac	Owners need help comparing software agency proposals by scope	small business owners	implied	3	SMB & back-office
+rd_o5a0afa	Small businesses lack real-time visibility into true margins	small business owners	implied	3	finance & money
+rd_pf0u73e	Etsy search mixes prints into original-painting results and lacks filters	artists	implied	3	commerce & marketplaces
+rd_m5peyk0	Admins want to tag network traffic end to end without a standard mechanism	network admins	none	2	devops & infra
+rd_o6hq2n7	Users file vague tickets like "laptop issues" with no detail	IT help desks	implied	3	devops & infra
+rd_n78xslq	Healthcare is a nightmare to build software for and sell into	health tech founders	none	3	health & fitness
+rd_nuewlm5	Local businesses want partnership outreach that doesn't feel mass-produced	local businesses	implied	3	SMB & back-office
+rd_mv6gxxc	Solo business owners closing down don't know IRS filing steps; accountants don't respond	solo business owners	explicit	3	finance & money
+rd_n1gpgrp	Engineers waste hours seeding staging databases with realistic safe data	engineering teams	implied	3	developer tools
+rd_maqe01w	Open source help desk tools aren't good enough after Spiceworks on-prem ended	IT teams	implied	3	devops & infra
+rd_ndrjlxq	3PL billing across many clients is a monthly reconciliation headache with pallet errors	3PL accountants	implied	4	finance & money
+rd_m862sh5	Personal-device MFA forces double passcode entry and employers won't pay for phones	employees	implied	2	security & privacy
+rd_mbkk7c0	There's no app store for SaaS to pay and unlock niche tools easily	SaaS buyers	implied	3	commerce & marketplaces
+rd_pcn6ezp	HR discovers falsified I-9 documents	HR teams	none	3	legal & government
+rd_nrvqo1j	Placing text in product screenshots in Figma is a pain	SaaS marketers	implied	2	media & content
+rd_lynpjl6	Schools adopt mastery grading without an LMS that tracks learning targets	teachers	implied	3	education & learning
+rd_mzz36nu	Custom t-shirt shoppers avoid sites without product previews	custom apparel shoppers	none	2	commerce & marketplaces
+rd_n08mttv	Analysts waste hours writing queries without good query builders or filters	analysts	implied	3	data & analytics
+rd_nxt8bto	Orphaned VM disks remain after deleting VMs	cloud admins	implied	3	devops & infra
+rd_lvwnbju	PEO/payroll provider botched insurance certificates and billing, causing a workers comp audit	small businesses	none	4	SMB & back-office
+rd_m1qr9fk	Real estate agents' MLS data is sold on while systems stay expensive	real estate agents	none	3	travel & local
+rd_mvc7fta	First-year teachers lack support	new teachers	none	3	education & learning
+rd_o5u0n4c	Real estate investors screening many deals want a tunable buy box and transparent assumptions	real estate investors	explicit	4	finance & money
+rd_osksiag	BYOD for interns creates security and support headaches	IT teams	none	3	security & privacy
+rd_nnwj4zg	Buyers find local distributors so painful they order overseas	small buyers	implied	3	commerce & marketplaces
+rd_p3gu4ga	Disabling M365 group welcome emails needs PowerShell and slow propagation	sysadmins	none	2	productivity & work
+rd_myuvy2w	Social monitoring tools flag keywords but miss budget and authority context	sales teams	implied	3	media & content
+rd_myysxze	Code reviewers waste hours figuring out why code changed	developers	implied	3	developer tools
+rd_odbrc2s	People want on-demand local errand help for queues and small parts	consumers	implied	3	travel & local
+rd_ndmnt97	Compliance workflows need step-by-step checklists with evidence and audit trails	IT and compliance teams	implied	3	legal & government
+rd_m1qm641	Real estate agents get little support and most quit early	real estate agents	none	3	travel & local
+rd_ns93dj3	No VMware alternative handles thousands of hosts and mass live migration	enterprise IT	implied	4	devops & infra
+rd_mzda6c9	Teachers re-enter the same application answers on Applitrack for every district	teachers	implied	2	hiring & careers
+rd_nc99nlp	Marketers spend 15-20 hours weekly pulling reports from each ad platform for attribution	marketers	implied	4	data & analytics
+rd_o99j30h	Founders find content creation takes too much time	startup founders	implied	2	media & content
+rd_oh52wbk	Travel planners want a strong tool and are deterred by early paywalls	travelers	explicit	2	travel & local
