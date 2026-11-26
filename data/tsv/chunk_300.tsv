@@ -1,0 +1,54 @@
+rd_os6v3ia	Production and material planners lack a tool for a recurring workflow problem (70 interviews)	production planners	implied	3	SMB & back-office
+rd_o77lj90	GitHub Actions workflows become Rube Goldberg machines and tracing logic is a nightmare	DevOps engineers	implied	3	devops & infra
+rd_os5wtcw	Founders can't get testers to move from curiosity to real usage	founders	none	3	SMB & back-office
+rd_omtz757	Restaurant and salon owners dig through old emails for product numbers to reorder supplies	restaurant and salon owners	implied	3	SMB & back-office
+rd_o7644n9	Tying workflows into Outlook and Teams is a nightmare	sysadmins	none	2	productivity & work
+rd_n3jw9vo	Rounding ERP figures to dollars for 10-Q filings is done manually	public company accountants	implied	3	finance & money
+rd_o7edky3	Founders need to audit how LLMs cite and recommend them (LLM shelf space)	founders	implied	3	media & content
+rd_nvponku	Windows search and Explorer perform badly	Windows users	none	2	productivity & work
+rd_o4i7t30	Administering Exchange on-prem is a nightmare few can do correctly	sysadmins	implied	3	devops & infra
+rd_o754x5q	Meeting tools capture what was said but not who committed to what	teams	implied	3	productivity & work
+rd_o2gpgjp	B2B service businesses wait on slow payments and must finance the gap	B2B service businesses	implied	3	finance & money
+rd_orkxmod	Small businesses find custom client portals fragile and Zoho pricing a trap	small businesses	implied	3	SMB & back-office
+rd_o6yg20y	Founders see a gap between "I'd pay for that" and actual card payment	founders	none	3	SMB & back-office
+rd_nrcz8pk	Nurses want a site ranking real work-life balance by company, role and team	nurses	implied	3	hiring & careers
+rd_nwqkbcz	Hiring foreign accountants is a nightmare for US payroll compliance	employers	none	2	hiring & careers
+rd_n27idj0	Users ignore compliance notifications, so re-consent flows see big drop-off	SaaS teams	implied	3	legal & government
+rd_npi1bc8	The internet depends on single providers like Cloudflare and AWS	IT teams	none	2	devops & infra
+rd_nvwr88t	New dental practices outsource insurance verification and billing	dental practice owners	explicit	3	health & fitness
+rd_nqiqxl8	MSP SLAs are slack and rapid response costs extra	IT managers	implied	3	devops & infra
+rd_o692d1d	SEO tools fail to connect rankings to conversions and revenue	marketers	implied	3	data & analytics
+rd_nq783z7	Small brands struggle to fulfill orders across big retailers' distribution centers	consumer product brands	none	3	commerce & marketplaces
+rd_oqh5hn5	Freelancers struggle with scoping, pricing and expectations more than writing proposals	freelancers	implied	3	SMB & back-office
+rd_nll2v3s	Photographers want a good media manager to tag, organize and receive phone shots	photographers	implied	3	media & content
+rd_noi576x	Payroll is a nightmare for accountants	accountants	explicit	3	finance & money
+rd_oqccyds	Telecom providers' support can't help when unusual issues arise	sysadmins	implied	3	devops & infra
+rd_m314jf7	Mac users without ADFS need a way to change expired passwords	sysadmins	implied	2	security & privacy
+rd_oqc2ker	Users don't know how fast AI tool credits will disappear	AI tool users	implied	3	AI & ML tooling
+rd_o5wtdqj	Founders waste weeks vetting vendors' compliance claims with no SOC 2 docs upfront	founders	explicit	3	security & privacy
+rd_nkp399d	Receivables and collections for a small business never end	small business bookkeepers	implied	4	finance & money
+rd_mvzybe4	Changing payroll for bonuses puts a load on the accountant and takes weeks	small business owners	none	2	finance & money
+rd_m2ah5pz	Secrets Store CSI updates on a schedule so deploys fail when new secrets aren't synced	DevOps engineers	none	3	devops & infra
+rd_o5vg2b7	Solo founders would pay for workload optimization that prevents burnout	solo founders	explicit	3	productivity & work
+rd_nfp500o	MSPs need asset tagging that maps devices into invoicing	MSPs	none	2	devops & infra
+rd_o5hcky8	Founders would pay for verified high-intent leads over ads	founders	explicit	3	SMB & back-office
+rd_nec0hs2	Small sellers can't keep up with DMs and repeat questions without sounding like a bot	small online sellers	implied	3	communication & social
+rd_mqafsm7	Employees returning equipment want prepaid labels, not courier pickups	remote employees	none	1	SMB & back-office
+rd_opqpvk0	Maintaining strict brand voice at scale without sounding like AI spam	e-commerce marketers	implied	3	media & content
+rd_o5dqwiy	Salespeople forget to log calls and update deal stages after meetings	salespeople	explicit	3	SMB & back-office
+rd_mup07zk	Teacher job seekers must navigate each school's own hiring platform	teachers	none	2	hiring & careers
+rd_op5urff	Small service businesses start with WhatsApp and email booking chaos	coaches and consultants	implied	3	SMB & back-office
+rd_o58xrti	Small business owners won't pay recurring subscriptions for simple apps	small business owners	explicit	2	SMB & back-office
+rd_n72sqzl	Microsoft GovCloud is a nightmare to administer	government IT	none	3	devops & infra
+rd_o58wdko	Profit First cash allocation breaks with seasonality, projects or multiple locations	small business owners	implied	3	finance & money
+rd_muehiqv	Tracking participation grades with absences is hard	teachers	none	2	education & learning
+rd_op31n1d	MSPs build their own ticketing because existing systems are unreliable	MSPs	implied	3	devops & infra
+rd_pcmzsdb	Subcontractors lose ~$50k a year because T&M isn't documented as billable change orders	subcontractors	implied	5	SMB & back-office
+rd_o57wkm1	Founders drown in Slack, Jira, email and DMs and want one clear daily task list	founders	implied	4	productivity & work
+rd_n9x8t0k	Subs covering teacher maternity leave lack teaching background	parents	none	3	education & learning
+rd_o53tt2i	Founders would pay for actionable fix suggestions, not just a roast of their site	founders	explicit	2	SMB & back-office
+rd_n7039y0	Founders waste time on interested prospects without money or authority to buy	founders	implied	3	SMB & back-office
+rd_mo0wapo	One-person IT shops would pay for a second opinion on their thinking	solo IT admins	explicit	2	devops & infra
+rd_ooru548	Tracing a user request to a failed async background job is hard even with full tracing	backend engineers	implied	4	devops & infra
+rd_o4zxmht	People would pay for agentic tools that run reliably without babysitting	professionals	explicit	4	AI & ML tooling
+rd_n5vjknz	Teachers want required PD delivered by email or packet instead of sessions	teachers	none	2	education & learning

@@ -1,0 +1,51 @@
+rd_n2n0l6y	Hard to scope service-account permissions to databases that don't exist yet	DevOps engineers	none	2	devops & infra
+rd_obby2r9	Founders want a search-and-notify tool that avoids auto-submit ban risk	founders	explicit	3	SMB & back-office
+rd_ojs8ieb	No licensing exists for contractors in some states to weed out bad ones	homeowners	none	2	legal & government
+rd_nhniop1	Renaming moved devices everywhere breaks asset tracking	sysadmins	none	3	devops & infra
+rd_ob9w22g	Indie hackers would pay for AI marketing that is actually original	indie hackers	explicit	3	media & content
+rd_omp3o58	MSP clients won't pay for documentation so techs waste hours rediscovering setups	MSP technicians	implied	4	devops & infra
+rd_oig7tno	Accounting managers still run out daily for stamps to mail interoffice letters	accountants	none	2	productivity & work
+rd_19s1imb4898sj	Managing GST filings across many new LPs, holdcos and trusts is a nightmare	land developer accountants	implied	4	finance & money
+rd_nfgtjjk	Reviewing sales and support calls takes hours without auto-snipping key moments	sales and support teams	implied	3	productivity & work
+rd_lvul5uc	Owners would rather pay per landed client than for raw lead lists	small business owners	explicit	3	SMB & back-office
+rd_pcuanul	Pasting commands from rich-text SOPs into a terminal breaks them	security teams	implied	2	developer tools
+rd_ofn351e	Photographers want lens aperture rings and better exposure control layouts	photographers	implied	2	hardware & IoT
+rd_p9ivcoz	Quality fashion factories have MOQs too high for small brands	small fashion brands	none	3	commerce & marketplaces
+rd_nehma62	E-commerce brands juggle too many dashboards	e-commerce brands	implied	3	data & analytics
+rd_nlsw5sh	Marketers waste hours figuring out what to post and how to angle it	marketers	implied	3	media & content
+rd_p7v9ob1	Long service passwords must be typed by hand into UAC prompts	sysadmins	none	3	security & privacy
+rd_oadsjjo	Survey tool users would pay for better trend analytics over time	survey users	explicit	2	data & analytics
+rd_ngzx47p	Professionals waste hours sorting files named scan123.pdf or IMG_0001.jpg	accountants and lawyers	implied	3	productivity & work
+rd_n7l80li	Photo studios refuse to sell digital copies, forcing overpriced prints	parents	explicit	2	media & content
+rd_ouhfmp4	Small sellers on Instagram, Facebook and marketplaces struggle to keep inventory in sync	small sellers	implied	3	commerce & marketplaces
+rd_oadjkvz	People would pay for smart real-time conversation notes that whisper context	professionals	explicit	3	AI & ML tooling
+rd_naa5126	MSP RFPs are check-the-box exercises where the cheapest vendor wins	MSPs	implied	3	SMB & back-office
+rd_oaar8wg	Admins can't clear out stale device states on shared devices	sysadmins	implied	2	devops & infra
+rd_ndeerq2	Compliance and security questionnaires are the slowest part of SaaS sales	SaaS sales teams	implied	4	security & privacy
+rd_o9eopn2	Shopify merchants build custom sales-velocity reports by hand to reorder stock	Shopify merchants	implied	3	commerce & marketplaces
+rd_owk2118	Accountants find their ERP a nightmare to work with	accountants	none	2	finance & money
+rd_n6bi21b	Validator node operators need alerts and network-wide performance comparison	node operators	implied	2	devops & infra
+rd_otskk3n	International payment holds and freezes come with no visibility into why or how long	small businesses	implied	4	finance & money
+rd_o9c5bhq	Writers want a way to label and avoid recognizable AI-writing voice	writers	implied	2	AI & ML tooling
+rd_n62yuyq	Workers can't get experience forms signed when they worked for unlicensed relatives	tradespeople	explicit	2	legal & government
+rd_otqpzne	Product teams can't iterate on app onboarding without waiting for app releases	mobile product teams	implied	3	developer tools
+rd_o9524x2	Founders can't compare freelancer build quotes without a spec	founders	implied	3	hiring & careers
+rd_o3f6ris	No good way to record medications a patient can't take that aren't allergies	healthcare professionals	implied	3	health & fitness
+rd_obml5fg	Nonprofit spending approval processes are a nightmare even with budget	nonprofit IT	none	2	SMB & back-office
+rd_o7yj53g	Founders miss relevant posts or find them days late when threads are dead	founders	explicit	3	SMB & back-office
+rd_o2rxxgr	Photographers want Capture One quality with Lightroom AI masking	photographers	implied	2	media & content
+rd_os7jlov	Document extraction struggles with weird formats and low-quality scans	accountants	implied	3	AI & ML tooling
+rd_o7vzzu1	Freelance web designers drown in ongoing client change requests and plugin updates	freelance web designers	implied	3	developer tools
+rd_o91f9vj	Floating nurses to unlike units without support staff is unsafe	nurses	none	3	health & fitness
+rd_mkk25b4	Citizens waste months waiting on tax answers though government has the data	taxpayers	none	3	legal & government
+rd_odxeowt	Managing firmware on docking stations is a nightmare	sysadmins	implied	3	devops & infra
+rd_n821o41	Documenting 100+ product flows manually takes forever	product teams	implied	3	productivity & work
+rd_os9c899	Realtors burn out filming and editing walkthrough videos for every listing	realtors	implied	3	media & content
+rd_otigehq	Subcontractor bidding lifecycle is tracked messily	general contractors	implied	3	SMB & back-office
+rd_nwuonq6	Small businesses waste hours on manual KYC intake	small businesses	implied	3	SMB & back-office
+rd_othdrol	Agencies patch client onboarding together with forms, PM tools and shared drives	agencies	implied	3	SMB & back-office
+rd_nqgtp8z	Accountants spend days on manual data entry from documents	accountants	implied	3	finance & money
+rd_otov7hx	Accounting firms' biggest pain is the work around accounting, not accounting itself	accounting firms	implied	3	finance & money
+rd_mxnmvsf	AI research tools produce fake citations	researchers	implied	3	AI & ML tooling
+rd_ot54rsz	Photographers spend too long culling burst shots	photographers	implied	2	media & content
+rd_opz4ptc	WooCommerce users on cheap hosting get 22-second page loads	WooCommerce merchants	none	2	commerce & marketplaces

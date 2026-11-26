@@ -1,0 +1,57 @@
+rd_okvpy4l	SaaS founders find marketing their biggest pain point	SaaS founders	implied	3	SMB & back-office
+rd_19sjzvf3e29cx	Email providers can't scale from normal load to a backlog of hundreds of millions of messages	email infrastructure teams	none	3	devops & infra
+rd_okgztvy	Salon software adds friction for both team and client experience	salon owners	implied	3	SMB & back-office
+rd_mssj6wt	Teachers want a signal that a staff restroom will be occupied for 5 minutes	teachers	none	1	education & learning
+rd_phi4xzx	Veteran realtors' closings collapsed and they have no benefits or retirement	realtors	none	4	hiring & careers
+rd_m7ftbwn	Freelance CPR instructors can't align with AHA training centers and make money	nurses	none	2	education & learning
+rd_ok0x9wi	Payouts bundle charges, refunds, disputes and fees into one net number that's hard to reconcile	accountants	implied	4	finance & money
+rd_nzjiv12	People would pay for anything that removes decisions about money, admin and planning	busy professionals	explicit	3	productivity & work
+rd_pgmlbkd	New York mortgage licensing takes years	mortgage loan officers	none	2	legal & government
+rd_m7b8bhh	Incident reports are a huge pain to file	nurses	none	2	health & fitness
+rd_ojsxt7f	Small business owners drown in social content, piling admin and lead follow-up	small business owners	implied	3	SMB & back-office
+rd_nywasnb	Freelancers would pay for a regular flow of clients	freelancers	explicit	3	hiring & careers
+rd_mrjham2	Brokerages pay a fortune buying leads and can't get out of it	real estate brokers	explicit	3	SMB & back-office
+rd_oj9wmlc	Small business owners don't know what to post consistently without spending hours	small business owners	implied	3	media & content
+rd_p9d9zcn	Purchasing departments are a nightmare to get anything done with	accountants	none	2	SMB & back-office
+rd_oj7asuq	Small creators face a viral lottery with no predictability	content creators	none	3	media & content
+rd_oj3j2e5	Founders juggle multiple providers for formation, address and compliance	new business owners	implied	3	legal & government
+rd_m2utzfn	Exchange recipient filter syntax differs from canned filters	sysadmins	none	2	devops & infra
+rd_ois4plo	Accounting practice management tools have steep learning curves	accounting firms	explicit	2	SMB & back-office
+rd_nxajwf7	Creators would pay for analytics comparing posts to their own baseline, not generic benchmarks	content creators	explicit	3	data & analytics
+rd_oycj7cn	Buyers use ChatGPT and go down rabbit holes instead of listening to their agent	realtors	none	3	consumer & home
+rd_m1wnij3	Moving domains away from GoDaddy is a huge pain	small businesses	none	2	developer tools
+rd_ow4komh	Shopify merchants fight fraud with workflows, zip blocks and disabling gift cards	Shopify merchants	implied	4	commerce & marketplaces
+rd_m1icziy	Bicep with no state file has a less trustworthy what-if than Terraform plan	DevOps engineers	none	2	devops & infra
+rd_nwk2zlq	Founders would pay for a tool that tells product where onboarding breaks	founders	explicit	3	developer tools
+rd_okdqvpo	Double quarantine across Defender and Proofpoint is a nightmare for users and helpdesk	MSPs	implied	3	security & privacy
+rd_m0m886v	No good Mac catalog for large RAW libraries since Apple killed Aperture	photographers	implied	3	media & content
+rd_nwirizb	Founders would pay for honest pre-launch product feedback from strangers	founders	explicit	3	SMB & back-office
+rd_lyztp2k	WDAC updates on servers take a lot of effort when vendors change certificates	sysadmins	none	3	security & privacy
+rd_ogwoxi6	Small trades hit a price wall for CRM covering invoices, scheduling and customers	small trades businesses	implied	3	SMB & back-office
+rd_nway9al	Reddit monitoring tools surface too many marginally relevant threads	founders	implied	3	SMB & back-office
+rd_oj7mquf	Passkey implementation is a nightmare when users change devices	MSPs	none	3	security & privacy
+rd_ogn7l12	New Etsy sellers struggle with payments and verification	Etsy sellers	none	2	commerce & marketplaces
+rd_nvy1z7e	Freelancers would pay for client-specific editable proposal docs that don't sound generic	freelancers	explicit	3	SMB & back-office
+rd_ly8m50j	Microsoft Graph turns simple one-liners into long painful hash tables	sysadmins	none	3	devops & infra
+rd_ogcx9l3	SaaS companies rank on Google but are invisible in AI assistant recommendations	SaaS marketers	implied	3	media & content
+rd_ogbmpvt	Small SaaS lose revenue to failed payments with weak recovery flows	SaaS founders	implied	3	finance & money
+rd_nvaw90q	Buyers would pay an independent third party to review a deal and specs honestly	consumers	explicit	3	consumer & home
+rd_mlputlb	Realtors want an alternative to paying NAR	realtors	implied	2	legal & government
+rd_oael5ni	Managing lines and extension tubing for ICU patients in MRI is a nightmare	ICU nurses	none	3	health & fitness
+rd_og1nrqu	Contractors' invoices arrive by email, text and paper and don't reach the books cleanly	contractor bookkeepers	implied	4	finance & money
+rd_nu2ynz4	Infrequent users want per-usage pricing, not subscriptions	SaaS users	explicit	2	SMB & back-office
+rd_mkxec4f	Can't set up new Windows installs manually with a local admin account	sysadmins	implied	2	devops & infra
+rd_19t23hqpu568w	Convincing clients to try new software is the hard part	software sellers	none	2	SMB & back-office
+rd_nwqya2o	Real estate deals are hard to hold together with adversarial, inept agents and title	realtors	none	3	consumer & home
+rd_nstdrw8	Users would pay a small one-time fee to add events to their calendar	consumers	explicit	1	productivity & work
+rd_nvg45ws	Companies lack an easy-to-access knowledge base for all employees	employees	implied	3	productivity & work
+rd_ofl7uji	Construction communication is fragmented across WhatsApp, proprietary apps and email chains	construction teams	implied	4	communication & social
+rd_19rw00ro6r1t0	Print labs force sign-up and login just to order a print	photographers	none	2	media & content
+rd_o8qgq1h	Photobooth owners would pay for help adjusting camera settings	photobooth operators	explicit	2	media & content
+rd_ofepk6f	Side podcasters struggle with audio quality from cheap headsets	hobby podcasters	implied	2	media & content
+rd_of4sh6s	Contractors miss hundreds of Google reviews because they don't check often	contractors	implied	3	SMB & back-office
+rd_nrpjkml	Users would pay for a URL-to-device-screenshots API	developers	explicit	2	developer tools
+rd_nro3s7s	Auto repair is a nightmare industry with many problems	auto repair shop owners	none	3	SMB & back-office
+rd_of2cyvp	Correct wholesale pricing through Shopify checkout has always broken	Shopify wholesale merchants	implied	3	commerce & marketplaces
+rd_nro5qn5	Invoice extraction buyers would pay for strict JSON, verified flags and audit coordinates	finance automation teams	explicit	3	AI & ML tooling
+rd_nqf7q7y	Jobs in old factories balloon from 3 weeks to 3 months	contractors	none	3	SMB & back-office

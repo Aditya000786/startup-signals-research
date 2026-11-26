@@ -1,0 +1,75 @@
+rd_mg1twdh	Dentists lack info on full-time remote oral radiology work	dentists	none	1	hiring & careers
+rd_niyegp5	MSPs hit a nightmare with NinjaOne after a change	MSPs	none	3	devops & infra
+rd_oepk9aa	Shopify brands find NetSuite pricey and consultant-heavy for multichannel ops	Shopify brands	implied	3	commerce & marketplaces
+rd_mg194oh	Hobbyists want a consumer-grade tape backup for photo archives	hobby photographers	implied	2	hardware & IoT
+rd_luu42dh	Admins would pay for a service that notifies them when someone changes something	sysadmins	explicit	3	devops & infra
+rd_nqjlby2	Founders would pay for 10-15 screened ICP interviews in two weeks with pattern summaries	founders	explicit	4	SMB & back-office
+rd_newxibw	Managing business records in Excel is a nightmare	small business owners	implied	2	finance & money
+rd_pcx29nr	Restores are painful without infrastructure to reinstall backup software	sysadmins	none	3	devops & infra
+rd_np4efss	Realtors would pay for an easy program to stay on top of client follow-ups	realtors	explicit	4	SMB & back-office
+rd_oego387	Process Street has long-standing pain points for MSP workflows	MSPs	implied	2	productivity & work
+rd_merxk2w	Founders hate sales jargon and want to market authentically	solo founders	none	2	media & content
+rd_neilbp4	Hiring low-mid level IT staff is flooded with unqualified applications	IT managers	implied	3	hiring & careers
+rd_pcl39iu	Stripe becomes cumbersome when something breaks	SMB owners	none	2	finance & money
+rd_oebj8nc	Automating root cause analysis is hard	SRE teams	implied	3	devops & infra
+rd_npg0ivm	Developers would pay to auto-test vendor endpoints and flag schema drift	developers	explicit	4	developer tools
+rd_mefydvq	Aspiring founders want a simulator for building a business like stock simulators	aspiring entrepreneurs	implied	2	education & learning
+rd_ndq3xx8	Autodesk DRM lingers weeks after uninstall, complicating lab reimaging	IT admins	none	3	devops & infra
+rd_oe9ic66	Hiring teams struggle to screen at scale, keep candidate comms personal and get consistent feedback	hiring teams	implied	3	hiring & careers
+rd_noo14c1	Small business owners don't trust automation and stick with manual processes	automation sellers	none	3	SMB & back-office
+rd_mcq3tuh	Parents want an app that fully shuts off kids' devices at night	parents	implied	3	consumer & home
+rd_nd3suvj	CBD businesses face payment processing holds	CBD merchants	implied	3	finance & money
+rd_nn76ok5	Shadow changes to third-party APIs break things and take hours to debug	developers	explicit	4	developer tools
+rd_nbtikzd	Getting the first 100 users is a nightmare	founders	none	3	SMB & back-office
+rd_p9gksgl	Teams manage 20 standalone environments on Bitbucket Pipelines painfully	DevOps engineers	none	2	devops & infra
+rd_p82tj44	Land deals are painful with low commissions	realtors	none	2	consumer & home
+rd_oe6zxrb	Splunk agent deployment, log parsing and config maintenance are painful	sysadmins	implied	3	devops & infra
+rd_n94c85m	Charter networks show no interest in teacher retention	teachers	none	2	education & learning
+rd_p7zv6io	Testing CI workflows is hard even with reusable workflows	DevOps engineers	none	2	devops & infra
+rd_p7hyjyj	Small business co-owners can't get marketing done	small business owners	implied	3	media & content
+rd_nkfvqmq	Grads' resumes can't get past applicant tracking systems	new grads	implied	3	hiring & careers
+rd_n4uxxv6	Converting GPOs to Intune policies is laborious	sysadmins	none	2	devops & infra
+rd_p7fh8jm	One payment processor hold can freeze all recurring revenue	SaaS founders	implied	4	finance & money
+rd_nkc76u8	Partner programs juggle PartnerStack, HubSpot, Stripe, Tipalti and spreadsheets with attribution disputes	SaaS partner managers	explicit	4	SMB & back-office
+rd_n3a457d	Browser extensions leak data and malicious ones fill the stores	security teams	implied	3	security & privacy
+rd_odi66hj	Developers want self-hosted transactional email to escape SendGrid/SES lock-in and surprise bills	developers	implied	3	developer tools
+rd_nkb48s8	Founders would pay for customer insight pulled from tickets, calls, CRM and reviews clustered by job	founders	explicit	4	data & analytics
+rd_n2ptbvx	Hiring and HR process is a nightmare for small trade businesses	small contractors	none	3	hiring & careers
+rd_odfy6ck	Shopify sellers can't track profitability across mixed fees and batched payments	Shopify merchants	implied	4	finance & money
+rd_n1pv8lq	Opendoor is a nightmare to work with and their renovations are poor	home sellers	none	2	consumer & home
+rd_njmp9xu	Founders want to map responsive Reddit audiences to LinkedIn and email	founders	implied	2	SMB & back-office
+rd_n053isa	Ecommerce inventory forecasting is a nightmare with low margins	ecommerce sellers	implied	4	commerce & marketplaces
+rd_odbcf3v	MSPs need white-label pentest partners with clear reports and pricing	MSPs	implied	2	security & privacy
+rd_odao719	Appliance repair techs need field service apps that learn from every repair	appliance repair techs	implied	3	SMB & back-office
+rd_niniqiu	Freelancers would pay $9-15/mo for saved clients, recurring invoices, pay links and reminders	freelancers	explicit	3	finance & money
+rd_m3gh73n	Creators want an AI video editor that turns clips and voiceovers into polished reels	creators	implied	4	media & content
+rd_mzisrjr	The IRS ignores corrective action on routine errors	tax preparers	none	4	legal & government
+rd_p55oleb	Competitor price tracking tools have spotty coverage outside Amazon and scrapers break	ecommerce sellers	implied	3	commerce & marketplaces
+rd_mtx4mgo	Explaining hygienist pay as a percentage of collections is a nightmare	dental practice owners	none	2	health & fitness
+rd_nhwhdrz	Juniors need opinionated SQL schema templates with linters and Git-first workflow	data teams	explicit	3	data & analytics
+rd_m2fk6c1	Teachers can't temporarily remove disruptive students from class	teachers	implied	3	education & learning
+rd_p4s1mx4	Can't migrate historical backups from Cove to another platform	MSPs	none	3	devops & infra
+rd_oczmpai	Sellers lose context across fragmented communication channels	salespeople	implied	3	communication & social
+rd_nhiyh1a	Founders would pay for authentic community seeding that doesn't feel spammy	founders	explicit	3	media & content
+rd_p4nd7ui	Running in-house PBX systems across locations was a huge pain	IT admins	none	2	communication & social
+rd_m1pmd6m	Creators want an AI editor that copies style from reference videos for repetitive edits	video creators	implied	3	media & content
+rd_m1mrgfi	Microsoft cloud migrations can't be tested before blanket rollout to 2000 users	sysadmins	implied	3	devops & infra
+rd_p21rvzt	Lumber yard returns are a huge pain for contractors	contractors	none	2	SMB & back-office
+rd_nhbhb2u	Founders would pay for plug-and-play growth actions with time boxes and assets	founders	explicit	3	SMB & back-office
+rd_m1mfgh8	Student teachers have no way to review mentor teachers	student teachers	none	2	education & learning
+rd_p1nitlh	ERP implementations drag on for over a year of testing	accountants	none	3	finance & money
+rd_ocpu467	Small food businesses maintain costing and nutrition in two systems that drift apart	small food businesses	implied	4	SMB & back-office
+rd_lzbljq2	People want freeform whiteboard-like brainstorming tools	founders	implied	2	productivity & work
+rd_p1i95fw	Camera wifi tethering is too slow for long-exposure control	photographers	none	2	hardware & IoT
+rd_ocmnskd	Personal trainers would pay for scheduling that fits odd hours and handles no-shows	personal trainers	explicit	4	health & fitness
+rd_lyelx1d	Photo editors want separate remove and replace object options	photographers	implied	2	media & content
+rd_nflpihd	Founders would pay for fast, trustworthy targeted message testing	founders	explicit	3	SMB & back-office
+rd_lvj1on4	Nursing boards are slow and call centers unhelpful on nonstandard issues	nurses	none	3	legal & government
+rd_oz66e9q	Teams can't migrate off legacy Access databases full of historical data	accountants	implied	3	data & analytics
+rd_ocirflu	International ops struggle to consolidate spend and invoices across regions	finance teams	implied	3	finance & money
+rd_lutiwk6	Nurses and phlebotomists lack good ways to train IV skills	nurses	implied	2	education & learning
+rd_mdswt2n	SharePoint becomes a file dump without structured design	IT admins	implied	3	productivity & work
+rd_ocipict	Expensify breaks down for international teams needing multi-currency cards	finance teams	explicit	3	finance & money
+rd_newsx1o	SaaS founders would pay $50-100/mo for churn reduction without another dashboard	SaaS founders	explicit	3	SMB & back-office
+rd_19t74fv5a6xs0	Shop owners must manually filter repetitive phone calls	small shop owners	implied	3	SMB & back-office
+rd_mbchtep	ServiceNow is a complex chaotic dinosaur needing partners to customize and staff to run	enterprise IT	implied	3	devops & infra

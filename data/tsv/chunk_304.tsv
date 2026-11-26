@@ -1,0 +1,63 @@
+rd_oye3sk9	Exposing a SaaS MCP server to Claude and ChatGPT on the web requires painful OAuth work	SaaS developers	implied	3	AI & ML tooling
+rd_ocim7n4	Expensify fails international teams needing multi-currency cards with real-time controls	finance teams	explicit	3	finance & money
+rd_m9mpcxt	Navigating state payroll and compliance rules is a nightmare for growing businesses	small business owners	explicit	4	SMB & back-office
+rd_occsou1	AI video creators lose consistency jumping between 5+ tools across scenes	AI video creators	implied	3	media & content
+rd_ndpxo8l	AI lead tools can't tie contacts to closed revenue	sales teams	implied	3	SMB & back-office
+rd_oc9jhk1	Businesses at ~10 people outgrow "everyone knows everything" and need documented processes	small business owners	implied	3	productivity & work
+rd_pgl22ht	Shopify checkout has no text box for customer comments or delivery options	Shopify merchants	implied	3	commerce & marketplaces
+rd_m62zsvs	Microsoft Graph PowerShell is a nightmare even for veterans	sysadmins	none	3	devops & infra
+rd_oc6m73c	Form tools solve collection but submissions sit in email and leads go cold before reply	small businesses	implied	4	SMB & back-office
+rd_oc64iwu	Shipment tracking SaaS depends on carrier API access that is getting paid	logistics SaaS builders	none	3	commerce & marketplaces
+rd_ncux2oi	Founders would pay for someone to run user interviews that yield real insights	founders	explicit	3	SMB & back-office
+rd_pcsrprx	Merchants want a third-party option between processor and platform for better support	merchants	implied	2	finance & money
+rd_m2tds1m	MFA prompts every 24h frustrate users on managed devices	sysadmins	none	2	security & privacy
+rd_obzetam	Non-technical office users struggle with printers and basic IT issues	office workers	implied	2	productivity & work
+rd_ncckddb	Founders would pay someone to post their product to all the startup directories	founders	explicit	3	SMB & back-office
+rd_pc2c9wb	Contractor license exam prep for the law portion is only sold bundled and expensive	contractor license candidates	explicit	2	education & learning
+rd_nc01ua9	Founders want to pull Reddit insights with real filters by subreddit, complaint and date	founders	implied	3	data & analytics
+rd_otr9hr2	Photography studio power users have waited years for a promised platform migration	photography studios	none	3	media & content
+rd_otlaotv	Updating dozens of accounts manually (e.g. address changes) is a huge pain	consumers	implied	3	consumer & home
+rd_pa3hhmi	QuickBooks Online fails to pull single transactions and they're a nightmare to find	small business owners	implied	3	finance & money
+rd_oswr6xl	Network monitoring tools are a huge pain to set up	sysadmins	none	2	devops & infra
+rd_obm83gb	Community platforms force algorithm changes and ads on communities	community owners	implied	3	communication & social
+rd_obflwnb	Form tools have limited customization, price jumps and shallow analytics	SaaS users	implied	3	productivity & work
+rd_19s3zunxfkt8g	Unpredictable credit-based pricing is a nightmare to get through procurement	finance teams	none	3	finance & money
+rd_p7ifstd	GCs want a way to warn each other about deadbeat homeowners	general contractors	implied	3	SMB & back-office
+rd_n88hdy0	Contractors would pay for lead gen that proves ROI upfront with won-bid examples	contractors	explicit	3	SMB & back-office
+rd_p77euo9	HR teams want a decent alternative to Workday	HR teams	implied	3	SMB & back-office
+rd_19rkm3us06clf	API keys in platform env vars are the real prize for attackers	developers	implied	3	security & privacy
+rd_oru6kre	New dental entity means restarting insurance credentialing from scratch	dentists	none	3	health & fitness
+rd_ob74aat	Dev teams keep building their own internal dev memory tools	dev teams	implied	2	developer tools
+rd_n7tqwcy	Founders can't set engagement thresholds to filter social signal for validation	founders	implied	2	data & analytics
+rd_pfec7cs	Subcontractors wait 14 months for retainage because GCs lose closeout documents	subcontractors	implied	5	SMB & back-office
+rd_p5zzvnr	People want an AI intermediary that routes jobs to professional freelancers	clients hiring freelancers	implied	3	hiring & careers
+rd_oqxkxb1	Restaurants have only two unreliable repair service options with no ETA	restaurant owners	implied	4	SMB & back-office
+rd_ob0pdyw	Outbound data providers dump info without intent context	sales teams	implied	3	SMB & back-office
+rd_pdvyl8h	Florida realtors miss renewal rules and must redo pre-licensing	realtors	none	3	legal & government
+rd_oqncu18	Customer data onboarding and migration is a huge pain	data migration teams	implied	3	data & analytics
+rd_oqmkonm	EU VAT reporting on Stripe becomes a huge pain for global sellers	EU SaaS founders	implied	3	finance & money
+rd_oayae89	Contractors juggle separate dispatch, PM, CRM and HR tools	contractors	implied	3	SMB & back-office
+rd_p5jw5uj	Accountants want a no-code tool to build document extraction and validation pipelines	accountants	implied	3	AI & ML tooling
+rd_pa8lrty	Drake tax software is a nightmare for multi-state and foreign forms	tax preparers	implied	3	finance & money
+rd_opkxjgi	Emails landing in spam is a huge pain for small senders	founders	implied	3	communication & social
+rd_ookmnb8	Most accounting firms still do manual invoice data entry	accounting firms	implied	4	finance & money
+rd_oaraun7	Meeting action items get lost without clear ownership and tracking	teams	implied	3	productivity & work
+rd_n5tyok3	Founders would pay for outbound copy tools that actually convert	founders	explicit	3	SMB & back-office
+rd_p4fy8wd	Mac users want a MobaXterm-like terminal	sysadmins	implied	2	developer tools
+rd_ooki9fa	Bolting API key management and tracking onto a docs tool is painful	API providers	implied	3	developer tools
+rd_p43c7h4	Solo B2B founders want handholding to their first paying users	solo founders	implied	4	SMB & back-office
+rd_p2hay3r	Mapping SharePoint sites as drives hits long file path limits	MSPs	none	3	productivity & work
+rd_ooellgz	Shopify IOSS ignores reduced VAT rates and support is unaware	Shopify merchants	implied	3	commerce & marketplaces
+rd_oalpzq0	People stay with hosting they dislike because migration is painful	website owners	implied	3	developer tools
+rd_oocf9n4	Moderators of large subreddits are overwhelmed by spam	moderators	implied	3	communication & social
+rd_n5m0eey	Slide tool buyers want brand kit import and live data from Sheets	marketers	explicit	3	productivity & work
+rd_oac6nzc	Docking stations are the biggest hardware support complaint	helpdesk teams	none	3	hardware & IoT
+rd_p3ygta4	Contractors want a place to report check-skimming scams	contractors	implied	2	security & privacy
+rd_onqmjst	Chasing client documents during intake across many clients is painful	service businesses	implied	3	SMB & back-office
+rd_oaadmc3	Commission salespeople struggle financially with irregular income	salespeople	implied	3	finance & money
+rd_n543eh3	Founders want content tools that plan, draft, schedule, format per channel and measure	founders	explicit	3	media & content
+rd_p3idq2x	Etsy prioritizes AI and dropshipped goods over real handmade	handmade sellers	implied	4	commerce & marketplaces
+rd_n4srl6c	Founders would pay for micro tools like Slack link digests and page diff monitors	founders	explicit	3	productivity & work
+rd_owv8d57	Getting two displays to show the same colors is a nightmare	photographers	none	3	media & content
+rd_oa202ia	Product designers sending specs to factories lose version control across Figma, Sheets, email and Slack	product designers	implied	4	commerce & marketplaces
+rd_p2s4fgt	Developers want an API listing subdomains by CNAME sorted by recency	developers	implied	2	developer tools

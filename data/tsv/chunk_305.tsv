@@ -1,0 +1,79 @@
+rd_olgkr9r	Domain registrar charged USD but credited CAD and support didn't fix it	domain owners	none	2	developer tools
+rd_oa0ilu0	Support teams drown in long threads, duplicate tickets and unclear context	support teams	implied	3	SMB & back-office
+rd_osnxvmj	Shopify payouts make books nearly impossible to do manually and tax rates error-prone	Shopify bookkeepers	implied	4	finance & money
+rd_o9uoiwj	Keeping a deck consistent when multiple people edit it is hard	teams	implied	2	productivity & work
+rd_n3nn9z6	Realtors would pay for qualified seller leads	realtors	explicit	3	SMB & back-office
+rd_p260vjf	Etsy shoppers can't block AI-generated listings or sellers	Etsy shoppers	implied	3	commerce & marketplaces
+rd_ooey542	Staying compliant with EU cookie and consent regulations on Shopify is a nightmare	EU Shopify merchants	implied	4	legal & government
+rd_o9tk1ig	Paid search campaigns lack downstream proof of qualified trials and activation	SaaS marketers	implied	3	data & analytics
+rd_n3bldk6	Freelancers want a receipt inbox that reads PDFs from email and outputs a monthly categorized CSV	freelancers	implied	4	finance & money
+rd_oob98j1	Unmanaged staff devices touching sensitive data are an MSP nightmare	MSPs	none	3	security & privacy
+rd_okyvo6v	Founders in Stripe-blocked countries must find a merchant of record	international founders	implied	4	finance & money
+rd_o9om3g5	Scraped leads are cold by the time data is cleaned	SMB sales teams	implied	3	SMB & back-office
+rd_ozrri95	Pushing company contacts into everyone's Outlook broke after Exchange Online migration	sysadmins	implied	2	devops & infra
+rd_omrse02	AvePoint is a nightmare to set up and its billing doesn't suit MSPs	MSPs	none	2	devops & infra
+rd_o9oigl4	Support AI agents hallucinate pricing and feature availability	SaaS support teams	implied	4	AI & ML tooling
+rd_ozhe1l4	IRS has no formal escalation route as efficiency collapses	tax professionals	implied	3	legal & government
+rd_olmjv1m	AI ticket-triage tools with broad tenant read access are a security risk	MSPs	implied	3	security & privacy
+rd_oknfeqd	Rolling out staff MFA in K-12 districts is a huge pain	school IT	none	3	security & privacy
+rd_okvdu49	Evaluating speech-to-text and TTS providers is a nightmare as models change quarterly	AI developers	implied	3	AI & ML tooling
+rd_oklp7iy	Locally edited files invalidate Microsoft-signed configs	sysadmins	none	2	devops & infra
+rd_o9miya9	AI visibility tools track mentions but give no guidance on what to fix	marketers	implied	3	media & content
+rd_o9jxivp	Small contractors lose track of labor hours and travel time between sites and back office	small contractors	implied	4	SMB & back-office
+rd_oyb1671	Microsoft support has no good escalation route	sysadmins	implied	3	devops & infra
+rd_ok2a7mf	Keeping paging working in Jira Service Management is a nightmare	DevOps engineers	none	3	devops & infra
+rd_ok5d2qi	Managing Instagram and TikTok posting in-app is painful	small businesses	implied	2	media & content
+rd_n18hdpk	Founders would pay to unify fragmented martech	founders	explicit	3	media & content
+rd_owtrvs6	Counting cash by hand takes small business owners lots of time	small business owners	implied	3	SMB & back-office
+rd_ofr7p6n	Reselling homes in subdivisions still under construction is a nightmare	realtors	none	3	consumer & home
+rd_o9gwpjt	Per-message WhatsApp pricing is brutal at scale	businesses	implied	3	communication & social
+rd_ovkknzg	Users want to use a tablet as a second monitor easily	remote workers	implied	1	hardware & IoT
+rd_ofezqse	Two-node Storage Spaces Direct is a nightmare	sysadmins	none	3	devops & infra
+rd_ojod2da	E-ink tablets refresh too slowly to pan and zoom CAD drawings on jobsites	general contractors	none	2	hardware & IoT
+rd_n0mqv9l	BDR teams juggle Outreach, Gong and forums yet reps freeze on edge-case objections	BDR teams	explicit	3	SMB & back-office
+rd_o9di40b	Hiring UGC creators for ads is costly and slow	ecommerce marketers	implied	3	media & content
+rd_n0eqd86	Founders would pay for vetted 30-minute mentor sessions with concrete deliverables	founders	explicit	3	education & learning
+rd_ouc1pp6	AI video tools burn credits on renders that ignore the prompt	AI video creators	implied	3	AI & ML tooling
+rd_oefxh5u	WSUS patching database is fragile and needs third-party scripts to keep running	sysadmins	implied	4	devops & infra
+rd_oicnfg6	SaaS teams can't see whether dunning-recovered revenue actually hits the bank	SaaS finance teams	implied	3	finance & money
+rd_o94nt0s	Small ecommerce stores can't get repeat customers without constantly paying for ads	ecommerce stores	implied	4	commerce & marketplaces
+rd_oi874w1	Bridging legacy car wash hardware and modern SaaS is a huge pain	car wash operators	implied	3	hardware & IoT
+rd_o93o3ui	AI customer service agents lose context and hallucinate confidently	CX teams	implied	4	AI & ML tooling
+rd_mzv5urr	Consumers would pay for themed holiday decoration packages	consumers	explicit	2	consumer & home
+rd_ohomhjx	CRMs charge extra for API access just to export your own customer data	small businesses	implied	3	SMB & back-office
+rd_oca2syc	Experienced accountants abroad get no replies to job applications	accountants	none	3	hiring & careers
+rd_oh5bfvg	Founders must find co-investors through their own network to satisfy lead VCs	founders	none	2	finance & money
+rd_o8x21b3	Agencies managing many PPC accounts do too much manual Google Ads reporting	PPC agencies	implied	4	data & analytics
+rd_obsp0q3	Daily ACH loan pulls plus withholding errors drain small business cash	small business owners	none	4	finance & money
+rd_o8kle3j	Jira Service Management lacks SLA tracking across ticket types	IT service desks	implied	3	devops & infra
+rd_mxlqrpd	People want to outsource small daily decisions like outfits	consumers	implied	2	consumer & home
+rd_ory7t8b	Shopify merchants can't prevent fraudulent small-item orders, only auto-cancel	Shopify merchants	implied	3	commerce & marketplaces
+rd_o8ujq37	Shortened certificate lifetimes are a nightmare for Azure App Gateway setups	sysadmins	implied	4	security & privacy
+rd_og0cn8d	Data residency across global regulations is a huge pain	SaaS teams	implied	3	legal & government
+rd_o86tm8f	Keeping perineal wound vacs clean is a nightmare	nurses	none	2	health & fitness
+rd_ofwtv5n	Janitorial companies can't track who is actually on site across the city	janitorial business owners	implied	4	SMB & back-office
+rd_o87d28x	Small businesses struggle to make visuals that don't look bad	small businesses	implied	3	media & content
+rd_org9yon	Admins can't set Control Panel default view by policy	sysadmins	implied	1	devops & infra
+rd_ofp7675	People moving internationally would pay to have all belongings sold and donated for them	people relocating	explicit	3	consumer & home
+rd_o86xhk2	OKR tools leave orphaned objectives that don't ladder up	managers	implied	2	productivity & work
+rd_oqql03b	People want a niche-based app to network with passionate peers	entrepreneurs	implied	2	communication & social
+rd_oqmflx3	Teams with 20+ multi-TB databases want help auditing tables and scripts	DevOps teams	implied	3	devops & infra
+rd_o1wks2m	Startups with no users run 200 lambdas and $3k/mo AWS bills	startups	none	3	devops & infra
+rd_of2j5da	Separating personal and business calls is painful without a business number	small business owners	implied	2	communication & social
+rd_muwdwml	Owners would pay to filter out idea-fishing posts in small business subs	small business owners	explicit	1	communication & social
+rd_oeywliv	Splunk cloud and on-prem feel like 1995 and need many add-ons	sysadmins	implied	3	devops & infra
+rd_o7kg9l7	Wholesale sellers need a B2B portal with customer-specific pricing instead of full ecommerce	wholesale sellers	implied	3	commerce & marketplaces
+rd_ny8vm1s	Microsoft APIs return 200 on incomplete operations, making debugging a nightmare	developers	none	3	developer tools
+rd_o7h45hn	Support agents spend 12 minutes gathering context across Zendesk, Salesforce and billing	support agents	implied	4	SMB & back-office
+rd_mryo0l7	Non-marketers want step-by-step marketing plans anyone can implement	founders	implied	3	media & content
+rd_nxk1v21	Dental startups waste $80k on unnecessary setup	dentists	none	3	health & fitness
+rd_mrlxc38	Math teachers would pay for a tool that grades photos of student work and comments on errors	math teachers	explicit	4	education & learning
+rd_o74uxpq	Separate providers for hosting, email and support finger-point when issues arise	small businesses	implied	3	devops & infra
+rd_mrii9co	Moving servers without insurance cover is risky	sysadmins	explicit	2	devops & infra
+rd_onc42au	Accountants want to lock QBO reports so clients stop changing them	accountants	implied	3	finance & money
+rd_nx7k4te	SOC 2 audit prep costs $50-200k and is a nightmare	startups	explicit	4	security & privacy
+rd_odyvjnk	Cross-border fees and holds pile onto accounting workload	small businesses	implied	3	finance & money
+rd_o72ro84	Small teams burn weeks on data integration when moving analytics stacks	small teams	implied	3	data & analytics
+rd_mqzt2do	Founders would pay for competitor research and feedback on their app	founders	explicit	2	SMB & back-office
+rd_omk2t6o	Merchants want to restrict high-risk customers to safer payment methods	Shopify merchants	implied	3	commerce & marketplaces
+rd_nwedhp8	Allocating company phone charges from carrier invoices is a nightmare	accountants	implied	3	finance & money
