@@ -1,0 +1,50 @@
+rd_ntjnv1j	Autodesk Fusion is painful to silently install and update on classroom PCs, and updates break file compatibility	school IT admins	none	3	devops & infra
+rd_nhdudrc	Mini-PC makers don't ship verifiable Windows licenses; MSPs would pay $50 each	MSPs	explicit	2	hardware & IoT
+rd_no33edb	Owners spend hours weekly chasing late invoices	small business owners	implied	3	finance & money
+rd_m414ymf	ECS agent fails under AppArmor on Ubuntu 24.04	DevOps teams	none	2	devops & infra
+rd_o5pu84q	Short-term rental hosts field early check-in questions that depend on calendar availability	short-term rental hosts	implied	2	travel & local
+rd_nkytrsh	Link-in-bio tools list links but don't help creators test and optimize conversions	creators	explicit	3	media & content
+rd_p4lmbz4	Controllers' teams are overwhelmed by manual T-account work	corporate accounting teams	implied	3	finance & money
+rd_ny4817w	Few providers offer CSV upload plus enrichment via API; they are either raw APIs or closed platforms	outbound sales engineers	implied	3	SMB & back-office
+rd_19skqph4zdg02	There's no good way to keep a hot standby for email across providers	sysadmins	none	3	devops & infra
+rd_og8gime	Startups struggle to structure advisor relationships	startup founders	none	2	SMB & back-office
+rd_mq3yj7m	Private label suppliers require 500+ unit MOQs, blocking small starts	new product brands	implied	3	commerce & marketplaces
+rd_o7pvdkb	Team shared mailboxes lose responses in random folders	finance teams	none	2	communication & social
+rd_o9et7dg	Shopify inventory lacks burn rate, last-order history, multi-location pull lists and reorder suggestions	Shopify retailers	implied	4	commerce & marketplaces
+rd_n01l3wa	Startups move millions through bank accounts with no accounting software, just hundreds of manual Excel invoices	startup accountants	none	4	finance & money
+rd_n4uziax	Name generators spit out garbage without real context and filters	founders	explicit	2	media & content
+rd_p4fs32c	Founders want a tool to track funnel behaviour	SaaS founders	implied	2	data & analytics
+rd_nf3pk0k	Teams need to verify data in specific regions of standardized PDFs	operations teams	implied	3	AI & ML tooling
+rd_nvxbq3d	Social monitoring tools struggle with false positives	SaaS teams	implied	3	media & content
+rd_p69m9zi	There's no good way to connect Copilot and SAP	enterprise IT	implied	3	AI & ML tooling
+rd_ofdmfzm	Event production teams live in spreadsheet hell for operational and contract data	event producers	implied	3	SMB & back-office
+rd_oz0cop2	Shift swaps and dynamic scheduling are still manual; no self-service platform enforces coverage rules	service and retail businesses	implied	4	SMB & back-office
+rd_ng7auep	Users want a promised Android app timeline	app users	none	1	consumer & home
+rd_ng5js0	Nobody can easily judge a cosmetic dentist's quality	dental patients	explicit	3	health & fitness
+rd_o11e283	Founders want posts filtered by pain, budget and urgency and synced to HubSpot or Notion as leads	founders	explicit	4	SMB & back-office
+rd_o575nbz	Realtors waste hours calling back unqualified leads	realtors	implied	3	SMB & back-office
+rd_nwtbqow	Residential service no-shows aren't fixed by reminder automation	home service businesses	none	3	SMB & back-office
+rd_o3e42xy	Job boards with entry fees but few jobs aren't worth paying for	freelancers	explicit	2	hiring & careers
+rd_msfxyp9	IT buyers want a filterable directory of all tech vendors	IT teams	implied	3	devops & infra
+rd_nuoz7c0	Teams lose meeting decisions and rationale across scattered notes	product and engineering teams	implied	4	productivity & work
+rd_opsmx5s	Zabbix is hard to learn after PRTG	sysadmins	none	2	devops & infra
+rd_of7vuta	Ecommerce sellers need help with bulk product uploads, catalog cleanup and data entry	ecommerce sellers	implied	3	commerce & marketplaces
+rd_p7cmkae	Clinics and barber shops make customers sit in waiting rooms instead of queuing virtually	clinics and barbers	implied	3	health & fitness
+rd_nz1b5ux	Simple IT tools hide behind Contact Us sales processes instead of self-serve purchase	sysadmins	explicit	3	devops & infra
+rd_nxyjjeo	ServiceTitan and Jobber are overpriced for solo tradespeople	solo tradespeople	implied	3	SMB & back-office
+rd_o480swk	Founders need to check whether people with a problem can pay and be reached	founders	none	2	SMB & back-office
+rd_p0gvttv	Founders want automated churn surveys and win-back discounts with reason analytics	SaaS founders	implied	3	SMB & back-office
+rd_nu4bnoj	MSPs want walkthrough videos turned into step-by-step manuals; tools are expensive or Chrome-only	MSPs	implied	3	productivity & work
+rd_ol93y4o	VMware alerts don't become tickets for SLA tracking	sysadmins	none	2	devops & infra
+rd_op95no4	AP teams struggle to make AI scan invoices and match them to POs	AP teams	none	3	finance & money
+rd_of5z4at	European SMBs have the same spreadsheet hell and manual processes as US firms	European SMBs	implied	3	SMB & back-office
+rd_orp4s0j	Job seekers spend 10 hours a week tailoring resumes	job seekers	explicit	3	hiring & careers
+rd_nyjhenv	Form builders lack robust conditional logic and payment processors beyond Stripe	form builders' users	implied	3	productivity & work
+rd_n86ztzw	Cooks want a tool that trims fat off cuts of meat	home cooks	explicit	2	consumer & home
+rd_o200w8w	SaaS buyers fear hidden migration pain; want feature diffs and migration playbooks	SaaS buyers	explicit	3	productivity & work
+rd_n775gvl	Founders want to test an idea against the market before building an MVP	founders	implied	3	SMB & back-office
+rd_ntmkft5	Clay's credit burn gets expensive for enrichment	outbound teams	implied	3	SMB & back-office
+rd_ol3joy7	Exhibitors collect about 100 cards per trade show with no good way to store and follow up	trade show exhibitors	implied	3	SMB & back-office
+rd_ooepa37	Growing companies have no established way to submit IT tickets	growing companies	none	2	devops & infra
+rd_mzsig7o	It's hard to find restrooms in New York City	city residents	implied	2	travel & local
+rd_ncq49xc	Founders want an app to collect user feedback	founders	implied	2	productivity & work

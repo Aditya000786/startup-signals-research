@@ -1,0 +1,63 @@
+rd_oax3y82	EU VAT validation via VIES goes down, lacks retries, and leaves no audit proof or history	EU SaaS and ecommerce	implied	4	finance & money
+rd_oaha7bb	Atera billing and ticketing don't scale for MSPs	MSPs	none	3	devops & infra
+rd_mzyykhn	Buyers can't judge real estate agents because only closing prices are visible	home buyers and sellers	implied	3	travel & local
+rd_na6v078	Homeowners have no idea how to do trade work and the tradespeople are booked weeks out	homeowners	none	3	consumer & home
+rd_ocqbdoq	Small teams explain the same procedures 50 times because nothing is documented	small business owners	implied	3	productivity & work
+rd_orus1k1	Non-technical teams need readable migration and upgrade docs; developer-written docs are too dense and AI output is generic	non-technical teams	explicit	4	productivity & work
+rd_ph9qzd8	Contractors lose track of material orders and deliveries jotted on scrap paper	contractors	explicit	4	SMB & back-office
+rd_orue28k	Founders can't tell recurring customer feedback from one-off requests across support, calls, emails and reviews	founders	explicit	4	productivity & work
+rd_nv63pje	People want automated weekly meal plans with grocery lists	busy consumers	implied	2	health & fitness
+rd_myfkwni	IT teams can't track small physical assets like chargers, docks and cables with RMM tools	IT teams	implied	3	devops & infra
+rd_oath93d	DevOps teams juggle many tools' findings and want one unified platform	DevOps teams	implied	3	devops & infra
+rd_o97crhf	Startups spend $400+/month on analytics and GA4 still misses 20-30% of traffic	SaaS teams	implied	4	data & analytics
+rd_o5pf7pp	Sellers spend hours weekly pulling Shopify and Amazon reviews into spreadsheets and tagging complaints by hand	ecommerce sellers	implied	4	commerce & marketplaces
+rd_o3mamlt	Traditional ERPs are inflexible and every customization costs thousands	enterprises	implied	3	SMB & back-office
+rd_olnmysl	AP workflows live outside the accounting system across email, Slack and Excel	AP teams	implied	4	finance & money
+rd_n7p5y6z	Sending 100-200k branded SMS a month in Germany runs into strict sender-ID and opt-in rules	German businesses	implied	3	communication & social
+rd_obgns7q	Families want AI-personalized travel itineraries that balance each member's interests	families	implied	3	travel & local
+rd_n5ip7rr	AI tax research tools give inconsistent answers on state conformity and can't export results	tax accountants	implied	4	finance & money
+rd_o9ymrgh	Home buyers want inspection reports and floorplans up front	home buyers	implied	3	travel & local
+rd_n53l9km	Districts force teachers to install 2FA apps on personal phones	teachers	none	2	education & learning
+rd_myhkefr	Professionals would pay thousands for help landing a better job and a raise	data professionals	explicit	3	hiring & careers
+rd_o6e3xfm	Admins manage NVIDIA drivers on mixed GPU fleets without good tooling	sysadmins	implied	3	devops & infra
+rd_o610rfo	SaaS marketers want competitive intelligence on why LLMs recommend competitors, not vanity mention counts	SaaS marketers	explicit	4	media & content
+rd_mqppyso	Apps embed AI APIs with little oversight of end-user usage and cost	app developers	none	3	AI & ML tooling
+rd_mrkqeka	Search engines are full of AI slop, making trustworthy technical info hard to find	sysadmins	none	3	media & content
+rd_npccll4	Owners spend hours weekly sending follow-up reminders to leads, clients and partners	small business owners	none	3	SMB & back-office
+rd_okdz6qc	Founders pay for Apollo plus video tools to personalize outreach	startup founders	explicit	2	SMB & back-office
+rd_nu6uiql	Companies using VAs need organized SOP manuals	companies using VAs	none	2	productivity & work
+rd_msrp89o	Local businesses use spreadsheets for nearly everything and don't know automation exists	local businesses	implied	3	SMB & back-office
+rd_pdukspc	Ecommerce teams trace product data mismatches across store, schema, feed and Merchant Center by hand	ecommerce teams	implied	3	commerce & marketplaces
+rd_o4u5yix	Startups buy Salesforce too early when spreadsheets would do	startups	none	2	SMB & back-office
+rd_njfni8z	Admins hate Azure and Power Platform management and the OneDrive admin experience	sysadmins	none	3	devops & infra
+rd_o0il10j	Email marketing software is overpriced and ripe for disruption	small businesses	none	3	media & content
+rd_n8qf5kl	Cash reconciliation is a nightmare when staff record transactions late	accountants	none	3	finance & money
+rd_oldmh4b	Management accountants and finance ops fix broken spreadsheets at month end	finance ops teams	implied	4	finance & money
+rd_n38xir3	Solo owners can't decide between QuickBooks and Zoho	solo business owners	implied	2	finance & money
+rd_n2x8ac6	Accountants still process documents by hand because OCR isn't accurate enough	accountants	implied	3	finance & money
+rd_mu43482	Kubernetes does surprising things with no good way to prevent them	DevOps teams	none	3	devops & infra
+rd_mi93wu2	Consumers would pay for an essentials subscription box (socks, boxers, toothbrush, razor)	consumers	explicit	2	consumer & home
+rd_n1ybjhg	Scheduling tools for X handle threads and recurring posts badly	creators	implied	2	media & content
+rd_me9xrgb	On-prem SharePoint is a nightmare to run and Microsoft support is poor	sysadmins	none	3	devops & infra
+rd_ogu391x	Pro Tools needs hardware keys and local admin just to open	sysadmins	none	2	media & content
+rd_o3mu854	Pairing two Owl conference cameras for long rooms gives choppy video	IT admins	none	2	hardware & IoT
+rd_lzlv8hi	Tradespeople waste hours fighting worn-out tools	construction crews	none	1	SMB & back-office
+rd_np79fqn	Sellers spend hours weekly repackaging product messaging for different audience personas	small product sellers	implied	3	media & content
+rd_ntay5an	Brands lose testing speed managing UGC creators (deadlines, file naming, rights, versions)	DTC brands	implied	4	media & content
+rd_oa6loxu	Shopify merchants want a process automated without email	Shopify merchants	implied	2	commerce & marketplaces
+rd_o3bjnnh	Teams burn 40% more on manual data shuffling between analytics tools, and Zapier per-step pricing gets expensive	data teams	implied	3	data & analytics
+rd_nsfn6cu	Sellers pay 4% commissions for minimal realtor work	home sellers	none	3	travel & local
+rd_ms2i7up	Invoice automation breaks when invoices arrive in email bodies or behind download links	accountants	implied	3	finance & money
+rd_mtwiuvh	English teachers can't automate essay grading and must verify AI feedback	English teachers	implied	4	education & learning
+rd_n07adkv	Rare domain setups break group policy replication tooling	sysadmins	none	2	devops & infra
+rd_oarer2q	Rolling CA certificates out to hundreds of non-domain systems is painful	sysadmins	none	3	security & privacy
+rd_ozlp1c5	Dentists lose time and stress to frivolous board complaints	dentists	none	3	health & fitness
+rd_m51799k	Replacing chipped car keys costs up to $500 at the dealer	car owners	explicit	2	consumer & home
+rd_nwy4rhb	Departing employees' unmanaged iPhones waste IT time	IT admins	implied	3	devops & infra
+rd_19rw8ltdlw1es	Deep tech founders can't find their first pilot customer when the market doesn't exist yet	deep tech founders	none	3	SMB & back-office
+rd_19skx7lbvq351	Copilot is confidently wrong on hard problems and wastes hours	sysadmins	none	3	AI & ML tooling
+rd_ouifqke	Overseas colleagues paste unverified AI responses in meetings	IT teams	none	2	communication & social
+rd_oegt0xx	Audio-to-video tools produce visuals that clash with the story's mood; podcasters want style presets and locked recurring scenes	podcasters	implied	3	media & content
+rd_nt9gguu	Agents match buyer needs through scattered WhatsApp and Facebook groups; a buyer-needs marketplace is missing	real estate agents	implied	4	travel & local
+rd_o9b11gl	Shopify merchants want suppliers to log in, see orders and update tracking that syncs back	Shopify merchants	implied	4	commerce & marketplaces
+rd_n66ejgj	Offline spreadsheet risk registers are poor for MSPs	MSPs	implied	2	security & privacy

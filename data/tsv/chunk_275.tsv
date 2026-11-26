@@ -1,0 +1,50 @@
+rd_o0mbqc8	Merchants of record can drop SaaS founders based on their own risk appetite (policy lock-in)	SaaS founders	none	3	finance & money
+rd_mcgn6kg	Printix can't switch the default printer by site, so admins script it	sysadmins	none	2	devops & infra
+rd_mddjtrm	Restaurant bookkeeping and tipped payroll are a nightmare	restaurant accountants	none	4	finance & money
+rd_ojxmd87	Founders lose afternoons cleaning lead lists	founders	none	2	SMB & back-office
+rd_n2mrwvp	Car dealers post inventory to social media by hand	car dealerships	implied	3	media & content
+rd_petz68v	Accountants manually reconcile payroll requests against payroll for missing, duplicate and mismatched entries	payroll accountants	implied	3	finance & money
+rd_mqlv28c	Windows taskbar icons shift when the overflow arrow appears, causing misclicks	Windows users	none	1	productivity & work
+rd_msnu74v	Intune syncs slowly and can't be forced like ConfigMgr	sysadmins	none	3	devops & infra
+rd_obo3wmm	Founders can't attribute signups to specific Reddit posts and other organic sources	SaaS founders	explicit	4	data & analytics
+rd_ns7gtzn	Owners want an app that triages incoming work into now, later and ignore	small business owners	implied	3	productivity & work
+rd_o3j6mc2	Engineers want git analytics on file churn, few committers and co-commit coupling	developers	implied	2	developer tools
+rd_o0fng10	Support suggestion tools are too rigid or overpriced, so teams build their own	support teams	implied	3	AI & ML tooling
+rd_ncsw1j1	Radon systems cost too much, geothermal HVAC installers are scarce, and hydroponic water pumps lack redundancy	homeowners and growers	implied	3	consumer & home
+rd_mboqbi5	Contractors juggle different regulations in every municipality and get nuisance fines	contractors	none	3	legal & government
+rd_ojqp4df	Small brands can't tell which creator posts actually drive sales	small brands	implied	3	media & content
+rd_mzjzlu3	Tracking micro-influencer sales and revenue-share commissions gets messy	small brands	implied	3	media & content
+rd_onnnntn	Independent operators manage something manually because aggregators are expensive or built for chains	independent businesses	implied	3	SMB & back-office
+rd_mq6of4j	IT staff need separate Teams tenants to avoid being pinged directly	IT support teams	none	2	communication & social
+rd_mwply0k	Badge systems can't measure attendance reliably	HR and IT teams	none	2	SMB & back-office
+rd_mrat6b5	Solopreneur artists fear tariffs will put them out of business	small makers	none	3	commerce & marketplaces
+rd_ndtjltz	SaaS teams waste hours working out international signup compliance and document needs	SaaS teams	implied	3	legal & government
+rd_n8pfk8q	Founders spend hours weekly answering the same support questions	founders	implied	3	SMB & back-office
+rd_nn3o9xb	Small brands can't afford brand-protection agencies to monitor marketplaces for counterfeits	small brands	explicit	4	commerce & marketplaces
+rd_o148yap	Nurses can't tell which charts have new orders that need prompt review	hospital nurses	implied	3	health & fitness
+rd_p6m1fmi	Dentists lack reliable tools to measure distances on periapical X-rays	dentists	implied	2	health & fitness
+rd_nyuiq2g	Portrait retouching (frequency separation, dodging) takes forever; existing tools fall short	portrait photographers	implied	3	media & content
+rd_nzq138x	Outbound tools excel at either data quality or engagement, never both	sales teams	none	2	SMB & back-office
+rd_ohqywzx	Paying contractors in crypto each month means chasing wallet addresses over Telegram with errors	crypto startups	implied	3	finance & money
+rd_mxj1hhk	Teams struggle to keep documentation up to date	IT teams	implied	2	productivity & work
+rd_olwvcyr	Refund requests eat founders' mornings	SaaS founders	implied	3	SMB & back-office
+rd_mpzpizt	Hospitals have no good way to handle personality-disordered patients who weaponize complaints	nurses	none	3	health & fitness
+rd_m0a55gf	Outsourced call-center CPAs give no help with state or sales tax; owners want a local CPA	small business owners	explicit	3	finance & money
+rd_o7uvgww	Small businesses need help handling fake or disparaging reviews, not review requests	small business owners	explicit	4	SMB & back-office
+rd_p8h1toz	Businesses won't put core operations on early-stage software	SaaS founders	none	2	SMB & back-office
+rd_nnytf4f	Founders want a tool that builds a SaaS from an existing ERD	founders	implied	2	developer tools
+rd_nzkjkat	Production browser automation breaks with weekly DOM changes and bot detection	data engineers	implied	4	developer tools
+rd_19sxfhlah581x	24/7 operations have no good way to hold an all-staff holiday party	HR teams	none	2	SMB & back-office
+rd_ogk3kat	Tiny businesses outgrow spreadsheet billing at 5-10 clients but find QuickBooks too complex	freelancers and tiny businesses	implied	3	finance & money
+rd_mutl2yq	Canadian freelancers can't easily send quotes and invoices with the correct taxes	Canadian freelancers	implied	3	finance & money
+rd_nhbdagy	Founders need alerts when their product is mentioned negatively on Reddit	SaaS founders	implied	3	media & content
+rd_n6zrji7	Archived-license costs for compliance retention add up in M365 and Google Workspace	IT admins	none	2	SMB & back-office
+rd_lzcp5ii	Boat owners would pay for on-water fuel delivery	boat owners	explicit	3	consumer & home
+rd_nl0hdi7	Overnight boarding for large dogs is expensive and hard to find	dog owners	explicit	3	consumer & home
+rd_nm8tsaj	Admins want a tool that audits a whole M365 tenant for security issues and sprawl	sysadmins	implied	3	security & privacy
+rd_nz62e9i	Businesses don't know when ChatGPT fails to recommend them	small businesses	implied	3	media & content
+rd_mxzljm2	Science and engineering software is old, hard to use and very expensive	scientists and engineers	implied	4	developer tools
+rd_lxnfdcp	Running small-group instruction while the rest of the class works alone is a nightmare	elementary teachers	none	3	education & learning
+rd_ogiq2qc	Multi-channel sellers manage website, eBay and TikTok manually	multichannel sellers	implied	3	commerce & marketplaces
+rd_p9v3iuv	Fitness fans want livestreamed workouts like Twitch	fitness fans	implied	2	health & fitness
+rd_n59142t	ERs have to care for intoxicated patients with nowhere else for them to go	ER nurses	none	3	health & fitness

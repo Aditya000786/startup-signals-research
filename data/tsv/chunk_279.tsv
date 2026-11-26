@@ -1,0 +1,56 @@
+rd_ohc5xzw	Founders struggle to find hair-on-fire problems in people's own frustrated language	founders	implied	2	data & analytics
+rd_nebck0h	Brands juggle 12+ disconnected marketing tools	marketing teams	implied	3	media & content
+rd_o94vhso	CRM revenue forecasts reflect rep optimism rather than real close rates and payment timing	SaaS finance teams	implied	3	finance & money
+rd_pbgyw8x	HR intranets on Google Sites lack versioning, last-updated stamps and audience targeting	HR teams	implied	3	SMB & back-office
+rd_o7bqm5y	Google Workspace third-party apps demand tenant-wide access with little granularity	IT admins	none	3	security & privacy
+rd_p22byy9	Jenkins plugins and credentials management are painful	DevOps teams	none	3	devops & infra
+rd_mt4l16m	Customers would pay extra for same-day service appointments	consumers	explicit	2	travel & local
+rd_19s2zey6qvpk3	Designers spend hours in Figma making on-brand LinkedIn carousels; AI image tools look unprofessional	B2B marketers	implied	3	media & content
+rd_pd8i4ly	Marketers would pay for a full report of competitors' digital marketing activity	marketers	explicit	3	data & analytics
+rd_o8l874w	Sales teams waste hours researching lead activity for personalized hooks	sales teams	implied	3	SMB & back-office
+rd_n3m4r6m	Teachers would pay someone to organize their classroom layout	teachers	explicit	2	education & learning
+rd_m5t88ve	Photographers need to remove light flicker banding from photos	photographers	implied	3	media & content
+rd_nd97kwr	Voice AI for inbound qualification and outbound follow-up is too rigid or needs developers	small businesses	implied	3	communication & social
+rd_lviv8mv	QBO bill pay is slow and can't request vendor payment details	small businesses	none	2	finance & money
+rd_o6hbhli	Nurses applying to CRNA programs track prerequisites in spreadsheets	ICU nurses	implied	2	education & learning
+rd_n90tp8v	Founders want a tool that analyzes communities to show demand for an idea	founders	implied	3	data & analytics
+rd_octkddk	Preparing 1095-C forms manually for 80 employees is a nightmare	small business accountants	none	3	finance & money
+rd_p28xxaw	QuickBooks Online made bank errors with useless support, but migrating away is painful	small businesses	implied	3	finance & money
+rd_ox7aodn	Fixed asset depreciation is a bottleneck at close	accountants	none	3	finance & money
+rd_pcuphpd	Owners would pay for a fixed weekly service that cleans the same messy export into a report	small business owners	explicit	4	data & analytics
+rd_o8b6zqz	Teams can't organize customer feedback because someone must manually categorize it	product teams	implied	4	productivity & work
+rd_n2zlb5o	Fiverr delivers underwhelming results; owners would pay a premium for a reliable service	small business owners	explicit	3	SMB & back-office
+rd_n6uuutl	QBO reconciliation logic misses refunds and recurring bills, forcing manual CSV matching	accountants	implied	4	finance & money
+rd_pdprnm1	There's no systematic way to pull amounts for cash flow statement lines	accountants	none	3	finance & money
+rd_ocsvubj	SharePoint needs a full-time admin in a reasonably sized org	IT teams	none	3	productivity & work
+rd_o6afqob	Brands hunt influencers via spreadsheets and cold DMs	brands and agencies	implied	3	media & content
+rd_lvwvh5e	Containerized legacy Windows apps are atrocious to run in Kubernetes	DevOps teams	none	3	devops & infra
+rd_or4wgi4	Shopify's built-in PO system has no API access	Shopify merchants	implied	3	commerce & marketplaces
+rd_o7a7r4q	Teams waste hours weekly on spreadsheet-based approval workflows	B2B teams	implied	3	productivity & work
+rd_lxr351a	Nurses calling doctors' offices to go over orders reach MAs instead of nurses	home health nurses	none	2	health & fitness
+rd_n1p9m81	Voice agents have killer latency from sequential processing	AI product teams	implied	3	AI & ML tooling
+rd_o8gcp8v	Website builder Homestead lost billing records	small businesses	none	2	SMB & back-office
+rd_o5x72zk	Teams stuck in spreadsheet hell want a single cheap dashboard pulling from all systems	small businesses	implied	3	data & analytics
+rd_n6qa4fg	Moving six services to Kubernetes with Istio and CI/CD took twice as long as planned	small dev teams	implied	4	devops & infra
+rd_nrxonmb	Teams build in-house hardened container image pipelines on a budget	DevOps teams	implied	3	security & privacy
+rd_nwthrmj	Multi-location businesses struggle to balance HQ and local social posts	multi-location businesses	implied	3	media & content
+rd_19rmo87wxu8o5	Developers would pay for faster debugging instead of digging through logs	developers	explicit	3	developer tools
+rd_mhaoz87	QuickBooks workstations can't be updated unattended, and single-user mode locks are hard to trace	sysadmins	implied	3	finance & money
+rd_o4ob8rc	PRs sit unreviewed; teams struggle to establish code review culture	engineering teams	none	3	developer tools
+rd_mpotjik	Admins would pay to avoid four hours patching a handful of servers	sysadmins	explicit	3	devops & infra
+rd_m1mb3o7	Job sites track mud onto roads; deployable automated wheel-wash racks are missing	contractors	implied	2	SMB & back-office
+rd_mx13cx7	Deploying real-time voice agents with OpenAI and LiveKit takes too much infra work	AI developers	implied	3	AI & ML tooling
+rd_o62pet7	Legal subscription services keep charging after cancellation	consumers	none	3	consumer & home
+rd_o5t8x7q	Managing many contractors across currencies and tax in spreadsheets is hell	companies with contractors	implied	3	SMB & back-office
+rd_lylfk8p	Contractors want a shared list of problem clients	contractors	implied	2	SMB & back-office
+rd_oh6o1p0	Cannabis businesses struggle with 280E COGS allocation and documentation	cannabis accountants	implied	4	finance & money
+rd_19rk0dkbaahep	Founders would pay $2-3k for vetted B2B customer interviews with recordings and screener data	B2B founders	explicit	4	productivity & work
+rd_p8lgdwz	Isolated older adults decline quickly; adult children would pay for wellbeing support	adult children of seniors	explicit	4	health & fitness
+rd_o5by9y6	Teams can't track which AI prompts they win citations in	marketers	implied	3	media & content
+rd_npw9d02	Nurses can't find a list of local discounts for healthcare workers	nurses	implied	2	consumer & home
+rd_mf3305x	App owners want commission-based growth partners	app founders	explicit	2	SMB & back-office
+rd_lw9j00o	Families want to swap faces between near-identical group photos	amateur photographers	implied	2	media & content
+rd_mot7b1u	Microsoft Graph API search limits force teams to build their own indexing	enterprise IT	implied	3	devops & infra
+rd_o4oji3s	Startups map data retention policies to SOC 2 controls in spreadsheets	dev-tool startups	implied	4	security & privacy
+rd_o7rhzos	New graduate nurses need a dedicated first-year support network	new grad nurses	implied	3	health & fitness
+rd_ogmw7uk	Dental offices and students struggle to get last-minute coverage	dental professionals	none	3	health & fitness

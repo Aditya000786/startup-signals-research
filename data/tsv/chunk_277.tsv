@@ -1,0 +1,51 @@
+rd_nv7m9m7	Drilling and energy supply businesses lack specialized software	industrial energy suppliers	implied	3	SMB & back-office
+rd_n4kxfwv	Founders want cheap, extensive market research on an idea	founders	explicit	2	data & analytics
+rd_msg58oy	MS SQL Server per-core licensing forces costly multi-year migrations to Postgres	SaaS engineering teams	implied	4	devops & infra
+rd_n66tx7c	A single Google Business Profile change irreversibly killed an ecommerce store's national traffic	ecommerce businesses	none	3	media & content
+rd_o0kgkv7	Video clipping tools miss good hooks and produce captions needing constant fixes	video creators	explicit	3	media & content
+rd_oyq7key	Shippers compare carrier invoices against expected costs by hand per shipment	small shippers	implied	3	commerce & marketplaces
+rd_ntlll68	Contact enrichment providers have falling match rates and restrictive API limits	sales teams	implied	3	SMB & back-office
+rd_oahkhbt	M365 has no built-in report of file sharing without paying for Purview	sysadmins	implied	4	security & privacy
+rd_ob8ovft	General-purpose AI agents are nightmares to debug and maintain	AI product teams	implied	4	AI & ML tooling
+rd_oekfkdg	Month-end means two days of VLOOKUPs matching CSV exports from separate systems	accountants	implied	4	finance & money
+rd_pbcgggi	200-person companies need consistent quote and order templates with current terms	sales and ops teams	implied	3	SMB & back-office
+rd_p3nbncp	Instagram's 24-hour messaging window breaks automated follow-ups	social automation builders	none	3	media & content
+rd_nppox7j	SFTP gives no useful logging even in verbose mode	sysadmins	none	2	devops & infra
+rd_ny3bl5x	Users with subscription fatigue want pay-once offline-first software	software buyers	implied	3	productivity & work
+rd_oyakpn6	Owner needs a tool to remember a recurring task	small business owners	implied	2	productivity & work
+rd_nswon0v	Tools that turn walkthrough videos into how-to manuals are too expensive or limited	MSPs	implied	3	productivity & work
+rd_oe47wwb	Credit union compliance, risk and vendor tracking take weeks of manual work	credit unions	implied	3	finance & money
+rd_oeivfrm	Builders monitor Reddit for unmet product requests by hand	founders	implied	2	media & content
+rd_n5puwfc	Lead carpenters struggle with inexperienced workers who won't take feedback	construction leads	none	2	SMB & back-office
+rd_nwqomhf	Etsy is full of dropshipped fake handmade goods	Etsy buyers	none	3	commerce & marketplaces
+rd_o7ev84u	ACA marketplace plans are unaffordable for families above subsidy thresholds	self-employed families	none	3	health & fitness
+rd_nn4btg8	Keeping the ITSM inventory updated on every lifecycle event is hard	IT teams	implied	3	devops & infra
+rd_mzz8tta	Small businesses want scaled-down versions of QuickBooks and other tools they barely use	small businesses	implied	3	SMB & back-office
+rd_nkuo7jn	Nurse systems lack alerts for abnormal vitals before med pass	hospital nurses	implied	3	health & fitness
+rd_nwitowu	Teams can't map where a certificate is used across clouds and clusters before rotating it	platform teams	implied	4	security & privacy
+rd_owkwwbg	Founders want a way to cross-promote and share users	indie founders	implied	2	SMB & back-office
+rd_o2orovz	GoDaddy delegate access is hard to find	IT admins	none	1	devops & infra
+rd_odqdlmi	Invoicing tools don't know about project milestones, time logs or approved change orders	growing service businesses	implied	4	finance & money
+rd_o6te7er	Hotels still rely on manual processes that could be automated	hotel staff	implied	3	travel & local
+rd_ot9at0o	Servers have no application owner, so decommissioning is risky	sysadmins	none	2	devops & infra
+rd_mos1qo7	Re-doing drag-and-drop landing pages is painful; founders want something programmatic without a full website	founders	implied	3	media & content
+rd_njgg8zx	Developers don't design Kubernetes services to survive pod kills	platform teams	none	3	devops & infra
+rd_mxfpp88	Photo apps lack manual sort order before export	photographers	explicit	2	media & content
+rd_m83ktdf	Cloud brokerages offer little one-on-one training for new agents	new real estate agents	none	3	education & learning
+rd_pevmfuz	Copilot is inaccurate on complex questions and needs constant human checking	IT teams	none	3	AI & ML tooling
+rd_ngjvonw	QuickBooks Enterprise forces per-user update prompts on a solo admin	sysadmins	none	3	finance & money
+rd_mz0bcjz	Photographers don't know how to resize images to contest specifications	hobby photographers	implied	1	media & content
+rd_ow272pv	Founders post MRR milestones by hand; no tool shows live MRR in a bio	indie founders	implied	2	media & content
+rd_ns963c6	Agencies build their own AI search visibility reports from GSC and manual checks	SEO agencies	implied	3	media & content
+rd_nopgona	Cash flow forecasts in accounting software ignore seasonality, payment terms and irregular expenses	small businesses	implied	4	finance & money
+rd_odd10ln	Usage-based billing with tiers and exceptions makes month-end CSV matching fragile	SaaS finance teams	implied	4	finance & money
+rd_mse6j37	Patients with PEG tubes can't take non-crushable oral meds	respiratory nurses	implied	3	health & fitness
+rd_msva8lu	E-signature tools are proprietary; users want an open standard with paid support	small businesses	explicit	3	legal & government
+rd_oswk4aq	Users waste hours finding features after software updates or switching platforms	software users	implied	3	productivity & work
+rd_lzl27nj	A diagnostic radiology monitor refused to sleep, shortening its backlight life	healthcare IT	none	2	hardware & IoT
+rd_nrubmih	Workers would pay to have restaurant-quality lunches provided	workers	explicit	2	consumer & home
+rd_nktziy4	Cloud storage egress fees are unpredictable and impossible to estimate	small businesses	implied	4	devops & infra
+rd_19s2a2swxhl8i	Realtors want a shared blacklist of sellers who waste their time	realtors	implied	3	travel & local
+rd_o415ouu	HVAC firms want a simple PDF invoicing tool because they hate QuickBooks	HVAC companies	implied	3	SMB & back-office
+rd_ocjiqr1	HVAC and plumbing firms track refrigerant and disposal compliance in messy spreadsheets	HVAC and plumbing firms	implied	4	legal & government
+rd_mpfs4mr	Recruiting software users differ from budget-holding buyers	B2B SaaS sellers	none	2	SMB & back-office
