@@ -1,0 +1,68 @@
+rd_n9maspg	Small manufacturers must work out the exact aluminum percentage per product for tariffs	small manufacturers	implied	4	legal & government
+rd_md0axds	Nurses must re-check every insulin drip titration from the previous shift after a Joint Commission finding	ICU nurses	none	3	health & fitness
+rd_n4qxnus	Accountants must manually disable AI features after every software update	accountants	implied	3	finance & money
+rd_nnq1d32	People would pay for a remote interior decorating consultant who designs from photos and orders items	homeowners	explicit	3	consumer & home
+rd_nrpymkl	Sellers waste hours removing product photo backgrounds	ecommerce sellers	implied	2	media & content
+rd_mx3phq6	SaaS teams use a Frankenstein mix of tools to share sensitive client data	SaaS teams	implied	3	security & privacy
+rd_nmkujv1	MSPs need $1M E&O and auto coverage for school and city contracts	MSPs	none	2	legal & government
+rd_mz0ovgy	Remote IT jobs are much harder to find than in-person roles	sysadmins	none	3	hiring & careers
+rd_n3dpyd7	Startup sales teams struggle to qualify leads efficiently amid bloated CRM noise	startup sales teams	implied	3	SMB & back-office
+rd_p5temyl	Teams handle AI agents breaking in prod with logs and human spot checks	AI product teams	implied	3	AI & ML tooling
+rd_nq7rgor	Tools that can't merge data into centralized reporting waste hours	ops teams	implied	3	data & analytics
+rd_mg31e6d	Nurses with autoimmune conditions want more 4x10 shift options	nurses	implied	3	health & fitness
+rd_ow2t5pj	IT techs want a punch-down attachment for their Leatherman multitool	IT techs	implied	1	hardware & IoT
+rd_my5e23a	Allowlisting Microsoft's hundreds of domains in locked-down environments is a nightmare	sysadmins	none	3	security & privacy
+rd_ou5wy8o	Firms want staff accountants who do senior-level work without paying for it	accounting firms	none	2	hiring & careers
+rd_n2rv3lo	Founders with committed angel money can't get anyone to write the first check	B2B SaaS founders	implied	4	finance & money
+rd_ocxq6ro	Teams running their own AI agents against internal systems need a permissions model	IT security teams	implied	4	security & privacy
+rd_nq0iber	Teams waste hours fixing silent automation errors	ops teams	implied	3	productivity & work
+rd_ovdhldt	Shopify merchants want to block fraud by shipping address	Shopify merchants	implied	3	commerce & marketplaces
+rd_n28rehs	Email clients strip modern CSS, making responsive emails impossible	email designers	implied	3	developer tools
+rd_p28nzbt	Fitness app users distrust health scores that don't match how they feel	fitness app users	none	2	health & fitness
+rd_nla3ne6	Accountants would pay to convert paper statements	accountants	explicit	2	finance & money
+rd_nos8kmu	Founders waste hours finding real founders who make money and share insights	indie hackers	implied	2	communication & social
+rd_oubxnxs	MSPs desperately need a good password manager	MSPs	implied	4	security & privacy
+rd_m57gm4j	USPTO trademark and patent filings are slow and opaque	small business owners	none	3	legal & government
+rd_ot5lijj	Tech debt and workarounds make one-page setup processes nearly impossible	IT teams	none	2	devops & infra
+rd_p25cpol	Defender phishing simulation doesn't cover the Google Workspace half of split tenants	IT security teams	implied	3	security & privacy
+rd_nkr9buc	Drivers would pay for a voice AI that replies to email through Android Auto	commuting professionals	explicit	3	productivity & work
+rd_noex0gd	Marketers waste hours reverse-engineering ads in Facebook Ad Library	performance marketers	implied	3	media & content
+rd_osdl913	Shopify merchants want a course on vibe coding best practices	Shopify merchants	implied	2	education & learning
+rd_m57fk45	Small businesses struggle with multi-state sales tax, local compliance forms and patent filing	small business owners	implied	4	legal & government
+rd_n24tya9	Desktop apps are hard to distribute and update across OS versions and antivirus flags	desktop app developers	implied	3	developer tools
+rd_p1xp05j	Ops teams spend time confirming work happened (emails sent, jobs ran) rather than doing it	ops teams	explicit	4	devops & infra
+rd_nkqyj7p	PR and content agencies don't deliver promised results for small firms	small firms	none	3	media & content
+rd_oprzq59	Counting cash takes small businesses a lot of time	small businesses	implied	2	SMB & back-office
+rd_mrh6oku	Franchise economics don't make sense after fees, royalties and buildout	aspiring business owners	none	2	SMB & back-office
+rd_no9aiov	Marketers waste hours copying data from GA4, Meta, Google Ads and Search Console into spreadsheets	marketers	implied	4	data & analytics
+rd_me0p0i7	Accounting lacks standards for workpaper formatting	accountants	implied	2	finance & money
+rd_opgqyes	Canon users want an easy thumb toggle for pre-capture	sports photographers	implied	2	hardware & IoT
+rd_m1tvfo5	Long-time Visio users rely on years of custom stencils with no good alternative	IT professionals	none	2	productivity & work
+rd_n0t4nw9	Small business solutions are too expensive or complicated to implement	small business owners	implied	3	SMB & back-office
+rd_nkk4u2g	Subscription trackers need manual input; users want email scanning that finds and adds subscriptions automatically	consumers	implied	3	finance & money
+rd_no5vuir	Reps waste hours chasing dead-end leads without a clear ICP	sales teams	implied	3	SMB & back-office
+rd_oncb579	Bookkeepers want QBO payroll with QuickBooks Desktop's features	bookkeepers	implied	3	finance & money
+rd_m6lttiz	Freshman classroom management makes discussions impossible	high school teachers	none	3	education & learning
+rd_mzyz2k6	Managers resist new tools over downtime and support risk	sysadmins	none	2	devops & infra
+rd_p0asi6q	Founders on Supabase face costly migrations when outgrowing free limits	indie founders	none	2	developer tools
+rd_nhs029n	Brands would pay for social media growth services	brands	explicit	2	media & content
+rd_no47p9q	Teams waste hours searching across Slack and Notion	teams	implied	3	productivity & work
+rd_oin72xb	Original artists can't stand out on Etsy	Etsy artists	implied	3	commerce & marketplaces
+rd_m64sjs2	Small vendors leave tens of thousands of dollars in purchase orders unfilled	midsize retailers	none	4	SMB & back-office
+rd_m058g17	MSIX packaging ties apps to the Microsoft Store, which admins can't easily manage	sysadmins	none	3	devops & infra
+rd_mzykokc	Business data quality is terrible, so insight projects fail	businesses adopting AI	implied	4	data & analytics
+rd_nnm3pn8	Website agencies waste hours on manual security audits; tools are basic or $1k+ per site	web agencies	implied	3	security & privacy
+rd_oc5ch17	Etsy suspends accounts for unexplained suspicious activity	Etsy sellers	implied	3	commerce & marketplaces
+rd_lxi43ba	Diagnosing Windows Failover Cluster issues for SQL and Files is a nightmare	sysadmins	none	3	devops & infra
+rd_lyycktf	Small contractors get handed GC-level insurance requirements	small subcontractors	none	3	legal & government
+rd_mzux4ua	Marketers want automated thread discovery and tone-matched comments without spam	marketers	implied	3	media & content
+rd_o9yyawj	Homeowners dig through emails and drawers to recall who fixed what and whether it's under warranty	homeowners	implied	4	consumer & home
+rd_oziuafc	Sales reps want a tool that says the best next move and channel, not just a persona label	sales reps	explicit	3	SMB & back-office
+rd_nmbevfn	Recruiters for hourly roles waste hours on first-round phone screens	recruiters	implied	4	hiring & careers
+rd_o6aok06	Admins want a free, ad-free site that explains mail server misconfigurations to send to others	sysadmins	implied	3	communication & social
+rd_lvsijkw	Legacy folder redirection can't coexist with OneDrive and is hard to undo	sysadmins	none	3	productivity & work
+rd_nlytq82	Small ecommerce shops lose chargebacks despite tracking and proof	small ecommerce shops	implied	4	commerce & marketplaces
+rd_o65cxs6	Nurses want a language app built around healthcare themes	nurses	implied	3	education & learning
+rd_19rjxhufodh7p	Curved driveways are hard to navigate and visitors drive across the lawn	homeowners	none	1	consumer & home
+rd_oycicgx	Solo founders lose their architectural and pricing reasoning between AI sessions	solo founders	implied	4	AI & ML tooling
+rd_o8x9qtc	A stranger said a concept would have saved $40k	founders	none	2	SMB & back-office

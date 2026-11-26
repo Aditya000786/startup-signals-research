@@ -1,0 +1,66 @@
+rd_o1vcfdc	Teams waste hours uploading content natively to each social platform	social media teams	implied	3	media & content
+rd_na6vxze	Admins want high-capacity optical or holographic storage for physical data custody	enterprise IT	implied	3	hardware & IoT
+rd_o93ixuy	AI accounting tools hallucinate details and can't replace understanding	accountants	none	3	finance & money
+rd_o11gmyv	Security teams must check every solution against 800 ISO and ISM controls	enterprise security teams	none	3	security & privacy
+rd_o1tuamn	Small businesses waste hours on product photography even with Canva	small businesses	implied	3	media & content
+rd_o0ol0ht	ServiceNow sprawls out of control and makes onboarding slow	IT teams	none	3	devops & infra
+rd_nfk65u0	Data vendors struggle to reach municipal decision makers	B2G data companies	implied	3	legal & government
+rd_19s1dsfkccg83	Founders want weekly nudges calling out avoidance (like skipping customer calls), not a dashboard to feed	founders	explicit	3	productivity & work
+rd_ob1pcua	Developers would pay for done-for-you bug fixes with clear SLAs and code privacy	developers	explicit	3	developer tools
+rd_o0vth4i	Investors want financial news on their assets condensed into a cited digest	retail investors	implied	3	finance & money
+rd_o6fn6tc	Professionals want a LinkedIn alternative without AI slop or recruiting posts	professionals	implied	3	communication & social
+rd_nrpn08t	New hires find proprietary accounting systems far worse than promised	accountants	none	3	finance & money
+rd_o0d7j6f	Overseas subsidiary audits with language barriers make companies miss local filing deadlines	corporate accountants	none	3	finance & money
+rd_ndwinq7	Patients juggle many provider portals and logins and fragmented care	patients	implied	4	health & fitness
+rd_orlug4i	European market entry burned $200k despite apparent fit	scaling startups	none	3	SMB & back-office
+rd_19s0jwfybpta8	First 100 customers come from manual outreach in communities	SaaS founders	none	2	SMB & back-office
+rd_o0vlom0	Cross-team alignment wastes hours of meetings on priorities and roadmaps	cross-functional teams	implied	3	productivity & work
+rd_nxol3g0	Infusion patients aren't told why blood products take 4+ hours	infusion nurses	implied	2	health & fitness
+rd_o0quqb1	Founders waste hours daily checking dozens of apps to catch up	founders	implied	3	productivity & work
+rd_nlh32ij	Tangled ECG, cardiac monitor and pulse-ox wires waste time and create fall risk	nurses	implied	3	health & fitness
+rd_nd614wi	Payment processors' hidden fees and rate hikes hurt small businesses	small business owners	none	4	finance & money
+rd_phu96gi	Founders want complaint counts by distinct author to reduce gut-feel bias	founders	explicit	3	data & analytics
+rd_o0ild63	Small teams waste hours every week capturing and editing screen recordings	small SaaS teams	implied	3	productivity & work
+rd_n5avraj	Photographers can't reliably date old photos	family archivists	implied	2	media & content
+rd_nvg94fu	Etsy buyers want physical and digital items separated into different sites	Etsy buyers	implied	2	commerce & marketplaces
+rd_nk64fzj	Importing existing environments into Terraform is a huge pain	DevOps teams	none	3	devops & infra
+rd_nd2kbg7	Fashion brand content shoots are expensive and logistically draining	fashion brands	implied	4	media & content
+rd_phu2563	IT teams would pay for SaaS that makes sense of a messy OS landscape	IT teams	explicit	3	devops & infra
+rd_o096fq3	Accountants waste hours splitting client PDFs and collecting documents	accountants	implied	3	finance & money
+rd_n8odvil	OneNote search is horrendous and large notebooks freeze	knowledge workers	none	3	productivity & work
+rd_p8lcdqg	ATS buyers already pay, so a new ATS must clearly differentiate	recruiting software founders	none	2	hiring & careers
+rd_nd21kt0	Users want lead tools that filter out the wrong leads	sales teams	implied	3	SMB & back-office
+rd_o6osf3c	Contractors use 3D models to plan anchor bolts and walk framers through complex builds	contractors	none	2	SMB & back-office
+rd_o028sbv	LinkedIn job search is cluttered with promoted, repeated and low-signal listings	job seekers	implied	3	hiring & careers
+rd_n576o4x	MSPs want vendors focused on product rather than PE buyouts	MSPs	implied	3	devops & infra
+rd_nku7zg7	Realtors want to automate replies to repetitive questions	realtors	implied	2	communication & social
+rd_n4j31k2	SharePoint self-managed permissions and sharing are both its strength and a nightmare	sysadmins	none	3	productivity & work
+rd_njg819n	Small family businesses lose ground because SEO is neglected and hard	family businesses	implied	3	media & content
+rd_op4vus5	AI validation gives founders the most agreeable answer	founders	none	2	AI & ML tooling
+rd_o69rjxv	MSPs would pay for an enterprise-light document management automation package for a few dozen dollars a month	MSPs	explicit	3	productivity & work
+rd_nzeo3t7	Owners respond instantly but still waste hours on unviable leads	service businesses	implied	3	SMB & back-office
+rd_n4rw3ev	Preschool teachers get PD aimed at older grades	preschool teachers	implied	2	education & learning
+rd_n3tggbl	Jenkins at scale is a maintenance nightmare with unmaintained plugins	DevOps teams	none	4	devops & infra
+rd_nhy2dac	Backstage provides little by default and is a pain to implement	platform teams	none	3	developer tools
+rd_nzb8pvh	Teams waste hours writing weekly reports	founders and teams	implied	3	productivity & work
+rd_n2bj6yz	Couples paid $5,500 for terrible photography with no recourse	couples	implied	3	media & content
+rd_moc463r	Schools struggle to block proxy sites without dynamic content analysis	school IT	implied	3	security & privacy
+rd_p7b04eg	Job seekers would pay for recruiters to help them find accounting jobs	job seekers	explicit	3	hiring & careers
+rd_oojlxht	Pre-launch founders find full-funnel agencies need data they don't have	pre-launch founders	none	2	media & content
+rd_pgii9bn	Developers can't explain AI-generated backend logic in their PRs	developers	implied	3	developer tools
+rd_nz7g5e2	Users waste time organizing chaotic Downloads folders	computer users	implied	2	productivity & work
+rd_nbut0s8	Small IT shops without a ticketing system can't show their value	solo IT admins	implied	3	devops & infra
+rd_pfdbxw3	Owners would pay for advisors only with a track record in their niche	small business owners	explicit	3	SMB & back-office
+rd_o5l05fu	LinkedIn writers don't know what to say, not just how to format	B2B professionals	implied	3	media & content
+rd_nz0ik5e	Enterprises run critical handoffs through iMessage without automation	field and sales teams	implied	3	communication & social
+rd_n1fm8jn	Callers want to skip first-tier support scripts	sysadmins	implied	3	devops & infra
+rd_ncqk8e7	Small businesses want a done-for-you security provider on a small budget	small business owners	explicit	4	security & privacy
+rd_miardor	Calculating sales tax for every online order address is a nightmare	online retailers	implied	4	finance & money
+rd_nf8xs0g	Freemium onboarding loses users without visibility into where they get lost	SaaS founders	implied	3	productivity & work
+rd_nazq958	Landlord and tenant issues are a big pain point	landlords and tenants	implied	3	consumer & home
+rd_ncejyjr	Founders want to know which feature turns interest into purchase	founders	none	1	SMB & back-office
+rd_nacv0b0	Google to M365 migrations hit encoding issues from niche email clients	MSPs	none	2	productivity & work
+rd_navits9	Founders want to share progress without always pitching for funding	founders	implied	2	communication & social
+rd_omfzeed	Small businesses spend energy creating social content for an audience that doesn't exist yet	small businesses	implied	3	media & content
+rd_nydyd34	Personal finance trackers waste time on manual data ingestion in spreadsheets	individuals	implied	2	finance & money
+rd_n8oif6s	MSPs track license and certificate expirations in IT Glue or Hudu with ticket workflows	MSPs	none	2	devops & infra

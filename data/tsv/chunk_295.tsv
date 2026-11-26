@@ -1,0 +1,58 @@
+rd_o5zvqyf	Growing support teams can't see where responses go wrong or issues fall through	support teams	implied	3	SMB & back-office
+rd_oskgj03	Read-later tools fail at retrieval and acting on saved items	knowledge workers	explicit	3	productivity & work
+rd_p0z80y6	Running a private CA means modifying trust stores on every device, container and VM image	sysadmins	none	3	security & privacy
+rd_mie5r2q	Tech startups struggle with hiring, scaling and workload balance	tech founders	none	2	hiring & careers
+rd_osf0sam	Naming a startup means searching domains, social handles and state databases by hand	founders	implied	3	SMB & back-office
+rd_n4v77k7	Owners find email automation tools too complicated and would pay for a simple one	small business owners	explicit	3	media & content
+rd_njywncy	Patients lack clear long-term risk/benefit guidance for BPH treatments	patients	implied	2	health & fitness
+rd_nhv35f2	Selling SaaS is a nightmare without strong connections	SaaS founders	none	3	SMB & back-office
+rd_o8bufla	Subreddit users would pay for an app that flags self-promotional shill posts	Reddit users	explicit	2	communication & social
+rd_o5np151	Supabase lacks a fully hosted OAuth consent flow for testing APIs before building a frontend	developers	implied	3	developer tools
+rd_orsgcv2	Automated scanners miss authorization bugs like users seeing others' invoices	SaaS founders	implied	4	security & privacy
+rd_njvhbkg	Owners want one dashboard for taxes, invoices, inventory and payroll	small business owners	explicit	4	SMB & back-office
+rd_oxxxfax	Self-hosted tools in Kubernetes are a pain to keep stable without support	DevOps teams	none	3	devops & infra
+rd_o89ljf7	Art supplies are expensive and established brands don't focus on artists	artists	implied	3	commerce & marketplaces
+rd_mdzeu6j	Users sync everything via OneDrive, causing problems after moving off mapped drives	sysadmins	implied	3	productivity & work
+rd_o5mo92y	AI-drafted support replies can't handle off-script customer responses	service businesses	implied	3	AI & ML tooling
+rd_nebvsvy	Marketers dig through every campaign and ad set manually to find account issues	performance marketers	implied	3	media & content
+rd_m68mouy	Contractors beg suppliers to sell them materials, and projects pivot because of sourcing	contractors	implied	4	SMB & back-office
+rd_naczhzv	EHRs can't chart the tiny weight-based drip titrations sensitive patients need	ICU nurses	implied	3	health & fitness
+rd_o86whli	Large companies pay an analyst to check competitor rate pages manually every day	enterprise product teams	implied	3	data & analytics
+rd_orimsjq	Trades businesses ignore cold software emails but are active in Facebook groups	trade SaaS founders	none	2	SMB & back-office
+rd_n3mu69o	Parents would pay for a learning product for curious kids	parents	explicit	2	education & learning
+rd_n7dzvnu	Owners want a review site for insurers ranked by how they handle claims	small business owners	implied	4	finance & money
+rd_ovi527e	Solo founders' Google Drive gets messy across multiple products	solo founders	implied	2	productivity & work
+rd_m6s66m6	Founders don't know everything they're supposed to do	founders	implied	3	SMB & back-office
+rd_n2iqvgb	Founders want an intuitive browser video editor that captures high-quality video	founders	explicit	3	media & content
+rd_m44t7wt	3PLs won't handle returns and dedicated return services are expensive	ecommerce brands	implied	4	commerce & marketplaces
+rd_o47f186	Solutions exist but users need one universal package	founders	none	1	SMB & back-office
+rd_n1c1fa8	Home-run distribution businesses are worth only their inventory	business buyers	none	2	finance & money
+rd_nds4y7i	Lead gen platforms like Apollo, Clay and Cognism are pricey and complex	sales teams	none	3	SMB & back-office
+rd_m0y2nm7	Customers hate live chat bots that collect details before answering a simple question	consumers	implied	3	communication & social
+rd_mqa11b6	Working live on AutoCAD files from cloud sync breaks constantly	engineering firms	none	3	productivity & work
+rd_oqy3154	Getting through Microsoft's AI support to real tenant recovery help is a huge pain	MSPs	none	3	productivity & work
+rd_o668rxa	People would pay for a social media app without ads and AI slop	consumers	explicit	3	communication & social
+rd_oqijgon	Investors scramble through brokerage exports at tax time to calculate capital gains	retail investors	explicit	4	finance & money
+rd_n0vz9wv	People would pay for a live human to talk them through tech tasks instead of AI chat	non-technical users	explicit	3	productivity & work
+rd_ndrn892	Indie hackers' posts get auto-removed for breaking obscure subreddit rules	indie hackers	implied	2	media & content
+rd_n5x9g8z	Alternative teacher certification offers too little supervised student teaching	new teachers	implied	3	education & learning
+rd_ndi2zuz	SMBs replaced Atlassian after server licenses ended	SMB IT	none	2	developer tools
+rd_mhebw96	Locking down printers conflicts with roaming staff printing anywhere	sysadmins	none	2	devops & infra
+rd_oplzgja	Moving MFC printer scan-to-email to certificate-auth connectors is a pain at scale	sysadmins	none	2	communication & social
+rd_opypwj5	AI coding users want decision memory (what was tried, why it failed, what not to suggest)	developers using AI	explicit	4	AI & ML tooling
+rd_mgqrywd	Nurse scheduling is a nightmare	nurse managers	none	3	health & fitness
+rd_opfg4ww	Implementing a new accounting system and rebuilding reports is a huge pain	accountants	none	3	finance & money
+rd_n3jp4dj	Teachers would pay for help only if the person did everything exactly as specified	teachers	explicit	2	education & learning
+rd_ok9rucg	Owners want software for simultaneous logins, repetitive forms and bulk Windows installs	repair businesses	implied	3	productivity & work
+rd_ncx0fuf	Founders waste hours hunting Reddit threads and tailoring replies	founders	implied	3	media & content
+rd_n50kuoj	Teachers want part-time teaching positions	teachers	implied	3	education & learning
+rd_19sj7rw7hl9a8	Construction and property are underserved MSP verticals	MSPs	none	2	devops & infra
+rd_opshfya	Lead tool buyers will only pay for better qualification, personalization or daily alerts	sales teams	explicit	3	SMB & back-office
+rd_ncgcc8v	Teams waste hours re-answering the same questions in Slack	teams	implied	3	productivity & work
+rd_n4wb6l2	Dentists face false board reports with no penalty for the reporter	dentists	implied	3	health & fitness
+rd_oll2aqe	Clinics that skip HIPAA from the start face painful retrofits	clinic IT	implied	3	security & privacy
+rd_mx4mifg	Salespeople would pay for live objection handling during calls	salespeople	explicit	4	SMB & back-office
+rd_lvc9tfc	Teachers with chronic illness lose thousands in docked pay	teachers	none	3	health & fitness
+rd_nzvuoek	Real estate photography agencies need a management system	real estate photographers	implied	3	media & content
+rd_ooz5aj3	Firms hiring bookkeeping VAs need role-based access and review processes	accounting firms	implied	3	finance & money
+rd_o4l1lbu	Desktop apps that demand a license before any trial lose users	software buyers	none	2	productivity & work

@@ -1,0 +1,68 @@
+rd_olkz8bo	Agents can chain MCP tools (file read, shell exec, outbound connector) with no human gate between steps	platform security teams	implied	4	security & privacy
+rd_pefdbbg	Remote small businesses miss mailed notices because no one owns the mail	remote small businesses	implied	3	SMB & back-office
+rd_o2flh7a	Maintaining a changelog isn't painful enough to justify a separate tool	SaaS teams	none	2	developer tools
+rd_n888ila	Recycling an email address requires killing every external account tied to it	IT admins	implied	3	security & privacy
+rd_naagyjj	SMB AI security tools send so many false alarms that owners ignore them	SMB owners	implied	4	security & privacy
+rd_ny31kkc	Sales teams waste hours on manual training and roleplay sessions	sales teams	implied	3	SMB & back-office
+rd_mxvr6tq	Admins track third-party app versions on a Monday.com board and update them by hand	sysadmins	implied	3	devops & infra
+rd_19rsve3fs3bvo	Resurfacing concrete is tedious, hard work	contractors	none	2	SMB & back-office
+rd_okyso18	Free tools solve the problem fully, so there's no incentive to upgrade	SaaS founders	none	2	SMB & back-office
+rd_pe6ke3c	Builders get cheap generic feedback instead of structured commitment signals	founders	implied	3	productivity & work
+rd_o1m1g7u	People would pay for finance tools that build clarity, discipline and help avoid mistakes	retail investors	explicit	3	finance & money
+rd_ph4q8tg	Graph API app permissions can leak tenant data with vague logging	MSPs	implied	4	security & privacy
+rd_mxa6qmv	StackStorm is rock solid but painful, and its k8s deployment isn't production ready	DevOps teams	none	2	devops & infra
+rd_n9ueevx	Sales reps context-switch between tools and struggle with deliverability and human-sounding emails	sales reps	implied	3	SMB & back-office
+rd_okv19vr	No website builder combines ease of use, flexibility and affordability	small businesses	implied	3	media & content
+rd_pd872hr	Owners would pay for someone to clean ugly ops data into one trusted weekly report	small business owners	explicit	4	data & analytics
+rd_mvbf75j	Aspiring founders lack real resources for turning research into action	aspiring founders	implied	2	SMB & back-office
+rd_n95na42	Some unions protect bad employees in toxic hospitals	nurses	none	2	health & fitness
+rd_mvrsh9f	Last-minute call-outs delay deadline-bound trade jobs	trade crews	none	3	hiring & careers
+rd_pcd1lhj	Founders would pay for a tool that drafts the rewrite when a linked page moves, not just a warning	content teams	explicit	3	media & content
+rd_nuqiq36	Owners fear wasting hours managing hires who deliver poor work	small business owners	none	2	hiring & careers
+rd_n8h40pq	Online business bank froze the account and blocked withdrawals	small business owners	none	4	finance & money
+rd_pcms387	Business caller ID (CNAM) is a nightmare controlled by three expensive vendors	businesses	none	3	communication & social
+rd_muu3eiz	Accepting crypto is a pain for small businesses	small business owners	none	2	finance & money
+rd_n8pq5ny	Laptops on home networks are exposed without always-on VPN	sysadmins	implied	3	security & privacy
+rd_pc983q5	Founders should pay for a managed database from day one for point-in-time restore	SaaS founders	explicit	3	devops & infra
+rd_nykm8r4	Founders wrongly assume users will find a good product on their own	founders	none	2	SMB & back-office
+rd_nuefrwg	Growth teams waste hours guessing whether emails are valid	growth marketers	implied	3	SMB & back-office
+rd_mrjdpfb	Senior sysadmins want vulnerability posts and setup guides to keep learning	sysadmins	implied	2	education & learning
+rd_mpiam9s	Admitted patients don't get basic hygiene care without daily CHG bathing policies	nurses	implied	3	health & fitness
+rd_oh91bn4	Bots are the majority of traffic on independent sites	small site owners	none	3	security & privacy
+rd_n8mht2z	Google Calendar has poor task integration and limited customization	calendar users	implied	3	productivity & work
+rd_pbjws9e	Users would pay for the content tool that needs the least cleanup and posts without babysitting	content marketers	explicit	3	media & content
+rd_nu9q8hs	SMB clients still think of security as just antivirus	MSPs	none	2	security & privacy
+rd_o58e4ak	AI app builders burn money and fail on real apps	non-technical founders	implied	4	developer tools
+rd_p2691bi	Busy older clients struggle with QBO reporting	bookkeepers	none	2	finance & money
+rd_n89c0d5	Creators would pay to figure out what their audience actually wants	content creators	explicit	3	media & content
+rd_ojihlec	Individual OTT producers just want upload-and-publish, not infrastructure choices	video producers	implied	2	media & content
+rd_nu7517d	Scanned crooked PDF statements are the worst input for bookkeeping	bookkeepers	implied	4	finance & money
+rd_mgyogzv	Realtors struggle with work-life balance in fast markets	realtors	none	3	travel & local
+rd_n5e0zmk	Ugly spreadsheet workarounds signal pain people will pay to fix	founders	none	1	SMB & back-office
+rd_o3cahgx	Juggling 15-20 audit clients in busy season is a nightmare for organization	auditors	none	3	finance & money
+rd_oj7epin	Everyone builds AI agent infrastructure from scratch	AI developers	implied	4	AI & ML tooling
+rd_pao8cun	Founders would pay for a hard deadline and shared scoreboard, not motivational check-ins	founders	explicit	3	productivity & work
+rd_mcm4g0r	Prospective realtors want a test for suitability before entering the career	career changers	implied	2	hiring & careers
+rd_n3blxi5	Founders test ideas with 48-hour deposit loops	founders	none	1	SMB & back-office
+rd_p1brhu6	New entrepreneurs overcomplicate the path to $1k a month	new entrepreneurs	none	1	SMB & back-office
+rd_paf6rg0	Small firms want staff with accounting certificates	small firms	none	2	education & learning
+rd_ntskr1x	Audio gear shoppers bounce, overwhelmed by specs	niche electronics retailers	implied	4	commerce & marketplaces
+rd_mnu2pdf	Shoppers want an app that tells them where items are in big stores like Home Depot	shoppers	implied	3	consumer & home
+rd_m4suj6z	RAW processors replace camera previews with worse-looking ones	photographers	implied	2	media & content
+rd_mpcezbr	White-box servers become unserviceable when only used parts exist	sysadmins	none	3	hardware & IoT
+rd_ohh84yk	Buyers won't grant broad permissions to a new vendor without a reputation	SaaS founders	none	3	security & privacy
+rd_nt9q8ve	People waste hours each week matching invoices to bank statements	small business owners	implied	3	finance & money
+rd_mnm8cey	California employment law is unclear for sole-owner employees	sole proprietors	implied	2	legal & government
+rd_n2i4xeo	Hobbyists can't afford Adobe subscriptions	hobby photographers	implied	3	media & content
+rd_n6z6v62	Parents struggle to track recurring household purchases (diapers, sizes, snacks, pet food)	parents	implied	3	consumer & home
+rd_p7k6xhr	Founders should buy a one-off email funnel audit before an agency retainer	founders	explicit	2	media & content
+rd_nphuo1l	Parents want a smart tap that fills the bath to a set level and temperature	parents	explicit	3	hardware & IoT
+rd_nt7muo6	Founders waste hours manually updating the CRM from meetings	SaaS founders	implied	3	SMB & back-office
+rd_mn57is7	Realtors want a daily prospect list in Excel without manual Apollo work	realtors	implied	3	SMB & back-office
+rd_n1m71r7	Developers want auto-generated documentation that stays current with commits	developers	explicit	4	developer tools
+rd_nmzqkup	Post-PE accounting firms enforce billable hours relentlessly	accountants	none	3	finance & money
+rd_nim9ce7	Small hotel owners find maintenance costs never-ending	small hotel owners	none	3	travel & local
+rd_megemhw	CRMs and ERPs are too painful to replace even when bad	enterprises	none	3	SMB & back-office
+rd_nsqzdi7	Small government contractors waste hours searching SAM.gov	government contractors	implied	4	legal & government
+rd_mkws0k4	Founders struggle with landing page copywriting	founders	implied	2	media & content
+rd_p1u2dh2	Teams can't run tests locally the same way CI does	developers	implied	3	developer tools

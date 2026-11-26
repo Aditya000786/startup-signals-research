@@ -1,0 +1,72 @@
+rd_ndxot73	Users would pay for a tool that auto-resizes files to each website's upload limits	web users	explicit	3	productivity & work
+rd_nl6jsar	Corporate engineers waste hours in meetings that add no value	engineers	none	2	productivity & work
+rd_19rif5izn5c2s	Hiring for 100% remote roles is a nightmare with 1,000+ applicants	hiring managers	implied	3	hiring & careers
+rd_mwp9hv4	Trial balance uploads differ between QuickBooks, Xero and Excel exports	accountants	implied	3	finance & money
+rd_o8uifl1	Informal coordination breaks at 30 people, causing payment and compliance misses	scaling startups	implied	3	SMB & back-office
+rd_owru5x5	Print-on-demand sellers want realistic batch mockups beyond generic provider mockups	print-on-demand sellers	explicit	3	commerce & marketplaces
+rd_o4zyg98	Etsy buyers want a community list of human-made, non-dropship, anti-AI shops	Etsy buyers	implied	3	commerce & marketplaces
+rd_ow1y9hv	Owners lose focus answering calls but lose customers who don't leave voicemails	small business owners	implied	4	communication & social
+rd_nakvmlr	Owners would pay for AI that updates their website from a phone	small business owners	explicit	3	media & content
+rd_nktxp62	Small business owners waste hours every week on posts that don't perform	small business owners	implied	3	media & content
+rd_o3qtlvq	Enterprise users vent about legacy $50k tools rather than asking for new ones	enterprise buyers	implied	3	SMB & back-office
+rd_p3rx1mo	Companies struggle with fake Glassdoor reviews	HR teams	implied	3	hiring & careers
+rd_19sjle2tnf7qb	The founders who most need consultants can't afford them or don't know it	early founders	none	2	SMB & back-office
+rd_msj2x04	Boring industries have big pain points but long, skeptical sales cycles	vertical SaaS founders	none	2	SMB & back-office
+rd_ow11vts	Sales teams want post-call HubSpot automation with approve, edit and reject steps	sales teams	implied	3	SMB & back-office
+rd_nke418z	Solo SaaS builders waste hours debugging broken API integrations	solo developers	implied	3	developer tools
+rd_mihb5sr	Camera resale buyers offer lowball prices	photographers	none	2	media & content
+rd_okexeqs	Leaders would pay for software that flags wasteful projects to cancel	enterprise leaders	explicit	3	productivity & work
+rd_ovw1j49	Developers need a first pass at docs and OpenAPI from messy HAR, cURL or Postman dumps	developers	implied	4	developer tools
+rd_naaevg1	Professionals would pay for a service that finds industry news and drafts social posts to review	professionals	explicit	3	media & content
+rd_njtja8x	Ecommerce founders waste hours piecing together status across Gmail, Slack and spreadsheets	ecommerce founders	implied	3	productivity & work
+rd_mtw82y5	Founders pitch owners instead of the operations managers who feel the pain	founders	none	1	SMB & back-office
+rd_o1s3afh	Home hospice has no float nurses to cover call-outs	hospice nurses	implied	3	health & fitness
+rd_oiv692x	Referrals between general dentists and specialists are a nightmare	dentists	implied	3	health & fitness
+rd_mr7la6k	HR analytics dashboards go unused unless tied to decisions like skill gaps and flight risk	HR teams	implied	3	SMB & back-office
+rd_na25s7m	Founders would pay for a tool that shows all products related to their idea	founders	explicit	2	data & analytics
+rd_njsfdgj	Planning Indian weddings and events is a nightmare of calls, budgets and last-minute changes	Indian event hosts	implied	3	travel & local
+rd_o1aa4yp	Etsy recommendations stick to previous searches with no way to reset	Etsy buyers	implied	2	commerce & marketplaces
+rd_mhijvck	RangeMe charged $1,399 with no retailer results and auto-renewed	CPG brands	none	3	commerce & marketplaces
+rd_pdcrh5a	Hourly or transactional realtor arrangements are complicated by broker retainer rules	home sellers	none	2	travel & local
+rd_mqplp3b	Founders interview customers monthly about current tools' pain points	founders	none	1	SMB & back-office
+rd_o7hapmg	AI visibility tools claim real prompt data they can't actually access	marketers	none	2	media & content
+rd_ovdnyj5	Founders would pay about $20/month for a validation tool	founders	explicit	2	data & analytics
+rd_n9ksjye	Inventory users want pick lists generated from selected inventory	small retailers	explicit	3	commerce & marketplaces
+rd_m2f8d0s	Founders want randomized, quality user feedback beyond big survey platforms	founders	implied	3	productivity & work
+rd_o0j311o	People want a separate phone space whose contacts don't link to everyone's social accounts	consumers	implied	2	communication & social
+rd_o5pdm20	Pre-revenue founders find engineering checklists overwhelming; tenant isolation matters most	SaaS founders	none	2	developer tools
+rd_pcejghc	Organic certification is extremely strict about every input	small farms	none	3	legal & government
+rd_og58457	Founders struggle with chicken-and-egg: need a design partner before finishing the MVP	B2B founders	none	3	SMB & back-office
+rd_ov9xzyv	Behavior deltas like billing page visits predict churn better than health scores	SaaS teams	implied	3	data & analytics
+rd_nhqmolp	Cleaning businesses waste hours writing quotes and follow-up emails	cleaning businesses	implied	4	SMB & back-office
+rd_m0au7gc	Companies lack good alternatives to Adobe	IT buyers	implied	3	productivity & work
+rd_nyvom92	Security vendors keep flagging re-used domains with no one to contact	website owners	implied	3	security & privacy
+rd_o3be6v7	Checking warranty status for 300+ machines manually is a nightmare	sysadmins	implied	3	devops & infra
+rd_oeqpvaq	Small businesses under 20 employees need fractional IT support	small businesses	explicit	4	devops & infra
+rd_ov4dsqn	Cardholders want real-time guidance on which card to use for maximum rewards	consumers	explicit	3	finance & money
+rd_n6z2rt0	Fitness apps that just pull from an API are indistinguishable from free AI	fitness app founders	none	2	health & fitness
+rd_nhjyv0j	Share-your-product threads don't generate real customers	SaaS founders	none	2	media & content
+rd_p9hasnx	Contractors face pressure to pour slabs before required inspections	contractors	none	3	legal & government
+rd_outd13q	Small businesses need VoIP with business-hours routing	small businesses	implied	3	communication & social
+rd_n6rh33v	ConnectWise PSA isn't worth investing more in vs Halo	MSPs	none	3	devops & infra
+rd_nyavcki	Nurses want an in-between option instead of losing two paychecks	nurses	implied	2	health & fitness
+rd_nywg2cg	Locum dentistry is a nightmare because every practice works differently	dentists	none	3	health & fitness
+rd_p900kmo	Universities each find their own way to configure existing device fleets with little staff	university IT	implied	3	devops & infra
+rd_mntm69b	Restaurants incentivize staff to get 5-star reviews	restaurants	none	1	SMB & back-office
+rd_oudbmdn	Workarounds signal buying intent more than complaints	founders	none	1	SMB & back-office
+rd_n6pc6eu	Social teams would pay for an app that tracks post formats as experiments	social media teams	explicit	3	media & content
+rd_ngucp60	Owners waste hours in Excel updating reports manually	small business owners	implied	3	data & analytics
+rd_mmh7ljl	Young installers face very expensive commercial auto insurance	young tradespeople	implied	3	finance & money
+rd_o6n52lp	Inventors struggle to build mechanical prototypes	hardware inventors	implied	3	hardware & IoT
+rd_othsx38	AI design tools forget earlier decisions, causing inconsistent spacing and styles	designers using AI	implied	4	AI & ML tooling
+rd_n6lukuh	Consumers would pay for coordinated decor services with potted plants	consumers	explicit	2	consumer & home
+rd_ngt281x	Creators want voice-to-caption tools with platform-specific tone	content creators	implied	3	media & content
+rd_lvk6sij	Construction pros want better online learning beyond DIY YouTube	tradespeople	implied	2	education & learning
+rd_no803bw	Business texting is a nightmare from an IT perspective and costs far more than expected	IT teams	none	3	communication & social
+rd_p6y0u0j	Large Elasticsearch clusters are a pain to manage	DevOps teams	none	3	devops & infra
+rd_mlvayqi	Payment processor fixed fees eat into small digital payments	indie app developers	implied	3	finance & money
+rd_n6j5wyw	Legacy Access apps with 30-year-old installers trap IT	sysadmins	implied	3	devops & infra
+rd_nokvgtb	Dentists face frivolous lawsuits for molar endo	dentists	none	3	health & fitness
+rd_ml8m9qe	Meal planning and healthy eating are hard to sustain	consumers	implied	2	health & fitness
+rd_osle7cq	Support analytics tools must actually reduce repeated questions to be worth paying for	support teams	explicit	3	SMB & back-office
+rd_p4pwd78	Engineering firms quit residential work because clients chase half-price alternatives	engineering firms	none	2	SMB & back-office
