@@ -1,0 +1,35 @@
+rd_o5n28hu	ServiceNow is so painful to use that tickets are miscategorized and SLA reports are inaccurate	IT teams	implied	3	devops & infra
+rd_n3h1sod	Teachers would pay someone to set up and decorate their classroom	elementary teachers	explicit	3	education & learning
+rd_nx8zycd	Agencies lose clients when client sites silently break (contact forms, SSL expiry) unnoticed for weeks	web agencies	implied	3	devops & infra
+rd_nldvtp2	Hospital nurses waste hours every shift hunting for supplies in poorly stocked supply rooms	hospital nurses	none	3	health & fitness
+rd_19rhqihthh77o	Teams need ACME automation for certificates from their own internal CAs	sysadmins	implied	3	security & privacy
+rd_nomo1rf	AI ops/remediation platforms make dangerous changes and bill per log line, blowing budgets	DevOps teams	implied	4	devops & infra
+rd_mjfq12r	Small business owner wants simple software to input variables and get computed values and charts	small business owners	implied	2	data & analytics
+rd_lw8y5x5	Teachers are stuck doing attendance communication to parents manually with no automated system	teachers	implied	3	education & learning
+rd_mrzswqt	Small organizations can't segregate duties, so audit tests of controls fail	small-org auditors	none	2	finance & money
+rd_nlht0yj	Self-hosting error tracking like Sentry is too heavy for hobby and small projects	indie developers	explicit	2	developer tools
+rd_o2ohoyy	Expiring certs, API keys, licenses, domains and contracts are scattered with no single owner or view	engineering teams	implied	4	devops & infra
+rd_mo5mjla	Routers, switches, OOB and legacy appliances can't automate certificate rotation without outages	sysadmins	implied	4	security & privacy
+rd_mcdg3yx	Security Onion lacks external alerting, forcing admins to script their own	SMB security admins	implied	3	security & privacy
+rd_nuppe4d	Scheduling tools like Calendly have broken round-robin and cheap-looking embeds	SaaS users	none	2	productivity & work
+rd_p2hevgc	Regulated niche industries have no purpose-built compliance software and make do with spreadsheets plus CRM	regulated businesses	explicit	4	legal & government
+rd_n893o41	Reconciling mixed e-payment payouts and chargebacks against bank transactions in a messy ERP is brutal	accountants	implied	4	finance & money
+rd_mi9empt	Home service marketplaces are just directories; no Uber-like fixed-price booking for jobs like pressure washing	homeowners	explicit	4	travel & local
+rd_ndwwvun	Teachers want an in-class heads-up display with missing assignments, IEP notes and live translation	teachers	explicit	3	education & learning
+rd_n1ady3j	Founders want government forms and compliance filings handled automatically and on time	small business owners	implied	3	legal & government
+rd_mzfpe1i	Windows DNS console has no search, forcing admins to scroll huge record lists	sysadmins	none	2	devops & infra
+rd_mkj0ngm	LTC nurses spend hours weekly on insurance denials and formulary changes for prescribed meds	long-term care nurses	implied	4	health & fitness
+rd_n2ekz75	Submitting a business to online directories by hand takes hours	small business owners	implied	3	commerce & marketplaces
+rd_oxy9tqh	Developers under NDA can't prove their work in a portfolio	developers	implied	3	hiring & careers
+rd_odv3bna	Onboarding a new hire (W-2, I-9, offer letter) is slow manual paperwork for small business owners	small business owners	implied	3	SMB & back-office
+rd_ph2wvv0	Builders need a tool for per-room buyer selections with diagrams that generates change orders against allowances	home builders	implied	4	SMB & back-office
+rd_o20m91n	Sysadmin still handles recurring IT requests manually and can't figure out how to automate them	sysadmins	none	2	devops & infra
+rd_lvbkv1t	Rental and reservation software doesn't handle nonstandard booking types	venues and rental businesses	implied	3	SMB & back-office
+rd_19s4ieuouueio	Answering vendor security questionnaires with cited policy evidence takes days	IT and security teams	implied	4	security & privacy
+rd_ossime8	Finance teams track exploding AI token spend in spreadsheets, if at all	finance teams	implied	3	finance & money
+rd_mwbgylr	ICU nurses must chart N/A on irrelevant fields because EHRs lack a not-applicable shortcut	ICU nurses	none	2	health & fitness
+rd_or6uri5	Windows File Explorer hangs on search and network shares across fleets	sysadmins	none	2	productivity & work
+rd_npdm36d	Construction drawings are always riddled with conflicts and changes that are hard to track	architects and contractors	none	3	SMB & back-office
+rd_nyt5jq6	Vetting cybersecurity vendors (benchmarks, certifications) is a huge time sink for small businesses	small business owners	implied	3	security & privacy
+rd_o8dxuhx	Windows lacks fast built-in file search, so users install third-party tools	Windows users	none	2	productivity & work
+rd_pa4m050	Running a small shop's books on spreadsheets without a POS causes days of reconciliation errors	small retailers	implied	3	SMB & back-office

@@ -1,0 +1,49 @@
+rd_mpzgxyg	Jenkins plugins go unmaintained and updates break pipelines, forcing teams off it	DevOps teams	implied	3	devops & infra
+rd_oiij386	Small business owners want a tool that tracks open loops (unanswered emails, unpaid invoices, delegated tasks) and nudges the right person	small business owners	explicit	4	productivity & work
+rd_nyoj78f	No dev-focused prompt-sharing platform with tagging and ratings exists	developers	implied	2	AI & ML tooling
+rd_n61azzo	MSPs schedule technician time off outside the PSA with no approval flow or payroll sync	MSPs	implied	2	SMB & back-office
+rd_nwd96g9	Data center maintenance, SLAs and vendor access windows are tracked in spreadsheets, making audits a nightmare	data center operators	implied	4	devops & infra
+rd_o1szyf5	Admins struggle to distribute renewed certificates to endpoints and firewalls	sysadmins	implied	3	security & privacy
+rd_op44bdx	Small businesses want approved content published on a reliable schedule without effort	small business owners	explicit	3	media & content
+rd_oje3ymt	Building material retailers lack purpose-built software	building material retailers	implied	2	commerce & marketplaces
+rd_nxz19f0	Payment providers lack granular FX handling for refunds, chargebacks and multi-step transactions	fintech teams	implied	3	finance & money
+rd_ocmib17	Family farms with several entities and complex tax planning need multi-entity books that accountants and family can share	family businesses	implied	3	finance & money
+rd_nvjxgum	Small clinics track medication and supply expiry manually or in spreadsheets	small clinics	implied	3	health & fitness
+rd_odi1ozl	Sales teams spend hours researching who knows whom for warm outreach	sales teams	implied	3	SMB & back-office
+rd_n73uafz	Small manufacturers outgrow QuickBooks when tracking margins, part inventory, SKU customizations and service history	small manufacturers	implied	4	SMB & back-office
+rd_mkg9je9	Accountants spend more time chasing clients for missing information than doing accounting	accountants	implied	4	finance & money
+rd_osci3hf	Small sales teams spend hours manually logging contacts and follow-ups; HubSpot feels built for big orgs	small sales teams	implied	3	SMB & back-office
+rd_n8e61qt	Teachers want to recall or destroy attachments sent by mistake in email	teachers	none	2	communication & social
+rd_lzcievb	Small businesses waste time repairing and replacing fleets of iPads and phones	small business owners	explicit	3	hardware & IoT
+rd_nkt59ow	People want trusted on-demand expert accountants for quick analyses without agency-size bills	small business owners	explicit	3	finance & money
+rd_pha9ht6	Small businesses want a simple client tool for follow-ups, payment reminders and project tracking; CRMs are too complex	freelancers and small businesses	explicit	3	SMB & back-office
+rd_n4etlmi	Founders and developers can't find cofounders matched on vision, risk tolerance and work ethic	founders	implied	3	hiring & careers
+rd_m2iazht	Schools want an app that restricts student phones automatically on campus	schools	implied	3	education & learning
+rd_nruvznj	Small businesses still track inventory on spreadsheets or paper	small business owners	implied	3	SMB & back-office
+rd_19t64olz5n2wz	Keyword-based ATS filters miss good candidates who describe experience differently	startup hiring managers	implied	3	hiring & careers
+rd_p7c1ng5	No good way to verify AI-built code actually matches the plan	developers using AI agents	implied	3	developer tools
+rd_obhgc69	Small company invoicing slips because the AP/AR person wears many hats and data entry is manual	small businesses	implied	4	finance & money
+rd_oamiu9s	Shopify merchant drowning in manual operations work and can't find good help	Shopify merchants	none	3	commerce & marketplaces
+rd_ow3umel	Accounting AI tools are bolt-ons that scatter the tech stack and cost more than humans	accounting teams	none	3	finance & money
+rd_oa4ka6l	Startups want cheap security-questionnaire automation from a central answer and evidence repo without Vanta-scale cost	startups	implied	4	security & privacy
+rd_oz8oixx	Small business owners can't compare wildly different software dev quotes because scope is hidden	small business owners	implied	3	SMB & back-office
+rd_19sscabpac79h	No organization-running software did what the founder needed	founders	none	2	productivity & work
+rd_n03e2z2	Founders run sales, hiring and fundraising over email with no tool integrated into the inbox	startup founders	implied	4	productivity & work
+rd_olsfbp9	Construction teams spend 30+ hours a week building and managing submittals	construction project teams	implied	4	SMB & back-office
+rd_p3mgab8	Occasional video creators want pay-per-video pricing instead of subscriptions	bootstrapped founders	explicit	2	media & content
+rd_ms7h2gk	Chasing client payments is hell; owners want relentless polite reminders synced with accounting	small business owners	explicit	4	finance & money
+rd_pegyfxo	AI agent harnesses don't control how sensitive data flows between tools	regulated firms	implied	4	security & privacy
+rd_ouod3e6	Nobody has solved managing multiple email accounts well	email power users	implied	3	productivity & work
+rd_n62z2r8	Artifact repository systems are complex and ripe for a simpler alternative	DevOps teams	implied	3	devops & infra
+rd_o9lana3	Remote admins of 40+ sites can't find root causes of intermittent access-control network faults	IT admins	implied	3	devops & infra
+rd_pgoynm9	Ecommerce accountants can't keep SKU-level refund and bundle accounting straight during order spikes	ecommerce accountants	implied	4	finance & money
+rd_o7nf0z7	Sales teams maintain security questionnaire answers in Google Sheets that drift from the product	SaaS sales teams	implied	3	security & privacy
+rd_orr2pep	MSPs need monthly client reports on security posture, detections and compliance; no tool did it	MSPs	implied	4	devops & infra
+rd_oa26yh5	On-call engineers search Confluence for runbooks mid-incident	SRE teams	implied	3	devops & infra
+rd_mas2z5b	Admins want an on-prem alternative to Active Directory and Exchange	sysadmins	implied	3	devops & infra
+rd_oj3f0ie	Advertisers spend hours weekly manually adjusting bids and pausing underperforming ads	performance marketers	implied	3	media & content
+rd_nxb0fq1	SOC 2 compliance becomes a giant manually-updated spreadsheet for small SaaS teams	small SaaS teams	implied	3	security & privacy
+rd_phlonul	Callers hate AI phone agents and would pay more to reach a human	consumers	explicit	3	communication & social
+rd_lzsbnpx	Solo IT admins at small companies have no good security tools	solo IT admins	none	3	security & privacy
+rd_n9o1f27	New parents would pay to learn how to decode baby cries	new parents	explicit	2	consumer & home
+rd_nsleow5	Users want to restore low-resolution JPGs recovered from corrupted SD cards	photographers	implied	2	media & content

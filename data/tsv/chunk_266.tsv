@@ -1,0 +1,51 @@
+rd_mkr3wa1	Teachers spend hours every weekend grading handwritten journals with little student benefit	teachers	none	3	education & learning
+rd_mbycrsn	Finding a reliable dog walker is hard; owners would pay $50/hour	pet owners	explicit	3	consumer & home
+rd_m1hig3f	Small businesses don't know how to bring their website into accessibility/legal compliance	small business owners	implied	3	legal & government
+rd_m1vfar9	Small business owner can't easily understand their numbers across wire, card and debit payments	small business owners	implied	3	finance & money
+rd_oxya90l	Site documentation apps like CompanyCam are too expensive and trades want texts, so a builder built their own photo and voice-report app	home builders	implied	4	SMB & back-office
+rd_ns7msil	Quarterly infra audits are archaeology across CloudWatch, Prometheus and GCP logs	DevOps teams	implied	3	devops & infra
+rd_oc740ky	Lead follow-up is still done by hand and slips when not automated	small business owners	none	3	SMB & back-office
+rd_p75dt1n	Artists want a carefully vetted, high-trust marketplace free of AI and resellers and would pay a vetting fee	artists and makers	explicit	4	commerce & marketplaces
+rd_nauuldq	Multi-client firewall portals are poor and cheap APs lack SNMP, so MSPs can't monitor client networks	MSPs	none	3	devops & infra
+rd_p3irm3o	Agencies wait weeks for clients to pay deposits after a signed proposal	dev agencies	implied	4	finance & money
+rd_o9t8cs8	Home care agencies need caregiver shift management and onboarding automation given high turnover	home care agencies	implied	4	health & fitness
+rd_n1438jj	No cheap tool exists for resellers to track sold software subscriptions and follow up with clients	software resellers	implied	3	SMB & back-office
+rd_p14ilz4	MSPs want one RMM that handles everything including MDM	MSPs	explicit	3	devops & infra
+rd_19sqi2me5hjj6	Marketing teams have no good tooling to track brand mentions and citations in ChatGPT, Perplexity and Claude	marketing teams	implied	4	AI & ML tooling
+rd_19sqi2me5hjj6	Researchers spend hours making scientific figures in Illustrator before grant deadlines	academic researchers	implied	3	education & learning
+rd_mwbcf52	Business users' Python breaks on workstations and becomes an IT ordeal; admins want pandas-like data tools in PowerShell	sysadmins	none	2	developer tools
+rd_oc042sa	Freelancers spend hours a week manually entering data across client web portals	freelancers and agencies	implied	3	productivity & work
+rd_19rv8rmuohq68	Booking payroll deductions from giant payroll spreadsheets to the right accounts by cost center is manual pivot-table work	corporate accountants	none	3	finance & money
+rd_p1b6h7u	GitHub Actions can't be run locally and self-hosted runner fleets are a constant pain	DevOps teams	implied	4	devops & infra
+rd_lwwce18	Creative business owners would pay to avoid bookkeeping	small business owners	explicit	3	finance & money
+rd_m4u6r0f	Founders struggle to keep customer outreach and feedback flowing while building product	startup founders	implied	3	productivity & work
+rd_odx551r	Shop Pay autofill produces wrong addresses that merchants spend hours fixing every week	Shopify merchants	implied	3	commerce & marketplaces
+rd_nwk7y5m	Founders drain energy chasing prospects who say yes but mean no	founders	explicit	2	SMB & back-office
+rd_mg0j1ei	Admins need to remote-control an app on a PC without taking over the active user's screen	sysadmins	implied	3	devops & infra
+rd_nhb5der	Shadow SaaS bought outside IT lapses when the buyer leaves and cards are cancelled	IT teams	explicit	3	security & privacy
+rd_n2e071s	Founders want real developers to rebuild their vibe-coded MVP properly	non-technical founders	implied	3	developer tools
+rd_m0gjg7z	Photographers struggle to keep multiple backup drives and cloud storage in sync	photographers	implied	3	media & content
+rd_p6kwkcp	Businesses still quote custom jobs manually because incoming requests are too inconsistent	service businesses	implied	3	SMB & back-office
+rd_na0rl63	Users want an app that turns scattered notes, emails and to-dos into one prioritized daily plan	knowledge workers	explicit	3	productivity & work
+rd_ozla0cs	Etsy sellers track orders, inventory and bookkeeping in spreadsheet templates	Etsy sellers	implied	2	commerce & marketplaces
+rd_19s584o5hgr1f	Sensitive IoT devices need a cheap per-device hardware firewall dongle for isolation and tech access	IT teams	implied	3	security & privacy
+rd_o6hnw90	Professionals want a LinkedIn alternative focused on job matching without the social feed	job seekers	explicit	3	hiring & careers
+rd_owxq4e4	Specs drift from the codebase once development starts, losing AI context	developers using AI agents	implied	3	developer tools
+rd_palldnx	MSP techs lack a toolbox in their remote tools and script their own tool downloads	MSP technicians	none	2	devops & infra
+rd_m36kgq1	Nurses struggle to figure out which provider to contact for a patient	hospital nurses	none	3	health & fitness
+rd_o09d7cd	Admins want a hardware RAID card with ZFS features and a write cache	sysadmins	implied	2	hardware & IoT
+rd_p8qt7qa	Startups can't get employees to keep documentation and SOPs current, so knowledge walks out the door	startup teams	implied	4	productivity & work
+rd_o5h5qk1	Agencies leak unbilled hours on manual client reporting and scope creep	agencies	implied	3	SMB & back-office
+rd_os3r05e	Security teams hand ops a giant monthly vulnerability spreadsheet with no prioritization	IT ops teams	implied	3	security & privacy
+rd_oo9jovv	Small contractors track subcontractor insurance certificates by email and spreadsheet and miss expirations	contractors	implied	4	SMB & back-office
+rd_m3vpc6a	Photography file management is a nightmare with repeating camera filenames and Lightroom catalogs	photographers	implied	4	media & content
+rd_nbmvyn2	Small sellers want a way to rate and screen problem customers	small business owners	explicit	3	commerce & marketplaces
+rd_phpwqaz	AP automation like AppZen takes 6-13 months to integrate; smaller companies want a light version	accounts payable teams	implied	3	finance & money
+rd_ocfwc3g	Field service owners spend hours weekly on paper timesheets, payroll entry and chasing no-shows	field service businesses	implied	4	SMB & back-office
+rd_nxf1mwb	Founders want a tool that ingests CSVs and helps read balance sheets without format fixing	startup founders	implied	3	finance & money
+rd_my403a1	Photo-frame slideshows on iPad get interrupted by system update alerts with no way to turn them off	consumers	none	1	consumer & home
+rd_mib0thd	Business managers for musicians struggle with cross-border withholding tax	business managers	none	3	finance & money
+rd_otnsqn3	Solo business owners hate handling receipts, invoices and bookkeeping	solo business owners	none	3	finance & money
+rd_p4r0a9j	Small brokerages compute agent commission splits and caps in spreadsheets, causing underpayments	real estate brokerages	implied	4	finance & money
+rd_p8pbd1g	IT keeps asset serials and license keys in ziploc bags with no asset database	IT teams	none	2	devops & infra
+rd_of39lby	Construction management still runs on spreadsheets and email chains	construction managers	none	3	SMB & back-office

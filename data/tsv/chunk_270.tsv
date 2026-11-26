@@ -1,0 +1,53 @@
+rd_n9t3xq5	Small businesses can't find inventory software linked to accounting; one built their own and still bridges by hand	small business owners	explicit	5	SMB & back-office
+rd_mxpn49o	Context is lost between chats, tasks and docs	knowledge workers	implied	3	productivity & work
+rd_nbkrlak	B2B sales teams waste hours on manual RFP review and proposal writing	B2B sales teams	implied	4	SMB & back-office
+rd_mjxf225	Cloud WAF has no simple allow rule, forcing convoluted regex exceptions	sysadmins	none	3	security & privacy
+rd_n8f7w92	Shoppers want unbiased AI product recommendations with no seller kickbacks	shoppers	explicit	3	commerce & marketplaces
+rd_p7q3k5i	QA teams manually triage why tests failed (flaky, real bug, environment, stale locator)	QA teams	implied	4	developer tools
+rd_olvgryu	Owners track when to send invoices in their heads and calendars	small business owners	implied	3	finance & money
+rd_orrfqcg	Handmade businesses outgrow spreadsheet inventory once orders increase	handmade sellers	implied	3	commerce & marketplaces
+rd_ovqcwaf	Loom alternatives are hard to self-host and have poor video playback	small companies	implied	3	productivity & work
+rd_onb3xh5	App developers struggle to find beta testers	app developers	implied	3	developer tools
+rd_n2jemja	Founders find marketing constant, annoying and slow to show results	SaaS founders	none	3	media & content
+rd_p0ituf1	Mattress industry markups are huge and ripe for disruption	consumers	none	2	consumer & home
+rd_o93mnbp	Shopify merchants export CSVs and can't easily see revenue trends, top products and profit	Shopify merchants	implied	3	data & analytics
+rd_ong177j	Firms still download documents from portals, rename them and file them into accounting by hand	accounting firms	implied	3	finance & money
+rd_nrxyzst	MSP engineers constantly switch tabs between PSA, RMM, Microsoft admin and documentation, slowing tickets	MSP technicians	implied	4	devops & infra
+rd_o6l8nq4	A better LinkedIn fails on network effects unless it starts with one niche	professionals	none	2	hiring & careers
+rd_obujw4y	Small businesses spend 10 hours a week posting manually across three platforms	small business owners	explicit	3	media & content
+rd_lz9cp4t	Kaseya degrades acquired products and locks MSPs into ironclad contracts	MSPs	none	4	devops & infra
+rd_p258uso	Small businesses want CFO services at bookkeeper prices	small business owners	none	3	finance & money
+rd_mx3azc5	Remote certification exams are strict; candidates would pay for clean proctoring rooms	certification candidates	explicit	2	education & learning
+rd_oix9slp	Teams spend 8 hours a day manually reviewing AI outputs	AI ops teams	explicit	4	AI & ML tooling
+rd_mxj28c0	Retail quants want one tool from idea to backtest to deployment	retail traders	implied	3	finance & money
+rd_os1iw6f	Teams spend hours weekly copying data between spreadsheets and project trackers	project teams	implied	3	productivity & work
+rd_n5m1etm	First-time founders want a daily prioritized SEO task with impact tracking	first-time founders	implied	2	media & content
+rd_otrw56d	Calendly-type schedulers lock needed features behind expensive tiers for property visits and room booking	real estate agencies	implied	3	SMB & back-office
+rd_on8oc1t	No tool tracks engagement on interactive HTML documents the way DocSend tracks PDFs	agencies and startups	implied	3	productivity & work
+rd_mn891fg	There's no reliable way to do certificate revocation checks	security engineers	none	2	security & privacy
+rd_mgjyk8d	Agents pull market-analysis data (comps, trends) manually from multiple sources	real estate agents	implied	3	SMB & back-office
+rd_ol0muxy	Editors blur faces and license plates frame by frame in Premiere and After Effects	video editors	implied	4	media & content
+rd_o9wtwm8	AI-visibility monitoring tools give a score but no action plan	marketers	implied	3	media & content
+rd_nhbi33v	Team knowledge is scattered across wiki, Google Docs and Slack with no unified search	IT teams	implied	4	productivity & work
+rd_ony7qhm	Excel lacks a quick way to jump back after following a cell reference	accountants	none	1	productivity & work
+rd_o8ipnye	Small brands spend 10+ hours a week hunting for influencers	small brands	implied	3	media & content
+rd_nw24zho	Accountants waste hours monthly reformatting ERP reports for management	corporate accountants	none	3	finance & money
+rd_ovhkkbo	Consumers buy smart home devices but can't set up, mount or troubleshoot them	homeowners	implied	3	consumer & home
+rd_o60rgny	Aspiring founders can't find a mentor-matching service	aspiring founders	implied	2	hiring & careers
+rd_ojggjlm	Small insurance brokers run quote-to-bind workflows on spreadsheets	insurance brokers	implied	3	finance & money
+rd_osx9d0s	Shopify return/withdrawal apps send emails but don't log requests as timestamped evidence	EU Shopify merchants	implied	3	commerce & marketplaces
+rd_oeszgvr	AI incident tools can't find causality when there's no clean upstream change	SRE teams	none	3	devops & infra
+rd_nmzo2em	AppSumo's quality and vetting have declined and it extracts value from founders	SaaS founders	implied	3	commerce & marketplaces
+rd_okmzrdv	Mid-size teams have nothing between manual GRC and enterprise platforms; app owners own access, not IT	mid-size IT teams	implied	4	security & privacy
+rd_o5pvpsl	Weekly reporting means pulling CSVs from separate systems and double-keying, causing errors	small business owners	implied	4	data & analytics
+rd_mlpdbra	Contractors waste time turning timesheets into invoices by hand	solo contractors	implied	3	finance & money
+rd_mz1t0yx	Photographers want automatic searchable titles and descriptions for photos	photographers	implied	2	media & content
+rd_o174ln6	Clinic care coordinators spend most of their time navigating insurance	care coordinators	none	3	health & fitness
+rd_mygicsc	Service providers want clean SOPs from messy voice notes and Looms, and auto-organized onboarding assets	service businesses	explicit	4	productivity & work
+rd_19s8xmgu9ot1e	Self-employed can't buy cheap catastrophic health plans	self-employed	explicit	3	health & fitness
+rd_mufn0eu	Renters pay for rental applications that landlords may not accept	renters	implied	3	consumer & home
+rd_mree5nj	BPO owners want review analytics on what customers say about competitors	BPO companies	explicit	3	data & analytics
+rd_me3lkd0	IT teams struggle to read Apple laptop serials for asset tracking	IT teams	implied	2	devops & infra
+rd_oksem4z	Small businesses spend hours weekly copying sheets, cleaning CSVs, renaming files and replying to the same emails	small business owners	implied	4	productivity & work
+rd_ootcbdw	Customer remittance advices come in inconsistent scanned formats with buried invoice numbers	AR accountants	explicit	4	finance & money
+rd_ogl57dh	SMBs still store passwords in spreadsheets or browser saves	MSP clients	implied	3	security & privacy

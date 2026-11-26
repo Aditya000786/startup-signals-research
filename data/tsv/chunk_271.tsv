@@ -1,0 +1,47 @@
+rd_oeirj59	Custom fabrication shops send the same RFQ email to 15 suppliers, customizing each by hand	fabrication shop buyers	implied	4	SMB & back-office
+rd_mduxzme	Construction teams struggle to compare new print sets against old ones	construction project managers	implied	3	SMB & back-office
+rd_o35azkh	HR teams chase policy acknowledgments by email and track them in spreadsheets	HR and ops managers	implied	3	SMB & back-office
+rd_oh9vrhb	Small teams handle client communication across email, Slack and DMs, so requests fall through	small teams	implied	3	communication & social
+rd_opk8e7y	Agencies struggle to find professional, reliable freelance video editors	marketing agencies	implied	3	hiring & careers
+rd_o4vmbgt	Accounting automation tools are untrustworthy and each makes different errors	accountants	none	3	finance & money
+rd_mkx85lt	Teams waste time manually reviewing and qualifying leads	sales teams	implied	3	SMB & back-office
+rd_nbg9q24	Gradebooks can't hide a grade from parents and students while sharing it with staff	teachers	implied	2	education & learning
+rd_nmmpeq3	Shopify bans gray-area product categories with no appeal	niche ecommerce sellers	none	3	commerce & marketplaces
+rd_odkn0e3	A dominant business-software vendor with 80% share leaves systemic errors unfixed	small business owners	none	3	SMB & back-office
+rd_mx6p78f	Short-term rental guests can't tell a rental's size or layout	vacation rental guests	implied	2	travel & local
+rd_nce3cu2	Accountants make errors on many manual journal entries	accountants	none	3	finance & money
+rd_odh865s	Teams spend hours weekly reconciling CRM and billing data	ops teams	implied	3	data & analytics
+rd_owvo7c0	Admins want scrolling screenshot capture for long web pages	sysadmins	implied	2	productivity & work
+rd_on9mkz6	Tools that turn screen recordings into user guides are too basic or too expensive	agencies and SaaS teams	implied	3	productivity & work
+rd_m9zlnox	Photographers want to sort and cull images by camera settings like shutter speed	photographers	implied	2	media & content
+rd_ny0zafu	Agencies can't spot which client types and project structures kill margins	agencies	implied	3	SMB & back-office
+rd_oek4f79	Ops staff copy-paste the weekly crew schedule from the roster system into Excel by hand	ops coordinators	none	2	productivity & work
+rd_n7owx5x	Special education alternate assessments require hours-long evidence binders failed for clerical errors	special education teachers	none	3	education & learning
+rd_ogx4dp7	Negative digitizing services are one-off, manual and wildly expensive	photographers	explicit	3	media & content
+rd_mjck5mg	Accountants find timesheets and balancing over/under-billing painful	accountants	none	2	finance & money
+rd_nsx15xl	Small businesses bridge QuickBooks and Google Sheets with Zapier before they can justify an ERP	small business owners	none	2	SMB & back-office
+rd_per0g0b	Practitioners spend the most time on record writing and can't find anyone to do it their way	service practitioners	explicit	4	SMB & back-office
+rd_odanua8	Founders spend hours weekly searching Reddit for relevant conversations	founders	implied	3	media & content
+rd_19rpdgok3r203	Small businesses can't afford legal help to navigate disputes	small business owners	implied	3	legal & government
+rd_o7ppej3	Agencies without HR spend hours on org charts, goal spreadsheets and chasing self-assessments	agency founders	implied	4	SMB & back-office
+rd_okabj4w	Agencies find GEO citation-tracking tools inconsistent and generic, so they build their own	SEO agencies	implied	4	media & content
+rd_od4s43u	Direct-booking tools for rentals compete on features but trust, discovery and calendar sync are unsolved	vacation rental hosts	implied	3	travel & local
+rd_mvqz00u	Accounting practice, document and client management software is poor repackaged slop	accounting firms	implied	4	finance & money
+rd_o8o3t19	MSPs find upgrading Veeam across 200 environments a nightmare	MSPs	implied	4	devops & infra
+rd_nwupakh	Owners spend hours weekly copying customer info between systems and reconciling payments	small business owners	implied	4	SMB & back-office
+rd_ovz7d4t	Restores are done manually; admins want a UI for automatic restores	sysadmins	implied	2	devops & infra
+rd_oecp5zz	Support chatbots drift out of date with pricing and docs unless manually retrained	SaaS support teams	implied	3	AI & ML tooling
+rd_nx4700y	SaaS owners would pay for someone to monitor and maintain their services	solo SaaS owners	explicit	3	devops & infra
+rd_o200xcp	Teams want vetted like-for-like SaaS replacements with migration risk handled	SaaS buyers	explicit	3	productivity & work
+rd_obthkr1	Finance and ops teams can't get simple numbers out of BI tools and wait days on data teams	finance and ops teams	implied	4	data & analytics
+rd_m2zi71e	Solo-business bookkeeping lacks simple rule-based transaction splits	solo business owners	implied	2	finance & money
+rd_ol092m6	Group Policy editor lacks search	sysadmins	implied	2	devops & infra
+rd_o9l4scs	Admins would pay for reliable printer management in organizations	sysadmins	explicit	3	devops & infra
+rd_ou5oyy9	Engineers can't tell whether removing a package will break runtime	DevOps teams	implied	3	devops & infra
+rd_ok8wokr	Tools to auto-document workflows from screen recordings are too basic	small businesses	implied	3	productivity & work
+rd_mmhfgn7	QuickBooks Online can't reconcile balance-sheet accounts beyond bank and cards, like undeposited funds	bookkeepers	implied	4	finance & money
+rd_lwwecg3	Preparers don't know how to do multistate K-1 filings or which software to use	tax preparers	implied	3	finance & money
+rd_ogiy6p8	Expense reimbursements by hand get skipped because receipts are lost	employees and accountants	implied	3	finance & money
+rd_ozp28x5	Applying ASC 842 lease accounting for small clients is painful	accountants	none	3	finance & money
+rd_pgp0e6e	Engineers run destructive commands against prod because consoles look the same as dev	engineers	implied	3	devops & infra
+rd_njlsssp	Small business owners are flooded with AI-generated sales pitches	small business owners	explicit	3	communication & social

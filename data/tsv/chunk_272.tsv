@@ -1,0 +1,44 @@
+rd_njpppqg	Homeowners would pay for twice-yearly gutter cleaning	homeowners	explicit	2	consumer & home
+rd_pc5r2gx	Small sellers enter sales, costs and inventory in three places so numbers never match	small product businesses	implied	3	SMB & back-office
+rd_oamu2qu	SEO teams spend hours weekly on content briefs and tracking link outreach in spreadsheets	SEO teams	implied	3	media & content
+rd_nkp62o6	Google Business Profile can't show by-appointment-only hours	appointment-based businesses	implied	2	travel & local
+rd_19sltbg7h8pk1	Calendar bookings across regions land an hour off after DST; users want automatic meeting buffers	professionals	explicit	2	productivity & work
+rd_oj58y46	MSP clients want to see their assets but data is split across RMM, MDM and identity provider	MSPs	implied	4	devops & infra
+rd_o9kr726	Teams can't detect subtle degradation in AI model output quality	AI product teams	implied	4	AI & ML tooling
+rd_ocfe48f	Dental offices want software to make a routine workflow easier	dentists	implied	2	health & fitness
+rd_ndctd2r	Data teams drown in spreadsheet hell	data analysts	none	2	data & analytics
+rd_pad3a2q	Dev-tool teams spend 10 hours a week scanning X for buyer conversations	dev-tool startups	implied	3	media & content
+rd_osky841	Admins can't troubleshoot user-profile errors without scheduling time with the user	sysadmins	implied	3	devops & infra
+rd_oad1562	Owners spend hours weekly sending payment reminders to late clients	service businesses	implied	3	finance & money
+rd_19rtj4ckt382r	Founders match Stripe payouts to invoices monthly and fix refunds, partials and FX by hand	SaaS founders	explicit	4	finance & money
+rd_nz6juqv	Small nonprofits run everything on spreadsheets and want basic automation	nonprofits	implied	3	SMB & back-office
+rd_o6wm1vw	Turning rambling client voice notes into a binding scope needs verification loops	agencies	implied	3	SMB & back-office
+rd_19s5gr2u6wwsk	Per-server ACME clients can't share wildcard or cluster certificates	sysadmins	implied	3	security & privacy
+rd_nvxjdti	QuickBooks payroll errors are a nightmare to fix	small businesses	none	3	finance & money
+rd_n9l25vg	Small contractors double-order materials and lose track of procurement	contractors	implied	3	SMB & back-office
+rd_o91oy2b	MSPs roll out security baselines manually per client; no product applies, reports and self-heals	MSPs	implied	4	devops & infra
+rd_ocfskcu	Updating caption files everywhere a video lives is manual	video teams	implied	2	media & content
+rd_m1q2zu5	No good way to auto-edit a large photo backlog in one's style without high AI token costs	photographers	none	2	media & content
+rd_nklw8pm	Grad students using NotebookLM can't get page numbers for citations	graduate students	explicit	3	education & learning
+rd_nvqq31w	Productivity tools don't fix procrastination and anxiety beyond the first few days	knowledge workers	none	2	productivity & work
+rd_nry08hv	Consumers forget to cancel streaming subscriptions after finishing a show	consumers	implied	2	consumer & home
+rd_o3kspxu	Nurses struggle to find a patient's current code status in Epic	hospital nurses	none	4	health & fitness
+rd_ohnti5y	Intune lacks good ad-hoc scripting and third-party app patching	MSPs	none	3	devops & infra
+rd_nebl4ew	Digital product sellers waste hours on receipts, follow-ups and store updates	digital product sellers	none	2	commerce & marketplaces
+rd_o7bnh7h	Freelancers spend hours weekly writing status-update emails clients don't read	freelancers	implied	3	productivity & work
+rd_pe83n8s	Shopify stores get bot attacks creating thousands of fake accounts and abandoned carts	Shopify merchants	implied	3	security & privacy
+rd_nw2thyz	Island Airbnb hosts manage properties on spreadsheets or generic booking software	vacation rental hosts	implied	2	travel & local
+rd_odv26he	Tools for generating UGC-style video ads are too slow or expensive at scale	performance marketers	implied	3	media & content
+rd_ne7ban0	Founders spend ages animating zooms for software demo videos	SaaS founders	implied	3	media & content
+rd_msnb44d	Solo IT for multi-location retail fights proprietary POS and back-office systems that don't integrate	solo IT admins	none	4	SMB & back-office
+rd_njd03i8	Users would pay for a forum guaranteed free of astroturfing and AI bots	internet users	explicit	3	communication & social
+rd_o7ili3d	Businesses expanding to a second location need shared inventory, scheduling and customer data	multi-location businesses	implied	3	SMB & back-office
+rd_19sqsc8g0oxj9	Public accounting timekeeping is inaccurate because staff under-report to stay within budget	public accountants	none	2	finance & money
+rd_o6z4kwq	Rental hosts answer the same guest questions every week because guests don't read PDFs	short-term rental hosts	implied	3	travel & local
+rd_ph4k9us	Tradespeople want missed calls handled without fiddly apps	tradespeople	implied	3	communication & social
+rd_ns77mqy	Small retailers and service businesses still use spreadsheets for inventory and scheduling	small businesses	implied	3	SMB & back-office
+rd_od2g8xa	Contract tools are either expensive CLM or plain storage with no renewal-deadline alerts	small IT and ops teams	implied	4	legal & government
+rd_nn2u7k4	Gym apps keep getting built but none benefit both gyms and members	gyms	implied	2	health & fitness
+rd_oke6uz6	Lead generation is rife with fraud and doesn't deliver ROI to business owners	small business owners	implied	3	SMB & back-office
+rd_pbp67p6	Owners must reconstruct a year of books from bank statements before tax season	small business owners	implied	3	finance & money
+rd_nqxu70x	Small-company IT can't keep up with constantly changing systems, libraries and tools	small-company IT	none	3	devops & infra

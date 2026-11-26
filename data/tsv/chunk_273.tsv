@@ -1,0 +1,57 @@
+rd_njro51a	MSPs migrating several companies from Google to Microsoft debate costly tools vs manual work	MSPs	implied	3	devops & infra
+rd_o9lxuih	Dental front desks still handle appointment confirmations and rescheduling by hand-texting	dental practices	implied	3	health & fitness
+rd_nyifs8u	There's no good way to listen for keywords across LinkedIn	B2B marketers	implied	3	media & content
+rd_n0e75z9	Small manufacturers can't find skilled workers and want affordable robot arms but can't size total costs	small manufacturers	implied	4	hardware & IoT
+rd_nrz0nc6	Small businesses get targeted by ADA web-accessibility demand letters; no tool guarantees compliance	small business owners	implied	4	legal & government
+rd_owfei1g	Authorization decisions leave no append-only audit record of policy evaluations	platform engineers	implied	3	security & privacy
+rd_nha9v91	Small business owners face soaring health premiums and want cheap catastrophic plans	small business owners	explicit	3	health & fitness
+rd_omcgigw	MFA fatigue pushes admins to hardware keys; users resist security changes	sysadmins	none	3	security & privacy
+rd_o5ibrby	Founders spend hours weekly on competitor research that never turns into decisions	founders	none	2	data & analytics
+rd_nedyok2	Admins want a service to evaluate the security and functionality of Chromium extensions	sysadmins	implied	3	security & privacy
+rd_oc9h7v8	Small sales teams miss follow-ups tracked in spreadsheets; want daily who-needs-attention reminders with Gmail sync	small sales teams	implied	4	SMB & back-office
+rd_oyudeed	Construction platforms are built for vertical buildings and don't handle stationing/chainage for linear infrastructure	infrastructure contractors	implied	4	SMB & back-office
+rd_p8cuo7n	Contractors face spreadsheet hell producing certified payroll (WH-347) and fringe calculations	public works contractors	implied	4	SMB & back-office
+rd_mop46hs	Commission-art marketplaces lack filters for style, commercial rights, price and delivery time	small businesses buying art	implied	3	commerce & marketplaces
+rd_npgc6q8	OCR accuracy drops on tables, multi-column layouts and formulas	students and knowledge workers	implied	3	AI & ML tooling
+rd_mblbm2z	802.1x/RADIUS on certain platforms needs custom scripts with no native support	sysadmins	none	3	security & privacy
+rd_o2ynq9x	Merchants' landed costs are scattered across emails and spreadsheets, so margins are off 15-20% at month end	Shopify merchants	implied	4	commerce & marketplaces
+rd_o48t6wx	Surveillance-grade drives are sold looking like general-purpose drives	sysadmins	implied	2	hardware & IoT
+rd_oz93khy	Merchants would pay for a ready-made cost-audit tool instead of a spreadsheet process	Shopify merchants	explicit	3	commerce & marketplaces
+rd_mx0vf3g	Lawyers want tools that save time in daily practice	lawyers	implied	2	legal & government
+rd_ocb2uvj	Sales reps calculate commissions on napkins	sales reps	implied	3	finance & money
+rd_oc5zgln	Small teams find CRMs too heavy to actually use	small teams	implied	3	SMB & back-office
+rd_ovkmq8s	Shopify can't sync quantity limits, preorders and inventory across channels without overselling	Shopify merchants	none	3	commerce & marketplaces
+rd_p7l8dgk	Configuring select Apple devices in Windows environments, like cert-based Wi-Fi, is a nightmare	sysadmins	none	3	devops & infra
+rd_p47lz6w	MSPs stitch client security assessments together in spreadsheets and Word docs	MSPs	implied	3	security & privacy
+rd_ni6288g	Agencies detest maintaining integrations between ever-changing SaaS tools	agencies	implied	3	productivity & work
+rd_o8y1db1	Shippers handle growing shipment volume manually without freight software	logistics businesses	implied	2	SMB & back-office
+rd_nbyqi4g	Photographers have no good way to sell stock licenses anymore	photographers	none	3	media & content
+rd_mjdor68	Users want paid self-hosted software they control, with support	technical users	explicit	3	developer tools
+rd_nm0r3t6	Inbox management tools didn't work, so the owner hired a VA	small business owners	explicit	3	productivity & work
+rd_mece7ek	Street photographers want AI to anonymize faces so photos can be published	street photographers	implied	2	media & content
+rd_m2gwv4o	Car buyers would pay for a service that handles everything involved in getting a car	car buyers	explicit	3	consumer & home
+rd_n25a6mh	SaaS builders would pay for feedback only from people matching their target audience	SaaS founders	explicit	3	productivity & work
+rd_19sq87vf7zx9d	Developers would pay $5/month for small tools that just work rather than build them	developers	explicit	2	developer tools
+rd_nwjkq49	Homebuyers find solar panels come with leases, unpaid balances or roof damage	homebuyers	none	3	consumer & home
+rd_o15pgvr	Construction businesses spend hours weekly begging for payments	construction businesses	implied	4	finance & money
+rd_o33cgf6	Creators find all-in-one social analytics tools stitched together; want honest AI coaching from their own post history	content creators	implied	2	media & content
+rd_mnxwjrz	B2C founders can't easily recruit real people for customer interviews	B2C founders	implied	3	productivity & work
+rd_ob71yd2	AI agent frameworks need boilerplate for state persistence	AI developers	implied	3	AI & ML tooling
+rd_obzkuuo	Small teams hit CRM free-tier ceilings fast; Zoho's UI hurts adoption	small teams	implied	3	SMB & back-office
+rd_o7edq2q	Wedding photographers routinely miss delivery dates or withhold photos	couples	implied	3	media & content
+rd_owf9e5z	Businesses waste time on low-quality leads who use AI for everything	service businesses	none	3	SMB & back-office
+rd_oqo6s96	Accountants spend more time cleaning mismatched data formats than matching	accountants	implied	3	finance & money
+rd_o8q31ph	Canadian merchants find Shopify return labels patchy and handle returns manually	Canadian Shopify merchants	implied	3	commerce & marketplaces
+rd_n0nwdyl	There's no good way to set registry keys on Intune-managed devices	sysadmins	none	3	devops & infra
+rd_mhzkjwe	Admins would pay for a browser that doesn't compromise privacy	sysadmins	explicit	2	security & privacy
+rd_nfwqt5r	Founders' tools don't warn when runway is running out	founders	implied	3	finance & money
+rd_mwzqaqk	Per-seat software licensing with staggered renewals is a pain for IT budgeting	IT departments	none	3	SMB & back-office
+rd_mk6u30h	Defender RBAC and Exchange permission changes are confusing	sysadmins	none	2	security & privacy
+rd_n0wosyw	Small makers would pay for Shopify back-end admin and automation help	small makers	explicit	3	commerce & marketplaces
+rd_ogzgfo9	Python lacks the type-inferred code completion PowerShell and C# users rely on	sysadmins	none	2	developer tools
+rd_n0t3tep	Older adults with ADHD want approachable AI training	older professionals	explicit	2	education & learning
+rd_p8064eb	Affordable physical OTP devices are hard to find	consumers	implied	2	security & privacy
+rd_nvsc8wj	Owners' client info, invoices and follow-ups are scattered across notes and apps	solo business owners	implied	3	productivity & work
+rd_nfxdlzb	Hospitals lack enforcement against patients harassing or assaulting staff	nurses	none	3	health & fitness
+rd_os7nt78	Marketers pull numbers from Meta, Google, GA4 and CRM every week for reports	marketers	explicit	4	data & analytics
+rd_19rzk8yw6qlpc	Small sellers want a tool to organize messy inventory with AI to answer customer questions	small retailers	implied	3	commerce & marketplaces

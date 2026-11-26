@@ -1,0 +1,49 @@
+rd_ncgfx02	Small online sellers have no good way to prevent chargebacks	ecommerce sellers	implied	3	commerce & marketplaces
+rd_mtmuszd	No single device-management tool handles mixed Windows and macOS fleets well	small IT teams	implied	3	devops & infra
+rd_on2sjle	Sales teams stitch Apollo, Clay and email drafting together for lead enrichment	sales teams	implied	3	SMB & back-office
+rd_mi78f4y	QuickBooks Online keeps raising prices and changing the UI; owners want a simple basic alternative	small business owners	explicit	4	finance & money
+rd_omzvx66	GitHub Actions billing UI can't explain usage spikes; admins script per-workflow cost reports	DevOps teams	implied	3	devops & infra
+rd_nhzdsrg	Shoppers want an app that tells them which aisle a product is in	shoppers	implied	2	consumer & home
+rd_n6qd3mc	Shared credentials kept in a giant spreadsheet before adopting a documentation tool	IT teams	none	2	security & privacy
+rd_owkjgok	Sophos ZTNA lacks IP reservations inside the DHCP scope	MSPs	explicit	2	devops & infra
+rd_octklj7	Turning AI-written specs into incremental Linear tasks via MCP is flaky	developers using AI agents	none	2	developer tools
+rd_onrnl0k	Accountants chase clients monthly for bank statements and want missing documents auto-detected and collected from QBO	bookkeepers and accountants	implied	4	finance & money
+rd_nmbxngt	Freelance developers rebuild the same data-viz and table components across client projects in different frameworks	freelance developers	implied	3	developer tools
+rd_o6l1ni2	Construction owners want software that solves pricing, delays, trust and skilled-labor shortages	construction business owners	explicit	3	SMB & back-office
+rd_oc7t8en	Small cafes still forecast inventory orders on spreadsheets or paper	cafe owners	implied	3	SMB & back-office
+rd_o2nr9hs	Agencies juggling many projects spend weeks reconciling developer time for billing	dev agencies	implied	4	SMB & back-office
+rd_19sbe7d2lpv9d	HR teams want a tool that walks employees through benefits and processes	HR teams	implied	3	SMB & back-office
+rd_ogac120	Small companies lack a workflow that flags nonstandard contract terms for approval	small business sales teams	implied	3	SMB & back-office
+rd_mr63quz	Brands can't easily identify and contact micro-influencers	small brands	implied	3	media & content
+rd_oh7nvuu	Ops managers, paralegals and analysts still make sense of messy information by hand	knowledge workers	implied	3	productivity & work
+rd_p6yn8xu	Launch research and outreach content take almost a week even with AI tools	founders	implied	2	SMB & back-office
+rd_o4ldsfa	No good tool for monitoring changes on competitor or reference web pages	SaaS teams	none	2	data & analytics
+rd_o3uiv6i	Weekly reports require manually reconciling IDs and timestamps across tools that name things differently	ops and analysts	implied	4	data & analytics
+rd_olh2plm	Turning discovery-call notes into a structured proposal takes hours and AI output is generic	consultants and agencies	implied	4	productivity & work
+rd_nn9hxk5	Founders spend 10+ hours a week scrolling social media for potential customers	founders	implied	3	SMB & back-office
+rd_lvwir0b	Nurses self-schedule on a giant spreadsheet that managers must balance by hand	nurse managers	none	2	health & fitness
+rd_np4e583	Patients can't find out which surgeons the OR staff actually trust	patients	implied	3	health & fitness
+rd_msg7kf5	Customers give up on projects because contractors don't follow up to take their money	homeowners	implied	3	travel & local
+rd_oju4lok	Developers want a tool that keeps a roadmap and pushes them to finish and ship side projects	indie developers	implied	2	productivity & work
+rd_m6piube	Readers want a filter that hides low-quality content like an ad-blocker	internet users	explicit	2	media & content
+rd_mryihwy	Teachers can't tell whether homework was done by students or AI	teachers	none	4	education & learning
+rd_nirnfpt	Photographers spend hours weekly finding stolen photos and sending takedown requests	photographers	implied	4	media & content
+rd_p2ru5ep	Small teams want customer feedback from email, Discord, tickets and DMs in one ranked list	small SaaS teams	explicit	4	productivity & work
+rd_o8xx3cj	Small home care agencies track Medicaid authorizations and caregiver onboarding on spreadsheets and paper	home care agencies	implied	4	health & fitness
+rd_na09hsa	Calendars fill with status meetings that should be messages	knowledge workers	explicit	2	productivity & work
+rd_nzwggz4	Most meeting AI tools fail governance and audit-trail requirements	enterprise teams	implied	3	security & privacy
+rd_19rgv3cmb0ykl	Accounting data entry is still unsolved even with LLMs	accountants	none	3	finance & money
+rd_og9mumc	Small business owner wants inexpensive accounting software	small business owners	implied	2	finance & money
+rd_mfqtjxf	New founders don't know how to find emails of relevant prospects	founders	implied	2	SMB & back-office
+rd_o4zpshe	Shopify sellers struggle with landed-cost margins and miss carrier late-delivery refunds	Shopify merchants	implied	3	commerce & marketplaces
+rd_nl4h1df	Sysadmins still set up computers manually and have no time to automate	sysadmins	none	3	devops & infra
+rd_m9nmr6h	Founders can't systematically reach 100-200 ideal users for pre-launch feedback	founders	explicit	3	SMB & back-office
+rd_odo1my7	Website feedback/markup tools are too expensive for small agencies	agencies	implied	2	developer tools
+rd_n0j8tzg	Photographers want a simple, fast photo-culling app for macOS	photographers	implied	3	media & content
+rd_otj67xi	Small SaaS founders lose hours a week on manual invoicing and payment chasing	small SaaS founders	none	3	finance & money
+rd_oj4pnzm	Cottage bakers struggle to work out what they actually make per batch	home bakers	implied	3	SMB & back-office
+rd_n7rtgnh	Hyper-V lacks proper RBAC and Veeam features don't carry over	sysadmins	none	2	devops & infra
+rd_myv3oyp	Windows can't open HEIC images by default and admins can't buy a fleet-wide fix	sysadmins	explicit	2	productivity & work
+rd_oc2gtcg	People want a tool that tracks, reminds and summarizes follow-ups across emails and chats	knowledge workers	implied	3	productivity & work
+rd_o10ozny	Families want a service to help hoarders sort and inventory belongings	families of hoarders	explicit	3	consumer & home
+rd_nod1b31	No good tool exists for monitoring traffic and citations from AI search engines	ecommerce marketers	none	2	data & analytics
