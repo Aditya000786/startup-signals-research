@@ -1,0 +1,90 @@
+rd_meqk7ng	Managing separate TOTP codes from a dozen platforms is a nightmare	sysadmins	implied	3	security & privacy
+rd_me3mo7l	Daylight saving mismatches between countries cause weeks of scheduling chaos	international teams	none	2	productivity & work
+rd_mr7q3td	Internal developer platforms fail unless they're the fastest path; tribal knowledge and tool fragmentation persist	platform teams	implied	3	devops & infra
+rd_mcel9pu	Nurses who were fired struggle to explain it and get rehired	nurses	none	3	hiring & careers
+rd_mpw9mxa	Startups resist using processes and tools consistently	startups	none	2	productivity & work
+rd_mbnkun0	Teachers with protective orders are filmed for school social media without consent	teachers	implied	3	security & privacy
+rd_nio8zfs	Implementing TLS and auth in every binary is a can of worms	developers	none	2	security & privacy
+rd_maaulme	AR is a nightmare when payers short-pay and send unmatched remittances	AR teams	implied	4	finance & money
+rd_ma7198g	Air traffic controller raises lag inflation	ATC workers	none	2	hiring & careers
+rd_nohmbea	Security vulnerabilities pile up and need auto-fix PRs	DevOps teams	implied	3	security & privacy
+rd_m9t6tky	Caries detector dye stains too much and forces over-excavation	dentists	none	2	health & fitness
+rd_nncegjv	Scam Shopify stores collect cards and redirect buyers to a second store	online shoppers	none	4	security & privacy
+rd_mnl2i9b	Retailers need alerts when items go missing from the floor	retailers	implied	3	commerce & marketplaces
+rd_m9055hx	Google Ads is a nightmare to manage on mobile	founders	implied	2	media & content
+rd_mdbdtz4	Expensive office chairs still aren't comfortable	office workers	none	1	consumer & home
+rd_m8odlj2	CPA Ontario experience verification is a nightmare	Ontario CPA candidates	none	3	education & learning
+rd_m85vp9t	Inflatable rental customers damage gear then claim it arrived that way	party rental businesses	none	3	SMB & back-office
+rd_ms2mydw	Managing and securing SaaS apps is a huge pain and SSO+SCIM tiers are expensive	IT and security teams	implied	4	security & privacy
+rd_m7cuu43	ARM Surface devices are too early to support at work	sysadmins	none	2	hardware & IoT
+rd_mjxz78d	Real estate transactions in Mexico are a mess of WhatsApp messages and scattered files	Mexican real estate agents	implied	4	consumer & home
+rd_m6ifkq8	Teams interface makes it impossible to tell which external chats and calls are live	office workers	implied	2	communication & social
+rd_mjsrl45	Startups hiring overseas engineers struggle with time zones and communication	startups	implied	3	hiring & careers
+rd_m6e6f1c	PKI conversations with auditors are a nightmare since few auditors understand it	PKI admins	none	3	security & privacy
+rd_mjpd556	Small businesses struggle with website management whether DIY or via developers	small businesses	implied	3	developer tools
+rd_miun7ag	Businesses cobble together their own cash flow systems	small businesses	implied	3	finance & money
+rd_m54b7q6	Konica Minolta printer network setup is a nightmare	sysadmins	none	2	hardware & IoT
+rd_mibx8gf	Small employers get 3,000+ applications for one role and no time to review	small employers	implied	4	hiring & careers
+rd_m4jiokw	Transferring teaching licenses between states is a nightmare	teachers	none	3	legal & government
+rd_mhggtdg	GA4 is complex and hard to use for lead tracking and marketing insights	marketers	implied	4	data & analytics
+rd_m25mmgm	Autopilot plus hybrid join is a nightmare	sysadmins	none	3	devops & infra
+rd_mh1x0lu	Founders waste months chasing dead-end investor meetings	founders	implied	3	finance & money
+rd_m12n7ae	California registration is burdensome for out-of-state businesses	small business owners	none	2	legal & government
+rd_mh0cq0g	Admins battle too many alerts and not enough insight	sysadmins	implied	3	devops & infra
+rd_m0km2s5	Asbestos siding makes houses a nightmare to bring up to code	home buyers	none	3	consumer & home
+rd_mgaiib9	Founders don't want to deal with bookkeeping, tax and modeling	startup founders	implied	3	finance & money
+rd_lzauw52	Kaseya acquisitions ruined Unitrends and Datto support	MSPs	none	3	devops & infra
+rd_mfviuti	Choosing a PEO involves lots of back-and-forth	small businesses	implied	2	SMB & back-office
+rd_lyuba3s	Legal name changes are a nightmare	individuals	none	2	legal & government
+rd_mfi10ir	Startups moving from spreadsheets to QuickBooks struggle with cash flow tracking and organization	startup founders	implied	3	finance & money
+rd_ly56uj1	Relying on alpha features or forks is an ops nightmare	DevOps engineers	none	2	devops & infra
+rd_lx4uar2	GoDaddy support is a nightmare	domain owners	none	2	developer tools
+rd_mf4k3vz	Clients switching dev firms prioritize time zone alignment	companies outsourcing development	implied	3	hiring & careers
+rd_me4vbre	Job seekers apply to countless jobs and tweak resumes for each	job seekers	implied	4	hiring & careers
+rd_luzfz04	Skilled developers find applying for jobs a nightmare	software developers	none	3	hiring & careers
+rd_mdw54lu	Managing per-user scan profiles on MFPs must be done machine by machine	sysadmins	implied	2	hardware & IoT
+rd_lutnmjf	New agencies find getting first clients a nightmare	agency founders	none	4	SMB & back-office
+rd_mdvez3f	Founders don't know what legal setup they need or where to start	founders	implied	3	legal & government
+rd_19t5hrmikpclg	Normalizing electricity tariffs across 11 Indian states is a nightmare	energy data teams	none	3	data & analytics
+rd_19t0zjivo29vo	Founders struggle to get customer interviews	founders	none	2	SMB & back-office
+rd_mcx2q1m	Procore is too expensive for small GCs	small general contractors	implied	3	SMB & back-office
+rd_19sste2y2rjds	Debugging AI-generated spaghetti code on deadlines is a nightmare	developers	none	3	developer tools
+rd_mcu17ne	Small business platforms face integration complexity and trust barriers	SaaS founders	none	2	SMB & back-office
+rd_19srsa4k9tj6t	Legacy tax software is a nightmare	accountants	none	3	finance & money
+rd_19sr9q2a4i4pt	Etsy order views show pre-discount item prices, not what was paid	Etsy buyers	implied	2	commerce & marketplaces
+rd_mcer7od	Buyers are stumped by financial what-ifs like mortgage protection	homebuyers	implied	2	finance & money
+rd_19spvrcfhwtpf	Solo content agencies need 35 clients at low retainers to hit income goals	content agency owners	none	3	SMB & back-office
+rd_19snnm1253128	Adding yet another quarantine location for blocked email is a hard no	MSPs	implied	3	security & privacy
+rd_mb8zhkz	Managing WhatsApp marketing contacts manually is time-consuming	marketers	implied	3	communication & social
+rd_19sk4oypoxg77	Making millwork out of melamine is a nightmare	cabinetmakers	none	1	hardware & IoT
+rd_maq3p7s	Junior accountants sit idle waiting for clients to send audit files	junior accountants	none	2	finance & money
+rd_19sh987l3kko0	Manually checking shipping rates for 400 orders a month is a nightmare	small ecommerce sellers	implied	3	commerce & marketplaces
+rd_mae95m4	Developers constantly need admin rights with no way to judge justification	sysadmins	implied	3	security & privacy
+rd_19sf5gxwwsmdh	Ripping out existing event tracking is a nightmare teams won't touch	SaaS teams	none	3	data & analytics
+rd_ma79evh	SMBs hiring a first sales or finance lead don't know what a good candidate looks like	SMBs	implied	4	hiring & careers
+rd_19sdfb20kswdd	Stripe webhooks lost to downstream timeouts leave customers unprovisioned silently	SaaS developers	implied	4	finance & money
+rd_m9x5pur	Shoppers waste time researching prices, availability and reviews across stores	shoppers	implied	3	commerce & marketplaces
+rd_19s9fqu5h1fok	Employees use $20 AI subscriptions unless the company gives better tools	IT teams	implied	3	security & privacy
+rd_m9tkj7k	Ecommerce inventory tools draw complaints about cost and complexity	ecommerce businesses	implied	3	commerce & marketplaces
+rd_19s8o92q42q4g	App store review takes 2 weeks per response for tiny fixes	app developers	implied	4	developer tools
+rd_m96zmlr	Specialty fabrication subcontractors wait to get paid until designers or GCs are paid	subcontractors	implied	4	finance & money
+rd_m96sb9v	Partnership 1065 balance sheets are confusing to fill out	small business partners	implied	3	finance & money
+rd_19s0kmakhw0ci	Untangling tribal knowledge is a nightmare when delegating	small business owners	none	3	productivity & work
+rd_m85edoj	Small businesses lack clean usable data to train AI	AI startups	none	3	AI & ML tooling
+rd_19ry3nz1w3qv7	Small business owners can't make payroll when clients pay 45 days late	small business owners	none	4	finance & money
+rd_m8488tv	Companies lack AI consultancy to pair AI with internal data	companies	implied	3	AI & ML tooling
+rd_19rty7dt0nzyb	Tying GitLab and GitHub repos into one pipeline is a nightmare	DevOps engineers	none	3	devops & infra
+rd_19rscgu6alg9t	Distributors raise prices 6 times in 9 months, a nightmare for 3,000 products without automation	retailers	implied	4	commerce & marketplaces
+rd_m3zll63	Small businesses don't know where to start with AI	small businesses	implied	3	AI & ML tooling
+rd_19rrxc0xj71c2	ChatGPT query fan-out makes AI search optimization hard	marketers	none	2	media & content
+rd_m3mwox3	AI research output is convincing but inaccurate and must be verified	researchers	implied	3	AI & ML tooling
+rd_19rrdycar3vj4	Alabama employers struggle to fill senior IT roles	employers	none	2	hiring & careers
+rd_m36fua5	Teachers lack time for everything and stress about it	teachers	implied	3	education & learning
+rd_m2xrzw3	Supporting multi-tenant setups without SSO between tenants is painful	sysadmins	implied	2	security & privacy
+rd_19rpys2lzlrc4	Marketing is a nightmare for technical founders	technical founders	implied	3	media & content
+rd_m2n7lsa	Users struggle with the extra VPN step after RDG to VPN+RDP migration	sysadmins	none	2	devops & infra
+rd_19rl3jr1ikm1u	Getting through Apple App Store review is a nightmare	app developers	none	3	developer tools
+rd_19rkxerd5zw6c	Breaking down LLM API spend per customer is a nightmare with janky scripts	AI SaaS founders	implied	4	AI & ML tooling
+rd_19rgq1zdrj91g	Getting payroll tax filings wrong is a nightmare	small businesses	none	3	finance & money
+rd_pi05h3p	Vibe-coded additions on old tech-debt systems are a nightmare to maintain	developers	none	3	developer tools
+rd_m16vk3m	Dental practices burn hours weekly on notes and reports	dental practices	implied	4	health & fitness

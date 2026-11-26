@@ -1,0 +1,129 @@
+rd_oful03f	Appointment booking errors overbook salons on busy Saturdays	salon owners	implied	4	SMB & back-office
+rd_oftkhly	NIS2 compliance demands verifiable data-flow audit trails from small SaaS	small EU SaaS	implied	4	legal & government
+rd_ofotjoj	Paid ads send 90% bot traffic so founders vet creators manually	founders	implied	3	media & content
+rd_ofkuv69	Google Sheets + Apps Script business systems break on concurrency	small businesses	none	3	SMB & back-office
+rd_ofkc524	Company cards for fleet fuel are a nightmare to track and invite theft	fleet businesses	implied	4	finance & money
+rd_ofgmxx9	BYOD without security-capable devices is a nightmare	sysadmins	none	3	security & privacy
+rd_ofds7m3	Trades owners with 25 employees can't bring in competent managers	trades business owners	none	4	hiring & careers
+rd_ofcht52	Scooter fleets can't track battery and location without central software	micromobility operators	implied	3	travel & local
+rd_of6jtlx	Reliable cleaners ghost after one shift	small businesses	none	3	hiring & careers
+rd_of61s43	Importing food equipment without NSF certification is a nightmare	restaurant owners	none	3	legal & government
+rd_of5pba0	Signed PDFs get lost in the wrong folder after re-upload	small business owners	implied	3	productivity & work
+rd_of5kabe	Tracking invoices across email, QuickBooks and a spreadsheet always misses something	small business owners	implied	4	finance & money
+rd_oezfpc8	Sifting through thousands of session replays is a nightmare	product teams	implied	3	data & analytics
+rd_oex9rod	Scope creep is a nightmare without boundaries	freelancers	none	3	SMB & back-office
+rd_oetvbyj	Dust storms ruin camera gear	photographers	none	1	hardware & IoT
+rd_oetulql	Staffing agencies lie, don't train, and require unpaid pre-shift time	construction workers	none	4	hiring & careers
+rd_oeqfpsv	Tournament operations at scale run on fragmented tools and manual coordination	esports organizers	implied	3	media & content
+rd_oeov5lv	Staff using personal phones for customer texts take history when they leave	small businesses	implied	4	communication & social
+rd_oeo0v71	German incorporation is expensive and offers little liability protection	freelancers in Germany	none	3	legal & government
+rd_oejgxfd	Manually filtering remote job board applicants is a nightmare for founders	founders	implied	4	hiring & careers
+rd_oe26l6t	SAP OAuth needs custom patches and its document data formats are hard to extract	developers	implied	4	developer tools
+rd_odvd3sg	Small businesses get burned paying web agencies too much upfront	small businesses	none	2	developer tools
+rd_odv3fax	Vendors getting acquired or failing mid-ERP implementation is a nightmare	IT teams	implied	3	SMB & back-office
+rd_odq9ixy	AI agents choke on messy HTML at scale	AI developers	implied	3	AI & ML tooling
+rd_odoxgfa	Affiliate tools differ in ways that only show up after scaling	SaaS founders	none	2	SMB & back-office
+rd_odnngen	Shopify per-variant inventory is a nightmare for one-of-a-kind pieces	artisan sellers	implied	3	commerce & marketplaces
+rd_odn9p19	Balancing hardware prototypes with software on tight deadlines is a nightmare	hardware startups	none	3	hardware & IoT
+rd_odmeq8n	Billing edge cases, tax compliance and Stripe webhook failures eat half the week	SaaS founders	implied	4	finance & money
+rd_odl6gue	Profitability tracking across channels in Shopify is a nightmare	Shopify merchants	implied	4	data & analytics
+rd_od9d042	Hiring developers from Upwork, Fiverr or Reddit is a nightmare	founders	none	3	hiring & careers
+rd_od5ylh7	Accountants without trades background struggle with construction job cost data	accountants	none	3	finance & money
+rd_od44wor	Realtors using personal Gmail lack audit trails and retention for fair housing subpoenas	realtors	implied	4	legal & government
+rd_od23yfx	SaaS positioning is a nightmare	SaaS founders	none	3	media & content
+rd_ocyy45u	Proxmox Ceph hyperconverged storage wastes performance	sysadmins	none	3	devops & infra
+rd_ocsyw7p	Managing leads across Gmail, Slack and Sheets is a nightmare	founders	implied	3	SMB & back-office
+rd_ocr06ka	Instagram scraping hits aggressive rate limits and fingerprinting	developers	implied	3	developer tools
+rd_ocmpeft	DNS Made Easy is raising prices from ~$8 to ~$56/month	MSPs	none	3	devops & infra
+rd_ockvx6w	Attribution on Reddit is a nightmare without tracking	marketers	implied	3	data & analytics
+rd_ocghw9v	Property accounting has prolonged monthly closes	property accountants	none	3	finance & money
+rd_ocfys8w	Reporting across multiple projects takes days	agencies	implied	3	data & analytics
+rd_ocequft	Support AI makes confident promises on billing edge cases and damages trust	SaaS support teams	implied	4	AI & ML tooling
+rd_ocek41q	Epic and Cerner interoperability is a nightmare	healthcare providers	implied	4	health & fitness
+rd_oc9lglg	Managing vendors through email and spreadsheets wastes everyone's time	procurement teams	implied	3	SMB & back-office
+rd_oc9ec9k	Syncing SharePoint libraries is a nightmare for small clients	MSPs	none	3	productivity & work
+rd_oc8uyk3	Vibe-coded apps skip backend data architecture and lose users overnight	founders	none	4	developer tools
+rd_oc8c6xr	Lacking SOC 2 or ISO 27001 kills big deals	SaaS companies	implied	4	security & privacy
+rd_oc81755	Navigating German TÜV regulatory sites is a nightmare	sysadmins	none	2	legal & government
+rd_oc680gr	Getting tools through enterprise procurement is a nightmare	SaaS vendors	none	3	SMB & back-office
+rd_oc1c33j	Managing internal and external wikis in one Wiki.js instance is a nightmare	sysadmins	none	2	productivity & work
+rd_obydzgr	Owners who postpone accounting face a nightmare tax season	small business owners	none	3	finance & money
+rd_obxwz7v	Reddit marketing is a nightmare	SaaS founders	none	3	media & content
+rd_obwjokh	Support staff need 8 different VPN clients to connect to customers	support engineers	none	3	devops & infra
+rd_obtl1tn	Cold email deliverability is a nightmare now	founders	implied	4	communication & social
+rd_obmw59b	Selling to universities is a nightmare	edtech founders	none	3	education & learning
+rd_obkv717	Finding leads in niches like compliance is a nightmare when channels dry up	B2B founders	implied	3	SMB & back-office
+rd_obh3gr7	Cold dessert vendors underestimate melting outdoors	food vendors	none	2	commerce & marketplaces
+rd_obf8y07	Remote desktop over 100ms latency is a nightmare	remote workers	none	2	devops & infra
+rd_obbdre5	Keeping competitor comparison pages updated manually is a nightmare	SaaS marketers	implied	3	media & content
+rd_ob9ym0n	Forming a US company remotely, getting an EIN and banking is a nightmare	foreign founders	implied	4	legal & government
+rd_ob7r8en	AI agents replay 39 steps after failing on step 40	AI developers	implied	3	AI & ML tooling
+rd_ob6juom	Helpdesk sysadmins are underpaid and can't find other jobs	IT staff	none	3	hiring & careers
+rd_ob575gh	Finding useful infrastructure AI tools amid generic wrappers is a nightmare	tech buyers	implied	3	AI & ML tooling
+rd_ob48aao	Translating years of AppLocker rules to WDAC in Intune is a nightmare with no GUI	sysadmins	implied	3	security & privacy
+rd_ob3azv2	Sales tax nexus becomes a nightmare when scaling	Shopify merchants	implied	4	finance & money
+rd_oax1mls	Finding an honest Google Ads agency for life insurance is a nightmare	insurance agents	implied	3	media & content
+rd_oaw57il	Producing video consistently is a nightmare for small SaaS teams	small SaaS teams	implied	3	media & content
+rd_oarayqq	The hard 20% of SEO (algorithm changes, technical edge cases) can't be handed to AI	SEO marketers	none	3	media & content
+rd_oanm4zf	WordPress is a nightmare for beginners	beginners building websites	implied	3	developer tools
+rd_oal1ts4	Getting honest feedback on SEO strategy without sales pitches is rare	founders	implied	2	media & content
+rd_oai0k9f	Manually posting on Reddit at volume burns founders out or gets them banned	founders	implied	3	media & content
+rd_oafpx2t	Vintage resellers can't scale because sourcing hours don't justify margins	resellers	none	3	commerce & marketplaces
+rd_oaezv7x	AI founders get API bill sticker shock and don't know which models fit their GPU	AI developers	implied	3	AI & ML tooling
+rd_oac8cy1	Gmail and Yahoo spam filter changes bury promo emails	Shopify merchants	none	3	communication & social
+rd_oaa4dwz	Amazon commingled inventory leads to counterfeit returns blamed on honest sellers	Amazon sellers	none	4	commerce & marketplaces
+rd_oa73295	Commingling rental and business funds is a nightmare at tax time	freelancers with rentals	none	3	finance & money
+rd_oa5a97n	GA4 attribution is a nightmare and Segment/HubSpot are overkill for tiny teams	indie founders	implied	4	data & analytics
+rd_oa1n9fz	Teams don't know when third-party dependencies like Stripe have a blip	SaaS teams	implied	4	devops & infra
+rd_o9w7b8z	Navan is buggy and shows higher travel prices than booking direct	corporate travelers	none	3	travel & local
+rd_o9tofnh	AI autonomy without visibility is a nightmare for ops teams	ops teams	implied	3	AI & ML tooling
+rd_o9sn1ao	Keeping documentation up-to-date with staff turnover is a nightmare	DevOps teams	implied	3	productivity & work
+rd_o9qnk79	Lean B2C businesses selling to 50 countries struggle with VAT, sanctions and disputes	global B2C businesses	implied	4	legal & government
+rd_o9mmaxd	Handling data deletion requests without audit logs is a nightmare	AI SaaS teams	implied	3	legal & government
+rd_o9ivkx7	Spanish driving test waitlists last 4 months in some cities	Spanish learner drivers	none	3	legal & government
+rd_o9g6xl1	Help docs written for humans make AI support confidently make things up	support teams	implied	4	AI & ML tooling
+rd_o9g2r8f	Pay-as-you-go cold email attracts domain-burning spammers	cold email platforms	none	2	communication & social
+rd_o9d4i33	Clay is powerful but a nightmare to set up for most needs	sales teams	implied	3	SMB & back-office
+rd_o978rex	Keeping up with customer messages across Etsy, Shopify and email is a nightmare	multichannel sellers	implied	4	communication & social
+rd_o8wutlm	Sifting feedback from Slack, DMs, tickets and reviews is a nightmare	founders	implied	4	data & analytics
+rd_o8w4iz0	Meta customer support is a nightmare	small businesses	none	4	media & content
+rd_o8uja5n	Tracking automated creator replies in a CRM is messy	influencer managers	implied	3	media & content
+rd_o8t7dpf	Maintaining LinkedIn scrapers is a nightmare	lead gen developers	implied	3	developer tools
+rd_o8r3v72	WhatsApp Business API setup is a nightmare for indie devs	indie developers	implied	3	communication & social
+rd_o8np2u3	Intercompany accounting is a nightmare across entities	accountants	none	3	finance & money
+rd_o8mtt31	Shopify Payments auto-flags virtual office addresses for non-US owners	non-US Shopify merchants	none	4	finance & money
+rd_o8j3pkb	Accounting industry hours vary from 20 to 80 a week	accountants	none	2	hiring & careers
+rd_o8i3l0o	QBO needs a paid plugin to import Stripe transactions properly	small businesses	explicit	3	finance & money
+rd_o8fg55n	Simple barcode inventory apps crash or have nightmare data exports	small retailers	implied	3	commerce & marketplaces
+rd_o8f4ec0	YouTube API access is a nightmare for influencer apps	influencer app builders	none	3	developer tools
+rd_o8dqb2s	Migrating contractor-built APIs into Salesforce is a nightmare	SaaS companies	none	3	SMB & back-office
+rd_o8cgb89	Real GDPR compliance goes far beyond a cookie banner	SaaS founders	implied	4	legal & government
+rd_o88lfs5	Manual rental booking is a nightmare for niche rental businesses	rental businesses	implied	3	SMB & back-office
+rd_o80ix59	Bot requests inflate Vercel bills	developers	implied	3	devops & infra
+rd_o7w6sht	SharePoint and OneDrive are a nightmare and the UI keeps changing	office workers	none	3	productivity & work
+rd_o7v2k02	Stripe in India costs ~6% and compliance is a nightmare	Indian founders	implied	4	finance & money
+rd_o7u8fpq	Manual content creation is a nightmare for solo devs launching campaigns	solo developers	implied	3	media & content
+rd_o7tkbog	B2B vendor onboarding is a nightmare	small businesses	none	3	SMB & back-office
+rd_o7qx3gk	Reconciling bank accounts for 40 stores by hand in SAP is a nightmare	accountants	implied	4	finance & money
+rd_o7pi7vl	Webflow rich text integration and internal linking are a nightmare	content marketers	implied	3	media & content
+rd_o7oq1td	Agencies duct-tape 5 platforms to manage clients and it breaks at scale	agencies	implied	4	SMB & back-office
+rd_o7ddzrx	Normalizing billing across three clouds is chaos	FinOps teams	implied	3	devops & infra
+rd_o7867of	Previewing RAW files in Finder/Preview lags without Adobe	photographers	implied	3	media & content
+rd_o75icu6	Google Merchant Center suspends sellers for tiny unexplained policy issues	ecommerce sellers	none	4	commerce & marketplaces
+rd_o758htu	Tracking repeat customers solo is a nightmare	solo business owners	implied	3	SMB & back-office
+rd_o73v1h2	Managing international cash flow with different payment cultures is a nightmare	freelancers	implied	4	finance & money
+rd_o6ogb1m	Equipment vanishes across remote sites tracked with manual lists	IT teams	implied	4	devops & infra
+rd_o6mfmpi	Most Next.js cookie banners don't actually log consent	web developers	implied	3	legal & government
+rd_o6fc81s	Accrual accounting would be too costly for small healthcare practices	healthcare practice owners	none	2	finance & money
+rd_o6e534u	Managing an aging, varied device fleet is a nightmare	sysadmins	none	3	devops & infra
+rd_o6azm8j	TikTok conversion tracking for SaaS is a nightmare	SaaS marketers	none	2	data & analytics
+rd_o69fzi3	Fax confirmations silently fail	office admins	none	2	communication & social
+rd_o68fftu	Asset tracking across multiple locations and contractors is a nightmare	IT teams	implied	4	devops & infra
+rd_o67pdny	Contractors want to know what upfront step prevents disputes	contractors	implied	2	SMB & back-office
+rd_o67jlpz	AI-polished responses hide genuine user intent	marketers	none	3	data & analytics
+rd_o66c18f	Big review platforms are biased toward companies	small business owners	implied	3	SMB & back-office
+rd_o5ug6dh	Finding a working TikTok comment picker is a nightmare full of scams	creators	implied	2	media & content
+rd_o5g0twb	Workers' comp cases are a nightmare without a nurse case manager	injured workers	implied	4	health & fitness
+rd_o5fynp2	Mixing equity, compensation and voting causes partnership blowups	small business partners	none	3	legal & government
+rd_o59bxku	Scraped lead data is stale and GPT emails are generic	sales teams	implied	3	SMB & back-office
+rd_o54lxty	Document AI fails on orchestration and setup UX, not parsing	operations teams	implied	4	AI & ML tooling
