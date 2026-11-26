@@ -105,10 +105,10 @@
   "since": 1730419200
  },
  "nursing": {
-  "cursor": 1771205715,
+  "cursor": 1773248491,
   "done": false,
-  "kept": 519,
-  "scanned": 1497300,
+  "kept": 540,
+  "scanned": 1556900,
   "since": 1730419200
  },
  "photography": {
@@ -182,17 +182,17 @@
   "since": 1730419200
  },
  "sysadmin": {
-  "cursor": 1792047717,
+  "cursor": 1794524361,
   "done": false,
-  "kept": 1140,
-  "scanned": 1615400,
+  "kept": 1167,
+  "scanned": 1674700,
   "since": 1730419200
  },
  "teachers": {
-  "cursor": 1756981239,
+  "cursor": 1757813318,
   "done": false,
-  "kept": 428,
-  "scanned": 1266300,
+  "kept": 444,
+  "scanned": 1324700,
   "since": 1730419200
  }
 }
