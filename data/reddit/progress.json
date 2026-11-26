@@ -1,9 +1,9 @@
 {
  "accounting": {
-  "cursor": 1744553380,
+  "cursor": 1746649460,
   "done": false,
-  "kept": 106,
-  "scanned": 325300,
+  "kept": 118,
+  "scanned": 371500,
   "since": 1730419200
  },
  "appideas": {
@@ -21,10 +21,10 @@
   "since": 1730419200
  },
  "construction": {
-  "cursor": 1750372467,
+  "cursor": 1752720527,
   "done": false,
-  "kept": 104,
-  "scanned": 380000,
+  "kept": 118,
+  "scanned": 433600,
   "since": 1730419200
  },
  "contractor": {
@@ -56,10 +56,10 @@
   "since": 1730419200
  },
  "entrepreneur": {
-  "cursor": 1751680509,
+  "cursor": 1753641854,
   "done": false,
-  "kept": 269,
-  "scanned": 411500,
+  "kept": 298,
+  "scanned": 454300,
   "since": 1730419200
  },
  "etsy": {
@@ -104,11 +104,18 @@
   "scanned": 292159,
   "since": 1730419200
  },
- "photography": {
-  "cursor": 1785207484,
+ "nursing": {
+  "cursor": 1730661972,
   "done": false,
-  "kept": 223,
-  "scanned": 492100,
+  "kept": 5,
+  "scanned": 8700,
+  "since": 1730419200
+ },
+ "photography": {
+  "cursor": 1795647534,
+  "done": true,
+  "kept": 239,
+  "scanned": 535285,
   "since": 1730419200
  },
  "projectmanagement": {
@@ -126,10 +133,10 @@
   "since": 1730419200
  },
  "realtors": {
-  "cursor": 1746526843,
+  "cursor": 1753557794,
   "done": false,
-  "kept": 46,
-  "scanned": 102400,
+  "kept": 74,
+  "scanned": 155000,
   "since": 1730419200
  },
  "restaurateur": {
@@ -140,10 +147,10 @@
   "since": 1730419200
  },
  "saas": {
-  "cursor": 1767652118,
+  "cursor": 1770360675,
   "done": false,
-  "kept": 987,
-  "scanned": 615600,
+  "kept": 1170,
+  "scanned": 675200,
   "since": 1730419200
  },
  "shopify": {
@@ -154,10 +161,10 @@
   "since": 1730419200
  },
  "smallbusiness": {
-  "cursor": 1740375239,
+  "cursor": 1742412059,
   "done": false,
-  "kept": 142,
-  "scanned": 208200,
+  "kept": 171,
+  "scanned": 252800,
   "since": 1730419200
  },
  "somebodymakethis": {
@@ -175,10 +182,10 @@
   "since": 1730419200
  },
  "sysadmin": {
-  "cursor": 1734562832,
+  "cursor": 1736446011,
   "done": false,
-  "kept": 77,
-  "scanned": 123500,
+  "kept": 108,
+  "scanned": 169900,
   "since": 1730419200
  }
 }
