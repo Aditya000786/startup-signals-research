@@ -69,7 +69,7 @@ def next_chunk(k=None):
     com = comments()
     part = ids[k * p["chunk_size"] : (k + 1) * p["chunk_size"]]
     print(f"CHUNK {k} of {p['chunks']} ({len(done)} done)")
-    for i in part:
+    for i in filter(None, part):
         c = com[i]
         txt = re.sub(r"\s+", " ", c["text"])[:1100]
         print(f"[{i}|{time.gmtime(c['t']).tm_year}|{(c.get('story_title') or '')[:60]}] {txt}")
@@ -150,8 +150,9 @@ def extend():
             if q: new.append(q.pop(0))
     cs, last = p["chunk_size"], p["chunks"] - 1
     if len(ids) % cs and last in p["done"]:
-        # appending would grow an already-read short chunk; never re-label read work
-        sys.exit(f"last chunk {last} is short and already done; pad logic needed")
+        # appending would grow an already-read short chunk; pad it with "" placeholders
+        # so new comments start on a fresh chunk and read work is never re-labelled
+        ids += [""] * (cs - len(ids) % cs)
     start = len(ids)
     ids += new
     p["chunks"] = -(-len(ids) // cs)

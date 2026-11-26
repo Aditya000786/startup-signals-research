@@ -34,7 +34,8 @@ def main():
     prog, order = DATA / "progress.json", DATA / "ralph_order.json"
     if prog.exists() and order.exists():
         p, ids = json.loads(prog.read_text()), json.loads(order.read_text())
-        read = [i for k in sorted(p["done"]) for i in ids[k * p["chunk_size"]:(k + 1) * p["chunk_size"]]]
+        read = [i for k in sorted(p["done"]) for i in ids[k * p["chunk_size"]:(k + 1) * p["chunk_size"]] if i]
+        ids = [i for i in ids if i]  # drop chunk padding
         note = (f"{len(p['done'])} of {p['chunks']} chunks read ({len(read):,} of {len(ids):,} comments), "
                 f"{len(sig):,} signals extracted.")
     else:
