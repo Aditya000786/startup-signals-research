@@ -56,8 +56,12 @@ def main():
     rows = []
     for cid in read:
         c, s = com[cid], sig.get(cid)
-        r = {"id": cid, "yr": time.gmtime(c["t"]).tm_year, "t": (c.get("story_title") or "")[:60],
-             "m": c.get("phrase", ""), "u": c.get("url"), "s": c.get("source", "hn"), "x": re.sub(r"\s+", " ", c["text"])[:250]}
+        r = {"id": cid, "yr": time.gmtime(c["t"]).tm_year, "t": (c.get("story_title") or "")[:50],
+             "m": c.get("phrase", ""), "x": re.sub(r"\s+", " ", c["text"])[:150]}
+        if str(cid).startswith("rd_") and c.get("story_id"):
+            r["u"] = str(c["story_id"])[3:]  # post id; page builds the reddit permalink
+        elif c.get("url"):
+            r["u"] = c["url"]
         if s:
             r.update(p=s["problem"], w=s["who"], y=s["pay"], n=s["intensity"], c=s["category"], i=idea_of.get(cid))
         rows.append(r)

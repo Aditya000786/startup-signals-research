@@ -64,12 +64,12 @@ $("#meta").textContent = META.note || "";
 
 function rows() {
   const q = $("#q").value.toLowerCase(), cat = $("#cat").value, pay = $("#pay").value, kind = $("#kind").value, src = $("#src").value;
-  return ROWS.filter(r => (kind === "all" || (kind === "sig") === !!r.p) && (!src || (r.s || "hn") === src)
+  return ROWS.filter(r => (kind === "all" || (kind === "sig") === !!r.p) && (!src || (String(r.id).startsWith("rd_") ? "reddit" : "hn") === src)
     && (!cat || r.c === cat) && (!pay || r.y === pay) && (!noIdea || (r.p && !r.i))
     && (!q || ((r.p || "") + " " + r.x + " " + (r.w || "")).toLowerCase().includes(q)));
 }
 function row(r) {
-  const link = `<a href="${esc(r.u || "https://news.ycombinator.com/item?id=" + r.id)}" target="_blank" rel="noopener">${r.yr} · ${esc(r.t)} ↗</a>`;
+  const link = `<a href="${esc((String(r.id).startsWith("rd_") && r.u && !r.u.startsWith("http")) ? `https://www.reddit.com/comments/${r.u}/_/${String(r.id).slice(3)}/` : (r.u || "https://news.ycombinator.com/item?id=" + r.id))}" target="_blank" rel="noopener">${r.yr} · ${esc(r.t)} ↗</a>`;
   if (!r.p) return `<div class="row rej"><p class="prob">Rejected: not a concrete need</p>
     <div class="chips"><span class="chip no">rejected</span><span class="chip">matched "${esc(r.m)}"</span></div>
     <p class="src">${esc(r.x)}\n${link}</p></div>`;
