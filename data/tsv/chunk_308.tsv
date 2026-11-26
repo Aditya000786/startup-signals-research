@@ -1,0 +1,78 @@
+rd_o2ap455	Financial advisors take manual screenshots for compliance every week	financial advisors	implied	4	legal & government
+rd_o34k1bg	Small business buyers can't verify a seller's EBITDA without forensic accounting	business acquirers	implied	4	finance & money
+rd_o29xrsq	New business owners face a wall of info on structure, ops, website and admin	new business owners	implied	3	SMB & back-office
+rd_o28xvnw	Nurses want lawyer-backed guidance on charting do's and don'ts	nurses	implied	3	health & fitness
+rd_m67uoj2	Finding new construction help is a nightmare	contractors	none	3	hiring & careers
+rd_o266m8q	Migrating GPOs to Intune is a huge pain point when leaving hybrid	sysadmins	none	3	devops & infra
+rd_o1t8he2	Commission businesses can't reconcile expected vs paid commissions across suppliers in spreadsheets	commission-based businesses	implied	4	finance & money
+rd_o28sg0t	Shopify has no built-in per-customer purchase limit	Shopify merchants	implied	2	commerce & marketplaces
+rd_o1terkv	Import/export data tools like Volza and Panjiva cost $1500-2000/mo	market researchers	explicit	3	data & analytics
+rd_o20y1wh	Photographers want an auto white balance lock	photographers	implied	1	hardware & IoT
+rd_o1muesf	AT&T is stringent to work with for business internet	small businesses	none	2	devops & infra
+rd_o1dgt69	Companies need immutable proof of WCAG accessibility testing for legal defense	companies facing ADA claims	implied	3	legal & government
+rd_o18i4y5	People want an app that surfaces random last-minute niche events	consumers	implied	2	travel & local
+rd_m2o3tm2	N-able is a nightmare beyond N-Central	MSPs	none	2	devops & infra
+rd_o11o4f1	SaaS founders lack visibility into invisible payment leaks and technical declines	SaaS founders	implied	3	finance & money
+rd_m1p7j9x	Contact syncing to basic phones over Bluetooth is a nightmare	IT admins	none	1	hardware & IoT
+rd_m18w1tj	Photographers manually manage archives on mounted cloud storage	photographers	implied	3	media & content
+rd_o0gg7zz	Setting up custom domains for SaaS customers is a huge pain	SaaS developers	implied	3	developer tools
+rd_nzjkqor	Freelance platforms are a scam that helps neither side	freelancers	none	3	hiring & careers
+rd_lz9k5h9	ServiceTitan's inventory and accounting are useless	trades businesses	implied	4	SMB & back-office
+rd_o08k9jf	Sales tax thresholds and audits are a huge pain for SaaS	SaaS founders	explicit	4	finance & money
+rd_nzc0bvn	Scaling teams have files, invoices and communication fragmented	agencies	implied	3	SMB & back-office
+rd_19t6ys2dqww9x	Marketers can't justify budget when analytics show direct/none traffic	marketers	implied	4	data & analytics
+rd_nzbyw3z	Supply chain records lack audit integrity so silent edits cause disputes	supply chain teams	implied	4	commerce & marketplaces
+rd_19sxv2penync4	Multi-jurisdiction VAT compliance is a nightmare for solo devs	solo developers	implied	3	finance & money
+rd_nyi2b9e	Return processing is a huge pain point for merchants	ecommerce merchants	implied	3	commerce & marketplaces
+rd_ny6ruxw	Filling out documents is a huge time sink in real estate and healthcare	real estate and healthcare staff	implied	4	productivity & work
+rd_o0wa0hk	MSPs run too many overlapping tools	MSPs	implied	3	devops & infra
+rd_o0ts7ej	Sellers with 8k SKUs can't keep up with competitor price changes on Idealo and Amazon	ecommerce sellers	explicit	4	commerce & marketplaces
+rd_nygvjw5	Admins can't remove the password option to stop users bypassing Windows Hello	sysadmins	implied	3	security & privacy
+rd_nxnpbl7	Real estate disputes in Florida go to painful arbitration	realtors	none	2	legal & government
+rd_nxtu0zj	Etsy sellers can't ship stickers by letter mail when customs forms are required	Etsy sellers	none	3	commerce & marketplaces
+rd_19rkwbmpzmvup	VMware licensing is a nightmare to untangle after Broadcom	sysadmins	implied	4	devops & infra
+rd_nwj6uus	Business documents scattered across email, paper and folders block finding information	small business owners	implied	3	productivity & work
+rd_o0omtdr	Construction safety tech forces a tradeoff between enterprise power and field usability	construction safety managers	implied	3	SMB & back-office
+rd_19rhoxbavv8ht	Automating certificates via GoDaddy API with acme.sh is a nightmare	sysadmins	none	3	security & privacy
+rd_nw7tquv	Auto-renewals lock companies into another year without notice	businesses	implied	3	SMB & back-office
+rd_19rhduk2frt39	Tip distribution is a nightmare for hospitality controllers	hospitality accountants	implied	4	finance & money
+rd_nvrpjap	Compliance requirements add so much work they justify extra hires	IT teams	none	3	legal & government
+rd_o05cazl	Migrating off VMware takes so much work that Broadcom raises prices aggressively	sysadmins	implied	4	devops & infra
+rd_phy698y	PERT experience requirements are a nightmare to sort out in industry	CPA candidates	none	2	education & learning
+rd_nvignnr	Restaurant voice ordering requires painful phone number porting or forwarding	restaurants	implied	3	SMB & back-office
+rd_o050umz	CRMs overcomplicate simple needs for small teams	small businesses	implied	3	SMB & back-office
+rd_ph4kylj	Sales tax filing services failed to file or used the wrong bank details	Shopify agencies	implied	4	finance & money
+rd_nvf2m3r	Sifting Reddit posts to promote an app takes over founders' lives	founders	implied	3	SMB & back-office
+rd_o04lpaz	Small businesses lose knowledge without centralized docs tied to offboarding	small businesses	implied	2	productivity & work
+rd_nwgd4ms	People need quick targeted coaching before interviews and salary negotiations	job seekers	explicit	3	hiring & careers
+rd_pdelyw7	Cheap 256GB/8GB laptops struggle and need careful spec planning	MSPs	none	2	hardware & IoT
+rd_o03oaxm	Founders can't get their first customer without social proof	founders	implied	4	SMB & back-office
+rd_nwfkgfq	People want to bulk scan old negatives at home	hobby photographers	implied	3	media & content
+rd_nvd1s18	People with rarely visited storage units can't remember what's inside	consumers	implied	2	consumer & home
+rd_nzyr8mu	Founders spend whole weekends screening 200+ applicants for a first engineer	founders	implied	4	hiring & careers
+rd_nvavdjw	Adobe Portfolio is a huge pain to upload and manage images	photographers	implied	2	media & content
+rd_nzvebwy	AI coding help falls apart on large codebases with ownership boundaries	engineering teams	implied	3	developer tools
+rd_pbbp0d3	Cross-border VAT is a nightmare for solo devs	solo developers	implied	3	finance & money
+rd_nuzde3f	HR handing out service award cash outside payroll is a compliance pain	accountants	none	2	finance & money
+rd_pbaulzp	Finding someone at Telstra to fix an issue is a nightmare	IT admins	none	2	communication & social
+rd_nuvdil9	Native Microsoft 365 cross-tenant migration is a huge pain	sysadmins	implied	3	devops & infra
+rd_nvoid7g	Small agencies drown in client reporting and manual screenshots	small agencies	implied	4	data & analytics
+rd_pajyhqi	Shopify merchants hesitate to maintain BigQuery/Looker pipelines as Shopify APIs change	Shopify merchants	implied	3	data & analytics
+rd_nuub3px	Voice creators would pay for consistent emotional tone across TTS sentences	voice content creators	explicit	3	AI & ML tooling
+rd_nzirc5z	Human resistance to change is the biggest pain in evolving workflows	DevOps engineers	none	2	devops & infra
+rd_p9xflwm	Flowing K-1s from multi-state partnerships through returns is a nightmare	tax preparers	none	4	finance & money
+rd_nup3oag	Vector memory retrieval feels non-deterministic for preferences and rules	AI developers	implied	3	AI & ML tooling
+rd_nzinu54	Teams don't use the CRM consistently, so data is messy and reporting useless	sales teams	implied	4	SMB & back-office
+rd_ntx0k12	Exporting Mimecast archives to import into Avanan is a huge pain	MSPs	none	3	devops & infra
+rd_nzhgp0k	Healthcare business licensing is the biggest pain point for new owners	healthcare business owners	none	3	legal & government
+rd_p8lg81v	CBD merchants struggle to find payment and service providers	CBD merchants	implied	3	commerce & marketplaces
+rd_nto25ys	Admins want MFA expiration at a specific time per group	sysadmins	implied	2	security & privacy
+rd_nzd1oik	Receipts that don't auto-match transactions must be reconciled manually later	small business owners	implied	3	finance & money
+rd_nuv3doh	Admins have no registry setting or file version to diagnose an issue	sysadmins	implied	2	devops & infra
+rd_p775kur	Custom orders on Etsy are almost always a nightmare	Etsy sellers	none	3	commerce & marketplaces
+rd_ntfj3t4	QuickBooks failures can't be replicated and need full reinstalls	MSPs	none	2	finance & money
+rd_nzc264z	Founders need demos before product exists at higher price points	founders	implied	2	SMB & back-office
+rd_p5zfuy2	Abstract photographers are buried by social algorithms	photographers	none	3	media & content
+rd_nsysksc	Google Analytics misses traffic channels so source tracking is a pain	founders	implied	3	data & analytics
+rd_nz4yq3f	White-label social APIs are hard to get right around OAuth and account limits	agencies	implied	3	developer tools
+rd_p5vdzoq	EU Cyber Resilience Act requires dependency checks for customer software	software companies	none	3	legal & government

@@ -1,0 +1,91 @@
+rd_oex1cih	Offshored tier-1 service desks are inept and escalate tickets with no info	enterprise IT staff	none	3	devops & infra
+rd_nurj3vb	Syncro-to-QuickBooks invoice sync has penny rounding issues	MSPs	none	2	finance & money
+rd_nir1xxo	Contractor insurance has to be tailored and is hard to figure out	contractors	implied	3	finance & money
+rd_oeppmly	Small businesses answer the same customer questions repeatedly without ticketing	small businesses	implied	3	SMB & back-office
+rd_nujylta	"Targeted" lead lists use generic title filters and need hours of cleanup	B2B sales teams	implied	3	SMB & back-office
+rd_odulhk6	SaaS teams overthink onboarding analytics instead of tracking 3-5 value moments	SaaS teams	none	2	data & analytics
+rd_nhcmv82	Owners fear branded clothing will be uncomfortable or deteriorate after buying	small business owners	implied	2	commerce & marketplaces
+rd_ocuzxsr	Attorneys and medical providers exchange records through siloed, manual, HIPAA-heavy handoffs	personal injury law firms	implied	4	legal & government
+rd_nueg3wz	Support teams struggle with weekend coverage and Monday morning backlogs	support teams	implied	3	SMB & back-office
+rd_nh3qkz3	Some tools have no good documentation beyond GitHub	sysadmins	none	2	developer tools
+rd_ocslgxw	Licensing through Pax8 is a nightmare	MSPs	none	3	devops & infra
+rd_njcpxew	Broken citation links are a huge pain for researchers and librarians	researchers	implied	3	education & learning
+rd_ngi8o8g	Accountants want fast number formatting without macros that clear undo	accountants	implied	2	productivity & work
+rd_ntw8hln	Paying vendors via checks and bank-portal ACH means re-keying and Slack approvals	finance teams	implied	4	finance & money
+rd_obwgs8v	Small businesses manually open PDFs and type numbers into sheets	small business owners	implied	4	productivity & work
+rd_nj2lwqd	Founders hate Google Analytics and can't get the insights they want	founders	implied	3	data & analytics
+rd_nfwr1t9	GitHub Actions dashboards don't load all workflows or let you select specific ones	DevOps engineers	implied	2	devops & infra
+rd_obqyjqt	Cloud-dependent small businesses lose everything when internet drops	small businesses	implied	2	devops & infra
+rd_nix1shp	SaaS pricing and billing is a huge pain point	SaaS founders	implied	3	finance & money
+rd_nimxypd	Supporting big clients 24x7 is a huge pain for small MSPs	MSPs	implied	3	devops & infra
+rd_ntlnxag	Scaling SaaS juggle separate tools for email, onboarding nudges and SMS	SaaS teams	implied	3	communication & social
+rd_nevqgu5	Photo platforms limit uploads differently on PC vs phone	photographers	implied	2	media & content
+rd_oaoa90g	Higher-ed sales cycles are brutal and procurement is a nightmare	edtech founders	none	3	education & learning
+rd_nibl2o9	Billing LLM usage requires an internal credits model across differing token prices	AI SaaS founders	implied	3	finance & money
+rd_ndbstuk	Nurses lack ways to calm angry dementia patients	nurses	implied	3	health & fitness
+rd_oahazau	Consumer AI plans throttle during peak hours and claim training rights	AI product builders	implied	3	AI & ML tooling
+rd_ni9o0e8	Microsoft admin needs 2-3+ web interfaces and docs are often wrong	sysadmins	implied	3	devops & infra
+rd_ntfz52c	Static contact forms make sales reach visitors too late	B2B sales teams	implied	4	SMB & back-office
+rd_nda1q02	Mid-size MSPs want affordable ServiceNow alternatives	MSPs	implied	3	devops & infra
+rd_oadbg2y	Teams struggle to tune dependency auto-merge cadence against malicious packages	DevOps engineers	implied	3	security & privacy
+rd_nhl76o2	Manual SBOM generation for FedRAMP audits is a nightmare	DevOps engineers	implied	4	security & privacy
+rd_ncxyt3z	Accounting teams won't adopt practice management tools over inbox habits	accounting firms	implied	3	SMB & back-office
+rd_oa04bpu	Finance ops running through email chains is a nightmare at scale	startup finance teams	implied	4	finance & money
+rd_nc16420	No cert automation for devices where agents can't be installed	sysadmins	implied	3	security & privacy
+rd_nh2ate4	Student resumes break formatting when printed	students	implied	2	hiring & careers
+rd_nt0mifj	Scheduling inbound requests means context switching and email ping-pong	professionals	implied	3	productivity & work
+rd_o9o24px	Homeowners would love a service handling minor exterior repairs like wood rot and siding	homeowners	explicit	3	consumer & home
+rd_ngosuex	Vibe-coded MVPs become maintenance whack-a-mole	founders	none	2	developer tools
+rd_nawhq4a	Culling photos in Adobe Bridge is manual and labor-intensive	photographers	implied	3	media & content
+rd_nfqic48	Small businesses lose track of follow-ups	small businesses	implied	3	SMB & back-office
+rd_o8i1b3x	Offboarding contractors from spreadsheets and Slack is a nightmare	small teams	implied	3	security & privacy
+rd_nfk4zbc	OneDrive sync gets flaky with huge SharePoint libraries and support blames the user	sysadmins	implied	3	productivity & work
+rd_na0xogi	Founders want users to easily leave short video feedback	founders	implied	3	SMB & back-office
+rd_o8hvisc	Meta app review for permissions is a nightmare	app developers	implied	3	developer tools
+rd_nf9qgzz	Small business owners spend Sundays copy-pasting invoice data	small business owners	implied	4	finance & money
+rd_nsor1ze	Food producers need lot tracking with expiry dates that integrates with QuickBooks	food manufacturers	implied	4	SMB & back-office
+rd_n9x2mx8	Reviewers can't respond to obviously unhinged reviews	photographers	implied	2	SMB & back-office
+rd_nf8oe7b	Getting business SMS approved is a huge barrier	small businesses	implied	3	communication & social
+rd_o89137d	Keeping Fournier's patients clean with dressing changes is a nightmare	nurses	none	2	health & fitness
+rd_nf1766o	Language barriers make user interviews a huge pain	founders	implied	2	SMB & back-office
+rd_nsk9an6	Offshoring suffers from coordination and trust problems	agencies	implied	3	SMB & back-office
+rd_n9ivjar	Admins want an open-source alternative to SCCM Software Center or PDQ Deploy	sysadmins	implied	3	devops & infra
+rd_o7w1xr0	Giving BYOD users app install instructions is a nightmare as they change	sysadmins	none	3	devops & infra
+rd_n9d3v2a	People with old convictions can't know if a nursing board will approve them	aspiring nurses	implied	3	legal & government
+rd_neuqp6p	Intercom's $0.99 per resolution pricing is unpredictable	SaaS support teams	implied	3	SMB & back-office
+rd_n90ujft	Nurses are forced to be charge nurse on top of full patient loads	nurses	none	3	health & fitness
+rd_o7tb40q	Pharmacy packaging makes controlled substance counts error-prone	nurses	none	2	health & fitness
+rd_o7u780z	Scraping nested LinkedIn comment threads is a nightmare	developers	implied	2	developer tools
+rd_neo7ze5	Long static forms have huge drop-off	marketers	implied	3	SMB & back-office
+rd_nse1l3u	Agents pay $500/mo for CRMs they abandon in a week	realtors	implied	3	SMB & back-office
+rd_n8zmxj1	Job marketplaces receive AI-generated certificates and video intros	marketplace operators	implied	4	security & privacy
+rd_o7olnlu	Stripe bookkeeping needs a paid plugin to avoid manual reconciliation	small businesses	explicit	3	finance & money
+rd_neo5ffb	Real estate leads go cold sitting in inboxes for hours	realtors	implied	4	SMB & back-office
+rd_ns3d70v	Founders burn $300-400/mo on Apollo and Hunter credits for garbage data	founders	explicit	3	SMB & back-office
+rd_n8zm0fb	Homebuyers in 2025 are confused about agent roles after rule changes	homebuyers	none	3	consumer & home
+rd_nebn9ci	Creating posts for LinkedIn, Twitter and email eats too much time	small SaaS founders	implied	3	media & content
+rd_n8tzbwm	Electricians need a hands-free way to hold fixtures overhead	electricians	implied	2	hardware & IoT
+rd_o734bda	BYOD for workstations and laptops is a nightmare	sysadmins	none	3	devops & infra
+rd_ne7zqf7	Instagram is a huge pain to post photos to and offers no help	photographers	none	2	media & content
+rd_ns1hnu8	Founders switch between ten roles a day with no deep focus	founders	none	3	productivity & work
+rd_o72t89t	Early-stage SEO backlinks are a nightmare for solo devs	solo developers	implied	3	media & content
+rd_ndlknyv	Database migrations and rollbacks are a huge pain	dev teams	implied	3	developer tools
+rd_o6wjv75	Broken affiliate links silently cost creators money	creators and marketers	implied	3	media & content
+rd_nd1p6z8	B2B niche founders struggle to find their first users	B2B founders	implied	3	SMB & back-office
+rd_n7iu6ut	No enterprise WireGuard client without quirks	network admins	implied	3	security & privacy
+rd_ncqxpsx	Colorado law requires coding time-off reasons separately for payroll compliance	healthcare employers	none	2	legal & government
+rd_n7bw01b	Realtors want an app to track expired listings	realtors	implied	3	SMB & back-office
+rd_o6o1fc1	Compliance is a nightmare in non-profit accounting	nonprofit accountants	none	3	finance & money
+rd_n7b1q0b	Realtors lack a reliable data source beyond anecdotes for pricing	realtors	implied	3	data & analytics
+rd_o6h638u	Locating buried PVC pipe without tracer wire is a nightmare	contractors	none	3	hardware & IoT
+rd_nrgyl6m	Small businesses lose $70k to payment processing fees	small businesses	implied	4	finance & money
+rd_o6dpvpz	ACME renewals fail silently and nobody notices until expiry	sysadmins	implied	4	security & privacy
+rd_nr9f4wd	Older iPhones can't run on-device transcription	app developers	none	2	AI & ML tooling
+rd_o69dn91	Spanning backup under Kaseya is a nightmare	MSPs	none	3	devops & infra
+rd_n6zqhqx	Founders want an affordable founder-first platform for burnout and team trust	founders	implied	3	health & fitness
+rd_o666tck	Elder care B2C is hard because the user isn't the buyer	eldercare founders	none	3	health & fitness
+rd_nbpl8wc	Auto-translated apps mistranslate context-dependent words	app developers	implied	3	developer tools
+rd_nr33vzw	Canopy lacks pre-built templates for accountants	accountants	implied	2	finance & money
+rd_nbkrgcr	Responding to RFPs is a huge manual grind for B2B teams	B2B teams	implied	4	SMB & back-office
+rd_n6mi10z	Digital signage TVs lack serial-over-Ethernet control	MSPs	implied	1	hardware & IoT
+rd_o4vtcgq	Shopify billing loops and ghost charges are hard to get a human to review	Shopify merchants	implied	3	commerce & marketplaces

@@ -1,0 +1,91 @@
+rd_nz25r7t	Square is a weak CRM, so owners glue forms and bookings together with Zapier	small business owners	implied	3	SMB & back-office
+rd_nu39bf6	Agencies stuck on Illustrator and Premiere want a working alternative	creative agencies	implied	3	media & content
+rd_p5kaxwr	Payment providers re-approve integrated merchants months later with confusing processes	SaaS founders	none	3	finance & money
+rd_ntm1obq	Founders struggle to balance business and personal life	founders	none	2	other
+rd_p3d58ya	Marketing careers suffer from politics, job hopping and no security	marketers	none	3	hiring & careers
+rd_ns77kyo	Connecting Stripe to Xero for month-end is a huge pain	accountants	implied	3	finance & money
+rd_nyy0fii	AI agents need clean structured databases, not just web search, for good answers	AI agent builders	implied	3	AI & ML tooling
+rd_p2ag9i1	Some admin UIs are a non-intuitive nightmare	sysadmins	none	2	devops & infra
+rd_ns6rv24	Connecting product usage, support tickets and CRM without being a data expert is a huge pain	SaaS teams	implied	4	data & analytics
+rd_nsxwfnd	Cloud EDR gives the vendor complete control and visibility over every device	security teams	none	3	security & privacy
+rd_p25koit	Robust identity federation and SCIM support is a nightmare	SaaS developers	implied	3	security & privacy
+rd_nrwcob1	Brands need to verify physical units against counterfeits beyond marketplace takedowns	brand owners	implied	3	commerce & marketplaces
+rd_nyr6k3i	Indie app makers balance support tickets, piracy and licensing	indie app developers	implied	2	developer tools
+rd_nrpj2bo	Invoicing and tracking payments is a huge pain for freelancers	freelancers	implied	3	finance & money
+rd_nyjwaci	LinkedIn scraping hits rate limits and CSV export/import steps are manual	sales teams	implied	3	SMB & back-office
+rd_ozljjg0	Bluetooth lockbox pairing through stucco walls is a nightmare	realtors	none	3	hardware & IoT
+rd_nrbylxv	Companies rebuild SaaS internally because its API was painful to work with	engineering teams	implied	3	developer tools
+rd_nyd5t1v	Customer emails fall through the cracks when handled in personal inboxes	small businesses	implied	3	SMB & back-office
+rd_nrsd9q1	IR procedure delays leave patients suffering	nurses	none	3	health & fitness
+rd_ozh3d4o	International postal shipping is a nightmare for Etsy sellers	Etsy sellers	implied	3	commerce & marketplaces
+rd_nr43yku	Print paper shows white specks from trimming	photographers	none	1	media & content
+rd_nyd4ts0	Contact enrichment APIs return stale emails and incomplete phone numbers	sales teams	implied	3	SMB & back-office
+rd_nrb40xl	Developers want AI that takes IDE context for brainstorming outside the editor	developers	implied	2	developer tools
+rd_oyfu6if	Game studios face heavy migration overhead onboarding new backend tooling	game studios	none	3	developer tools
+rd_nqxoz99	Matching supplier names to your own SKUs without spreadsheets is a huge pain	Shopify merchants	implied	3	commerce & marketplaces
+rd_nr7w18d	People want a tool for tiny admin tasks like follow-ups and reminders	busy professionals	implied	3	productivity & work
+rd_nqx6w5u	Finding software to run an agency has been a huge pain	agency owners	implied	3	SMB & back-office
+rd_nq2cpd9	HP printers are a huge pain for IT	sysadmins	none	2	hardware & IoT
+rd_ny4o8ho	Capture One catalogs and sessions confuse Lightroom switchers	photographers	none	2	media & content
+rd_npmgdur	Verified contact data for MENA and Asia is poor	sales teams	implied	3	SMB & back-office
+rd_nq0362j	YouTube Watch Later becomes a graveyard with no system to surface videos	consumers	implied	2	media & content
+rd_oui3sye	Per-box environment variables are unmanageable without central tooling	sysadmins	none	2	devops & infra
+rd_npay6vo	Multichannel sellers struggle with revenue recognition and fee visibility	multichannel sellers	implied	4	finance & money
+rd_nxowpsd	Advertisers want to catch performance shifts early and know why	advertisers	implied	3	data & analytics
+rd_nowdo2o	Small business subs are full of selling with no genuine discussion	small business owners	none	2	communication & social
+rd_otr3kje	Scoping AI agent credentials to exact rows per session is hard	AI developers	implied	4	security & privacy
+rd_noyc92t	Switching feature-flag tools is a huge pain	developers	implied	2	developer tools
+rd_otj6v1j	Dell Command Update collides with Windows Update and breaks fleets	sysadmins	implied	3	devops & infra
+rd_nopa4ro	Dentists can't predict which amalgams will split a tooth	dentists	implied	2	health & fitness
+rd_oq15pan	International compliance, fraud and multi-country tax make payments a nightmare	fintech builders	none	3	finance & money
+rd_nokdt4y	Annual outside audits are a huge pain but necessary	IT teams	none	3	security & privacy
+rd_nnwuvzx	No guideline lets clinicians withdraw futile care against family wishes	nurses	none	3	health & fitness
+rd_opsfma8	Unqualified AI consultants demand global Azure credentials	MSPs	none	3	security & privacy
+rd_no4y5x1	Sales teams can't tell when a prospect is actually in-market	sales teams	implied	4	SMB & back-office
+rd_nxby9tr	Kids' party businesses need team scheduling where contractors set availability	party businesses	implied	3	SMB & back-office
+rd_nnjyh9l	HVAC crews can't juggle job sites and phones in peak season	HVAC businesses	implied	4	SMB & back-office
+rd_nmbxre3	Retail POS systems are buggy with poor support	retailers	implied	3	commerce & marketplaces
+rd_onzhszk	Multitouch attribution is a nightmare at small scale	marketers	implied	3	data & analytics
+rd_nnjw1x4	Keeping a knowledge base updated across teams is a huge pain	support teams	implied	3	productivity & work
+rd_nwv401i	Cloud kitchens have underserved operational pain points	cloud kitchen operators	none	2	commerce & marketplaces
+rd_nm07ob5	Bounced "left the company" emails never get updated in the CRM	sales teams	implied	3	SMB & back-office
+rd_nnbyeqz	Shopify stores get VPN bot traffic that's hard to block without losing customers	Shopify merchants	implied	3	commerce & marketplaces
+rd_nlux0b7	MSPs want a printer for sticky post-it labels	MSPs	implied	1	hardware & IoT
+rd_ontmex1	Healthcare providers need existing workflows to stop breaking more than AI	healthcare providers	implied	3	health & fitness
+rd_nwr3zvn	Tradespeople can't remember which receipt goes with which job weeks later	tradespeople	implied	4	finance & money
+rd_nlr2qf3	Nurses lack info comparing ADN-to-BSN programs for transfer credits	nurses	implied	2	education & learning
+rd_nmtv4e3	Solo founders struggle to keep content on-brand	solo founders	implied	3	media & content
+rd_nwptzfe	Manual invoicing and payment tracking drains time and mental energy	freelancers	implied	3	finance & money
+rd_omxhkl6	Change orders on small residential jobs are a nightmare with homeowners	contractors	none	3	SMB & back-office
+rd_nmqnhwp	Dental software, sensors and intraoral cameras cause costly MSP support calls	MSPs serving dentists	none	3	devops & infra
+rd_nwnz6vy	Google-to-Microsoft migrations struggle with Shared Drives and permissions	MSPs	implied	3	devops & infra
+rd_ol8hg2l	Docusaurus is a nightmare to set up and Mintlify/GitBook pricing is absurd	developers	implied	3	developer tools
+rd_nmmcx0w	Nurses are bombarded with changing orders all shift	nurses	implied	3	health & fitness
+rd_nwipssf	Accountants spend 15-30 minutes a month logging into portals to download statements	accountants	implied	4	finance & money
+rd_nl2zsz9	UAE small businesses want one dashboard for accounting, licenses, visas and invoices	UAE small business owners	implied	4	SMB & back-office
+rd_nw7b6xe	Firms need client portals with file uploads and status tracking	professional services firms	implied	3	SMB & back-office
+rd_nl26z1b	Freemium SaaS founders can't track expenses scattered across Stripe, ads and hosting	SaaS founders	implied	3	finance & money
+rd_nmjcce5	Businesses struggle to understand their costs	businesses	implied	3	finance & money
+rd_nw1wtly	Support teams run six tools that don't talk	support teams	implied	3	SMB & back-office
+rd_nl10d1e	Many adult patients are illiterate, unknown to staff	nurses	none	3	health & fitness
+rd_nmeqj6w	Consolidating companies into a single M365 tenant is a huge pain	MSPs	none	3	devops & infra
+rd_nw01hvf	AI legal output can't be trusted to be legally sound per case	legal professionals	implied	4	legal & government
+rd_oid6trz	SSO lockout during DR means you can't get credentials to fix the system	sysadmins	implied	4	security & privacy
+rd_nmddxnv	Keeping AI tools fed with business context is a huge pain	knowledge workers	implied	3	AI & ML tooling
+rd_nvuwptd	At 10 people, spreadsheets can't keep up with approvals	small businesses	implied	3	SMB & back-office
+rd_oianmb9	Compliance teams find evidence organization a nightmare even with Vanta/Drata	startups	implied	3	security & privacy
+rd_oi6p96y	Tracking a compliance calendar of 20+ recurring items is a nightmare	small business owners	implied	4	legal & government
+rd_nm19pwp	Admins renaming many files daily hit visibility and permission problems	office workers	none	2	productivity & work
+rd_nvohuoq	Teams using LLM routers lack shared context and collaboration	AI teams	implied	3	AI & ML tooling
+rd_ogy2hp1	Data centers poach electricians, delaying small commercial jobs	contractors	none	3	hiring & careers
+rd_nlszjfh	24/7 on-call makes leaving town a huge pain	sysadmins	none	3	devops & infra
+rd_nvdi5bl	Teams scramble for audit evidence without continuous collection	compliance teams	implied	3	security & privacy
+rd_ogr0tua	Warehouse barcode printers on battery carts lack affordable wireless	warehouse IT	implied	2	hardware & IoT
+rd_nlsxb4c	Repurposing one post into many formats is a huge pain	marketers	implied	3	media & content
+rd_nv6qkiv	Limo operators can't handle last-minute VIP changes without breaking schedules	limo operators	implied	3	travel & local
+rd_nk49535	Windows Search depends on WebView2 and can't be disabled	sysadmins	implied	1	devops & infra
+rd_ogcegiy	Railway deploys take 10-15 minutes per push	developers	none	2	devops & infra
+rd_nl4b08n	Cybersecurity is a huge pain point for SMBs	SMBs	implied	3	security & privacy
+rd_nuu08oo	International IT logistics is a huge pain point	IT teams	implied	3	devops & infra
+rd_ofa7ibf	SentinelOne silently quarantines files and breaks permissions	sysadmins	none	3	security & privacy
+rd_nkbzx7q	Accountants would pay R$99/mo to save 10+ hours a week	Brazilian accountants	explicit	3	finance & money

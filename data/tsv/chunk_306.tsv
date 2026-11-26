@@ -1,0 +1,72 @@
+rd_o70p0tx	Small businesses outgrowing spreadsheets want automation without losing Sheets flexibility	small businesses	implied	3	finance & money
+rd_omcps6b	Solo founders can't track whether all their API keys and secrets still work	solo founders	implied	3	developer tools
+rd_nv7aulp	Owners get late fees from forgotten state filing deadlines	small business owners	implied	4	legal & government
+rd_odw5zav	Founders can't tell if direct traffic spikes came from ChatGPT recommendations	founders	implied	3	data & analytics
+rd_ollpgoc	Shop owners want a service that cleans and organizes workshops, not just maids	workshop owners	implied	3	SMB & back-office
+rd_odrawxj	Moving abroad with a pet requires painful international paperwork	pet owners relocating	none	2	travel & local
+rd_ntemlwi	Ingram Micro is a nightmare for anything beyond quick online orders and RMAs	MSPs	none	3	commerce & marketplaces
+rd_odknsin	n8n has no node-level monitoring for AI workflows	automation builders	implied	3	AI & ML tooling
+rd_o6pe9zl	Founders want sentiment trends on competitors to spot broken workflows	founders	implied	2	data & analytics
+rd_mn5uich	People would pay someone to come top up their tire pressure	drivers	explicit	2	consumer & home
+rd_olczr8n	Teams want one dependable AI tool for workflows, tracking and reporting instead of more tabs	teams	implied	3	AI & ML tooling
+rd_nsvlt2i	Transferring domains away from some registrars takes days longer than estimated	domain owners	none	2	developer tools
+rd_odbz9ew	Managing invoices on-site is a huge pain	field service businesses	implied	3	finance & money
+rd_o6l0ls9	Salesforce integration is the biggest pain point for voice AI adoption	sales teams	implied	3	SMB & back-office
+rd_o6j7mox	Matching receipts to transactions lags and requires month-end babysitting	small business owners	implied	3	finance & money
+rd_nrp9ppt	Manual tracking of accounting notes is a nightmare	accountants	implied	2	finance & money
+rd_o6gd04p	New service businesses need proof of work but are too busy to document jobs	service business owners	implied	3	SMB & back-office
+rd_miey0sw	Founders would pay for an agent handling follow-ups, proposals, leads and onboarding	founders	explicit	4	AI & ML tooling
+rd_mhltceu	Side-project founders would pay to find which grants they qualify for and when	founders	explicit	3	finance & money
+rd_okfdcdc	Senior customers can't leave Google reviews without a Google account	small businesses	implied	3	SMB & back-office
+rd_nmvh5w1	Telecom taxes are a nightmare for MSPs reselling telecom	MSPs	none	3	finance & money
+rd_ocq1yl4	Client tenants accumulate thousands of conflicting device policies	MSPs	none	3	devops & infra
+rd_mh6qd7r	LinkedIn creators would pay for charts with ready-written audience messages	LinkedIn creators	explicit	2	media & content
+rd_nkx8hjv	Founders burned by bad bulk manufacturing batches find legal recourse a nightmare	product founders	none	3	commerce & marketplaces
+rd_ocoi2xu	Long-term linked Excel workbooks become slow and painful	accountants	none	2	productivity & work
+rd_o61vfs1	Non-technical founders can't evaluate technical hires	non-technical founders	implied	4	hiring & careers
+rd_ojblnim	Freelancers forget actionable client emails and Slack messages	freelancers	implied	3	productivity & work
+rd_nksqcfl	Hybrid Autopilot with on-prem AD is a nightmare	sysadmins	none	3	devops & infra
+rd_mdamj9s	Online stores would pay for customer ID verification that satisfies card processors	online retailers	explicit	4	commerce & marketplaces
+rd_ojbgl0n	Small business cards rely on the signing partner's credit	small business owners	none	2	finance & money
+rd_njfut5y	Healthcare bookkeeping is a nightmare with insurance reconciliation and compliance	medical practices	explicit	4	finance & money
+rd_ocjmdqq	Small bakeries get killed by packaging supplier minimum orders	small food businesses	implied	3	commerce & marketplaces
+rd_o6192md	Early SaaS can't analyze churn because cancellation data is scattered	SaaS founders	implied	3	data & analytics
+rd_ma98qfr	Owners would pay a consultant to observe them and write their process checklists	small business owners	explicit	3	productivity & work
+rd_nivj8x5	Associate dentists must ask office managers for permission to get materials	associate dentists	none	2	health & fitness
+rd_ocipbzt	Contractors struggle keeping job photos, notes and measurements together across devices	contractors	implied	3	SMB & back-office
+rd_o611hqi	Feedback is scattered across Intercom, email, DMs and tickets and takes hours to consolidate	SaaS founders	implied	4	data & analytics
+rd_m8orbsi	Founders would pay for Notion with notes staff can't read	founders	explicit	3	security & privacy
+rd_nicctnl	ADP is a nightmare with antiquated processes	small businesses	implied	3	SMB & back-office
+rd_ochpwmq	Agent builders hit a wall deploying agents to production	AI developers	implied	3	AI & ML tooling
+rd_ocgm7vu	Scraping social platforms reliably without getting blocked is a huge pain	developers	explicit	3	developer tools
+rd_o5oeplk	AI eval needs 5 tools and every team defines failure differently	AI teams	implied	3	AI & ML tooling
+rd_of9b8zv	Companies have no offboarding SOP so ex-employee email is handled inconsistently	sysadmins	implied	3	security & privacy
+rd_nhxbhar	Construction superintendents get no support from the home office	superintendents	none	3	SMB & back-office
+rd_o5o5xh0	Lean teams can't triage 200 CVE alerts a week	security teams	implied	4	security & privacy
+rd_nhm5lgv	Some implant guided surgery platforms are a nightmare	dentists	none	2	health & fitness
+rd_o5neiq5	Travelers in small towns struggle to order food and navigate transit without English	travelers	implied	3	travel & local
+rd_oexr6y5	Etsy sellers lose refunds to buyers who falsely claim lost packages	Etsy sellers	implied	4	commerce & marketplaces
+rd_nhf43l6	Teams audio breaks mid-meeting and needs reboots	office workers	none	2	communication & social
+rd_obrno6k	Migrating off Salesforce means painful data and workflow rewrites	sales ops teams	implied	3	SMB & back-office
+rd_o5n0wos	Creating and maintaining the help center is support teams' biggest pain point	support teams	implied	4	SMB & back-office
+rd_ngqavyj	International VAT is a nightmare for non-EU sellers selling to EU consumers	international sellers	implied	4	finance & money
+rd_obr8zvr	Browser automation breaks on DOM changes	automation builders	implied	3	developer tools
+rd_m1gy2xo	Buyers would pay for curated news on $5-20M food, beverage, apparel and CPG businesses	investors	explicit	3	data & analytics
+rd_od49hcg	Residential construction is a race to the bottom on price	contractors	none	3	SMB & back-office
+rd_neheew8	Microsoft Partner Center verification is a nightmare	MSPs	none	3	legal & government
+rd_obhca8x	Lean founders lose leads by being slow to respond	founders	implied	3	SMB & back-office
+rd_obeg77n	Getting accounting system APIs to work together is very complex	accounting software builders	none	3	finance & money
+rd_obdagx5	Founders spend too much time lurking for high-intent threads	founders	implied	3	SMB & back-office
+rd_ock135q	MSP vendors auto-renew contracts to longer terms without paperwork	MSPs	none	3	legal & government
+rd_nc69u0y	Travel nurses who drop their registration face a nightmare getting it back	travel nurses	none	2	legal & government
+rd_obbgms3	Ecommerce sellers need cheap lifestyle product images	ecommerce sellers	implied	3	media & content
+rd_19svuvlmy250g	Founders would pay for daily outreach accountability, not AI drafting	founders	explicit	3	SMB & back-office
+rd_ochbb6t	Etsy resellers list $1-4 Shein items for $20 as handmade	Etsy shoppers	implied	3	commerce & marketplaces
+rd_ob56y2o	Wiped Macs tied to an Apple account take 24 hours to unlock	sysadmins	none	2	devops & infra
+rd_obz9h83	Non-technical people can't deploy personal AI agents	non-technical users	implied	3	AI & ML tooling
+rd_na1am7g	Offshore accounting work quality and time zones are a nightmare	accounting firms	none	3	hiring & careers
+rd_oas727o	Big 3PLs hate kitting or charge insane special project fees	product brands	implied	3	commerce & marketplaces
+rd_n9xwv9n	Experienced non-CPA accountants can't land even entry-level roles	accountants	none	3	hiring & careers
+rd_o9zi2zp	Founders would pay for demand research grounded in tickets, demos and churn reasons	founders	explicit	3	data & analytics
+rd_n9aa8zj	Oracle licenses every CPU a VM might run on	sysadmins	none	3	devops & infra
+rd_oa0vlk3	Job seekers struggle to make resumes parse through ATS	job seekers	implied	3	hiring & careers
