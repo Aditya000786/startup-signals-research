@@ -1,0 +1,56 @@
+rd_nc55714	ED managers don't stock pressure-injury prevention supplies like wedges	ED nurses	implied	3	health & fitness
+rd_ng4i3k9	1Password was a pain to manage centrally before managed install features	sysadmins	none	2	security & privacy
+rd_ojttpi6	DTC founders have data but can't decide whether to scale, kill or test a product	Shopify and DTC founders	implied	4	data & analytics
+rd_oy4711h	Small business websites get flooded with spam leads	small business owners	implied	3	SMB & back-office
+rd_mp8brim	Small businesses want spam calls screened without frustrating real customers	small business owners	explicit	4	communication & social
+rd_owk23md	Setting up a portfolio plus webshop from scratch is time-consuming for first-timers	small creators	implied	2	commerce & marketplaces
+rd_n8tkobf	RMM and remote access vendors don't vet companies before free trials, enabling scammers	MSPs	implied	3	security & privacy
+rd_oi7w1s7	Stock analysis tools have data delays and SEC filing cleanup is hard	retail investors	implied	3	finance & money
+rd_nzjitzp	People would pay for tools that remove decision-making from admin and planning tasks	busy individuals	explicit	3	productivity & work
+rd_ovoozb3	Founders piece together stories from fragmented analytics or ignore the data entirely	founders	implied	3	data & analytics
+rd_m2vsvwe	Google Workspace is poorly structured for sysadmins compared with M365	sysadmins	none	2	productivity & work
+rd_p3h6vlo	Some vendors make it nearly impossible to buy from them	sysadmins	explicit	2	devops & infra
+rd_nuntjk4	Some patients' ports are a nightmare to access	nurses	none	2	health & fitness
+rd_n8m1x8x	Selling a small business is a huge pain that may never happen	small business owners	none	3	finance & money
+rd_nypji2e	Founders want opinionated filters that turn Reddit noise into a few validated problem bets	founders	explicit	3	data & analytics
+rd_otnzaw7	Teams waste hours routing tickets	IT teams	none	3	devops & infra
+rd_nku8ygz	Users want AI and developer slop flagged automatically in subreddits	Reddit users	implied	2	communication & social
+rd_p1wxzdj	Small business owners can't get lawyers to respond to referral requests	small business owners	implied	3	legal & government
+rd_n55tjab	Server 2025 and Win11 23H2 break computer trust relationships	sysadmins	none	3	devops & infra
+rd_ogp0d04	Etsy identity verification fails without details	Etsy sellers	none	3	commerce & marketplaces
+rd_nwe1qu3	Vendor pricing research sites can't get real pricing data	sysadmins	none	1	devops & infra
+rd_otgdw71	Founders waste hours scrolling Reddit and LinkedIn for keywords	founders	implied	3	media & content
+rd_nanv80a	Sysadmins want holistic training and certifications as SaaS replaces traditional roles	sysadmins	implied	2	education & learning
+rd_n3upw3l	MSPs find it hard to get data cabling companies that start on time and communicate	MSPs	implied	3	SMB & back-office
+rd_okwiemf	Referral programs are complicated by fraud prevention and tax handling	SaaS founders	implied	3	finance & money
+rd_oetufs4	Scheduling, inventory sync, invoicing and local marketing tools are too expensive or complex for small businesses	small business owners	implied	4	SMB & back-office
+rd_nt3iiqm	Design QA is always a pain	designers	none	2	developer tools
+rd_osslfl0	Buyers waste hours scrolling forums and marketplaces for micro-acquisitions	micro-acquisition buyers	implied	3	commerce & marketplaces
+rd_orh57i3	Legacy Windows apps still have no browser front end	enterprise IT	implied	3	devops & infra
+rd_ouz0cd6	Developers take non-technical founders' money without advising on validation	non-technical founders	none	3	developer tools
+rd_mhnsq6k	State government GL systems are a nightmare to correct	government accountants	none	3	finance & money
+rd_mw49qy0	Daily payroll runs are a pain and a nightmare when errors occur	payroll accountants	none	3	finance & money
+rd_oep46sx	Form tools only collect data; teams triage submissions through Zapier, HubSpot and Slack by hand	marketing and sales teams	implied	4	productivity & work
+rd_n70vxp2	M365 Direct Send and third-party spam filter routing is confusing	sysadmins	none	3	communication & social
+rd_mgcb356	Small businesses struggle to get bank loans	small business owners	none	3	finance & money
+rd_o5olnj5	MSP contracts lack security baseline requirements	MSPs	implied	2	security & privacy
+rd_oe56jl4	Founders find personal emails asking waitlist signups about their pain points work well	SaaS founders	none	1	SMB & back-office
+rd_mflnhso	People need tailored support and systems to eat healthier	health-conscious consumers	explicit	3	health & fitness
+rd_pe9rye0	International shipping for small sellers is expensive, slow, and complicated by tariffs and duties	small sellers	none	4	commerce & marketplaces
+rd_odtg3jp	AI content tools sound robotic and lack voice training	creators	implied	3	media & content
+rd_npooekr	Photographers need reliable photo backup while traveling	traveling photographers	implied	2	media & content
+rd_oqoqqnp	Routine tax returns take months because of missing docs and backlog	taxpayers	implied	3	finance & money
+rd_oqtydd7	MSPs want a weekly per-tenant digest of Message Center changes that affect features clients actually use	MSPs	explicit	4	devops & infra
+rd_ootokb5	Subreddits lack moderation against overseas spam accounts	Reddit users	implied	2	communication & social
+rd_mj2gykm	Teachers with old records must supply arrest reports and court documents with every application	teachers	none	2	hiring & careers
+rd_odequda	Vendors are the biggest pain point in IdP migrations	IT teams	none	3	security & privacy
+rd_m08vyyd	Door-to-door sales use deceptive recurring contracts	homeowners	none	2	consumer & home
+rd_oo5tcfd	AI-generated code with subtle bugs wastes hours of debugging	developers	none	3	developer tools
+rd_mejbo4z	Teachers lack textbooks or content guides for social studies	social studies teachers	implied	3	education & learning
+rd_mtohjwb	Nutanix renewals are insanely expensive and HCI is unreliable	sysadmins	none	3	devops & infra
+rd_oo43f84	Realtors pay association dues for no clear value	realtors	none	2	travel & local
+rd_nkuxsag	Founders would pay for a weekly delta-only competitor digest with impact tags and next actions	SaaS founders	explicit	4	data & analytics
+rd_19su7r7p18r1f	Founders would pay for outcome-priced outreach that guarantees real conversations	founders	explicit	3	SMB & back-office
+rd_onvg6im	Agencies waste hours finding local businesses with heavy customer volume but broken websites	web agencies	implied	3	SMB & back-office
+rd_msae9sv	Conditional access compliance can't simply target Intune-joined devices, so admins avoid blocking	sysadmins	implied	3	security & privacy
+rd_ocu2u83	Accountants are tired of pain-point questions from founders	accountants	none	1	finance & money

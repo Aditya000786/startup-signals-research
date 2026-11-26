@@ -1,0 +1,60 @@
+rd_nomoq9y	read.ai spreads through Teams meetings and is hard to remove	IT admins	none	3	security & privacy
+rd_o61seiv	A/B testing teams manually pull results into weekly exec dashboards	growth teams	implied	3	data & analytics
+rd_19se3zmol0mma	Small businesses need an internal work order system now that Access web apps are gone	small businesses	implied	3	SMB & back-office
+rd_n4v6l87	People would pay for automatic casual email follow-ups when there's no reply	professionals	explicit	3	productivity & work
+rd_paciefo	Founders would pay for a weekly review with written commitments and number checks	founders	explicit	3	productivity & work
+rd_og9rk51	Teams want API monitoring that groups failures by cause and ties them to recent deploys	developers	implied	4	devops & infra
+rd_mgmgkef	ICU nurses struggle to keep IV lines untangled and transport patients to CT or MRI	ICU nurses	none	3	health & fitness
+rd_nohnjgq	Small companies can't get decent health insurance pricing until 100 employees	small businesses	none	4	health & fitness
+rd_n4mnrnp	Teams want universal search across Notion, Drive, Slack and Jira that respects permissions	teams	explicit	4	productivity & work
+rd_p90qsmr	Home product businesses outgrow the apartment because assembly and shipping eat all their time	home-based product sellers	implied	3	commerce & marketplaces
+rd_ogr8bxs	People waste hours prompt-engineering a decent AI photo of themselves	consumers	implied	2	AI & ML tooling
+rd_od7rbr3	Photographers sink hours into post-processing finishing touches	photographers	implied	3	media & content
+rd_mdt8rqy	SharePoint is complicated to manage and tangled up with Teams and Exchange groups	sysadmins	none	3	productivity & work
+rd_n3t3kw3	Users bounce when apps lack Google sign-in or ask for details before account creation	app users	none	2	productivity & work
+rd_p8bxt46	macOS patching is a nightmare because Electron apps demand local admin for helper tools	sysadmins	none	3	devops & infra
+rd_o5sssbf	Basecamp breaks down past 10-15 people as project updates scatter	project teams	implied	3	productivity & work
+rd_o7p4mng	There's no EU alternative to Azure and AWS that ticks enough boxes	European IT	none	3	devops & infra
+rd_olkyqqe	MCP servers scattered across infrastructure need a gateway for centralized auth, audit logs and RBAC	platform teams	implied	4	AI & ML tooling
+rd_nblhwsy	Startups that skip security early face painful retrofits during due diligence	startups	implied	3	security & privacy
+rd_o5pofnv	Support teams' biggest pain is maintaining documentation to avoid recurring questions	support teams	implied	3	SMB & back-office
+rd_o9jygay	Greenbone is a nightmare with poor reporting and breaking appliances	security teams	none	3	security & privacy
+rd_na7xnpm	Cities charge extra taxes on construction job costs on top of license and permit fees	contractors	none	2	legal & government
+rd_o5jc80c	Creating and maintaining a help center is support's biggest pain point	support teams	implied	4	SMB & back-office
+rd_n18x6mc	Expense teams need high-precision fake receipt detection exported into Concur	finance teams	explicit	4	finance & money
+rd_p6hse90	Late invoices stem from weak terms (no deposit, no late fee, no signed scope)	service businesses	none	3	finance & money
+rd_oebjz8r	Job seekers lose track of many slightly tailored resumes	job seekers	implied	3	hiring & careers
+rd_o5d8aua	Pulling Teams conversations involving specific people for eDiscovery is a nightmare	compliance and IT teams	implied	4	legal & government
+rd_n4k2gnw	Freelancer-built apps become a pain to manage when scaling	startups	none	3	developer tools
+rd_19rok493b6iip	Self-managed GitLab and Jira integration is poor	DevOps teams	implied	3	developer tools
+rd_p6hpjjx	Consumers want one-time purchase options instead of subscriptions	consumers	explicit	3	commerce & marketplaces
+rd_o5qz4ou	ERP lacks integrations, forcing CSV imports	accountants	implied	2	finance & money
+rd_n3dh3ia	SaaS sales tax compliance across states is a pain	SaaS founders	implied	3	finance & money
+rd_o4yj015	Ecommerce system migrations fail on SKU, location, bundle and return edge cases living in people's heads	ecommerce operators	implied	4	commerce & marketplaces
+rd_n0s3qwp	People spend more time managing notes in Obsidian and Notion than learning	knowledge workers	implied	3	productivity & work
+rd_o2fll3n	Users want a modern, reliable keyboard and mouse sharing device	sysadmins	implied	2	hardware & IoT
+rd_ouu5w5z	Accountants spend time fixing bad AI matches they can't turn off	accountants	implied	3	finance & money
+rd_nlvldqp	Frequent FortiGate CVEs make staying on an LTS firmware a nightmare	network admins	none	3	security & privacy
+rd_msa49mi	Corporate travel booking tools are a pain and users hate them	small businesses	none	2	travel & local
+rd_19rgfpvaclaua	Vibe-coding a dashboard costs more weekends than a $29 subscription	founders	none	2	developer tools
+rd_mxtaauh	People would pay to have their house turned into a Lego model	consumers	explicit	2	consumer & home
+rd_odi3vwm	SaaS teams face email vendor lock-in and surprise billing at scale	SaaS developers	implied	3	developer tools
+rd_o4m4ue9	Nurses' and wound care teams' assessments aren't integrated	nurses	implied	3	health & fitness
+rd_o8x9cg7	Laid-off engineers scrape ATS platforms with MCP tools for job search	job seekers	none	2	hiring & careers
+rd_mpus7t7	Developers are notoriously bad at estimating work	software teams	none	3	developer tools
+rd_o4gxdcv	Startups struggle to know what compliance evidence to gather	early-stage startups	implied	3	security & privacy
+rd_pemngvc	There's no Carfax-style history for homes; permits, claims and inspections are scattered	home buyers	implied	4	travel & local
+rd_p3tjaj3	Bookkeeping customers still pay $60/month for tools they hate alongside spreadsheet workarounds	small businesses	implied	3	finance & money
+rd_odbvjmb	Sales teams get massive contact databases where half the data is bad	sales teams	implied	3	SMB & back-office
+rd_o8o9zxj	126 booked calls and zero paid shows a nice-to-have problem	SaaS founders	none	2	SMB & back-office
+rd_mk89e3a	Short-staffed industries duct-tape inefficient workflows with terrible integrations	underserved industries	implied	3	SMB & back-office
+rd_o3tsdkf	DevOps teams suffer from tool sprawl and context switching	DevOps teams	implied	3	devops & infra
+rd_oda232a	Engineers waste hours cross-referencing datasheets, stock and pricing between Mouser and DigiKey	hardware engineers	implied	4	hardware & IoT
+rd_o2zczod	Google Workspace DLP is weak even on Enterprise tier	IT admins	implied	3	security & privacy
+rd_o2k4auw	Adding hotel reservation guests one by one is a pain	travel groups	implied	2	travel & local
+rd_mx8vdnh	People would pay for AI that analyzes and categorizes their monthly spending from bank data	consumers	explicit	3	finance & money
+rd_ocl6pdl	Small businesses waste hours on content, lead follow-up and social posting	small business owners	implied	3	SMB & back-office
+rd_mx7wkfo	Founders would pay for an agent that does customer discovery grunt work (interviews, transcripts, patterns)	founders	explicit	3	productivity & work
+rd_nzm4gsr	Etsy identity verification instantly locks out legitimate sellers as scammers	Etsy sellers	none	4	commerce & marketplaces
+rd_mbcunna	Keycloak is battle-hardened but easy to misconfigure	platform teams	none	3	security & privacy
+rd_o24r2v8	Accountants are tired of spam posts on the accounting subreddit	accountants	none	1	communication & social

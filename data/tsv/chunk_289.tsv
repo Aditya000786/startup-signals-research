@@ -1,0 +1,68 @@
+rd_p9lzd65	SaaS teams don't separate churn from users who hit a fixable wall	SaaS teams	implied	3	data & analytics
+rd_obzz5co	MSPs check every tenant's Microsoft portal statuses and paste them into IT Glue by hand	MSPs	implied	4	devops & infra
+rd_nyetudy	There's no good long-term archiving solution beyond maintaining appliances	sysadmins	implied	3	devops & infra
+rd_nnvevkr	EHRs lack a separate field for drug sensitivities and odd reactions vs true allergies	nurses and parents	implied	3	health & fitness
+rd_o609ei1	Accountants do mind-numbing repetitive Excel work	accountants	implied	4	finance & money
+rd_p1kmlfn	Color accuracy requires calibrated monitors and controlled viewing conditions	photographers	none	2	media & content
+rd_ny4ikbg	Developers in choose-your-own-tools cultures resist web filtering	IT security teams	none	3	security & privacy
+rd_muwha0g	Internal onboarding is duct-taped across Notion, Slack and Loom with no tracking of what's absorbed	remote teams	implied	4	productivity & work
+rd_p0wkwu0	First-time founders lack guidance on getting to incorporation, first sale and GTM	first-time founders	explicit	3	SMB & back-office
+rd_obzwbbl	Weekly multi-source data pulls, report formatting and tool syncing are too small for enterprise software	small teams	implied	3	data & analytics
+rd_nuvrd7s	Owners want one non-bloated tool tying clients, tasks, invoices, follow-ups and reporting together	small business owners	implied	4	SMB & back-office
+rd_nkj0uif	Implant courses offer too little hands-on clinical time	dentists	implied	2	education & learning
+rd_o5wy497	IT consulting teams spend 40+ hours on proposals that follow nearly identical structures	IT consulting firms	implied	4	SMB & back-office
+rd_oolpj2w	AI lets developers push to prod in minutes without real review	engineering leaders	none	3	developer tools
+rd_m38jp0p	Prepping and monitoring high-alert infusions with dual sign-offs is a huge burden	nurses	none	3	health & fitness
+rd_p087n7f	Merchants can't reconcile Shopify-attributed ChatGPT sales with the ad platform's conversions	Shopify merchants	implied	3	commerce & marketplaces
+rd_objusrn	Sales prospecting checks ad libraries, reviews and websites for buying triggers by hand	sales teams	implied	3	SMB & back-office
+rd_o5b906h	Businesses don't follow up on quote requests from ready buyers	consumers	explicit	3	SMB & back-office
+rd_okp4h5u	HPE server support is a nightmare	sysadmins	none	2	hardware & IoT
+rd_nwqhkfk	Estonian e-residency companies come with bureaucracy and home-country tax implications	digital nomad founders	none	3	legal & government
+rd_mn3qrgh	Users want to save links and research from across the web grouped by topic	researchers	implied	2	productivity & work
+rd_oaubblq	Founders waste hours manually collecting competitor prices and leads	founders	implied	3	data & analytics
+rd_netqqjk	Dental office culture is often toxic among staff	dental staff	none	3	health & fitness
+rd_ohcgceb	Some banks are a nightmare to close loans with	realtors	none	3	finance & money
+rd_p9hj019	Migrating UniFi devices to a new controller requires SSHing into each one	MSPs	implied	3	devops & infra
+rd_nw8wggc	Repair shops outgrow Excel for multi-tech job tracking	repair shops	implied	3	SMB & back-office
+rd_oyu60ea	B2C tools for job seekers are a marketing nightmare	B2C founders	none	2	hiring & careers
+rd_o9cajf7	Businesses lose hours each week to boring repetitive tasks	small businesses	implied	2	productivity & work
+rd_nrrwt8u	Microsoft docs like Purview PST import are fragmented, with no start-to-finish guides	sysadmins	implied	3	productivity & work
+rd_ndbidjb	Construction workers lack men's mental health support	construction workers	implied	3	health & fitness
+rd_nhtl4r0	GCPW can't push scripts or install Store apps like Intune	sysadmins	none	3	devops & infra
+rd_mkvf8c1	Bank-owned property sales need clarity on trashouts, cleaning and repairs	realtors	none	2	travel & local
+rd_nw4qchb	Multichannel food retailers need POS, online ordering and shipping unified	food retailers	implied	3	commerce & marketplaces
+rd_o96nzng	Freelancers waste hours writing Upwork proposals	freelancers	implied	3	hiring & careers
+rd_n2f98n9	Teachers want flexibility beyond state history standards	history teachers	implied	2	education & learning
+rd_m6ayh6n	Even well-insured patients end up with insurmountable medical debt	patients	none	4	health & fitness
+rd_p4xmru3	US investors avoid non-US companies and LLCs	international founders	none	3	legal & government
+rd_nvlx4be	Boutiques' inventory doesn't sync in real time with Shopify	boutique owners	implied	4	commerce & marketplaces
+rd_p70juta	AI furniture product images don't match real pieces, creating support problems	furniture makers	none	3	commerce & marketplaces
+rd_ml0gc5a	Realtors want a tool that blasts price drops to their buyer list	realtors	explicit	3	travel & local
+rd_o8jhanb	Security teams waste hours pivoting between CloudTrail, auth logs and WAF dashboards	security teams	implied	4	security & privacy
+rd_p4d9cwu	On-call teams spend the first 10-15 minutes of incidents running the same basic checks	SRE teams	implied	4	devops & infra
+rd_oxn4aqc	Founders want alerts that say who is complaining, what they tried and whether they're buyers	founders	implied	3	media & content
+rd_o8cddm5	Job seekers needing visa sponsorship waste hours on listings that never sponsor	visa-seeking job seekers	implied	4	hiring & careers
+rd_no2c4bw	Small businesses want a free custom-domain business email	small businesses	implied	2	communication & social
+rd_o4ld909	Law firms are hammered by legal tech spam	small law firms	none	2	legal & government
+rd_lv1iuh1	GoDaddy-managed M365 is a nightmare to administer and migrate	MSPs	none	3	productivity & work
+rd_ntwcl7q	A business that grew 5x in a year lost the ability to manage inventory	growing small businesses	implied	5	SMB & back-office
+rd_o7ywyf1	Startup ideas come from frustration with broken workflows at work	founders	none	1	SMB & back-office
+rd_o39u9ul	Etsy sellers mark orders shipped before shipping, a loophole Etsy hasn't closed	Etsy buyers	implied	2	commerce & marketplaces
+rd_me5w4bm	Job seekers would pay for a follow-up feature to reach recruiters after ghosting	job seekers	explicit	3	hiring & careers
+rd_mu42u6r	Real estate teams waste time on poor follow-up and agent retention	real estate brokerages	implied	3	travel & local
+rd_oat1ktj	Trauma bays get crowded by everyone showing up	ER nurses	none	2	health & fitness
+rd_mbx5jhr	Consumers want a location-based directory of businesses that offer a specific product	consumers	implied	2	travel & local
+rd_nt27ffb	Founders get very low response rates to cold outreach and surveys	founders	implied	3	SMB & back-office
+rd_p3cci0h	Software for companies past solo but below enterprise is missing or stripped down	growing companies	implied	4	SMB & back-office
+rd_o6xc2yl	Solopreneurs context-switch across five ad tools for research, creative and campaigns	solopreneurs	implied	3	media & content
+rd_m555g7x	Businesses with many key-holders struggle with lost RF fobs and re-keying and would pay for a service	small businesses	explicit	3	security & privacy
+rd_o6r2xah	Hootsuite and Sprout are over-engineered for freelancers and mid-sized agencies	social media managers	implied	3	media & content
+rd_ntklpr6	Warehouse Wi-Fi coverage with legacy devices is always a nightmare	MSPs	none	3	devops & infra
+rd_nszzzxw	Professionals lose focus to scheduling back-and-forth and email triage	professionals	implied	3	productivity & work
+rd_m26qw27	Users want one-time purchase productivity apps instead of subscriptions	consumers	explicit	2	productivity & work
+rd_o6ez28p	Reddit marketers waste hours replying to bots	marketers	none	2	media & content
+rd_o0v3k7o	Platforms struggle to catch racist and profane usernames	platform builders	explicit	3	security & privacy
+rd_opb7tdh	Imaging machines with model-specific fat images and ordered updates is a huge pain	help desk techs	none	3	devops & infra
+rd_m3pjnwk	Delivery service economics run about $40 per service hour	delivery businesses	none	2	SMB & back-office
+rd_orjjcl5	Agencies targeting businesses without websites struggle to get leads	web agencies	explicit	3	SMB & back-office
+rd_mlvng7z	New accountants want a gentler path into tax than 70-hour busy seasons	new accountants	implied	3	hiring & careers

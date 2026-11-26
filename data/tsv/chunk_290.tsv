@@ -1,0 +1,60 @@
+rd_omrl55s	Removing DNSFilter agents from all machines is a huge pain	MSPs	none	3	security & privacy
+rd_nsdxiz5	Debugging complex n8n workflows gives minimal clues when something breaks	automation builders	implied	3	developer tools
+rd_p034c1n	Apparel stores replace SEO and analytics subscriptions with an agent calling APIs directly	small ecommerce brands	none	2	commerce & marketplaces
+rd_oprluqz	Founders consider offshore company structures before knowing their tax residency	international founders	none	3	legal & government
+rd_mk7rzdn	Some bloated software can't install silently or update hands-off	sysadmins	implied	3	devops & infra
+rd_nzddrus	Founders want test automation that writes and maintains tests by itself	developers	implied	3	developer tools
+rd_nqbwzqk	Remote teams struggle to choose and connect tools around one communication hub	remote teams	none	2	productivity & work
+rd_lvveg2e	People would pay for house cleaning because it's a hassle	consumers	explicit	2	consumer & home
+rd_o5x8ntt	Teams waste hours fighting CRM broken reports, lost email threads and glitchy dashboards	small businesses	implied	3	SMB & back-office
+rd_nklgpnr	Female founders struggle to find cofounder and founder communities	female founders	implied	3	communication & social
+rd_mhfhmtj	Teams admin center can't ban AI meeting bots	IT admins	implied	3	security & privacy
+rd_nq9qkce	Entrepreneurs struggle with manual lead scoring and follow-up sequences	entrepreneurs	implied	3	SMB & back-office
+rd_lv7uwcy	Recruiters want automated job ad posting to LinkedIn and social media	recruiters	explicit	3	hiring & careers
+rd_oosg6gr	Users want an offline AI file organizer that searches by content	knowledge workers	explicit	3	productivity & work
+rd_nikbsq9	Dev hardware requires weekly reflashing of activation keys and per-user keys	embedded dev teams	none	2	hardware & IoT
+rd_mgbu44y	Founders struggle to find where their customers hang out online	founders	implied	2	media & content
+rd_oxvdqb6	Sales reps rewrite answers to repeated security questionnaire topics because there's no approved answer bank	B2B SaaS sales teams	implied	4	security & privacy
+rd_ng6bcg3	Niche founders have few chances to meet customers in person	niche B2B founders	implied	2	SMB & back-office
+rd_mfssgjn	Duo 2FA prompts interrupt teachers mid-lesson	teachers	implied	2	security & privacy
+rd_mcd2zcl	Working with large CAD files over cloud storage and slow WAN is terrible	engineering firms	none	3	productivity & work
+rd_oc8jld1	Schools want app submissions as easy as sending a link	educators	implied	2	education & learning
+rd_19t0xa6bbequc	Physical product brands find event sampling a grind to pitch one by one	CPG brands	implied	3	media & content
+rd_oxu9f4m	Affiliate programs at low MRR don't pay affiliates enough to bother	SaaS founders	none	2	media & content
+rd_luu5t30	Founders raising angel rounds want a complete financial model template	startup founders	explicit	3	finance & money
+rd_nf15cvf	Template legal docs fall short when investors ask about GDPR and data policies	SaaS founders	implied	3	legal & government
+rd_mf3at9e	Camera mounts lack an anti-twist post	photographers	implied	1	hardware & IoT
+rd_oailfbe	Multi-person S-Corps are a pain, worse with a hostile partner	small business owners	none	3	legal & government
+rd_19sz49154y2tf	Job seekers want realistic AI mock interviews	job seekers	implied	2	hiring & careers
+rd_nnf6t99	Founders struggle with pricing for their first 100 customers	SaaS founders	implied	3	SMB & back-office
+rd_19t6tm50wtqpx	Founders would pay for ten good prospects a day with editable notes, not volume outreach	founders	explicit	3	SMB & back-office
+rd_o3xgv5v	Small fleets waste hours hunting down vans and resolving route disputes	small fleet operators	implied	3	SMB & back-office
+rd_ner41p5	Dentists want practical books on extraction technique	dentists	implied	2	education & learning
+rd_oai9xqy	Community nurses struggle to find parking near homeless shelters and get ticketed	community nurses	implied	3	health & fitness
+rd_nm9rjv6	B2B SaaS teams struggle to balance enterprise security with developer experience for auth	B2B SaaS developers	implied	3	security & privacy
+rd_19szqjbvvsww5	Owners would pay for email triage with drafts they approve	small business owners	explicit	3	productivity & work
+rd_o3gbiwl	Interior designers waste hours on leads who don't know their budget or aren't a fit	interior designers	implied	3	SMB & back-office
+rd_o9razes	Hiring a first employee requires many accounts and monthly, quarterly and annual filings	single-member LLC owners	implied	4	SMB & back-office
+rd_19s6bu5255rno	Manufacturers ghost small buyers because they can't tell who is serious	small product brands	implied	3	commerce & marketplaces
+rd_nj4u4wr	Startups centralize feedback and cluster it with embeddings to prioritize	product teams	none	2	productivity & work
+rd_19sydc1vqm6ea	Founders would pay $300-500 for non-spammy leads and human accountability	founders	explicit	3	SMB & back-office
+rd_og0xe4l	Enterprise security tooling is too expensive for small businesses	small businesses	explicit	4	security & privacy
+rd_o3fdksq	MSP engineers waste hours triaging, categorizing and routing tickets before real work	MSPs	implied	4	devops & infra
+rd_pdoa7k7	Early founders want market validation without guessing games	early-stage founders	implied	3	SMB & back-office
+rd_o8pmybo	PC leases and rentals complicate Autopilot	IT teams	none	2	devops & infra
+rd_niefniw	Manual expense categorization eats hours every month	small business owners	implied	3	finance & money
+rd_19sxcf945fie8	Software companies would pay for extra hands to research and set up non-core processes	software companies	explicit	3	SMB & back-office
+rd_19sw21x5143j9	Marketers would pay for a weekly human who makes them actually do outreach	marketers	explicit	3	productivity & work
+rd_oeu6w02	AI agents without budget caps or loop detection burn money	AI developers	implied	4	AI & ML tooling
+rd_p1w9sgy	Dental offices find hiring assistants through Indeed abusive	dental practices	implied	3	hiring & careers
+rd_nryw2tf	Owners want a business advisor who isn't just after their money	small business owners	explicit	3	SMB & back-office
+rd_19rr2vfolmama	Supplement brands need to work out breakeven ad cost per first order	DTC supplement brands	implied	2	commerce & marketplaces
+rd_o34nlyb	Owners waste hours manually entering bank data until syncing software	small business owners	none	2	finance & money
+rd_nbwkw5a	Beginners don't know how to find and reach their first paying customers	first-time founders	implied	3	SMB & back-office
+rd_19soox4o6m38g	AI agent operators need every conversation pinned to the version and context it ran with for replay	AI agent builders	explicit	4	AI & ML tooling
+rd_o2k5qcd	Supply chain ops waste hours daily on manual tracking and updates	supply chain teams	implied	3	SMB & back-office
+rd_oe4r8lx	Laptops throttle due to heat or power without telling the user	end users	implied	2	hardware & IoT
+rd_odvvnqu	Supply-chain malware in CI builds exfiltrates secrets and self-erases	DevOps teams	implied	4	security & privacy
+rd_nftp70i	Sales teams spend 10-15 minutes researching each prospect for cold outreach	sales teams	implied	3	SMB & back-office
+rd_osc80nu	Vendor documentation describes features that don't exist yet	sysadmins	none	2	devops & infra
+rd_objh1bk	Advertisers want tools that explain why people drop off in the funnel, not just what	performance marketers	explicit	4	data & analytics

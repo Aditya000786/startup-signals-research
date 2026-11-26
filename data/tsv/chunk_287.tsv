@@ -1,0 +1,59 @@
+rd_nk0wvti	Travel apps should sell trip passes instead of subscriptions because travel is episodic	travelers	implied	2	travel & local
+rd_onu6sr3	Organizations lose time when staff can't find documentation and figure things out alone	IT teams	none	2	productivity & work
+rd_mcdctjg	Designers miss college-style creative collaboration communities	creatives	implied	2	communication & social
+rd_mh2l341	Importers can't quote prices because landed cost is unknown until months-long shipments arrive	importers	implied	4	commerce & marketplaces
+rd_njmvcvv	People want life-admin reminders that are simpler than a calendar	consumers	implied	2	productivity & work
+rd_onkssnt	Sellers type out product specs by hand; want specs pulled from a UPC or Amazon URL	ecommerce sellers	implied	3	commerce & marketplaces
+rd_mjqa43r	Defender can't flag suspicious shared-document emails for review before delivery	sysadmins	implied	3	security & privacy
+rd_obzdf0n	Teams juggle spreadsheets, Notion and Miro for decisions that get messy and biased	product teams	implied	3	productivity & work
+rd_19shdmang4n1h	Accounting offices would pay for recurring cleanup of messy files and weekly reports	small accounting offices	explicit	4	finance & money
+rd_onf9o78	Founders waste hours debugging custom data-routing scripts when APIs change	founders	implied	3	developer tools
+rd_p80skn4	Shopify lacks a page breaking total revenue down into where it went	Shopify merchants	implied	3	commerce & marketplaces
+rd_m9qqmhn	There's no reset for Windows machines inherited in acquisitions; admins must reimage	sysadmins	implied	2	devops & infra
+rd_lxbsqet	Migrating data off AS/400 is pure hell	enterprise IT	none	4	devops & infra
+rd_obzc0z4	Stakeholders changing their minds mid-sprint derails decisions made in Slack and Sheets	product teams	implied	3	productivity & work
+rd_nf57oz0	Users would pay for a chatbot that retrieves knowledge across Slack, Teams and email	knowledge workers	explicit	4	productivity & work
+rd_19s7dg5n4m41u	Landlords with 240 doors research numbers with tools rather than hire consultants	landlords	none	2	finance & money
+rd_ona871i	Founders waste hours on manual reporting and data updates	founders	implied	3	data & analytics
+rd_m9kelv2	Healthcare workers need daycares that match their shift schedules	healthcare workers	implied	4	consumer & home
+rd_obnd0q5	Job seekers don't know their resumes get filtered by ATS before a human sees them	job seekers	implied	3	hiring & careers
+rd_19s1zwpk3edoj	Busy travelers would pay to have multi-country group trip logistics planned	busy travelers	explicit	3	travel & local
+rd_on0vg4c	Banks freeze international trading and investment accounts until an LEI is provided	small businesses	none	2	finance & money
+rd_oyqiu0y	Etsy sellers want a way to rate buyers and spot repeat abusers	Etsy sellers	implied	3	commerce & marketplaces
+rd_pf1cbu7	Shared networks in multi-unit buildings never work the way owners want	building owners	none	2	devops & infra
+rd_nd7y2o9	Owners hate chasing unpaid invoices, calculating late fees and updating QuickBooks	small business owners	explicit	4	finance & money
+rd_omughsc	Freelancers waste hours manually searching for leads	freelancers and agencies	implied	3	SMB & back-office
+rd_nux608w	Home buyers want floor plans in listings	home buyers	implied	3	travel & local
+rd_ok20osp	Some vendors refuse short-term contracts and require a full year	MSPs	none	2	devops & infra
+rd_oy620h7	New staff can't find the main file share in SharePoint since Featured Links were removed	sysadmins	implied	3	productivity & work
+rd_oaxennt	B2B leads go cold because average response time is 42 hours	B2B sales teams	implied	4	SMB & back-office
+rd_op6qoir	Mileage reimbursement is so painful employees stop submitting	employees	none	2	finance & money
+rd_nd08itz	Owners switch between Trello, time tracking and client communication apps	small agencies	explicit	3	productivity & work
+rd_pf1jwr8	Consumers would pay a premium for single-origin olive oil with traceable provenance	food enthusiasts	explicit	2	consumer & home
+rd_nt0v038	Selling to US customers is a nightmare for international Etsy sellers	international Etsy sellers	none	3	commerce & marketplaces
+rd_oorxyih	Pulling cable between old and new building sections is a pain	church AV volunteers	none	1	hardware & IoT
+rd_pe5fyrx	Small businesses need scheduled test restores with proof that backups actually work	small businesses	explicit	4	devops & infra
+rd_om2sgrr	IRS phone lines waste hours with transfers and conflicting answers	taxpayers	implied	4	legal & government
+rd_19snjfvrccj2b	Recruiters complain about deepfake candidates and sourcing	recruiters	implied	3	hiring & careers
+rd_ns5rhue	McGraw Hill coursework deadlines pile up	students	none	1	education & learning
+rd_pdw98fx	Service businesses would pay for quote-stage explainer videos so techs stop answering the same questions	service businesses	explicit	3	media & content
+rd_olpq9lc	Merchants submit the wrong chargeback evidence for the reason code and lose	merchants	implied	4	commerce & marketplaces
+rd_pbvahxa	Real estate's barrier to entry is too low and lacks mentoring and contract education	real estate agents	implied	2	education & learning
+rd_nket8ik	Hiring managers get 500 applications per position	hiring managers	implied	3	hiring & careers
+rd_og7k8ec	Photographers want DaVinci Resolve to replace Lightroom so they can drop Adobe	photographers	explicit	3	media & content
+rd_n8k3til	Unmanaged Jenkins is a nightmare	DevOps teams	none	3	devops & infra
+rd_o9hs8ez	CRRT machines are touchy and filter changes are hard to judge	ICU nurses	none	3	health & fitness
+rd_oa8jsmz	Teams struggle to separate real feedback trends from one-off requests	SaaS teams	implied	3	productivity & work
+rd_pbcm0g6	Founders save invoices in Google Docs and use Gmail automations at month end	solo founders	none	2	finance & money
+rd_p9n93y8	SmugMug lacks customization without CSS	photographers	implied	2	media & content
+rd_ndevce3	Car shippers face price-shopping customers	auto transport brokers	none	2	travel & local
+rd_o8z89zs	Tax practice tools break down when client uploads, approvals and reminders enter the workflow	tax firms	implied	3	finance & money
+rd_19ss4xvumqsud	Customers flood support during the gap between order and first carrier scan	ecommerce merchants	implied	3	commerce & marketplaces
+rd_n799czz	Fractional CFO lead-gen services deliver garbage leads	fractional CFOs	explicit	3	finance & money
+rd_oytlb1u	Senior IT staff won't mentor juniors	junior sysadmins	none	2	hiring & careers
+rd_of1dmz2	Founders who hate marketing would pay an expert to do it	founders	explicit	3	media & content
+rd_mr8c3ks	Government and military need compliant, auditable dev pipelines	government engineering teams	none	3	devops & infra
+rd_nwssg15	The formal RFI process is a pain on construction projects	contractors	none	2	SMB & back-office
+rd_n52zx38	Users want a Grammarly-like prompt improver that works inline in ChatGPT	AI power users	explicit	3	AI & ML tooling
+rd_paxcfdg	Teams would pay for vendors to own permissions, migration, monitoring and recovery after integrations change	teams buying software	explicit	4	productivity & work
+rd_oj3xwie	AI doubles dev velocity but CI/CD pipelines become a black box bottleneck	growing dev teams	implied	4	devops & infra
