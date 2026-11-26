@@ -1,0 +1,95 @@
+rd_nt1a3za	Law offices must train young hires on basic computer skills and office etiquette	law office managers	none	3	hiring & careers
+rd_n3c7md9	Running ELK in Docker for production is a huge pain without k8s	DevOps engineers	none	2	devops & infra
+rd_nl3pfz8	Offline industries are underserved because developers build for themselves	founders	none	3	other
+rd_mw380ta	Solopreneurship is romanticized and lacks real education	aspiring solopreneurs	implied	2	education & learning
+rd_nsy4m7k	PE-backed accounting firms have bad systems	accountants	none	3	finance & money
+rd_n33mj7n	Food waste is a huge pain point for restaurants	restaurants	implied	3	commerce & marketplaces
+rd_nl0l8qt	ATS tools ignore candidate experience and candidates ghost	recruiters	implied	3	hiring & careers
+rd_muqvd3c	Small businesses absorb card fees with no simple pass-through option	small businesses	implied	3	finance & money
+rd_nswo1d6	DLP can't see into data flowing to shadow AI tools	security teams	implied	4	security & privacy
+rd_n32kgj3	Getting a security certification took consultants and an internal team 6 months	IT teams	none	3	security & privacy
+rd_nkyg6q7	Marketing CRMs struggle with lead quality, personalization, attribution and integrations	marketers	implied	3	SMB & back-office
+rd_mu2dcvo	Checking whether brand names are trademarked means searching USPTO one by one	founders	implied	3	legal & government
+rd_nsnyfhz	Pest foggers for rentals can set off smoke detectors	Airbnb hosts	none	1	consumer & home
+rd_mu021m1	Senior admins refuse to share system access with junior colleagues	IT staff	none	3	security & privacy
+rd_nsiyi58	Finding QA engineers who know modern test frameworks is a nightmare	SaaS teams	implied	3	hiring & careers
+rd_n2jr5rj	Cross-border deals require notarization that's a huge pain	international startups	implied	3	legal & government
+rd_ns6auwn	After Effects is a nightmare for non-designers making launch videos	founders	implied	3	media & content
+rd_n1zvz0q	Offline marketing like direct mail is a black box without tracking	marketers	implied	3	data & analytics
+rd_nkrd2dr	Small B2B teams juggle multiple tools for enrichment and outreach	small B2B teams	implied	3	SMB & back-office
+rd_n1mu1f4	Every elderly fall becomes a 7-page trauma activation packet	ER nurses	none	3	health & fitness
+rd_nk5vyl4	Outreach momentum dies right after a LinkedIn connection is accepted	sales teams	implied	3	SMB & back-office
+rd_mtpkjq7	Real estate practice varies confusingly across US markets	realtors	none	2	consumer & home
+rd_nrqedj4	Morgue transport carts are hard to control and don't fit bigger bodies	hospital staff	none	2	hardware & IoT
+rd_n0vjyd8	Classrooms without phones force emails and PA interruptions	teachers	none	2	education & learning
+rd_nk3ti4k	Procurement specialists waste hours comparing proposals side by side	procurement specialists	implied	4	SMB & back-office
+rd_n0js11y	Students must install firewall root certs to get online	school IT	none	2	security & privacy
+rd_mtbyfj7	Advanced students just below gifted cutoffs get nothing extra	parents	implied	3	education & learning
+rd_nqu0mit	Browser extension security tools are mostly garbage	security teams	implied	3	security & privacy
+rd_n00sohk	Service firms pay unnecessary guest charges to put clients on the same platform	service businesses	implied	3	SMB & back-office
+rd_njudext	High-ticket SaaS founders struggle with demo videos and reaching senior buyers	B2B SaaS founders	implied	4	SMB & back-office
+rd_njnunbu	Founders burn out on hours of list building, personalization and follow-up	SaaS founders	implied	4	SMB & back-office
+rd_mt6w1tj	Teachers have no reliable way to detect AI-written work	teachers	implied	3	education & learning
+rd_np9vki5	Getting network teams to make changes is a nightmare	sysadmins	none	3	devops & infra
+rd_mzmg6ej	Daily offsite tape rotation was a huge pain	sysadmins	none	2	devops & infra
+rd_mz92fg9	Replacing accountants takes huge time and training cost as the talent pool shrinks	accounting firms	none	4	hiring & careers
+rd_niwvolw	B2B outreach tools struggle with deliverability, multichannel sequencing and support	B2B sales teams	implied	3	SMB & back-office
+rd_msjd6h9	Part-time VAs can't find legit employers willing to pay for quality	virtual assistants	implied	3	hiring & careers
+rd_nirzzch	HR and IT silos let laptops and tokens slip through during offboarding	IT teams	implied	4	security & privacy
+rd_msa7mue	Nurses want IV pumps linked to Epic to see remaining infusion volume	nurses	implied	3	health & fitness
+rd_noudhzv	Pharma importing is a nightmare with manufacturers demanding massive volume	pharma importers	none	3	commerce & marketplaces
+rd_niqacr6	Lead tools fail to sync data between CRM and outreach tools	sales teams	implied	3	SMB & back-office
+rd_myodhqd	An LLC name change caused problems with payments and the IRS for months	small business owners	none	3	legal & government
+rd_mrbkqsr	Photoshop generative fill refuses any bare skin	photographers	implied	3	media & content
+rd_nnxmvw9	French taxes leave entrepreneurs with 30% of earnings	French entrepreneurs	none	3	finance & money
+rd_myhammb	Stock photo submissions demand 50 keywords per image for tiny payouts	photographers	none	3	media & content
+rd_mqvr05o	Security assessments are run by people who don't understand frameworks	sysadmins	implied	3	security & privacy
+rd_nmsz9k6	Beginner coaches find client management in spreadsheets a nightmare	coaches	implied	3	SMB & back-office
+rd_mye5vb0	Non-tech founders struggle to get an MVP up quickly	non-technical founders	implied	3	developer tools
+rd_mqu7cr8	Paraprofessionals get little appreciation	paraprofessionals	none	1	education & learning
+rd_nmht8ze	Microsoft suddenly flags duplicate machine SIDs and Sysprep is a nightmare on existing installs	sysadmins	none	4	devops & infra
+rd_niacx6d	Building integrations in-house takes weeks each and becomes a permanent maintenance tax	SaaS product teams	implied	4	developer tools
+rd_mqnx45x	Founders want task management that calms rather than overwhelms	founders	implied	2	productivity & work
+rd_mwk5iti	Finding, managing and cleaning leads is a huge pain for small teams	small teams	implied	3	SMB & back-office
+rd_ni7jyja	MSPs struggle to keep internal and client-facing documentation separate	MSPs	implied	3	productivity & work
+rd_mp6tvni	Teachers lack transparent salary guides across schools	teachers	implied	3	hiring & careers
+rd_nl32dfp	Navigating VA care for patients is a nightmare	nurses	none	3	health & fitness
+rd_nhz3uzw	Nurses inherit messy assignments from nurses who sign off undone tasks	nurses	none	3	health & fitness
+rd_nkvbllz	Using LLMs for every data transformation is costly and unreliable	data engineers	none	3	AI & ML tooling
+rd_muq69dw	Supporting users with Quick Assist instead of an RMM is a huge pain	IT support	implied	2	devops & infra
+rd_nhwz131	Travel nurses lose 10-15 minutes per shift logging into non-integrated systems	travel nurses	implied	4	health & fitness
+rd_nktmb2b	B2B customers like the product but won't pay and sales cycles are too long	B2B founders	none	4	SMB & back-office
+rd_mub9o80	Helping 50+ users on old Androids set up authenticator apps is a huge pain	IT support	none	3	security & privacy
+rd_moahou7	Nurses want a guide to charting that protects them legally	nurses	implied	3	health & fitness
+rd_nkqunjn	Freelancers switch between Asana and many other tools	freelancers	implied	3	productivity & work
+rd_mu83ed9	Creators juggle platforms and lose massive time	content creators	implied	3	media & content
+rd_nhj0zva	Founders can't get honest market signals fast	founders	implied	3	SMB & back-office
+rd_mnzusgg	Becoming a school librarian requires a master's degree	teachers	implied	2	education & learning
+rd_nkpt8po	Finding remote sysadmin jobs is a nightmare now	sysadmins	none	3	hiring & careers
+rd_nheyr1i	Growing small businesses struggle with scaling, cash flow, hiring and systems	small business owners	implied	3	SMB & back-office
+rd_mnshtup	Lightroom alternatives are slower with poor masking	photographers	none	2	media & content
+rd_nkiwtod	Moving from AWS to multi-cloud took 2+ years	DevOps teams	none	3	devops & infra
+rd_mssxx0o	Qualifying and reaching the right inbound leads is a huge pain	sales teams	implied	3	SMB & back-office
+rd_nheu2a1	$1-5M business owners can't delegate and work in the business	small business owners	none	3	SMB & back-office
+rd_msmncdr	CCH charges $5k/yr for API access despite faulty reporting	accounting firms	implied	3	finance & money
+rd_nhesj2l	Importers process large import data daily in Excel and struggle with inventory sync	importers	implied	4	commerce & marketplaces
+rd_njzhlv1	Hospital nursing management is a nightmare everywhere	nurses	none	3	health & fitness
+rd_msfr1f8	Shared mailboxes behave inconsistently across Outlook and mobile clients	sysadmins	none	3	communication & social
+rd_mm2t1ag	Small businesses are bombarded with sales calls, emails, texts and mail	small business owners	implied	3	communication & social
+rd_njvliqm	Procurement processes have predetermined outcomes and bureaucratic delay	startups selling to enterprise	none	3	SMB & back-office
+rd_msfnekf	Removing shared mailbox automapping at scale is a huge pain	sysadmins	none	2	communication & social
+rd_njttk36	New nurses can't get hospital jobs without experience	new nurses	none	3	hiring & careers
+rd_mri8agk	Cheap website themes become a huge pain once you grow	small businesses	none	2	developer tools
+rd_ni7cqqn	Office 365 is overkill and too complex for tiny companies	small businesses	implied	3	productivity & work
+rd_mrakhlf	Staging occupied homes requires finding a short-term rental	home sellers	none	2	consumer & home
+rd_ngg1bwr	Families want shared expense tracking from receipts and payment screenshots	families	implied	3	finance & money
+rd_mk4t16r	Students missing school for weeks lack independent work packets	teachers	implied	2	education & learning
+rd_nhwukmz	Buying from Dell is a nightmare for small buyers	IT buyers	none	2	hardware & IoT
+rd_mhqgyc2	Undocumented setups are justified as job security	junior sysadmins	none	3	devops & infra
+rd_nfyt2z2	Construction teams struggle with scheduling and QC with new staff	construction teams	none	3	SMB & back-office
+rd_ngs43l6	Clinic schedules Monday-Friday are a nightmare compared with bedside shifts	nurses	none	2	health & fitness
+rd_mr2peu6	Automating ad creatives is a huge pain point for marketers	marketers	implied	3	media & content
+rd_mr018p8	Prepping sub plans takes hours so teachers come in sick	teachers	none	4	education & learning
+rd_nfs4qqx	Small businesses struggle with booking back-and-forth, no-shows, double-booking, intake and payment	small service businesses	implied	4	SMB & back-office
+rd_mhhabb7	Teachers want to open up collective bargaining beyond one union	teachers	implied	2	legal & government
+rd_ngmh2n7	Setting up remote access on small home servers is hard for non-experts	small offices	implied	2	devops & infra

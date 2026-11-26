@@ -1,0 +1,91 @@
+rd_n2n1khb	SaaS founders struggle most with churn from onboarding drop-off	SaaS founders	implied	3	SMB & back-office
+rd_onsu1is	Marketers can't find in-person sales training courses locally	marketers	implied	2	education & learning
+rd_mowo11u	School uniform enforcement is a nightmare	teachers	none	2	education & learning
+rd_n2m3c2f	Contract redlining is slow without a simple AI assistant	small businesses	implied	3	legal & government
+rd_ojcjpln	Removing OneDrive app data requires recreating user profiles	sysadmins	implied	2	productivity & work
+rd_n24w59i	Accountants chase client docs, fix broken bank feeds and lack workflow tracking	accountants	implied	4	finance & money
+rd_nylut08	Etsy buyers can't tell if a print-on-demand design is stolen	Etsy buyers	implied	3	commerce & marketplaces
+rd_n1w4qbt	Expense line items need auto-categorization without photographing receipts	accountants	implied	3	finance & money
+rd_nuvh5kd	Clunky ERPs make attaching and finding files on orders, parts and shipments awkward	small manufacturers	implied	3	SMB & back-office
+rd_lzkaqkt	Kaseya keeps messing with Datto BCDR billing for MSP customers	MSPs	none	3	devops & infra
+rd_n1v9rv8	Fast-growing startups get lost scaling hiring after funding	startups	implied	4	hiring & careers
+rd_npyzs8r	Patients don't know they can request an audit of who accessed their records	patients	none	2	health & fitness
+rd_n1oz40o	Voice AI agents trip on offbeat queries	businesses	implied	2	AI & ML tooling
+rd_mnxl4fk	Selling homes for friends is a nightmare for realtors	realtors	none	2	consumer & home
+rd_n1ilyvq	Pre-seed founders struggle with fast slides, tailored investor intros and first cold-email sequences	pre-seed founders	implied	3	finance & money
+rd_mna3xec	Finding specialists in Alabama is a nightmare	patients	none	3	health & fitness
+rd_lyrizpu	Finding and retaining cleaning staff is a huge pain	cleaning business owners	none	4	hiring & careers
+rd_n13eg0t	Companies worry about fake expense receipts	finance teams	implied	2	finance & money
+rd_mn4peq2	IP assignment clauses in co-founder deals become a nightmare when things go wrong	founders	none	3	legal & government
+rd_lyr7ux0	Changing your name with the nursing board and everywhere else is a huge pain	nurses	implied	3	legal & government
+rd_n0g3wpt	Coworking spaces need dynamic pricing, bookings and utilization analytics	coworking operators	implied	2	SMB & back-office
+rd_mmf7z6b	Dealing with end users is harder than the actual IT job	sysadmins	none	2	devops & infra
+rd_mlb37dm	Hiring admin staff yields tons of unqualified applicants and no-shows	small businesses	none	4	hiring & careers
+rd_n0fnxxj	New DevOps hires must interview every squad to find process pain points	DevOps engineers	none	2	devops & infra
+rd_mvjwb9b	SaaS founders lack a support group of peers	SaaS founders	implied	2	communication & social
+rd_lwkb970	General ed teachers are burnt out tracking hyper-specific IEP accommodations	teachers	implied	4	education & learning
+rd_lw47m6c	Writing PowerShell from scratch is painful for Python users	sysadmins	none	2	developer tools
+rd_ml08l46	Google API SKUs have technical names that make pricing a nightmare to search	developers	implied	3	developer tools
+rd_lvm34y3	Grasshopper needs manual contact entry and doesn't sync with the CRM	small businesses	implied	3	communication & social
+rd_lv6eob6	Wave has terrible FX handling and a useless cash flow statement	small business owners	none	2	finance & money
+rd_mzmkqop	Construction companies can't find one platform for AR and AP	construction companies	implied	3	finance & money
+rd_mgds3rg	Users want to type text once and paste it into many windows	office workers	implied	1	productivity & work
+rd_mdg4ij1	Small employers get 1000 applicants instead of 10 good ones	small employers	implied	4	hiring & careers
+rd_mkilyrj	Migrating file shares to SharePoint and OneDrive without guidance goes badly	sysadmins	implied	3	productivity & work
+rd_myzpqf7	Creating authentic daily content for every platform is exhausting	founders	implied	4	media & content
+rd_mkehrsi	Healthcare and factory IT network stacks are a nightmare	sysadmins	none	3	devops & infra
+rd_luvpb2j	Lenders ask for the same documents three or four times	homebuyers	none	3	finance & money
+rd_myqigb7	Solo founders get overwhelmed handling customer support	solo founders	implied	3	SMB & back-office
+rd_mk1dzww	Healthcare employers have poor benefits for accountants	accountants	none	2	hiring & careers
+rd_pe016lh	A NetSuite update now auto-submits bank matches, breaking manual reconciliation checks	accountants	none	3	finance & money
+rd_myopppz	SaaS founders drown in support tickets while building	SaaS founders	implied	3	SMB & back-office
+rd_p4hbn94	Microsoft's cloud storage caps and per-user pricing push SMBs toward self-hosting	small businesses	implied	3	devops & infra
+rd_o5dy5nf	Link attribution needs better tooling than shorteners	marketers	implied	2	data & analytics
+rd_ok0sn8n	Pop-up shop permits in coastal towns are a huge pain	seasonal entrepreneurs	implied	3	legal & government
+rd_myf969l	Tax prep AI tools lack accurate document processing	tax preparers	implied	4	AI & ML tooling
+rd_mirl7dv	Regus locks members into payments after locations close	coworking members	none	3	SMB & back-office
+rd_oeu1y4f	Standing out without sounding like a bot is hard in zero-trust online spaces	founders	implied	3	media & content
+rd_my7n8qx	Restaurant owners rarely check shared inboxes, so cold email fails	restaurant tech sellers	none	3	SMB & back-office
+rd_nalcq2x	Buyers can't tell crop-sensor vs full-frame lenses in second-hand markets	photography buyers	implied	2	commerce & marketplaces
+rd_mijrshs	Inspecting fonts with dev tools is a nightmare	designers	implied	2	developer tools
+rd_my5zkzw	Local businesses need an easy way to collect Google reviews and private feedback	local businesses	implied	3	SMB & back-office
+rd_mifa1hv	Peak season and disaster-extended due dates are a nightmare for accountants	accountants	none	3	finance & money
+rd_o7cab04	Finding webmaster contact info at scale is a huge pain	outreach marketers	implied	3	SMB & back-office
+rd_mxmbz15	Founders spend days coding waitlist pages or settle for ugly ones	founders	implied	2	developer tools
+rd_mi98el0	Facebook ads are a nightmare for indie authors	indie authors	none	3	media & content
+rd_nlv3lnq	Pi-hole blocklists need ongoing curation to avoid breaking things	home users	none	2	security & privacy
+rd_mxijjt0	VMware cost is the biggest pain point driving moves to Proxmox	sysadmins	implied	4	devops & infra
+rd_ozmi7df	Some RMM agents fail and need manual restarts	MSPs	none	3	devops & infra
+rd_mi65fbq	Offshoring accounting is a nightmare that never delivers	accounting departments	none	3	finance & money
+rd_mxggw3b	Contract review workflows have time-consuming bottlenecks	legal teams	implied	3	legal & government
+rd_ojg6ui7	Realtors are in a bind when sellers refuse to make legally required disclosures	realtors	none	3	legal & government
+rd_mhfh6k8	Contractors get misclassified by insurers and overpay	contractors	none	3	finance & money
+rd_nln8rc8	Performance reviews are a huge pain point for teams	managers	implied	3	hiring & careers
+rd_mx6sqyb	Indian designers lose a big share of income to cross-border payment platforms	Indian freelancers	implied	4	finance & money
+rd_mhes9de	Central Texas teachers face job cuts and no raises amid high housing costs	teachers	none	3	hiring & careers
+rd_nla92j9	Websites default to English, frustrating non-native speakers	non-native English speakers	implied	2	developer tools
+rd_mx4kt6a	LLM prompts in production are scattered with no versioning or A/B testing	AI developers	implied	4	AI & ML tooling
+rd_mhc7tn9	Outsourced accounting firms are slow to reach	small organizations	none	3	finance & money
+rd_n66jnpx	Legal processes block open-source contributions for months	developers	none	3	legal & government
+rd_mx2lyu7	Auto-documentation tools produce garbage nobody maintains	developers	implied	3	developer tools
+rd_mlszsqw	New nurses can't specialize or get experience	new nurses	implied	3	hiring & careers
+rd_n3drxj4	Getting anything provisioned and firewall rules opened takes an act of God	sysadmins	none	3	devops & infra
+rd_mwulekk	Small business owners need automation of repetitive tasks to reduce errors	small business owners	implied	2	SMB & back-office
+rd_ml8wlpl	Customers are more likely to leave negative than positive reviews	small business owners	implied	3	SMB & back-office
+rd_mgjupvc	Keeping dental matrix rings clean is a nightmare	dentists	none	1	health & fitness
+rd_n0gazr9	Downloading, organizing and typing invoice data kills small business productivity	small businesses	implied	4	finance & money
+rd_mwnzlte	Marketers juggle information across tools and want context-aware paste	marketers	implied	3	productivity & work
+rd_mg7c053	Dealing with Medicaid insurance for home health is a nightmare	home health staff	none	3	health & fitness
+rd_mqdjkt3	Fresh installs of legacy IE6-dependent systems are a huge pain	sysadmins	none	2	devops & infra
+rd_mwex5nh	Legal intake for DUI calls is a big pain point for law firms	law firms	implied	3	legal & government
+rd_mftvhl0	Unsafe nurse ratios put licenses and patients at risk	nurses	none	4	health & fitness
+rd_mobn87p	Single-machine cloud licensing forces deauthorizing when users move	sysadmins	none	3	devops & infra
+rd_muy366e	Makers who love building hate marketing their products	indie makers	implied	3	media & content
+rd_mfnhh72	Over-engineered infrastructure makes early SaaS testing, updating and maintenance a nightmare	SaaS founders	none	2	devops & infra
+rd_munwihc	Small businesses with payroll tools still struggle with customer data, contracts and invoicing	small businesses	implied	3	SMB & back-office
+rd_mfgqgly	Unreliable employees poison small teams	small business owners	none	3	hiring & careers
+rd_mfbrdnr	Handling card payments yourself is a PCI nightmare	developers	none	3	finance & money
+rd_mtqbx8h	Big banks close accounts linked to crypto	small businesses	none	3	finance & money
+rd_mtpnfv7	Invoicing involves repetitive data entry with no view tracking	small businesses	implied	3	finance & money
+rd_meyefcn	Mental health service cuts threaten psychiatric patients	psychiatric case managers	none	4	health & fitness
+rd_msnibzz	Small business owners are drained by licenses, taxes and expenses	small business owners	implied	3	SMB & back-office
