@@ -1,0 +1,69 @@
+rd_p7rgv3z	Small businesses patch together founder-run social and random freelancers for marketing	small businesses	implied	3	media & content
+rd_mn8fgx3	Personal finance apps lack direct bank integration in countries Plaid doesn't support	international consumers	implied	3	finance & money
+rd_mzvkjd6	Consultants and small teams waste hours evaluating RFPs and tenders	consultants and small teams	implied	4	SMB & back-office
+rd_m9unfws	Postpartum nurses chart for up to 8 patients plus fresh admissions	postpartum nurses	none	3	health & fitness
+rd_o8f0jar	Supporting medical technology is a nightmare for MSPs	MSPs	none	3	health & fitness
+rd_o7gkg73	Moving data into a new cheap service isn't worth the hassle or trust risk	consumers	none	2	productivity & work
+rd_p5zteo2	Heavy Tally and Typeform users want a self-hosted form builder	form builder users	implied	2	productivity & work
+rd_nrwjjmr	Restaurants in North Africa still use paper menus and WhatsApp ordering	North African restaurants	implied	3	travel & local
+rd_oip6g08	Founders would pay for outreach execution that doesn't burn domains or rely on shaky data	founders	explicit	4	SMB & back-office
+rd_mler0uv	Small business owners would pay for one-on-one business training	small business owners	explicit	2	education & learning
+rd_mz64fnw	Campaigns stall on asset approvals and version confusion between content, copy and design teams	marketing teams	implied	4	media & content
+rd_o7excth	Using ERPs to track and manipulate data points is a nightmare	accountants	none	3	finance & money
+rd_nrvznaj	Users want a platform with zero data harvesting and would pay for it	consumers	explicit	3	security & privacy
+rd_oiizncw	Product marketers check competitor pricing pages weekly by hand	product marketing teams	implied	3	data & analytics
+rd_o7bd5z6	OneDrive is a nightmare for very large on-prem datasets	sysadmins	none	3	productivity & work
+rd_o4wd1j5	Syncing AD when users exist both locally and cloud-native means matching anchor GUIDs by hand	sysadmins	none	3	devops & infra
+rd_p4z5pyd	Failed subscription payments need automated retries, dunning and card-update reminders	subscription businesses	implied	3	finance & money
+rd_nr8hm2m	Niche physical product makers need to validate buying intent before custom tooling	product makers	implied	3	commerce & marketplaces
+rd_ml2gl5z	Users would only pay for an AI assistant that truly knows them, not model switching	AI users	explicit	3	AI & ML tooling
+rd_my1wc85	Tax pros and M&A teams waste hours digging through IRS rulings and legal texts	tax professionals	implied	4	finance & money
+rd_o6bxtr4	Legacy thick clients only run on Windows with 90s tooling	enterprise IT	none	2	devops & infra
+rd_mxpl99o	Dev teams waste hours on drag-and-drop diagramming	developers	implied	2	developer tools
+rd_o5toctv	Companies with foreign contractors working like employees face misclassification risk	startups	implied	3	legal & government
+rd_p45nnzg	HR gets looped in last during change management	HR teams	none	3	SMB & back-office
+rd_nqtosyi	Teaching businesses struggle with feedback cycles for part-time teachers	education businesses	implied	2	education & learning
+rd_mwbtopi	Teams want meeting recordings turned into process documentation automatically	teams	implied	3	productivity & work
+rd_nyg7aho	DIY device provisioning without Autopilot is a nightmare for MSPs	MSPs	none	3	devops & infra
+rd_o0ggj71	Setting up custom domains for SaaS customers at scale is painful	SaaS developers	implied	3	developer tools
+rd_nqrq6za	STEM students pay for AI tools that explain complex concepts faster	STEM students	explicit	3	education & learning
+rd_ogkhhcf	Founders would pay for marketing that reaches their ICP rather than other marketers	founders	explicit	3	media & content
+rd_mvdbibl	Distributor employees waste hours daily entering purchase orders and updating supplier costs	wholesale distributors	implied	4	SMB & back-office
+rd_m4elazn	Healthcare finance staff handle regulatory reporting that keeps Medicare and Medicaid cash flowing	healthcare finance teams	none	2	health & fitness
+rd_nwjw0nc	Fixing ERP workflows is a nightmare and no issue-free ERP exists	sysadmins	none	3	SMB & back-office
+rd_nzujbis	Facebook makes sharing galleries of high-quality photos a huge pain	photographers	implied	3	media & content
+rd_np66swj	Users won't pay $10 for a tool they'd use only once or twice	consumers	none	2	productivity & work
+rd_p3gwssf	MSPs report poor support from distributor Pax8	MSPs	none	3	devops & infra
+rd_m2y3iy5	Presenters want interactive presentations that engage audiences	presenters	implied	2	productivity & work
+rd_nztqwa4	Freshservice reports and dashboards are limited with a poor API	IT teams	implied	3	devops & infra
+rd_no3w5yt	Consumers want a one-time report of all subscriptions with help canceling	consumers	explicit	3	finance & money
+rd_ofzje9w	Founders would pay for focused outbound that finds interested businesses without spam	founders	explicit	4	SMB & back-office
+rd_meybuln	Founders would pay for a list of real problems with no software solution yet	founders	explicit	3	data & analytics
+rd_muqpp6f	PPC agencies waste hours on tedious campaign setup	PPC agencies	implied	3	media & content
+rd_m0tj3be	Job seekers can't find out beforehand whether management is shady	accountants	implied	3	hiring & careers
+rd_nzilc1y	Small companies struggle with SOC 2, ISO and GDPR compliance without expensive consultants	small companies	implied	4	security & privacy
+rd_mdu6i3d	Founders would pay to find relevant data and get permission to use it	founders	explicit	3	data & analytics
+rd_nrvvg7x	Renaming an AD domain is a nightmare	sysadmins	none	2	devops & infra
+rd_nvpzt28	MSPs track client compliance posture across frameworks	MSPs	none	2	security & privacy
+rd_msbo93r	Mailrooms waste hours logging packages by hand	package handlers	implied	3	SMB & back-office
+rd_m0i7mqu	Dynamics 365 Business Central on-prem vs SaaS docs are confusing	ERP admins	implied	2	SMB & back-office
+rd_nr2ggz2	SharePoint set up wrong leads to permission sprawl	sysadmins	none	3	productivity & work
+rd_p32s12e	Lab compute runs all the time even when it's only needed occasionally	DevOps teams	implied	3	devops & infra
+rd_mrc7xzp	Instagram sellers manually invoice live and story sales and chase payments	Instagram sellers	implied	4	commerce & marketplaces
+rd_nnxdqe6	Non-EU visa processes are a nightmare for IT workers moving to Germany	IT professionals	none	3	hiring & careers
+rd_p2tqssi	Aesthetic clinics are underserved by software for billing, compliance and booking	aesthetic clinics	implied	3	health & fitness
+rd_ofho7gz	Delivery drivers deal with constant frustrations	gig drivers	implied	2	travel & local
+rd_mdoo3iz	People would pay for twice-monthly house cleaning	households	explicit	2	consumer & home
+rd_19szsly27wx6s	Accounting subreddit users want AI to block repetitive posts	accountants	implied	2	communication & social
+rd_md8crrx	Photographers need a NAS, cloud backup and metadata workflow for a photo archive	photographers	explicit	2	media & content
+rd_mpwst2u	Dell Trusted Device won't install through any method	sysadmins	none	2	devops & infra
+rd_ngklee5	Taking call in a nursing facility is a nightmare that burns nurses out	nurses	none	3	health & fitness
+rd_nvihqov	Bluebeam discontinued its iPad app that field teams relied on	construction field teams	implied	4	SMB & back-office
+rd_p1hgy51	Overleaf's 100-page limit is a big pain point	academic writers	implied	3	education & learning
+rd_mcxvuuq	Buyers would pay for tools that actually work rather than ChatGPT wrappers	founders	explicit	2	AI & ML tooling
+rd_19s37p3orgcxs	Users lost backend document access after moving to the cloud	IT teams	implied	3	productivity & work
+rd_nb51te2	Teams question whether Hyper-V is worth switching to from VMware	sysadmins	implied	3	devops & infra
+rd_nuxo9fe	Intuit updates break QuickBooks features like Outlook invoice emailing	MSPs	none	3	finance & money
+rd_mpdg0iu	Owners hate wasting hours going into bank branches	small business owners	implied	3	finance & money
+rd_phb23a8	The AGPL doesn't address gaps AI introduces	open source developers	implied	2	legal & government
+rd_nislhbq	Small businesses need automation tools, workflow management and niche CRMs	small businesses	none	2	SMB & back-office
