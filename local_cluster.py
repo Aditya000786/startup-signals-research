@@ -3,6 +3,8 @@
 Same output format as synthesize.py's clustering step (data/clusters.json), so the
 API-based idea-card step, or a hand-written one, can run on top of it.
 
+Only strong signals are clustered (see strong(); --all-signals for every one).
+
 Method: embed each problem sentence with a small local model (BAAI/bge-small-en-v1.5
 via fastembed, ~130MB, downloaded once from Hugging Face; falls back to TF-IDF if
 fastembed is missing), then agglomerative clustering with cosine distance and
@@ -30,6 +32,14 @@ NOISE = {"users", "user", "people", "want", "wants", "would", "pay", "need", "ne
 STOP = list(ENGLISH_STOP_WORDS | NOISE)
 
 
+def strong(s):
+    """Tightened rule: a signal shapes ideas only if the pain is high (intensity 4-5) or it
+    is real pain (3) that also carries a willingness-to-pay signal. Weak signals (venting,
+    one-off annoyances, 'someone should make...') stay in signals.jsonl and on the raw-signals
+    page, but no longer create clusters or inflate idea scores."""
+    return s["intensity"] >= 4 or (s["intensity"] >= 3 and s["pay"] != "none")
+
+
 def score(members, sig, com):
     """Identical to synthesize.score: distinct authors, pay, pain, recency, year spread."""
     authors = {com[m]["author"] for m in members}
@@ -50,11 +60,14 @@ def main():
                     help="cosine distance cut-off, lower = tighter (default 0.25 embeddings, 0.8 TF-IDF)")
     ap.add_argument("--tfidf", action="store_true", help="skip embeddings, cluster on TF-IDF")
     ap.add_argument("--min-authors", type=int, default=3)
+    ap.add_argument("--all-signals", action="store_true",
+                    help="cluster every signal; by default only strong ones (see strong())")
     a = ap.parse_args()
 
     com = {c["id"]: c for c in map(json.loads, (DATA / "comments.jsonl").open())}
     sig = {s["id"]: s for s in map(json.loads, (DATA / "signals.jsonl").open()) if s.get("is_signal") and s["id"] in com}
-    ids = list(sig)
+    ids = [i for i in sig if a.all_signals or strong(sig[i])]
+    print(f"{len(ids)} of {len(sig)} signals are strong enough to cluster" if not a.all_signals else "")
     texts = [sig[i]["problem"] for i in ids]
     print(f"{len(ids)} signals")
 

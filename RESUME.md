@@ -1,19 +1,40 @@
 # Status and how to resume
 
-_Last updated: 2026-11-20._
+_Last updated: 2026-11-27._
 
 ## Where things stand
 
 | Stage | Status |
 |---|---|
-| 1. Fetch (`fetch.py`) | Done. 38,273 comments from 37 search phrases, 2007-2026, in `data/comments.jsonl.gz` |
-| 2. Extract (`ralph.py`, Pro-only) | **212 of 256 chunks done.** 23,012 signals in `data/signals.jsonl` |
-| 3a. Cluster (`local_cluster.py`) | Re-run on the 23,012 signals: 2,491 clusters of 3+ commenters |
-| 3b. Idea cards (`cards.json` + `make_ideas.py`) | 36 hand-written cards covering 44 clusters, plus 40 draft clusters with no card yet |
-| 4. Site (`build_site.py`) | Built: `site/index.html` (ideas) and `site/signals.html` (raw signals and rejected comments) |
+| 1. Fetch (`fetch.py`, `fetch_reddit.py`) | Done. HN: 38,273 comments, 2007-2026. Reddit: all 28 subreddits since 2024-11-01 (16.8M scanned, 11,261 kept) |
+| 2. Extract (`ralph.py`, Pro-only) | **289 of 332 chunks done** (all Reddit chunks; 43 older HN chunks unread). 27,728 signals in `data/signals.jsonl` |
+| 3a. Cluster (`local_cluster.py`) | Strong signals only (12,189 of 27,728): 1,263 clusters of 3+ commenters |
+| 3b. Idea cards (`cards.json` + `make_ideas.py`) | Every listed cluster reviewed: **42 idea cards**, **618 rejected themes** (with reason and what exists today), **0 drafts** |
+| 4. Site (`build_site.py`) | Built: `site/index.html` (ideas, plus "Show rejected") and `site/signals.html` (raw signals and rejected comments) |
 
 All of this runs with no Anthropic API key. Claude does the reading in a Claude
 Code session (Pro plan), and clustering uses a small local embedding model.
+
+## Tightened rules (2026-11-27), aimed at unique products
+
+1. **Only strong signals shape ideas.** `local_cluster.strong()`: intensity 4-5, or
+   intensity 3 with a pay signal. Weak ones (venting, one-off annoyances, "someone should
+   make...") stay in `signals.jsonl` and on the raw-signals page but create no clusters.
+   `--all-signals` restores the old behaviour.
+2. **A draft must clear a bar.** HN-only clusters need 5+ distinct commenters
+   (`make_ideas.py --min-draft-authors`). Reddit clusters always show until reviewed.
+3. **Every theme gets a verdict, not a draft.** A reviewer (Claude) gives each cluster one of:
+   - **card**: a specific, buildable product with a clear gap against what exists. Each
+     card must fill `exists_today` (named products, and why they fall short). Older cards
+     call this field `alternatives`, and `make_ideas.py` reads either.
+   - **merge**: add the cluster's strongest member ids to an existing card's `anchor_ids`.
+   - **reject**: a `cards.json` entry with `"status": "rejected"`, `reject_kind`
+     (`exists`, `commodity`, `not_product`, `vague`, `niche`), `reject_reason` and
+     `exists_today`. It claims its clusters like a card does, so they never return as drafts.
+4. **For the remaining extraction chunks:** only record a signal if it names who has the
+   problem and a concrete workflow or a named product that falls short. Keep
+   `pay=explicit` for an actual price or a clear commitment. Score policy and regulation
+   complaints, and pure venting, intensity 1-2.
 
 ## Quality check, read this first
 

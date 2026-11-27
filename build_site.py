@@ -43,7 +43,7 @@ def main():
 
     idea_of = {}
     for x in ideas:
-        if not x.get("draft"):
+        if not x.get("draft") and not x.get("rejected"):
             for m in x.get("sources", []):
                 idea_of.setdefault(m, x["name"])
     for i, x in enumerate(ideas):
@@ -67,8 +67,9 @@ def main():
         rows.append(r)
 
     OUT.mkdir(exist_ok=True)
-    cards = sum(not x.get("draft") for x in ideas)
-    meta = {"note": f"{note} {cards} idea cards, {len(ideas) - cards} draft clusters. Built {time.strftime('%Y-%m-%d')}."}
+    nd, nr = sum(bool(x.get("draft")) for x in ideas), sum(bool(x.get("rejected")) for x in ideas)
+    parts = [f"{len(ideas) - nd - nr} idea cards", f"{nr} rejected themes"] + ([f"{nd} drafts"] if nd else [])
+    meta = {"note": f"{note} {', '.join(parts)}. Built {time.strftime('%Y-%m-%d')}."}
     (OUT / "index.html").write_text(embed("site_template.html", IDEAS=ideas, META=meta))
     (OUT / "signals.html").write_text(embed("signals_template.html", ROWS=rows, META=meta))
     print(f"{len(ideas)} ideas -> {OUT/'index.html'}; {len(rows)} comments -> {OUT/'signals.html'}")
