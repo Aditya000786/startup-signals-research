@@ -1,0 +1,15 @@
+5327413	Installing and updating vim plugins across 5 machines by hand is a huge pain	developers on multiple machines	none	2	developer tools
+6508045	Teams have no good way to share passwords; they resort to unlogged chat or one-time links	small teams sharing credentials	implied	3	security
+7326690	Would pay upfront for a Gmail 'waiting for reply' tab that tracks sent emails awaiting responses	Gmail power users	explicit	4	productivity
+1539881	Major Postgres version upgrades require a full dump and restore of all data	Postgres operators	none	3	developer tools
+7364097	Bluetooth item trackers like TrackR have a nightmare wireless setup process	tracker buyers	none	2	hardware
+7583496	Would pay for structured web data scraping without writing scrapers	analysts / developers needing web data	implied	3	data
+4879593	Bike theft is rampant because there is no good way to track stolen bikes; would buy a tracker instantly	cyclists	implied	4	hardware
+4733789	Travelers in Japan struggle to find ATMs that accept foreign cards	foreign travelers in Japan	none	2	fintech
+3305510	Wants a tool that continuously verifies all my domains are still registered to my account	domain owners	implied	3	security
+3977477	Would pay for a pricing guide for creative/technical freelance work	freelancers	implied	3	marketplaces
+3840472	Always finds out about coding contests too late; wants a calendar/aggregator for them	competitive programmers	implied	2	developer tools
+3901444	Wants SaaS spend tracking without granting a service read access to all email	small businesses	implied	3	fintech
+1716782	Would pay for Netflix-style personalized recommendations for movies in theaters	moviegoers	implied	2	media
+3981142	Searching film availability across iTunes, Netflix and other libraries one by one is a huge pain	streaming viewers	implied	3	media
+3179140	Indie game developers and fans lack an iTunes-style storefront for indie games	indie game fans	implied	2	games

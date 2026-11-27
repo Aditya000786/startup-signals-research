@@ -1,0 +1,15 @@
+4371802	Wants to open GitHub pull requests from the git command line without the web UI	developers using GitHub	implied	2	developer tools
+9928389	Running 1100 nightly Selenium/PhantomJS tests is unreliable and a mess to maintain	QA/test engineers	none	3	developer tools
+1483708	Small businesses won't pay $100/mo for finance dashboards on top of QuickBooks	small business owners	explicit	3	fintech
+9004618	Wants one place to fund many critical open-source projects (Patreon for open source)	OSS supporters	implied	3	developer tools
+4758274	Graphite is a huge pain to set up just to graph statsd metrics	developers adding metrics	implied	3	developer tools
+1757166	Startups re-enter the same details for every press/launch site; wants a common app for coverage submissions	startup founders	implied	3	marketing
+6693284	Coding HTML emails that render everywhere is a nightmare	email developers/marketers	implied	3	marketing
+3682925	Wants an Excel-like front end for what-if modeling backed by a real database	analysts / modelers	implied	3	productivity
+1906415	Bank websites don't let customers track direct debits and recurring payments in one place	people setting up a new household	implied	3	fintech
+3002516	Pianists can't turn sheet music pages hands-free; wants auto page turning from audio	musicians	implied	3	music
+215658	Struggles for days every holiday to find gift ideas; gift recommenders suck	gift buyers	implied	2	consumer services
+5298975	Would pay for alerts on vulnerabilities in my dependencies but can't grant access to private repos	Ruby/web developers	implied	3	security
+7919300	Students' laundry machines take only quarters with no change machine nearby	college students in apartments	implied	2	consumer services
+2557004	Organizing plans with a group of friends means messaging 25 people one by one	friend groups	none	2	social
+1839913	Founders would pay for an expert review of their landing page messaging with slides of feedback	early-stage founders	implied	3	marketing

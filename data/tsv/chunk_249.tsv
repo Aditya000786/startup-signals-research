@@ -1,0 +1,14 @@
+8385991	Wants an Airtable-style spreadsheet front end on top of an existing MySQL database	teams with MySQL data	implied	3	productivity
+8649900	Large mail providers mark legit mail as spam; getting any self-run mail system delivered is a nightmare	people running their own mail	none	3	communications
+10007755	Working with git subrepos/submodules in monorepo setups is a nightmare	developers in multi-repo codebases	none	3	developer tools
+4209759	UK-based developers struggle to find workable recurring billing providers	UK SaaS founders	implied	3	fintech
+863364	Would pay for affordable human comment moderation to catch spam Akismet misses	bloggers	implied	3	media
+2942750	Heroku Postgres lacks basic support for browsing data	Heroku developers	implied	3	developer tools
+5326615	Front-end devs want to break on a DOM element and see a stack trace whenever it is modified	web developers	none	2	developer tools
+1559978	Would pay for a one-click 'convert to task' button from Gmail into Things	Things/Gmail users	implied	3	productivity
+2383792	Coupon sites like CouponMom have great data but are a nightmare to use, especially on mobile	coupon-clipping shoppers	none	3	consumer services
+7350692	Writing and publishing journal articles lacks a modern authoring/publishing platform	academic authors	implied	3	research tools
+7358357	Would happily pay $9.99 on the App Store for f.lux	f.lux users	explicit	2	productivity
+4486704	Switching billing systems is a nightmare, so SaaS companies are locked in even after their provider loses card data	SaaS companies	none	4	fintech
+4536159	No trustworthy second-hand marketplace exists for selling diamonds	diamond owners	implied	3	commerce
+7555135	Code review for publicly hosted software is ripe for a better tool	developers doing code review	none	2	developer tools
