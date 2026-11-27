@@ -1,0 +1,26 @@
+rd_19spwb4agozoj	Tenant-to-tenant Office 365 migration tools cost ~$20/user and still miss settings that Graph/PowerShell could carry	sysadmins	explicit	3	devops & infra
+rd_19supc5zp9rb8	No tool to compose cloud-init "task sequences" for Linux deployment like MDT/OSD on Windows	sysadmins	implied	3	devops & infra
+rd_o57un7o	Behavior referral systems that auto-generate per-student statistics and patterns are rare and valued	teachers	none	2	education & learning
+rd_pbfp94u	Lapsed nurses want a refresher course before retaking the NCLEX	nurses returning to practice	explicit	3	education & learning
+rd_op32uxx	Nurses can't get kitchen or PT/OT issues fixed off-hours; patients wait until the next day	hospital nurses	none	3	health & fitness
+rd_ow2gykx	Nurse CE platforms are hard to navigate and don't keep certificates organized	nurses	explicit	4	health & fitness
+rd_p054bg5	Hospital call-light intercoms are so poor patients can't tell if they were understood	hospital patients	none	3	health & fitness
+rd_p531tpi	Teachers track student interventions in giant spreadsheets; need a quick-entry log	teachers	none	3	education & learning
+rd_oozi4v9	Teachers with no provided curriculum must build all their own materials	teachers	none	3	education & learning
+rd_pefa43l	Gloves and code buttons sit in different places in every room; OR rooms lack an inside sign	nurses	none	3	health & fitness
+rd_19roshq1vxpuq	Teachers told to write their own curriculum waste hours of free time daily	teachers	none	4	education & learning
+rd_nuk9pu6	Spreadsheet-style gradebooks make it easy to enter grades in the wrong student's row	teachers	none	3	education & learning
+rd_ohgpuhr	Kahoot moved reports behind a paywall aimed at districts, shutting out individual teachers	teachers	explicit	3	education & learning
+rd_np10fdi	Districts with set standards still don't provide a day-by-day lesson plan database	teachers	none	3	education & learning
+rd_p93ggl3	Nurses can't easily track when attendance occurrences drop off their record	hospital nurses	implied	3	hiring & careers
+rd_oyv4m5o	Teachers juggle a giant spreadsheet to rotate positive parent contacts through every student	teachers	none	2	education & learning
+rd_on3bwdy	Field-trip documentation and parent communication is a nightmare for scout leaders	youth group leaders	none	3	education & learning
+rd_p9at5b5	Nurses job hunting want an expert resume review	nurses	explicit	3	hiring & careers
+rd_19s3r21zccgm9	Nurses waste hours on paperwork for non-epileptic seizure events	nurses	none	2	health & fitness
+rd_otzpgcn	Nurses have no app for shift swapping; unclear if it's a tech or policy barrier	nurses	implied	3	hiring & careers
+rd_p2jxtnf	Teachers will pay for ready-made emergency sub plans when they can't plan	teachers	explicit	3	education & learning
+rd_obnumey	Parents can't find therapists who take their insurance and have openings	parents	none	4	health & fitness
+rd_o2l3uph	Niche-subject teachers (e.g. fashion) find few ready resources beyond one Facebook group	teachers	explicit	3	education & learning
+rd_p5wmji5	Teacher sunshine committees collect cash manually for staff gifts	teachers	explicit	2	education & learning
+rd_peq86rh	No good way to explain standards-based grading to parents	teachers	none	3	education & learning
+rd_ocj2ag7	EHRs make missed documentation obvious only to the next nurse, not in real time	nurses	none	2	health & fitness
