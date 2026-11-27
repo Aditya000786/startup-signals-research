@@ -143,12 +143,12 @@
     "scanned": 32
    },
    {
-    "cursor": 1795768066,
-    "done": false,
+    "cursor": 1795770946,
+    "done": true,
     "hi": 1795770946,
     "kept": 0,
     "lo": 1795768066,
-    "scanned": 0
+    "scanned": 27
    },
    {
     "cursor": 1795773825,
@@ -261,68 +261,68 @@
   "scanned": 2039200,
   "shards": [
    {
-    "cursor": 1773369379,
+    "cursor": 1773488451,
     "done": false,
     "hi": 1776041843,
     "kept": 4,
     "lo": 1773222166,
-    "scanned": 8500
+    "scanned": 12800
    },
    {
-    "cursor": 1776259957,
+    "cursor": 1776382112,
     "done": false,
     "hi": 1778861520,
-    "kept": 3,
+    "kept": 4,
     "lo": 1776041842,
-    "scanned": 8400
+    "scanned": 15100
    },
    {
-    "cursor": 1778988340,
+    "cursor": 1779155168,
     "done": false,
     "hi": 1781681197,
-    "kept": 3,
+    "kept": 5,
     "lo": 1778861519,
-    "scanned": 8200
+    "scanned": 16500
    },
    {
-    "cursor": 1781906139,
+    "cursor": 1782158277,
     "done": false,
     "hi": 1784500874,
-    "kept": 3,
+    "kept": 5,
     "lo": 1781681196,
-    "scanned": 10500
+    "scanned": 18000
    },
    {
-    "cursor": 1784676531,
+    "cursor": 1784840029,
     "done": false,
     "hi": 1787320551,
-    "kept": 4,
+    "kept": 5,
     "lo": 1784500873,
-    "scanned": 6000
+    "scanned": 12500
    },
    {
-    "cursor": 1787424563,
+    "cursor": 1787525333,
     "done": false,
     "hi": 1790140228,
-    "kept": 4,
+    "kept": 8,
     "lo": 1787320550,
-    "scanned": 4400
+    "scanned": 10700
    },
    {
-    "cursor": 1790140227,
+    "cursor": 1790340051,
     "done": false,
     "hi": 1792959905,
-    "kept": 0,
+    "kept": 4,
     "lo": 1790140227,
-    "scanned": 0
+    "scanned": 6800
    },
    {
-    "cursor": 1792959904,
+    "cursor": 1792967880,
     "done": false,
     "hi": 1795779586,
     "kept": 0,
     "lo": 1792959904,
-    "scanned": 0
+    "scanned": 300
    }
   ],
   "since": 1730419200
