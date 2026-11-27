@@ -109,6 +109,72 @@
   "done": false,
   "kept": 778,
   "scanned": 2240900,
+  "shards": [
+   {
+    "cursor": 1795756551,
+    "done": false,
+    "hi": 1795759430,
+    "kept": 0,
+    "lo": 1795756551,
+    "scanned": 0
+   },
+   {
+    "cursor": 1795759429,
+    "done": false,
+    "hi": 1795762309,
+    "kept": 0,
+    "lo": 1795759429,
+    "scanned": 0
+   },
+   {
+    "cursor": 1795762308,
+    "done": false,
+    "hi": 1795765188,
+    "kept": 0,
+    "lo": 1795762308,
+    "scanned": 0
+   },
+   {
+    "cursor": 1795765187,
+    "done": false,
+    "hi": 1795768067,
+    "kept": 0,
+    "lo": 1795765187,
+    "scanned": 0
+   },
+   {
+    "cursor": 1795768066,
+    "done": false,
+    "hi": 1795770946,
+    "kept": 0,
+    "lo": 1795768066,
+    "scanned": 0
+   },
+   {
+    "cursor": 1795770945,
+    "done": false,
+    "hi": 1795773825,
+    "kept": 0,
+    "lo": 1795770945,
+    "scanned": 0
+   },
+   {
+    "cursor": 1795773824,
+    "done": false,
+    "hi": 1795776704,
+    "kept": 0,
+    "lo": 1795773824,
+    "scanned": 0
+   },
+   {
+    "cursor": 1795779586,
+    "done": true,
+    "hi": 1795779586,
+    "kept": 0,
+    "lo": 1795776703,
+    "scanned": 10
+   }
+  ],
   "since": 1730419200
  },
  "photography": {
@@ -193,6 +259,72 @@
   "done": false,
   "kept": 724,
   "scanned": 2039200,
+  "shards": [
+   {
+    "cursor": 1773222166,
+    "done": false,
+    "hi": 1776041843,
+    "kept": 0,
+    "lo": 1773222166,
+    "scanned": 0
+   },
+   {
+    "cursor": 1776041842,
+    "done": false,
+    "hi": 1778861520,
+    "kept": 0,
+    "lo": 1776041842,
+    "scanned": 0
+   },
+   {
+    "cursor": 1778861519,
+    "done": false,
+    "hi": 1781681197,
+    "kept": 0,
+    "lo": 1778861519,
+    "scanned": 0
+   },
+   {
+    "cursor": 1781681196,
+    "done": false,
+    "hi": 1784500874,
+    "kept": 0,
+    "lo": 1781681196,
+    "scanned": 0
+   },
+   {
+    "cursor": 1784500873,
+    "done": false,
+    "hi": 1787320551,
+    "kept": 0,
+    "lo": 1784500873,
+    "scanned": 0
+   },
+   {
+    "cursor": 1787320550,
+    "done": false,
+    "hi": 1790140228,
+    "kept": 0,
+    "lo": 1787320550,
+    "scanned": 0
+   },
+   {
+    "cursor": 1790140227,
+    "done": false,
+    "hi": 1792959905,
+    "kept": 0,
+    "lo": 1790140227,
+    "scanned": 0
+   },
+   {
+    "cursor": 1792959904,
+    "done": false,
+    "hi": 1795779586,
+    "kept": 0,
+    "lo": 1792959904,
+    "scanned": 0
+   }
+  ],
   "since": 1730419200
  }
 }
