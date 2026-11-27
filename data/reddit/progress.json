@@ -105,76 +105,10 @@
   "since": 1730419200
  },
  "nursing": {
-  "cursor": 1795756551,
-  "done": false,
+  "cursor": 1795779586,
+  "done": true,
   "kept": 778,
-  "scanned": 2240900,
-  "shards": [
-   {
-    "cursor": 1795759430,
-    "done": true,
-    "hi": 1795759430,
-    "kept": 0,
-    "lo": 1795756551,
-    "scanned": 53
-   },
-   {
-    "cursor": 1795762309,
-    "done": true,
-    "hi": 1795762309,
-    "kept": 0,
-    "lo": 1795759429,
-    "scanned": 65
-   },
-   {
-    "cursor": 1795765188,
-    "done": true,
-    "hi": 1795765188,
-    "kept": 0,
-    "lo": 1795762308,
-    "scanned": 46
-   },
-   {
-    "cursor": 1795768067,
-    "done": true,
-    "hi": 1795768067,
-    "kept": 0,
-    "lo": 1795765187,
-    "scanned": 32
-   },
-   {
-    "cursor": 1795770946,
-    "done": true,
-    "hi": 1795770946,
-    "kept": 0,
-    "lo": 1795768066,
-    "scanned": 27
-   },
-   {
-    "cursor": 1795773825,
-    "done": true,
-    "hi": 1795773825,
-    "kept": 0,
-    "lo": 1795770945,
-    "scanned": 20
-   },
-   {
-    "cursor": 1795776704,
-    "done": true,
-    "hi": 1795776704,
-    "kept": 0,
-    "lo": 1795773824,
-    "scanned": 16
-   },
-   {
-    "cursor": 1795779586,
-    "done": true,
-    "hi": 1795779586,
-    "kept": 0,
-    "lo": 1795776703,
-    "scanned": 10
-   }
-  ],
+  "scanned": 2241169,
   "since": 1730419200
  },
  "photography": {
@@ -255,76 +189,10 @@
   "since": 1730419200
  },
  "teachers": {
-  "cursor": 1773222166,
-  "done": false,
-  "kept": 724,
-  "scanned": 2039200,
-  "shards": [
-   {
-    "cursor": 1776041843,
-    "done": true,
-    "hi": 1776041843,
-    "kept": 67,
-    "lo": 1773222166,
-    "scanned": 125708
-   },
-   {
-    "cursor": 1778861520,
-    "done": true,
-    "hi": 1778861520,
-    "kept": 47,
-    "lo": 1776041842,
-    "scanned": 141106
-   },
-   {
-    "cursor": 1781663751,
-    "done": false,
-    "hi": 1781681197,
-    "kept": 53,
-    "lo": 1778861519,
-    "scanned": 140200
-   },
-   {
-    "cursor": 1784500874,
-    "done": true,
-    "hi": 1784500874,
-    "kept": 35,
-    "lo": 1781681196,
-    "scanned": 96459
-   },
-   {
-    "cursor": 1787320551,
-    "done": true,
-    "hi": 1787320551,
-    "kept": 46,
-    "lo": 1784500873,
-    "scanned": 119482
-   },
-   {
-    "cursor": 1790140228,
-    "done": true,
-    "hi": 1790140228,
-    "kept": 51,
-    "lo": 1787320550,
-    "scanned": 125828
-   },
-   {
-    "cursor": 1792959905,
-    "done": true,
-    "hi": 1792959905,
-    "kept": 56,
-    "lo": 1790140227,
-    "scanned": 109947
-   },
-   {
-    "cursor": 1795779586,
-    "done": true,
-    "hi": 1795779586,
-    "kept": 32,
-    "lo": 1792959904,
-    "scanned": 88079
-   }
-  ],
+  "cursor": 1795779586,
+  "done": true,
+  "kept": 1111,
+  "scanned": 2986583,
   "since": 1730419200
  }
 }
