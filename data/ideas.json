@@ -157,12 +157,13 @@
   "risks": "Platform owners (Apple, Google, carriers) are building this in. Call-recording consent laws vary by state and country. Voice-model costs grow with call minutes.",
   "verdict_score": 6,
   "exists_today": "Google Pixel Call Screen (Pixel only, basic), Apple's Live Voicemail, carrier spam filters, RoboKiller and Hiya. Commenters find these either inaccurate or limited to labelling.",
-  "cluster": "ai, scammers time, voice, scammers + whisper, motivational, let businesses, live human + spam, small, calls, small businesses + calls, turn, fiddly, contractors",
+  "cluster": "ai, scammers time, voice, scammers + whisper, motivational, let businesses, live human + spam, small, calls, small businesses + calls, fiddly, missed, tradespeople",
   "category": "communication & social",
-  "signal_score": 25.18,
-  "authors": 22,
+  "signal_score": 25.65,
+  "authors": 23,
   "years": [
    2009,
+   2014,
    2019,
    2021,
    2022,
@@ -171,9 +172,9 @@
    2025,
    2026
   ],
-  "pay_signals": 20.0,
-  "avg_intensity": 3.23,
-  "mentions": 22,
+  "pay_signals": 20.5,
+  "avg_intensity": 3.22,
+  "mentions": 23,
   "quotes": [
    {
     "id": "42160034",
@@ -228,6 +229,7 @@
    "44045349",
    "45096529",
    "46046631",
+   "7329633",
    "791352",
    "rd_19t74fv5a6xs0",
    "rd_mm2t1ag",
@@ -322,10 +324,10 @@
   "risks": "Kagi already serves much of this audience. Building and maintaining an index is expensive, and a narrow index produces visible misses.",
   "verdict_score": 5,
   "exists_today": "Kagi (lenses, paid, mentioned approvingly), Perplexity and Phind (AI answers), and DuckDuckGo. Commenters say general engines can't get rid of spam because ad incentives work against it.",
-  "cluster": "search, search engine, engine, ad + results, search, search results, sites + search, search engine, engine, engine dedicated + ai, slop, ai ad, filter ai + search, 10, unlimited, ad search + search, search engines, engines, text + seo, seo spam, spam, search + ad, premium, ad google, google + search, query, literal, search literal",
+  "cluster": "search, search engine, engine, ad + ad, sites, ad google, google + results, search, search results, sites + search, search engine, engine, engine dedicated + ai, slop, ai ad, filter ai + search, 10, unlimited, ad search + search, search engines, engines, text + seo, seo spam, spam, search + search, query, literal, search literal",
   "category": "consumer & home",
-  "signal_score": 34.97,
-  "authors": 128,
+  "signal_score": 35.35,
+  "authors": 136,
   "years": [
    2010,
    2011,
@@ -344,9 +346,9 @@
    2025,
    2026
   ],
-  "pay_signals": 108.5,
-  "avg_intensity": 3.3,
-  "mentions": 134,
+  "pay_signals": 116.5,
+  "avg_intensity": 3.29,
+  "mentions": 143,
   "quotes": [
    {
     "id": "22848670",
@@ -390,8 +392,10 @@
    }
   ],
   "sources": [
+   "10041674",
    "10245601",
    "10889867",
+   "12861334",
    "13961975",
    "14222555",
    "14522364",
@@ -402,6 +406,7 @@
    "16155151",
    "18227455",
    "18438537",
+   "18648051",
    "18743839",
    "18800605",
    "19071760",
@@ -420,6 +425,7 @@
    "22507230",
    "22848670",
    "23028239",
+   "23107430",
    "23276858",
    "23335700",
    "23385283",
@@ -483,6 +489,7 @@
    "35079013",
    "35079116",
    "35086515",
+   "35100969",
    "35129104",
    "35342323",
    "35545454",
@@ -497,6 +504,8 @@
    "37560389",
    "37604475",
    "38045031",
+   "38102125",
+   "38764086",
    "3907362",
    "39126384",
    "39295145",
@@ -509,8 +518,10 @@
    "44107379",
    "4569422",
    "45998704",
+   "4607622",
    "46449313",
    "46859761",
+   "4773292",
    "48181111",
    "48275460",
    "48300313",
@@ -539,10 +550,10 @@
   "risks": "The classic 'I would pay' gap between stated and actual payment. Keeping up with web platform engines costs a lot, and forks drift behind security fixes.",
   "verdict_score": 4,
   "exists_today": "Orion (Kagi), Vivaldi, Brave (distrusted for its crypto and ads), LibreWolf and Mullvad Browser (free, small teams). Several commenters say they would pay but 'nobody will take my money'.",
-  "cluster": "browser, privacy, ad, blocks + firefox, paid firefox, paid, pocket + sites, ads, micropayments, ad + ads, remove ads, remove, removes ads + browser, power, focused, focused browser + mozilla, browser, independent, sponsored content + 10, firefox, ad subscription, ad",
-  "category": "media & content",
-  "signal_score": 34.41,
-  "authors": 103,
+  "cluster": "browser, privacy, ad, email + firefox, paid firefox, paid, pocket + ads, micropayments, sites, seeing ads + ads, remove ads, remove, removes ads + browser, power, focused, focused browser + mozilla, browser, independent, sponsored content + 10, firefox, ad subscription, 10 ad",
+  "category": "security & privacy",
+  "signal_score": 34.07,
+  "authors": 97,
   "years": [
    2007,
    2009,
@@ -562,9 +573,9 @@
    2025,
    2026
   ],
-  "pay_signals": 94.0,
-  "avg_intensity": 3.08,
-  "mentions": 103,
+  "pay_signals": 89.0,
+  "avg_intensity": 3.07,
+  "mentions": 97,
   "quotes": [
    {
     "id": "45369141",
@@ -609,7 +620,6 @@
   ],
   "sources": [
    "10000161",
-   "10041674",
    "10042162",
    "10185874",
    "10273452",
@@ -617,7 +627,6 @@
    "11456010",
    "11914932",
    "12127524",
-   "12861334",
    "14096346",
    "15592626",
    "15942106",
@@ -625,7 +634,6 @@
    "17015437",
    "17721976",
    "18099608",
-   "18648051",
    "18749687",
    "19554199",
    "20147688",
@@ -653,7 +661,6 @@
    "26997583",
    "27065437",
    "27170908",
-   "27327991",
    "27465372",
    "27620453",
    "28110433",
@@ -662,6 +669,7 @@
    "28803723",
    "30641443",
    "31091341",
+   "31412524",
    "32128002",
    "33156269",
    "33559680",
@@ -672,9 +680,7 @@
    "36363706",
    "37282177",
    "37947906",
-   "38102125",
    "38727788",
-   "38764086",
    "40906770",
    "40955144",
    "40975807",
@@ -695,7 +701,6 @@
    "44549376",
    "45129269",
    "45369141",
-   "4607622",
    "46120729",
    "46299371",
    "46300455",
@@ -866,10 +871,10 @@
   "risks": "A two-sided cold start. Top publishers protect their subscription bundles. A long list of failed predecessors.",
   "verdict_score": 4,
   "exists_today": "Blendle and Scroll (both shut down), Apple News+, Inkl, Particle, Google Contributor (discontinued). Commenters say big publishers refuse to unbundle.",
-  "cluster": "article, readers, micropayments, cents + news, subscription, readers, bundle + readers, ad, subscription, news + netflix, netflix style, subscription, style + subscription, websites, content, bundle + micropayments, micropayment, low, low fee + journalism, investigative, rigorous, centrally + publishers, directly, let readers, digital cash",
+  "cluster": "article, readers, micropayments, cents + news, readers, subscription, readers news + readers, ad, subscription, news + netflix, netflix style, subscription, style + subscription, websites, content, bundle + micropayments, micropayment, low, low fee + journalism, investigative, rigorous, centrally + publishers, directly, let readers, digital cash",
   "category": "media & content",
-  "signal_score": 34.41,
-  "authors": 117,
+  "signal_score": 34.66,
+  "authors": 124,
   "years": [
    2009,
    2012,
@@ -887,9 +892,9 @@
    2025,
    2026
   ],
-  "pay_signals": 111.0,
-  "avg_intensity": 3.33,
-  "mentions": 120,
+  "pay_signals": 116.5,
+  "avg_intensity": 3.31,
+  "mentions": 127,
   "quotes": [
    {
     "id": "16571750",
@@ -943,6 +948,8 @@
    "11926680",
    "12772465",
    "13004236",
+   "13094006",
+   "13103858",
    "13333255",
    "13405878",
    "13621757",
@@ -972,6 +979,7 @@
    "18446234",
    "18567819",
    "18717257",
+   "18886536",
    "19019717",
    "19052336",
    "19149441",
@@ -995,8 +1003,10 @@
    "23036212",
    "23239547",
    "23480130",
+   "23712655",
    "23771394",
    "24007080",
+   "24265935",
    "25441953",
    "25563661",
    "25640894",
@@ -1004,6 +1014,7 @@
    "26867439",
    "27802541",
    "27876198",
+   "27908392",
    "28605476",
    "28638672",
    "28793779",
@@ -1019,6 +1030,7 @@
    "3625587",
    "36542085",
    "37044906",
+   "37166873",
    "37949516",
    "38794443",
    "39280735",
@@ -1128,6 +1140,7 @@
    }
   ],
   "sources": [
+   "10038611",
    "12933006",
    "13613992",
    "13693307",
@@ -1144,7 +1157,6 @@
    "2344370",
    "23585219",
    "23987926",
-   "24265935",
    "24901740",
    "25642173",
    "26865426",
@@ -1201,10 +1213,10 @@
   "risks": "Hardware margins are thin and support costs are high. App vendors may not port. The market of Linux users who actually pay is small.",
   "verdict_score": 4,
   "exists_today": "System76, Tuxedo, Framework with Ubuntu, Dell XPS Developer Edition, Asahi on Macs. Commenters still report rough edges and missing pro apps.",
-  "cluster": "linux, laptops, laptop, linux laptops + linux, desktop, polished, linux desktop + linux, office, microsoft, microsoft office + windows, run, linux, run windows + linux, photoshop, lightroom, photoshop linux + linux, macos, linux distro, distro + linux, adobe, creatives, creative",
+  "cluster": "linux, laptops, laptop, linux laptops + linux, polished, desktop, linux desktop + linux, office, microsoft, microsoft office + windows, run, linux, run windows + linux, photoshop, lightroom, photoshop linux + linux, adobe, creatives, creative",
   "category": "hardware & IoT",
-  "signal_score": 34.32,
-  "authors": 114,
+  "signal_score": 34.63,
+  "authors": 120,
   "years": [
    2010,
    2012,
@@ -1223,9 +1235,9 @@
    2025,
    2026
   ],
-  "pay_signals": 85.5,
+  "pay_signals": 90.5,
   "avg_intensity": 3.22,
-  "mentions": 118,
+  "mentions": 125,
   "quotes": [
    {
     "id": "40609845",
@@ -1277,6 +1289,7 @@
    "12835599",
    "12835709",
    "12854357",
+   "12854659",
    "12855097",
    "12855119",
    "12855423",
@@ -1284,6 +1297,7 @@
    "13517515",
    "13696887",
    "13699931",
+   "15585521",
    "16455760",
    "16944387",
    "17054263",
@@ -1291,12 +1305,14 @@
    "18261146",
    "18339636",
    "18346455",
+   "18771296",
    "18974659",
    "19331083",
    "19745840",
    "19973063",
    "20061321",
    "20480544",
+   "20704854",
    "21386860",
    "21402845",
    "21445397",
@@ -1306,7 +1322,6 @@
    "23037496",
    "23040008",
    "23233803",
-   "23434767",
    "23540372",
    "23623413",
    "23663333",
@@ -1318,6 +1333,7 @@
    "26680766",
    "26747947",
    "26777954",
+   "28321460",
    "28322282",
    "28366800",
    "28620783",
@@ -1340,6 +1356,7 @@
    "35093517",
    "35219626",
    "35645854",
+   "35900647",
    "3590356",
    "36678027",
    "37313957",
@@ -1351,6 +1368,7 @@
    "39936891",
    "40591326",
    "40609845",
+   "40638398",
    "41063835",
    "41432585",
    "4252803",
@@ -1374,6 +1392,7 @@
    "49098486",
    "49595661",
    "5453768",
+   "5892813",
    "6649833",
    "7200880",
    "7512080",
@@ -1484,9 +1503,9 @@
   "risks": "A crowded field, plus the long tail of IMAP edge cases and email rendering bugs. Email clients have historically been hard to monetise.",
   "verdict_score": 5,
   "exists_today": "Superhuman ($30 a month, Gmail and Outlook only), Mimestream (Gmail only), Spark, Thunderbird, Apple Mail and mutt/aerc. Commenters list each one's gap.",
-  "cluster": "email client, client, email, desktop email",
+  "cluster": "email client, client, email, fast",
   "category": "communication & social",
-  "signal_score": 22.91,
+  "signal_score": 22.87,
   "authors": 20,
   "years": [
    2012,
@@ -1501,7 +1520,7 @@
    2025
   ],
   "pay_signals": 18.5,
-  "avg_intensity": 3.19,
+  "avg_intensity": 3.14,
   "mentions": 21,
   "quotes": [
    {
@@ -1536,9 +1555,7 @@
    "16242486",
    "16975239",
    "17599783",
-   "19553565",
    "20091052",
-   "20341330",
    "20382070",
    "20482983",
    "20722861",
@@ -1550,7 +1567,9 @@
    "38002568",
    "4210661",
    "43857545",
-   "44431957"
+   "44431957",
+   "4604874",
+   "9067464"
   ]
  },
  {
@@ -2113,10 +2132,10 @@
   "risks": "iOS restrictions limit it to Android. Support load. Parents resist being 'managed'.",
   "verdict_score": 6,
   "exists_today": "GrandPad (tablets, expensive), Jitterbug and Lively (basic phones), Android's built-in simplified modes. Commenters say none combine family remote control with modern apps.",
-  "cluster": "parents, tech support, adult children, tech",
+  "cluster": "parents, elderly parents, adult children, elderly",
   "category": "consumer & home",
-  "signal_score": 18.4,
-  "authors": 9,
+  "signal_score": 18.19,
+  "authors": 8,
   "years": [
    2011,
    2016,
@@ -2127,9 +2146,9 @@
    2023,
    2026
   ],
-  "pay_signals": 7.0,
-  "avg_intensity": 3.89,
-  "mentions": 9,
+  "pay_signals": 6.5,
+  "avg_intensity": 4.12,
+  "mentions": 8,
   "quotes": [
    {
     "id": "33316669",
@@ -2161,8 +2180,7 @@
    "17645113",
    "21819339",
    "28865016",
-   "3050335",
-   "32755905",
+   "3132553",
    "33316669",
    "35413168",
    "50019407"
@@ -2183,10 +2201,12 @@
   "exists_today": "thanks.dev, GitHub Sponsors, Open Collective, Tidelift (enterprise), StackAid (shut down). Commenters cite friction and procurement as the blockers.",
   "cluster": "open source, source, open, fund + open source, source, open, donations + open source, source, open, companies",
   "category": "developer tools",
-  "signal_score": 26.08,
-  "authors": 31,
+  "signal_score": 26.47,
+  "authors": 34,
   "years": [
    2013,
+   2014,
+   2015,
    2017,
    2018,
    2019,
@@ -2197,9 +2217,9 @@
    2024,
    2025
   ],
-  "pay_signals": 21.5,
-  "avg_intensity": 3.16,
-  "mentions": 31,
+  "pay_signals": 23.0,
+  "avg_intensity": 3.15,
+  "mentions": 34,
   "quotes": [
    {
     "id": "42672291",
@@ -2229,9 +2249,10 @@
   "sources": [
    "13603937",
    "13605025",
-   "15215617",
    "15985921",
    "16337278",
+   "17263032",
+   "19434311",
    "21269043",
    "21488665",
    "23163267",
@@ -2257,7 +2278,9 @@
    "5263028",
    "6464683",
    "6464792",
-   "6661092"
+   "6661092",
+   "8470276",
+   "9004618"
   ]
  },
  {
@@ -2273,11 +2296,13 @@
   "risks": "Can't actually force providers to restore accounts. API access to export data can be restricted.",
   "verdict_score": 5,
   "exists_today": "Google Takeout (manual, one-off), Spanning and Afi (business only), Apple and Google recovery flows. No consumer human-escalation service exists.",
-  "cluster": "locked, accounts, social, recover + account, gmail, support, customer + recover, locked, accounts, locked google",
+  "cluster": "recover, locked, accounts, social accounts + gmail, support, account, mail + recover, locked, accounts, locked google + account bans, account, bans, human",
   "category": "security & privacy",
-  "signal_score": 23.29,
-  "authors": 18,
+  "signal_score": 25.23,
+  "authors": 27,
   "years": [
+   2008,
+   2011,
    2012,
    2017,
    2019,
@@ -2288,9 +2313,9 @@
    2024,
    2026
   ],
-  "pay_signals": 13.5,
-  "avg_intensity": 4.33,
-  "mentions": 18,
+  "pay_signals": 19.5,
+  "avg_intensity": 4.11,
+  "mentions": 27,
   "quotes": [
    {
     "id": "34863983",
@@ -2319,20 +2344,29 @@
   ],
   "sources": [
    "15993443",
+   "165674",
+   "19201822",
+   "19478443",
    "19488899",
    "23863449",
    "24791741",
+   "26063319",
+   "26066296",
+   "2797458",
    "28972982",
    "29459018",
    "30051421",
    "30279098",
+   "31306400",
    "31391783",
    "33129728",
    "34863983",
    "36474960",
+   "37278903",
    "37418415",
    "37836471",
    "3839859",
+   "4030438",
    "40434147",
    "40435333",
    "48361128"
@@ -2720,10 +2754,10 @@
   "risks": "Coding assistants may make a separate map feel unnecessary. Accuracy problems would destroy trust.",
   "verdict_score": 6,
   "exists_today": "Sourcegraph and Cody, IDE AI chat (answers questions but builds no persistent map), CodeSee (shut down), and manual wikis that go stale.",
-  "cluster": "codebases, large, refactoring, large codebases + auto, documentation, enable, maintains",
+  "cluster": "codebases, large, developers, refactoring + auto, documentation, enable, maintains",
   "category": "developer tools",
-  "signal_score": 24.37,
-  "authors": 23,
+  "signal_score": 24.55,
+  "authors": 24,
   "years": [
    2019,
    2020,
@@ -2734,9 +2768,9 @@
    2025,
    2026
   ],
-  "pay_signals": 14.0,
+  "pay_signals": 14.5,
   "avg_intensity": 3.17,
-  "mentions": 23,
+  "mentions": 24,
   "quotes": [
    {
     "id": "43157734",
@@ -2786,6 +2820,7 @@
    "23843454",
    "25201731",
    "27279521",
+   "27971405",
    "30065574",
    "34327440",
    "34541638",
@@ -2893,11 +2928,12 @@
   "risks": "Abuse risk: a relay attracts spammers, and one bad customer burns the IPs. Low price ceiling.",
   "verdict_score": 5,
   "exists_today": "SES, Postmark and Mailgun (transactional, not for person-to-person mail and strict about it), Fastmail and Proton (you give up self-hosting), and SMTP2GO.",
-  "cluster": "email, self, mail, reputation + spam, filtering, email, spam filtering + email, email customer, customer, support + email, email deliverability, deliverability, huge pain",
+  "cluster": "email, self, mail, reputation + spam, filtering, email, spam filtering + email, deliverability, email deliverability, nightmare + email, account, support, sudden + email, calendar, integrated, email customer",
   "category": "communication & social",
-  "signal_score": 30.42,
-  "authors": 57,
+  "signal_score": 30.78,
+  "authors": 61,
   "years": [
+   2007,
    2009,
    2012,
    2014,
@@ -2913,9 +2949,9 @@
    2025,
    2026
   ],
-  "pay_signals": 39.0,
+  "pay_signals": 42.5,
   "avg_intensity": 3.29,
-  "mentions": 58,
+  "mentions": 62,
   "quotes": [
    {
     "id": "49329576",
@@ -2996,9 +3032,11 @@
    "41063270",
    "42024371",
    "42633788",
+   "4338990",
    "46738689",
    "48101153",
    "48713002",
+   "4873338",
    "4884845",
    "4885903",
    "49042515",
@@ -3008,9 +3046,11 @@
    "50489091",
    "608583",
    "608800",
+   "68761",
    "7543697",
+   "9154742",
    "968046",
-   "rd_n4v6l87",
+   "rd_n4v77k7",
    "rd_nb65nm5",
    "rd_o7pa46u",
    "rd_o9fdf9i",
@@ -3032,10 +3072,10 @@
   "risks": "Big studios won't license DRM-free. Supply will be niche at first.",
   "verdict_score": 5,
   "exists_today": "Vimeo On Demand, Gumroad and Bandcamp-style stores (no media-server integration), Apple and Amazon purchases (DRM, revocable), and piracy.",
-  "cluster": "drm, movies, download, download drm + media, piracy, legal plex, convenient + streaming, legal streaming, license, legal + personal media, media server, media, server",
+  "cluster": "drm, movies, download, download drm + streaming, legal streaming, license, legal + personal media, media server, media, server",
   "category": "media & content",
-  "signal_score": 27.87,
-  "authors": 38,
+  "signal_score": 27.75,
+  "authors": 37,
   "years": [
    2009,
    2012,
@@ -3053,9 +3093,9 @@
    2025,
    2026
   ],
-  "pay_signals": 34.5,
-  "avg_intensity": 3.29,
-  "mentions": 38,
+  "pay_signals": 33.5,
+  "avg_intensity": 3.3,
+  "mentions": 37,
   "quotes": [
    {
     "id": "42538296",
@@ -3107,7 +3147,6 @@
    "29282162",
    "30922035",
    "31127373",
-   "31411133",
    "32546302",
    "33622068",
    "3478957",
@@ -3144,10 +3183,10 @@
   "risks": "History: Coil and Flattr struggled to reach critical mass. Rights holders resist per-minute models.",
   "verdict_score": 4,
   "exists_today": "Patreon (per creator, not per view), Nebula (one catalog), YouTube Premium (opaque split), and Flattr and Coil (failed).",
-  "cluster": "watch, tv, shows, tv shows + episode, streaming, tv, episodes + viewers, creators, subscriptions, recurring + shows, la, la carte, carte",
+  "cluster": "watch, tv, shows, tv shows + streaming, tv, episode, episodes + viewers, creators, subscriptions, recurring + shows, la, la carte, carte",
   "category": "media & content",
-  "signal_score": 27.25,
-  "authors": 41,
+  "signal_score": 27.49,
+  "authors": 43,
   "years": [
    2009,
    2010,
@@ -3167,9 +3206,9 @@
    2024,
    2025
   ],
-  "pay_signals": 37.5,
-  "avg_intensity": 3.32,
-  "mentions": 41,
+  "pay_signals": 39.0,
+  "avg_intensity": 3.35,
+  "mentions": 43,
   "quotes": [
    {
     "id": "45218855",
@@ -3227,6 +3266,8 @@
    "19114457",
    "23277033",
    "23700348",
+   "2490761",
+   "29260450",
    "29285413",
    "2952328",
    "2958902",
@@ -4068,27 +4109,23 @@
   "reject_kind": "vague",
   "exists_today": "User Interviews and Respondent for interviews, Apollo, Clay and Instantly for outbound.",
   "verdict_score": null,
-  "cluster": "founders, interviews, customer, customer interviews",
+  "cluster": "founders, interviews, customer, page",
   "category": "SMB & back-office",
-  "signal_score": 25.22,
-  "authors": 24,
+  "signal_score": 27.5,
+  "authors": 30,
   "years": [
+   2010,
+   2013,
    2020,
+   2021,
+   2022,
    2025,
    2026
   ],
-  "pay_signals": 25.0,
-  "avg_intensity": 3.32,
-  "mentions": 25,
+  "pay_signals": 30.5,
+  "avg_intensity": 3.26,
+  "mentions": 31,
   "quotes": [
-   {
-    "id": "24054896",
-    "author": "pea",
-    "year": 2020,
-    "thread": "In spite of an increase in Internet speed, webpage speeds have not improved",
-    "text": "So this has gotten to the point for me where it is a big enough burning painpoint where I would pay for a service which provided passably fast versions of the web-based tools which I frequently have to use.\n\nIn my day-to-day as a startup founder I use these tools where the latency of every operation makes them considerably less productive for me (this is on a 2016 i5 16GB MBP):\n\n- Hubspot\n\n- Gmail (with Apollo, Boomerang Calendar, and HubSpot extensions)\n\n- Intercom (probably the worst culprit)\n\n- Notion (love the app - but it really seems 10x slower than a desktop text editor should be imo)\n\n- Apollo\n\n- LinkedIn\n\n- GA\n\n- Slack\n\nThe following tools I use (or have used) seem fast to me to the",
-    "url": null
-   },
    {
     "id": "rd_19rk0dkbaahep",
     "author": "reddit:Traditional-Page-694",
@@ -4096,15 +4133,26 @@
     "thread": "r/SaaS: Would you pay someone to validate your startup idea with real customer interviews?",
     "text": "i'd pay for this in a heartbeat if the interviews were actually decent. biggest worry is always the recruiter stuffing the calls with randos who'll say anything for an amazon card, so i'd want raw recordings and a clear screener breakdown before i trust it. 2-3k feels about right if you're doing all the outreach and synthesis for a b2b audience, but maybe less for b2c since the bar for \"real commitment\" is softer.",
     "url": "https://www.reddit.com/r/SaaS/comments/1xdspfp/_/19rk0dkbaahep/"
+   },
+   {
+    "id": "rd_oip6g08",
+    "author": "reddit:onyxlabyrinth1979",
+    "year": 2026,
+    "thread": "r/SaaS: [ Removed by moderator ]",
+    "text": "I’d pay for execution, not strategy. Early on, the hard part isn’t knowing what to do, it’s getting consistent volume of real conversations. Biggest pain is turning a hypothesis into repeatable outreach that doesn’t burn domains or rely on shaky data. Tried DIY outbound, mixed results. Would pay if it drives meetings, not decks.",
+    "url": "https://www.reddit.com/r/SaaS/comments/1sxspk0/_/oip6g08/"
    }
   ],
   "sources": [
+   "1839913",
    "24054896",
+   "26409699",
+   "34104978",
+   "5220151",
    "rd_19rjzvzmun1cy",
    "rd_19rk0dkbaahep",
    "rd_19sta7syf1w4i",
    "rd_19su7r7p18r1f",
-   "rd_19sv6sdzr8q78",
    "rd_19sydc1vqm6ea",
    "rd_mdu6i3d",
    "rd_miey0sw",
@@ -4112,10 +4160,13 @@
    "rd_n4srl6c",
    "rd_n5tyok3",
    "rd_ncux2oi",
+   "rd_nflpihd",
    "rd_nhbhb2u",
    "rd_nkb48s8",
    "rd_nwirizb",
    "rd_nwk2zlq",
+   "rd_o1kpi8t",
+   "rd_o1kpnky",
    "rd_o21xk0q",
    "rd_o373gid",
    "rd_o5hcky8",
@@ -4133,11 +4184,12 @@
   "reject_kind": "commodity",
   "exists_today": "Umbrel, CasaOS, YunoHost, Coolify and TrueNAS apps. Still fragmented, but there's no clear unique angle.",
   "verdict_score": null,
-  "cluster": "self, host, hosting, self host",
+  "cluster": "self, host, hosters, self hosters",
   "category": "devops & infra",
-  "signal_score": 24.34,
-  "authors": 21,
+  "signal_score": 23.87,
+  "authors": 18,
   "years": [
+   2014,
    2016,
    2018,
    2019,
@@ -4147,10 +4199,18 @@
    2025,
    2026
   ],
-  "pay_signals": 14.0,
-  "avg_intensity": 3.29,
-  "mentions": 24,
+  "pay_signals": 13.0,
+  "avg_intensity": 3.33,
+  "mentions": 21,
   "quotes": [
+   {
+    "id": "11023721",
+    "author": "dikaiosune",
+    "year": 2016,
+    "thread": "Sandstorm App update: New open-source self-hostable apps",
+    "text": "s/vaporware/shut_up_and_take_my_money/\n\nEDIT: Also, yes, a DO box with Sandstorm is what I have some amorphous period of time this summer reserved for. Just not as ideal for me as physically controlling the box.",
+    "url": null
+   },
    {
     "id": "rd_mjdor68",
     "author": "reddit:XCSme",
@@ -4158,14 +4218,6 @@
     "thread": "r/SaaS: Why pay for Hotjar when Clarity is free?",
     "text": "Thanks! I do think more software should be paid self-hosted. I would happily pay to have good software with support, that I am in control of (same as old-school software, where you bought it and you owned it).",
     "url": "https://www.reddit.com/r/SaaS/comments/1jd4ej4/_/mjdor68/"
-   },
-   {
-    "id": "rd_lyes52g",
-    "author": "reddit:eirc",
-    "year": 2024,
-    "thread": "r/devops: Why is setting up grafana loki prometheus and open telemetry so hard?",
-    "text": "Probably to sell you the hosted version. We only wanted tracing from all this and to set it up on AWS ECS with fargate. It was a huge pain. There was no easy to even understand what each freaking service does and if I need it or not. I mostly was just yoloing it, smashing stuff against the wall and seeing what works. Docs are a joke.",
-    "url": "https://www.reddit.com/r/devops/comments/1gx26rr/_/lyes52g/"
    }
   ],
   "sources": [
@@ -4173,15 +4225,12 @@
    "18435304",
    "20435617",
    "29846241",
-   "30257467",
    "33096418",
-   "33455952",
    "35729935",
    "36077263",
    "37214840",
    "37215653",
    "40963416",
-   "41033187",
    "41400843",
    "41587435",
    "44473776",
@@ -4191,7 +4240,7 @@
    "46585946",
    "47749765",
    "50119583",
-   "rd_lyes52g",
+   "7322446",
    "rd_mjdor68"
   ]
  },
@@ -4850,12 +4899,12 @@
   "reject_kind": "not_product",
   "exists_today": "Bundles (Disney+/Hulu/Max), Apple TV channels and Prime Video channels.",
   "verdict_score": null,
-  "cluster": "viewers, streaming, tv, streaming services",
+  "cluster": "viewers, streaming, content, tv",
   "category": "media & content",
-  "signal_score": 21.14,
-  "authors": 14,
+  "signal_score": 23.22,
+  "authors": 20,
   "years": [
-   2011,
+   2012,
    2017,
    2018,
    2019,
@@ -4865,9 +4914,9 @@
    2023,
    2025
   ],
-  "pay_signals": 13.5,
-  "avg_intensity": 3.93,
-  "mentions": 14,
+  "pay_signals": 20.0,
+  "avg_intensity": 3.65,
+  "mentions": 20,
   "quotes": [
    {
     "id": "14965965",
@@ -4890,16 +4939,22 @@
    "14965965",
    "14974018",
    "18187410",
+   "19114457",
+   "20801187",
    "21486689",
    "23299043",
    "23305224",
-   "2490761",
+   "26215529",
    "29166816",
-   "29260450",
    "29352150",
+   "30922035",
    "31126741",
+   "31411133",
    "32427758",
+   "3587057",
+   "37610694",
    "38437103",
+   "43143961",
    "45919304"
   ]
  },
@@ -5094,14 +5149,13 @@
   "reject_kind": "commodity",
   "exists_today": "Stripe, Paddle and Lemon Squeezy (merchant of record), Wise and Adyen.",
   "verdict_score": null,
-  "cluster": "payments, online, accept, card",
+  "cluster": "card, accept, online, payments + payment, legal, offer payment, payment processing",
   "category": "finance & money",
-  "signal_score": 20.43,
-  "authors": 16,
+  "signal_score": 21.92,
+  "authors": 18,
   "years": [
    2010,
    2013,
-   2014,
    2015,
    2016,
    2017,
@@ -5110,11 +5164,12 @@
    2021,
    2022,
    2023,
-   2024
+   2024,
+   2025
   ],
-  "pay_signals": 8.0,
+  "pay_signals": 8.5,
   "avg_intensity": 3.5,
-  "mentions": 16,
+  "mentions": 18,
   "quotes": [
    {
     "id": "10890284",
@@ -5144,11 +5199,13 @@
    "22466691",
    "28007272",
    "28778032",
+   "31579966",
    "33008965",
    "36968358",
    "41183525",
+   "44686753",
+   "44692908",
    "6751315",
-   "7116467",
    "8885189"
   ]
  },
@@ -5777,11 +5834,12 @@
   "reject_kind": "exists",
   "exists_today": "Proton (mail, drive, VPN), Fastmail, Kagi, Tuta and Google One (no ad-free promise).",
   "verdict_score": null,
-  "cluster": "services, tracking, google, google services",
+  "cluster": "tracking, services, google, ads",
   "category": "security & privacy",
-  "signal_score": 19.35,
-  "authors": 11,
+  "signal_score": 21.18,
+  "authors": 15,
   "years": [
+   2017,
    2018,
    2019,
    2020,
@@ -5790,10 +5848,18 @@
    2024,
    2025
   ],
-  "pay_signals": 11.0,
-  "avg_intensity": 3.18,
-  "mentions": 11,
+  "pay_signals": 15.0,
+  "avg_intensity": 3.27,
+  "mentions": 15,
   "quotes": [
+   {
+    "id": "14464797",
+    "author": "Fezzik",
+    "year": 2017,
+    "thread": "Former Mozilla CEO raises $35M in under 30s for his browser startup Brave",
+    "text": "I am hoping there is a market for such a browser. I, for one, would much rather pay for a browser that looks out for my (privacy) interests than use a free browser that does not. But I fall in the boat of people who would also rather pay for a television set that only worked as a television set, and not a behavior tracker. Heck, I would happily pay more to keep that functionality as far away from me as possible.",
+    "url": null
+   },
    {
     "id": "16276602",
     "author": "ryanianian",
@@ -5801,20 +5867,16 @@
     "thread": "Google and Facebook are watching our every move online",
     "text": "Personally I'd happily pay $5/mo for all of my google services if it meant I was entirely removed from the whole advertising/\"customer-is-a-product\" offering and I could have confidence that I wasn't being sold as a product in other regards.",
     "url": null
-   },
-   {
-    "id": "rd_nrvznaj",
-    "author": "reddit:Twit_Clamantis",
-    "year": 2025,
-    "thread": "r/Entrepreneur: Building a more “exclusive” Reddit. Referral only. Filter out the bots. Good or bad idea?",
-    "text": "I’m sorry but “insight into brands” sounds like info harvesting and the flip side of my being willing to pay for a platform is that I want ZERO harvesting, ZERO commerce, ZERO EVERYTHING.\n\nFigure out what the price would have to be to make it profitable under those constraints, and you *might* have a new type of business that the world desperately needs.\n\nBut if you try to fiddle around the margins you will have nothing and nobody.\n\nYour motto (for doing this) should be WWLRD?\n\n(What Would Louis Rossman Do?) \n\nIf LD would approve, you’re good. If not, it’s all 2 shites in a trenchcoat.\n\nhttps://m.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1pc7xwe/_/nrvznaj/"
    }
   ],
   "sources": [
+   "14464797",
    "16276602",
+   "17153359",
    "20201110",
    "20532561",
+   "21972270",
+   "23138670",
    "25065736",
    "25405867",
    "25620611",
@@ -5822,7 +5884,7 @@
    "27624079",
    "33435782",
    "38967026",
-   "rd_nrvznaj"
+   "42605362"
   ]
  },
  {
@@ -6166,21 +6228,22 @@
   "verdict_score": null,
   "cluster": "keys, security keys, hardware security, hardware",
   "category": "security & privacy",
-  "signal_score": 18.56,
-  "authors": 10,
+  "signal_score": 19.25,
+  "authors": 11,
   "years": [
    2015,
    2019,
    2020,
    2021,
    2022,
+   2023,
    2024,
    2025,
    2026
   ],
-  "pay_signals": 5.0,
-  "avg_intensity": 3.3,
-  "mentions": 10,
+  "pay_signals": 5.5,
+  "avg_intensity": 3.27,
+  "mentions": 11,
   "quotes": [
    {
     "id": "20747882",
@@ -6206,6 +6269,7 @@
    "27081654",
    "30137582",
    "31273443",
+   "37520211",
    "41879634",
    "44852029",
    "49015427",
@@ -6655,37 +6719,39 @@
   "reject_kind": "exists",
   "exists_today": "A2X (payouts), Maxio and Chargebee RevRec (ASC 606), and Katana and Cin7 (inventory).",
   "verdict_score": null,
-  "cluster": "quickbooks, outgrow, revenue recognition, recognition",
+  "cluster": "quickbooks, outgrow, small, revenue recognition",
   "category": "finance & money",
-  "signal_score": 18.23,
-  "authors": 9,
+  "signal_score": 19.09,
+  "authors": 10,
   "years": [
+   2010,
    2024,
    2025,
    2026
   ],
-  "pay_signals": 4.5,
-  "avg_intensity": 3.56,
-  "mentions": 9,
+  "pay_signals": 5.5,
+  "avg_intensity": 3.5,
+  "mentions": 10,
   "quotes": [
    {
-    "id": "rd_lzltke0",
-    "author": "reddit:SimplyGrateful",
-    "year": 2024,
-    "thread": "r/Accounting: How are accounting departments in SaaS handling revenue recognition?",
-    "text": "Is there a tool within Quickbooks that handles SaaS accrual revenue recognition and integrates with Hubspot?",
-    "url": "https://www.reddit.com/r/Accounting/comments/1dlql3g/_/lzltke0/"
+    "id": "1483708",
+    "author": "andy",
+    "year": 2010,
+    "thread": "inDinero (YC S10) launches Mint.com for Businesses",
+    "text": "I would like to try this but I'm not prepared to pay $100 a month in addition to the $30 a month I'm paying for quickbooks online unlimited transactions.  Switching will be a huge pain in the ass, but PayPal integration will be worth it, if everything else is the same.",
+    "url": null
    },
    {
-    "id": "rd_mfi10ir",
-    "author": "reddit:FamiliarLeague1942",
-    "year": 2025,
-    "thread": "r/startups: Founders, How Do You Handle Your Accounting & Finances? ( I will not promote)",
-    "text": "I’d say most founders I’ve worked with start with spreadsheets, then move to QuickBooks or Xero as things get more complex. The biggest pain points I see are cash flow tracking and keeping things organized—especially as transactions pile up. Tax compliance can also get tricky, particularly with sales tax and payroll.",
-    "url": "https://www.reddit.com/r/startups/comments/1ikmoh9/_/mfi10ir/"
+    "id": "rd_osat310",
+    "author": "reddit:ikosuave",
+    "year": 2026,
+    "thread": "r/smallbusiness: Outgrown QuickBooks. Whats next?",
+    "text": "Yeah, QuickBooks definitely hits a wall with complex SaaS revenue like that. ASC 606 alone is a nightmare to manage manually or in QBO.\n\n  \nSage Intacct is a good shout. It's built for that kind of multi-entity, recurring revenue accounting. Another one to look at is NetSuite. Both are big steps up from QuickBooks and can handle the contract modifications and revenue recognition rules much better.\n\n  \nYou might also consider dedicated subscription billing platforms like Chargebee or Zuora that integrate with your ERP. They handle the billing and upgrades/downgrades, then push the data to Intacct or NetSuite for the GL and revenue recognition. That can simplify things a lot.\n\n  \nIt's a big pr",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1u86il3/_/osat310/"
    }
   ],
   "sources": [
+   "1483708",
    "rd_lzltke0",
    "rd_mfi10ir",
    "rd_mzz8tta",
@@ -6806,10 +6872,10 @@
   "reject_kind": "exists",
   "exists_today": "Devbox, Flox, mise, devcontainers, Nix Home Manager and chezmoi.",
   "verdict_score": null,
-  "cluster": "sandbox, nix, developers, dev",
-  "category": "developer tools",
-  "signal_score": 18.13,
-  "authors": 9,
+  "cluster": "sandbox, nix, dev environments, environments",
+  "category": "security & privacy",
+  "signal_score": 19.46,
+  "authors": 12,
   "years": [
    2020,
    2022,
@@ -6817,9 +6883,9 @@
    2024,
    2025
   ],
-  "pay_signals": 5.0,
-  "avg_intensity": 3.22,
-  "mentions": 9,
+  "pay_signals": 6.0,
+  "avg_intensity": 3.25,
+  "mentions": 12,
   "quotes": [
    {
     "id": "25054195",
@@ -6841,12 +6907,15 @@
   "sources": [
    "25054195",
    "31520419",
+   "35119891",
    "37871365",
+   "38082490",
    "39778636",
    "39892581",
    "43369643",
    "43491578",
    "44217591",
+   "44232209",
    "44569967"
   ]
  },
@@ -7164,21 +7233,22 @@
   "reject_kind": "exists",
   "exists_today": "Amazon Kids+, PBS Kids, Khan Academy Kids, YouTube Kids and Apple Screen Time.",
   "verdict_score": null,
-  "cluster": "kid, tablet, safe, kids",
+  "cluster": "kid, parents, kids, tablet",
   "category": "consumer & home",
-  "signal_score": 17.89,
-  "authors": 7,
+  "signal_score": 19.12,
+  "authors": 9,
   "years": [
    2011,
    2018,
    2020,
+   2022,
    2024,
    2025,
    2026
   ],
-  "pay_signals": 5.0,
-  "avg_intensity": 3.86,
-  "mentions": 7,
+  "pay_signals": 6.5,
+  "avg_intensity": 3.67,
+  "mentions": 9,
   "quotes": [
    {
     "id": "18334735",
@@ -7200,7 +7270,9 @@
   "sources": [
    "18334735",
    "22749873",
+   "3050335",
    "3101252",
+   "32755905",
    "39616028",
    "39870890",
    "46716355",
@@ -7928,7 +8000,7 @@
   "reject_kind": "exists",
   "exists_today": "Algora, Polar, IssueHunt and GitHub Sponsors (also see Open Source Tab).",
   "verdict_score": null,
-  "cluster": "bug fixes, bug, fixes, specific",
+  "cluster": "bug fixes, bug, fixes, features",
   "category": "developer tools",
   "signal_score": 17.43,
   "authors": 7,
@@ -7979,19 +8051,23 @@
   "reject_kind": "exists",
   "exists_today": "Airtable, Grist, Baserow, NocoDB and Notion databases.",
   "verdict_score": null,
-  "cluster": "spreadsheet, spreadsheets, automation, backed",
-  "category": "productivity & work",
-  "signal_score": 17.38,
-  "authors": 8,
+  "cluster": "spreadsheet, database, backed database, end + automation, spreadsheets, spreadsheet, source control",
+  "category": "data & analytics",
+  "signal_score": 21.35,
+  "authors": 14,
   "years": [
+   2012,
+   2014,
+   2020,
+   2021,
    2023,
    2024,
    2025,
    2026
   ],
-  "pay_signals": 4.0,
-  "avg_intensity": 3.25,
-  "mentions": 8,
+  "pay_signals": 7.5,
+  "avg_intensity": 3.43,
+  "mentions": 14,
   "quotes": [
    {
     "id": "rd_o70p0tx",
@@ -8011,11 +8087,17 @@
    }
   ],
   "sources": [
+   "22134923",
+   "24002615",
+   "27928731",
+   "27930025",
    "35580774",
+   "3682925",
    "41801615",
    "45437387",
    "47789349",
    "48833368",
+   "8385991",
    "rd_msrp89o",
    "rd_nz6juqv",
    "rd_o70p0tx"
@@ -8336,19 +8418,20 @@
   "verdict_score": null,
   "cluster": "hosting, static, static hosting, developers hosted",
   "category": "devops & infra",
-  "signal_score": 17.18,
-  "authors": 8,
+  "signal_score": 18.04,
+  "authors": 9,
   "years": [
    2008,
    2011,
+   2012,
    2016,
    2021,
    2023,
    2024
   ],
-  "pay_signals": 6.0,
-  "avg_intensity": 3.25,
-  "mentions": 8,
+  "pay_signals": 7.0,
+  "avg_intensity": 3.22,
+  "mentions": 9,
   "quotes": [
    {
     "id": "12651288",
@@ -8373,6 +8456,7 @@
    "26558817",
    "2781255",
    "349005",
+   "3600562",
    "36618677",
    "39524076",
    "39698326"
@@ -8787,20 +8871,21 @@
   "verdict_score": null,
   "cluster": "privacy, services, privacy preserving, preserving",
   "category": "security & privacy",
-  "signal_score": 17.02,
-  "authors": 7,
+  "signal_score": 17.92,
+  "authors": 8,
   "years": [
    2013,
    2014,
    2016,
    2018,
+   2021,
    2022,
    2025,
    2026
   ],
-  "pay_signals": 6.5,
+  "pay_signals": 7.5,
   "avg_intensity": 3.0,
-  "mentions": 7,
+  "mentions": 8,
   "quotes": [
    {
     "id": "12588712",
@@ -8822,6 +8907,7 @@
   "sources": [
    "12588712",
    "18007462",
+   "25735130",
    "31703524",
    "46265242",
    "49393407",
@@ -9779,42 +9865,49 @@
   "reject_kind": "exists",
   "exists_today": "ArchiveBox, Linkwarden, Readwise Reader, Raindrop full-text and Paperless-ngx (documents).",
   "verdict_score": null,
-  "cluster": "text, text search, search, page",
+  "cluster": "text search, text, search, page + api, web, markdown, archive",
   "category": "productivity & work",
-  "signal_score": 16.55,
-  "authors": 7,
+  "signal_score": 19.58,
+  "authors": 12,
   "years": [
+   2012,
    2014,
+   2020,
    2022,
    2023,
    2024,
    2025
   ],
-  "pay_signals": 7.0,
-  "avg_intensity": 3.0,
-  "mentions": 7,
+  "pay_signals": 11.5,
+  "avg_intensity": 3.08,
+  "mentions": 12,
   "quotes": [
    {
-    "id": "32744832",
-    "author": "bombcar",
-    "year": 2022,
-    "thread": "Weird Al had 100 gigs of RAM",
-    "text": "I’d pay for a local program that would fully text index every page I visit forever so I can search for them again quickly.",
+    "id": "25561944",
+    "author": "quaintdev",
+    "year": 2020,
+    "thread": "Show HN: Tuchu – Automatically highlight the important parts of a document",
+    "text": "This kind of service would be amazing with a browser extension.\n\nNowadays a lot of bloggers/reporters keep running round in circles before coming to a point. I actually wrote a post related about this a while back [0]. With browser extension this can save lot of time of readers. Heck I would pay for such a service!\n\n[0]: https://www.ankshilp.com/stop_beating_around_the_bush/",
     "url": null
    },
    {
-    "id": "33727854",
-    "author": "JustARandomGuy",
-    "year": 2022,
-    "thread": "Ask HN: What API do you wish existed?",
-    "text": "A good, reliable api to archive web pages in multiple formats and extract the article text. The best are very expensive - look up Diffbot, it’s the best I’ve found but at $299 a month, it’s expensive. I’d happily pay per web page extracted, but the upfront minimum is too much.",
+    "id": "25585614",
+    "author": "ttamslam",
+    "year": 2020,
+    "thread": "Ask HN: What's a side project you built to make money that hasn't?",
+    "text": "I like this idea a lot! From poking around it seems like your execution on the pdf generation is high.\n\nMy (possibly useless) .02 -- I would not pay for this as is. What I would pay for though is an API that reliably converts internet articles to markdown of the same quality your pdf generation seems to have. A couple years ago I poured 3 or 4 months into a site that let users select time-boxed streams of articles clustered by topic (i.e. \"give me a 25 min list of content about Glacier National Park for my subway commute\") By far the most challenging part of this project was formatting content in a readable way from various sources, which it seems like you have done VERY well here.\n\nAnyway, ",
     "url": null
    }
   ],
   "sources": [
+   "25561944",
+   "25585614",
    "32744832",
+   "33724690",
    "33727854",
    "35475053",
+   "35721674",
+   "3602245",
    "36654176",
    "41704585",
    "46034946",
@@ -10616,18 +10709,19 @@
   "reject_kind": "commodity",
   "exists_today": "Lizenzero (packaging EPR), Avask, hellotax, Taxdoo and IOSS intermediaries.",
   "verdict_score": null,
-  "cluster": "eu, compliance, selling, small",
+  "cluster": "eu, sellers, compliance, selling",
   "category": "legal & government",
-  "signal_score": 16.26,
-  "authors": 6,
+  "signal_score": 16.99,
+  "authors": 7,
   "years": [
+   2015,
    2024,
    2025,
    2026
   ],
   "pay_signals": 3.0,
-  "avg_intensity": 3.83,
-  "mentions": 6,
+  "avg_intensity": 3.86,
+  "mentions": 7,
   "quotes": [
    {
     "id": "rd_n2oecn7",
@@ -10647,6 +10741,7 @@
    }
   ],
   "sources": [
+   "10122678",
    "40214225",
    "44516463",
    "49441127",
@@ -10953,22 +11048,24 @@
   "reject_kind": "exists",
   "exists_today": "Wero (European Payments Initiative), iDEAL, Klarna, Revolut Pay and Adyen.",
   "verdict_score": null,
-  "cluster": "paypal, alternative paypal, alternative, person",
+  "cluster": "paypal, alternative paypal, online, payments",
   "category": "finance & money",
-  "signal_score": 16.14,
-  "authors": 7,
+  "signal_score": 17.95,
+  "authors": 9,
   "years": [
+   2010,
    2011,
    2013,
+   2014,
    2016,
    2020,
    2021,
    2024,
    2025
   ],
-  "pay_signals": 3.5,
-  "avg_intensity": 3.14,
-  "mentions": 7,
+  "pay_signals": 5.0,
+  "avg_intensity": 3.11,
+  "mentions": 9,
   "quotes": [
    {
     "id": "12896894",
@@ -10979,22 +11076,24 @@
     "url": null
    },
    {
-    "id": "24232666",
-    "author": "hellotomyrars",
-    "year": 2020,
-    "thread": "Lightroom app update wipes users' photos and presets, Adobe says not recoverable",
-    "text": "I fell in this trap too and luckily I paid through PayPal.\n\nI really don’t like PayPal as a company but from a consumer standpoint they’re useful to me because I am able to terminate billing on the PayPal side of things. Also i have not been burned by PayPal in the few disputes I have had to go through.\n\nI wish there was a less shitty option than PayPal with the same level of insulation and dispute resolution. Lots of small businesses/creators have gotten fucked over by PayPal freezing funds for months and not allowing appeals or really any communication is terrible and I hate supporting it.",
+    "id": "1681081",
+    "author": "bradleyjoyce",
+    "year": 2010,
+    "thread": "Ask HN: PayPal Alternatives for Subscriptions*",
+    "text": "No... that's the short answer.\n\nTaking people's money on the internet is a HUGE pain. The only other potentially \"easy to use\" alternative would be Amazon I believe https://payments.amazon.com\n\nMost everything else is going to require a merchant account.",
     "url": null
    }
   ],
   "sources": [
    "12896894",
+   "1681081",
    "24232666",
    "2446510",
    "25602230",
    "41016199",
    "44684698",
-   "5062740"
+   "5062740",
+   "7116467"
   ]
  },
  {
@@ -11435,21 +11534,22 @@
   "reject_kind": "exists",
   "exists_today": "Wise, Payoneer, Deel and Remote.",
   "verdict_score": null,
-  "cluster": "freelancers, clients, international, regular",
+  "cluster": "freelancers, clients, freelance, paid + freelancers, international, expand, france",
   "category": "finance & money",
-  "signal_score": 16.03,
-  "authors": 6,
+  "signal_score": 18.4,
+  "authors": 10,
   "years": [
    2012,
+   2013,
    2018,
    2021,
    2022,
    2025,
    2026
   ],
-  "pay_signals": 4.5,
-  "avg_intensity": 3.33,
-  "mentions": 6,
+  "pay_signals": 7.0,
+  "avg_intensity": 3.3,
+  "mentions": 10,
   "quotes": [
    {
     "id": "rd_nywasnb",
@@ -11469,10 +11569,14 @@
    }
   ],
   "sources": [
+   "16592754",
    "17890810",
    "28612285",
    "31126572",
    "4561448",
+   "5127773",
+   "5776887",
+   "6565752",
    "rd_niniqiu",
    "rd_nywasnb"
   ]
@@ -11530,7 +11634,7 @@
   "reject_kind": "exists",
   "exists_today": "LayerX, Koi Security, Spin.ai, and Chrome Web Store enforcement.",
   "verdict_score": null,
-  "cluster": "browser extensions, browser, extensions, malicious",
+  "cluster": "browser, browser extensions, malicious, extensions",
   "category": "security & privacy",
   "signal_score": 16.02,
   "authors": 7,
@@ -11720,11 +11824,12 @@
   "reject_kind": "exists",
   "exists_today": "MJML, Maizzle, Litmus and Email on Acid.",
   "verdict_score": null,
-  "cluster": "html, emails, html emails, render",
+  "cluster": "html, html emails, render, emails",
   "category": "media & content",
-  "signal_score": 15.96,
-  "authors": 7,
+  "signal_score": 16.75,
+  "authors": 8,
   "years": [
+   2013,
    2014,
    2016,
    2018,
@@ -11733,9 +11838,9 @@
    2023,
    2024
   ],
-  "pay_signals": 3.5,
-  "avg_intensity": 3.57,
-  "mentions": 7,
+  "pay_signals": 4.0,
+  "avg_intensity": 3.5,
+  "mentions": 8,
   "quotes": [
    {
     "id": "12583615",
@@ -11761,6 +11866,7 @@
    "32308941",
    "37177434",
    "40280722",
+   "6693284",
    "8151116"
   ]
  },
@@ -12898,7 +13004,7 @@
   "reject_kind": "commodity",
   "exists_today": "Spellbook, Harvey, Clio, LegalZoom AI and consumer chat assistants.",
   "verdict_score": null,
-  "cluster": "small law, law firms, law, legal",
+  "cluster": "small law, law firms, legal, law",
   "category": "legal & government",
   "signal_score": 15.63,
   "authors": 6,
@@ -12945,7 +13051,7 @@
   "reject_kind": "commodity",
   "exists_today": "Financial Cents, Karbon, Keeper, Uncat and Liscio.",
   "verdict_score": null,
-  "cluster": "bookkeepers, card, clients, submit receipts",
+  "cluster": "bookkeepers, clients, card, submit receipts",
   "category": "finance & money",
   "signal_score": 15.63,
   "authors": 6,
@@ -13473,20 +13579,19 @@
   "reject_kind": "exists",
   "exists_today": "Carrd, Framer, Squarespace, bento.me and Bear Blog.",
   "verdict_score": null,
-  "cluster": "web, website, personal website, coding",
+  "cluster": "website, personal website, create, publish",
   "category": "media & content",
-  "signal_score": 15.43,
-  "authors": 7,
+  "signal_score": 14.35,
+  "authors": 6,
   "years": [
-   2013,
    2018,
    2020,
    2021,
    2024
   ],
-  "pay_signals": 4.0,
-  "avg_intensity": 3.43,
-  "mentions": 7,
+  "pay_signals": 3.0,
+  "avg_intensity": 3.5,
+  "mentions": 6,
   "quotes": [
    {
     "id": "16849554",
@@ -13511,8 +13616,7 @@
    "23365418",
    "27492142",
    "28819565",
-   "40185808",
-   "5439411"
+   "40185808"
   ]
  },
  {
@@ -13621,9 +13725,10 @@
   "verdict_score": null,
   "cluster": "card, lower, lower fees, payment network",
   "category": "finance & money",
-  "signal_score": 15.39,
-  "authors": 6,
+  "signal_score": 16.42,
+  "authors": 7,
   "years": [
+   2011,
    2014,
    2016,
    2019,
@@ -13631,9 +13736,9 @@
    2025,
    2026
   ],
-  "pay_signals": 3.0,
-  "avg_intensity": 3.33,
-  "mentions": 6,
+  "pay_signals": 3.5,
+  "avg_intensity": 3.43,
+  "mentions": 7,
   "quotes": [
    {
     "id": "11471390",
@@ -13655,6 +13760,7 @@
   "sources": [
    "11471390",
    "20219860",
+   "2446510",
    "34609841",
    "44715775",
    "49632403",
@@ -13996,7 +14102,7 @@
   "reject_kind": "vague",
   "exists_today": "Bubble, SaaS boilerplates and Testlio/UserTesting.",
   "verdict_score": null,
-  "cluster": "founders, testers, saas, boilerplate",
+  "cluster": "(anchors only)",
   "category": "developer tools",
   "signal_score": 15.24,
   "authors": 5,
@@ -14319,7 +14425,7 @@
   "reject_kind": "not_product",
   "exists_today": "Immigration lawyers, Boundless, and O-1/EB-2 NIW pathways.",
   "verdict_score": null,
-  "cluster": "green, green card, immigrate, nightmare process",
+  "cluster": "green, green card, nightmare process, immigrate",
   "category": "legal & government",
   "signal_score": 15.15,
   "authors": 6,
@@ -14976,10 +15082,10 @@
   "reject_kind": "exists",
   "exists_today": "PurgeCSS, Tailwind, Chromatic visual regression and Figma Dev Mode.",
   "verdict_score": null,
-  "cluster": "css, design tools, visual, generate",
+  "cluster": "css, visual, design tools, generate",
   "category": "developer tools",
-  "signal_score": 14.93,
-  "authors": 5,
+  "signal_score": 15.54,
+  "authors": 6,
   "years": [
    2012,
    2017,
@@ -14987,9 +15093,9 @@
    2024,
    2025
   ],
-  "pay_signals": 3.5,
-  "avg_intensity": 3.4,
-  "mentions": 5,
+  "pay_signals": 4.0,
+  "avg_intensity": 3.33,
+  "mentions": 6,
   "quotes": [
    {
     "id": "15288504",
@@ -15013,7 +15119,8 @@
    "29383128",
    "39148791",
    "4115920",
-   "43903086"
+   "43903086",
+   "4549084"
   ]
  },
  {
@@ -15023,7 +15130,7 @@
   "reject_kind": "exists",
   "exists_today": "Paged.js, WeasyPrint, Prince, Typst, DocRaptor and react-pdf.",
   "verdict_score": null,
-  "cluster": "pdfs, quality pdfs, print quality, html",
+  "cluster": "pdfs, quality pdfs, print quality, quality",
   "category": "developer tools",
   "signal_score": 14.89,
   "authors": 6,
@@ -15207,7 +15314,7 @@
   "reject_kind": "vague",
   "exists_today": "Mintlify, Linear and Notion.",
   "verdict_score": null,
-  "cluster": "finding, developers, huge pain, huge",
+  "cluster": "requirement, developers, changing, poor documentation",
   "category": "developer tools",
   "signal_score": 14.86,
   "authors": 5,
@@ -16217,7 +16324,7 @@
   "reject_kind": "commodity",
   "exists_today": "Syften, F5Bot, Brand24, Octolens and Mention.",
   "verdict_score": null,
-  "cluster": "founders, founders alerts, reddit, alerts",
+  "cluster": "founders, reddit, founders alerts, alerts",
   "category": "media & content",
   "signal_score": 14.64,
   "authors": 5,
@@ -16400,7 +16507,7 @@
   "reject_kind": "vague",
   "exists_today": "Steampipe, CloudQuery, Resoto and AWS Config.",
   "verdict_score": null,
-  "cluster": "teams, audit, aws, small teams",
+  "cluster": "teams, audit, small teams, aws",
   "category": "devops & infra",
   "signal_score": 14.63,
   "authors": 5,
@@ -16538,17 +16645,18 @@
   "reject_kind": "exists",
   "exists_today": "AWS Budgets actions (stop EC2/RDS, apply SCPs), GCP budget kill-switch functions and Vercel/Netlify spend caps.",
   "verdict_score": null,
-  "cluster": "hard, caps, spending, spending caps",
+  "cluster": "hard, caps, cloud, spending",
   "category": "devops & infra",
-  "signal_score": 14.6,
-  "authors": 7,
+  "signal_score": 15.46,
+  "authors": 8,
   "years": [
+   2009,
    2020,
    2021
   ],
-  "pay_signals": 3.5,
-  "avg_intensity": 4.75,
-  "mentions": 8,
+  "pay_signals": 4.5,
+  "avg_intensity": 4.56,
+  "mentions": 9,
   "quotes": [
    {
     "id": "22721349",
@@ -16575,7 +16683,8 @@
    "25398594",
    "27046170",
    "27047622",
-   "27909564"
+   "27909564",
+   "535334"
   ]
  },
  {
@@ -16765,7 +16874,7 @@
   "reject_kind": "commodity",
   "exists_today": "Pipedrive, Folk, HubSpot free, Streak (Gmail CRM) and Attio.",
   "verdict_score": null,
-  "cluster": "sheets, leads, managing leads, gmail",
+  "cluster": "sheets, leads, managing leads, agencies",
   "category": "SMB & back-office",
   "signal_score": 14.57,
   "authors": 5,
@@ -16855,7 +16964,7 @@
   "reject_kind": "commodity",
   "exists_today": "Recall, Raycast AI, Khoj, AnythingLLM and Copilot/Gemini in Workspace.",
   "verdict_score": null,
-  "cluster": "sources, workers, private, end",
+  "cluster": "(anchors only)",
   "category": "productivity & work",
   "signal_score": 14.53,
   "authors": 4,
@@ -17457,19 +17566,20 @@
   "reject_kind": "exists",
   "exists_today": "Tresorit, Proton Drive, Filen, Sync.com and Cryptomator + S3.",
   "verdict_score": null,
-  "cluster": "dropbox, s3, end, storage",
+  "cluster": "dropbox, s3, middle tier, end",
   "category": "productivity & work",
-  "signal_score": 14.42,
-  "authors": 5,
+  "signal_score": 15.45,
+  "authors": 6,
   "years": [
+   2011,
    2018,
    2020,
    2021,
    2026
   ],
-  "pay_signals": 4.5,
-  "avg_intensity": 3.4,
-  "mentions": 5,
+  "pay_signals": 5.5,
+  "avg_intensity": 3.33,
+  "mentions": 6,
   "quotes": [
    {
     "id": "16468292",
@@ -17491,6 +17601,7 @@
   "sources": [
    "16468292",
    "18137213",
+   "2076974",
    "23104665",
    "29663984",
    "47675353"
@@ -17743,7 +17854,7 @@
   "reject_kind": "exists",
   "exists_today": "GrapheneOS Contact/Storage Scopes, iOS limited contacts and photo access, and Shelter/work profiles.",
   "verdict_score": null,
-  "cluster": "permissions, sandboxed, fake, os level",
+  "cluster": "permissions, sandboxed, fake, phone",
   "category": "security & privacy",
   "signal_score": 14.39,
   "authors": 5,
@@ -18329,7 +18440,7 @@
   "reject_kind": "not_product",
   "exists_today": "arXiv, PLOS, eLife, Diamond OA journals and OpenReview.",
   "verdict_score": null,
-  "cluster": "publish, academic, open access, fees",
+  "cluster": "publish, academic, open access, research",
   "category": "education & learning",
   "signal_score": 14.24,
   "authors": 6,
@@ -18699,19 +18810,28 @@
   "reject_kind": "vague",
   "exists_today": "crossbeam/flume, Slint, egui, iced and Embassy.",
   "verdict_score": null,
-  "cluster": "rust, rust developers, gui, developers",
+  "cluster": "rust, gui, mature, rust developers",
   "category": "developer tools",
-  "signal_score": 14.19,
-  "authors": 5,
+  "signal_score": 15.22,
+  "authors": 6,
   "years": [
+   2021,
    2023,
    2024,
    2026
   ],
-  "pay_signals": 2.5,
+  "pay_signals": 3.0,
   "avg_intensity": 3.0,
-  "mentions": 5,
+  "mentions": 6,
   "quotes": [
+   {
+    "id": "28821100",
+    "author": "axegon_",
+    "year": 2021,
+    "thread": "Programming PIC32 Microcontroller with Rust",
+    "text": "A few personal takes on the microcontroller/embedded rust side: I've been fiddling a lot with the stm32 and rust over the past several months. The fact of the matter is that having rust at your disposal feels like you are given a set of high quality scalpels compared to the otherwise good old C. I mean having a package manager and easy access to third party libraries is an absolute heaven and it's a very enjoyable experience. BUT... It is enjoyable once you have everything up and running of course, which on the other hand is a huge pain in the ass. I feel like there is a gap to be filled between plugging in an embedded board and running a simple \"blink the led\" program. Unlike say an arduino",
+    "url": null
+   },
    {
     "id": "37697388",
     "author": "raincole",
@@ -18719,17 +18839,10 @@
     "thread": "Crux: Cross-platform app development in Rust",
     "text": "> UI libraries aside\n\nI mean the rest of your comment may be 100% correct but we could stop reading at this point. Obviously the biggest pain point of Rust GUI app development is UI library.",
     "url": null
-   },
-   {
-    "id": "39137317",
-    "author": "sliken",
-    "year": 2024,
-    "thread": "Unsafe at Any Speed: Tradeoffs and Values in the Rust Ecosystem",
-    "text": "So just ignore the async use cases?  Or force tokio or similar to support it?\n\nMy biggest pain point so far is channels, I like them in go because they are straight forward to use, allow concurrency, aren't a minefield of problems, and are easy to reason with.  I wanted to scan N directories (in parallel) -> encrypt and checksum in (parallel) -> queue files for upload.  With go channels it's straight forward.\n\nI was looking for MPMC (like go channels) to allow multiple producers to enqueue and multiple consumers to dequeue.  Rust doesn't do it and tokio doesn't do it.  I could use crossbeam[0], flume[1], or async[2].  Not sure what limitations those have and what if any limitations in compat",
-    "url": null
    }
   ],
   "sources": [
+   "28821100",
    "37697388",
    "39137317",
    "40177867",
@@ -18920,20 +19033,29 @@
   "reject_kind": "exists",
   "exists_today": "Linux Mint, Fedora, Pop!_OS, Bazzite and Flatpak.",
   "verdict_score": null,
-  "cluster": "distro, linux, linux distro, packages",
+  "cluster": "distro, linux distro, linux, packages",
   "category": "developer tools",
-  "signal_score": 14.16,
-  "authors": 5,
+  "signal_score": 15.19,
+  "authors": 6,
   "years": [
+   2020,
    2021,
    2023,
    2024,
    2026
   ],
-  "pay_signals": 2.5,
+  "pay_signals": 3.0,
   "avg_intensity": 3.0,
-  "mentions": 5,
+  "mentions": 6,
   "quotes": [
+   {
+    "id": "23434767",
+    "author": "nsajko",
+    "year": 2020,
+    "thread": "Linux Mint Dumps Ubuntu Snap",
+    "text": "I agree that installation requires more learning than other distros, but once you get past that I don't understand the problem. I think Arch \"just works\", too, and I don't see how Manjaro could be better in that regard considering it is closely related to Arch. BTW, you do know you don't ever need to reinstall Arch (on a single machine)?\n\nEDIT:\n\n>  I'm tired of all the tinkering. I'm tired of the additional cognitive load of all the things I have to make sure is configured right. I already waste hours of my day just getting tooling to work for whatever god awful language I have to work with that day. I just want things to work. Manjaro just works.\n\nI definitely understand that, but I feel th",
+    "url": null
+   },
    {
     "id": "26083080",
     "author": "colechristensen",
@@ -18941,17 +19063,10 @@
     "thread": "SDL Moves to GitHub",
     "text": ">This seems to sum up the biggest pain point that drives people away from OSS. Not knowledge, not skill, not price, but the total experience of a nice piece of software that lets you get the work you actually want to get done... done.\n\nThis is why I continue to be fascinated by FreeBSD, I don't use it for much but when I do, what I'm trying to do almost always works right out of the box.\n\nMy point is that is all comes down to packaging, which is done everywhere.  Docker is so popular because debian-style/rpm-style/etc packaging systems and the maintainers of said packages do a pretty uneven job of making things work without luck or fiddling (or having to have package specific knowledge about",
     "url": null
-   },
-   {
-    "id": "35378314",
-    "author": "unpopularopp",
-    "year": 2023,
-    "thread": "Switching to Fedora from Ubuntu",
-    "text": "I wish there was something like Debian (just plain boring works) but more up to date. I run Debian but certain packages are really out of date and sometimes have to tinker around. I don't like the snap in Ubuntu... Maybe Linux Mint or Debian version of Mint?",
-    "url": null
    }
   ],
   "sources": [
+   "23434767",
    "26083080",
    "35378314",
    "42556321",
@@ -19281,7 +19396,7 @@
   "reject_kind": "exists",
   "exists_today": "MakerPlace (Michaels), Folksy, Big Cartel, Not On The High Street and Zibbet.",
   "verdict_score": null,
-  "cluster": "etsy, handmade, ai shops, etsy buyers",
+  "cluster": "etsy, handmade, ai shops, artists",
   "category": "commerce & marketplaces",
   "signal_score": 14.07,
   "authors": 5,
@@ -19412,7 +19527,7 @@
   "reject_kind": "exists",
   "exists_today": "Spark, Front, Help Scout, Missive and Shift.",
   "verdict_score": null,
-  "cluster": "multiple, accounts, managing multiple, inbox",
+  "cluster": "multiple, accounts, managing multiple, managing",
   "category": "communication & social",
   "signal_score": 14.05,
   "authors": 5,
@@ -19640,7 +19755,7 @@
   "reject_kind": "exists",
   "exists_today": "Porkbun, Cloudflare Registrar, Namecheap and Squarespace Domains (ex-Google).",
   "verdict_score": null,
-  "cluster": "domain, domain registrar, registrar, upsells",
+  "cluster": "domain, domain registrar, upsells, registrar",
   "category": "devops & infra",
   "signal_score": 14.0,
   "authors": 5,
@@ -20234,7 +20349,7 @@
   "reject_kind": "commodity",
   "exists_today": "Freshservice, Jira Service Management, HaloITSM and Zendesk.",
   "verdict_score": null,
-  "cluster": "servicenow, servicetitan, day, fails",
+  "cluster": "servicenow, servicetitan, day, awful",
   "category": "devops & infra",
   "signal_score": 13.87,
   "authors": 5,
@@ -20410,19 +20525,24 @@
   "reject_kind": "exists",
   "exists_today": "Vellum, Atticus, Draft2Digital, BookFunnel, Payhip and Kobo DRM-free.",
   "verdict_score": null,
-  "cluster": "authors, drm, published authors, print ready",
+  "cluster": "drm, ebooks, ebook, ebooks drm + self published, published, authors, books",
   "category": "media & content",
-  "signal_score": 13.85,
-  "authors": 4,
+  "signal_score": 19.94,
+  "authors": 11,
   "years": [
    2012,
+   2013,
+   2014,
    2017,
+   2018,
+   2020,
+   2022,
    2023,
    2025
   ],
-  "pay_signals": 5.0,
-  "avg_intensity": 3.2,
-  "mentions": 5,
+  "pay_signals": 10.5,
+  "avg_intensity": 3.25,
+  "mentions": 12,
   "quotes": [
    {
     "id": "15529456",
@@ -20433,20 +20553,27 @@
     "url": null
    },
    {
-    "id": "3427141",
-    "author": "halostatue",
-    "year": 2012,
-    "thread": "E-books Are Not That Easy",
-    "text": "I'm sending you a note via email, but…how close to print-ready are the PDFs that are generated? My wife has been working on a novel (and 90%) of a sequel that we're getting ready to self-publish through Lulu and KDP and I'm tired from the formatting hoops.\n\nWe're using Ulysses (similar to Scrivener) and exporting to Word and importing to Pages (because the epub export was somewhat disappointing compared to the Pages epub export, and Pages layout tools are more powerful than Word's) because we need both epub and 6\"x9\" (US trade) print-ready PDF. She's got a cover and a back cover. She wants to have both ebook and hardcopy, and you guys don't offer hardcopy.\n\nI don't have the time to write the",
+    "id": "18645293",
+    "author": "asicsp",
+    "year": 2018,
+    "thread": "On Self-Publishing “A Programmer’s Introduction to Mathematics”",
+    "text": "Jashmenn, I just checked it out.. good work!\n\nhow about very niche topics? I self published a book on Ruby regular expressions last month on leanpub, currently working on Python version of it. Later I plan on command line topics like grep/sed/awk/perl/etc one-liners and stuff like that (I already have lots of material on these topics as tutorials on github, need to convert to books)\n\nSelling is the biggest pain point for me",
     "url": null
    }
   ],
   "sources": [
    "15529456",
+   "18645293",
+   "25363204",
+   "33464472",
    "3427141",
    "3488533",
    "37531446",
-   "46327987"
+   "44649155",
+   "46327987",
+   "4827395",
+   "6052603",
+   "7174868"
   ]
  },
  {
@@ -20547,27 +20674,21 @@
   "reject_kind": "commodity",
   "exists_today": "Reddit Automod, BotDefense and Reddit-insight tools.",
   "verdict_score": null,
-  "cluster": "reddit, filters, subreddit, offer advanced",
+  "cluster": "moderation, reddit, filters, comment moderation",
   "category": "communication & social",
-  "signal_score": 13.82,
-  "authors": 4,
+  "signal_score": 16.0,
+  "authors": 6,
   "years": [
+   2009,
    2011,
+   2021,
    2025,
    2026
   ],
-  "pay_signals": 3.5,
+  "pay_signals": 5.0,
   "avg_intensity": 3.0,
-  "mentions": 4,
+  "mentions": 6,
   "quotes": [
-   {
-    "id": "2929390",
-    "author": "parfe",
-    "year": 2011,
-    "thread": "Reddit Traffic has Exploded in 12 Months",
-    "text": "Too bad.  The voting system isn't as robust as it needs to be for me to use the site on a regular basis anymore.  Too many of the top rated threads are jokes, puns, or stupid questions.\n\nModerating by category made slashdot comments useful.  In the user profile, setting all \"Funny\" moderated comments to -5 eliminated all the \"In Soviet Russia\" jokes.  Repeated comments were marked redundant etc.\n\nReddit has become quite popular and as a result the comments have become less interesting and more populist.  While it's great for the staff to run a successful site, the newfound popularity has pushed me away, and just as they released the Gold accounts as well.\n\nI'd pay for a gold account if it ga",
-    "url": null
-   },
    {
     "id": "rd_od35utd",
     "author": "reddit:new-freckle",
@@ -20575,10 +20696,20 @@
     "thread": "r/PropertyManagement: Anyone want to be a mod?",
     "text": "lol i was just pondering today how much i'd pay for an automod to detect & block all the chatgpt sales posts. there's so many and people don't use the report button near enough",
     "url": "https://www.reddit.com/r/PropertyManagement/comments/1s6hc6y/_/od35utd/"
+   },
+   {
+    "id": "rd_nypji2e",
+    "author": "reddit:Spare-Might-9720",
+    "year": 2026,
+    "thread": "r/SaaS: The \"find what to build\" problem - is there actually a market for this?",
+    "text": "This is 100% a real gap, but the value lives way past “scraping” and into “decision support.” Your workflow idea is solid if it helps me go from noise → 3-5 sharp problem bets I can actually validate this week.\n\n\n\nStuff I’d pay for:\n\n\\- Opinionated filters: show me problems where people mention workflows, budget, tools they tried, and why they failed. That’s closer to “I’ll pay” than generic venting.\n\n\\- Founder-fit scoring: let me plug in my stack, domain experience, and network, then rank ideas by how fast I could ship v1 and get 10 interviews.\n\n\\- Next-step generator: auto-draft outreach messages and interview scripts for those exact threads/users.\n\n\n\nI’ve hacked this together with GummyS",
+    "url": "https://www.reddit.com/r/SaaS/comments/1q8m73z/_/nypji2e/"
    }
   ],
   "sources": [
+   "28692582",
    "2929390",
+   "863364",
    "rd_nc01ua9",
    "rd_nypji2e",
    "rd_od35utd"
@@ -20987,7 +21118,7 @@
   "reject_kind": "exists",
   "exists_today": "Synder, A2X for Stripe, the QuickBooks Stripe app and Xero bank feeds.",
   "verdict_score": null,
-  "cluster": "stripe, paid plugin, plugin, transactions",
+  "cluster": "stripe, paid plugin, plugin, paid",
   "category": "finance & money",
   "signal_score": 13.77,
   "authors": 4,
@@ -22274,7 +22405,7 @@
   "reject_kind": "commodity",
   "exists_today": "Angi, Thumbtack, Frontdoor, Nextdoor referrals and Checkatrade (UK).",
   "verdict_score": null,
-  "cluster": "homeowners, contractors, work, quality",
+  "cluster": "homeowners, contractors, work, ghosted",
   "category": "consumer & home",
   "signal_score": 13.28,
   "authors": 3,
@@ -23474,18 +23605,18 @@
   "reject_kind": "exists",
   "exists_today": "Rocket Money, Apple and Google renewal notices, Privacy.com and bank alerts.",
   "verdict_score": null,
-  "cluster": "consumers, subscription, auto, subscriptions",
+  "cluster": "consumers, subscription, subscriptions, auto",
   "category": "finance & money",
-  "signal_score": 13.0,
-  "authors": 4,
+  "signal_score": 14.19,
+  "authors": 5,
   "years": [
    2019,
    2025,
    2026
   ],
-  "pay_signals": 2.0,
+  "pay_signals": 2.5,
   "avg_intensity": 3.0,
-  "mentions": 4,
+  "mentions": 5,
   "quotes": [
    {
     "id": "rd_p47nzed",
@@ -23507,6 +23638,7 @@
   "sources": [
    "20466018",
    "45923961",
+   "rd_nkk4u2g",
    "rd_owasarr",
    "rd_p47nzed"
   ]
@@ -23518,7 +23650,7 @@
   "reject_kind": "niche",
   "exists_today": "Eval suites (Braintrust, Promptfoo) and community trackers.",
   "verdict_score": null,
-  "cluster": "model, quality, models, subtle",
+  "cluster": "model, models, quality, subtle",
   "category": "AI & ML tooling",
   "signal_score": 12.99,
   "authors": 4,
@@ -23735,38 +23867,43 @@
   "reject_kind": "niche",
   "exists_today": "UtiliSync, Procore, Buildertrend and Jobber.",
   "verdict_score": null,
-  "cluster": "contractors, contractors spend, hours, bids",
+  "cluster": "contractors, lose, contractors lose, lose track",
   "category": "SMB & back-office",
-  "signal_score": 12.74,
-  "authors": 3,
+  "signal_score": 15.85,
+  "authors": 5,
   "years": [
+   2014,
+   2025,
    2026
   ],
-  "pay_signals": 2.0,
-  "avg_intensity": 4.0,
-  "mentions": 3,
+  "pay_signals": 4.0,
+  "avg_intensity": 3.67,
+  "mentions": 6,
   "quotes": [
    {
-    "id": "rd_o5qai46",
-    "author": "reddit:811spotter",
-    "year": 2026,
-    "thread": "r/Contractor: Anyone else feel like working in trades are more decisions than labor?",
-    "text": "You're not wrong and the fact that you're seeing this a year and a half in means you're paying attention. The decision-making side is absolutely what separates the guys who stay busy and profitable from the ones who work their asses off and still barely break even.\n\nThe resistance to changing systems thing is something we see constantly with our contractors in the 811 and utility compliance space. Guys will spend 10 hours a week manually tracking locate tickets in spreadsheets or truck folders, lose half a day when a ticket expires because nobody caught it, and still resist switching to something better because \"this is how we've always done it.\" Meanwhile that one missed expiration costs th",
-    "url": "https://www.reddit.com/r/Contractor/comments/1r51w09/_/o5qai46/"
+    "id": "8540025",
+    "author": "vic_nyc",
+    "year": 2014,
+    "thread": "Why talent agents for engineers don’t exist",
+    "text": "I wish agents existed, at least for the contract market. Once a contract is finished, it could take a while until one finds the next gig, so having an agent would definitely help. A dream of mine was (before getting married and 'settling down') to be able to work contracts 6-9 months of the year, and to travel the rest. Temporary contract work would be ideal for that scenario.\n\nI understand why the recruiting market is skewed in favor of recruiters and companies, yet I wish there was a bit more quality for engineers. In my 10+ years in IT, I have only met one reliable recruiter - someone I could call upon when I had a need, and who knew my background and skills. 99% would forget about me as ",
+    "url": null
    },
    {
-    "id": "rd_o8g9bft",
-    "author": "reddit:Top-Soft7778",
+    "id": "rd_ph9qzd8",
+    "author": "reddit:Individual_Excuse390",
     "year": 2026,
-    "thread": "r/Contractor: Bidding on jobs",
-    "text": "We would spend hours every week trying to create, send, and track our bids. We lost 3 jobs in 1 month bc we were late to get our bid in. So now we use ZippyBidz, and it’s changed everything.",
-    "url": "https://www.reddit.com/r/Contractor/comments/1ofqwrw/_/o8g9bft/"
+    "thread": "r/SaaS: What website would you actually pay for?",
+    "text": "I'd pay for a site that actually fixes the nightmare of organizing construction material orders and deliveries. My supplier sends a text, my foreman writes it on a scrap of paper, and somehow three weeks later I'm missing 200 feet of baseboard and nobody knows why\n\n  \nSomething that tracks what was ordered, what showed up, and what's still missing without making me click through seventeen screens. Just a dead simple interface I can check while eating lunch in my truck\n\n  \nMost project management tools are built for tech companies and they feel like it. Give me something that works with how trades actually operate and I'd hand over 1000 rupees a month without blinking",
+    "url": "https://www.reddit.com/r/SaaS/comments/1x850qy/_/ph9qzd8/"
    }
   ],
   "sources": [
+   "8540025",
+   "rd_n9l25vg",
    "rd_o5qai46",
    "rd_o8g9bft",
-   "rd_o9jxivp"
+   "rd_o9jxivp",
+   "rd_ph9qzd8"
   ]
  },
  {
@@ -24503,7 +24640,7 @@
   "reject_kind": "commodity",
   "exists_today": "Ramp, Brex, Airwallex, Payhawk and Pleo.",
   "verdict_score": null,
-  "cluster": "expensify, cards, needing multi, teams needing",
+  "cluster": "expensify, cards, international teams, needing multi",
   "category": "finance & money",
   "signal_score": 12.38,
   "authors": 3,
@@ -26697,17 +26834,19 @@
   "reject_kind": "commodity",
   "exists_today": "StreetEasy, Zillow, Apartments.com and Zumper.",
   "verdict_score": null,
-  "cluster": "apartment hunting, apartment, hunting, researching",
+  "cluster": "apartment, apartment hunting, hunting, sf",
   "category": "consumer & home",
-  "signal_score": 11.91,
-  "authors": 3,
+  "signal_score": 14.33,
+  "authors": 5,
   "years": [
+   2009,
+   2012,
    2022,
    2025
   ],
-  "pay_signals": 1.5,
-  "avg_intensity": 3.67,
-  "mentions": 3,
+  "pay_signals": 2.5,
+  "avg_intensity": 3.6,
+  "mentions": 5,
   "quotes": [
    {
     "id": "30969270",
@@ -26728,7 +26867,9 @@
   ],
   "sources": [
    "30969270",
+   "3881146",
    "45820233",
+   "699867",
    "rd_mes0qoa"
   ]
  },
@@ -27665,36 +27806,38 @@
   "reject_kind": "commodity",
   "exists_today": "Superhuman reminders, Rocket Money and Notion Mail.",
   "verdict_score": null,
-  "cluster": "follow ups, ups, follow, summarizes",
+  "cluster": "tracks, follow ups, ups, follow",
   "category": "productivity & work",
-  "signal_score": 11.67,
-  "authors": 3,
+  "signal_score": 13.0,
+  "authors": 4,
   "years": [
+   2011,
    2025,
    2026
   ],
-  "pay_signals": 1.5,
+  "pay_signals": 2.0,
   "avg_intensity": 3.0,
-  "mentions": 3,
+  "mentions": 4,
   "quotes": [
    {
-    "id": "rd_nkk4u2g",
-    "author": "reddit:abhimanyu_saharan",
-    "year": 2025,
-    "thread": "r/SaaS: Launched in a saturated market anyway. Just hit 10 paid users in 30 days",
-    "text": "It's a nice concept but I as a user who can afford to pay and forget, I don't need another tracker where I've to manually input and make changes everytime something changes. One feature I wish any tracker that does this had a email scanner to find the subscriptions and auto add and then send me reminders, that's what I would pay for",
-    "url": "https://www.reddit.com/r/SaaS/comments/1oc0yaq/_/nkk4u2g/"
+    "id": "2772365",
+    "author": "yequalsx",
+    "year": 2011,
+    "thread": "How the movie studios caused Netflix’s problems",
+    "text": "I like the idea you have there.  I wish there was a service that would keep track of predictions by politicians, pundits, and other notable figures. Maybe then people would realize that a lot of people on TV(radio) are only randomly saying something reasonable.",
+    "url": null
    },
    {
-    "id": "rd_nr7w18d",
-    "author": "reddit:GetNachoNacho",
-    "year": 2025,
-    "thread": "r/SaaS: What real problems do you wish tech/SAAS Tool  would fix in your daily life?",
-    "text": "Honestly, I wish there was a simple tool that handled all the tiny admin tasks we forget scheduling, follow ups, reminders, small repetitive messages. Half of daily stress comes from micro tasks we don’t even notice piling up. A tool that automates real life friction would be an instant yes from me.",
-    "url": "https://www.reddit.com/r/SaaS/comments/1p81oxo/_/nr7w18d/"
+    "id": "rd_oc2gtcg",
+    "author": "reddit:youroffrs",
+    "year": 2026,
+    "thread": "r/SaaS: What's one thing you do manually every week that you genuinely wish was automated?",
+    "text": "Manually chasing follow ups and status updates across emails and chats, would love a tool that automatically tracks, reminds and summarizes them in one place.",
+    "url": "https://www.reddit.com/r/SaaS/comments/1s1pldh/_/oc2gtcg/"
    }
   ],
   "sources": [
+   "2772365",
    "rd_nkk4u2g",
    "rd_nr7w18d",
    "rd_oc2gtcg"
@@ -28169,26 +28312,19 @@
   "reject_kind": "exists",
   "exists_today": "DNSimple, Cloudflare, DNSControl/OctoDNS and DNS monitoring services.",
   "verdict_score": null,
-  "cluster": "dns, dnssec, nightmare, unexpected",
+  "cluster": "dns, dnssec, nightmare, records",
   "category": "devops & infra",
-  "signal_score": 11.67,
-  "authors": 3,
+  "signal_score": 13.0,
+  "authors": 4,
   "years": [
+   2013,
    2025,
    2026
   ],
-  "pay_signals": 1.5,
+  "pay_signals": 2.0,
   "avg_intensity": 3.0,
-  "mentions": 3,
+  "mentions": 4,
   "quotes": [
-   {
-    "id": "50212166",
-    "author": "tptacek",
-    "year": 2026,
-    "thread": "eMudhra ignored Mozilla Root investigation deadline; blames social media",
-    "text": "(1) Because it doesn't actually solve the problem. The registry operator for .COM is not historically trustworthy either.\n\n(2) Because DNSSEC is a nightmare to deploy. Leaving the IANIX-type operational stuff aside, it doesn't work on all network paths; plenty of middleboxes freak out when they see DNS packets with DNSSEC records in them. People see this and want a best-effort system that uses DNSSEC in the majority cases where it does work, but now you have a downgradable, strippable security protocol.\n\n(3) eMudhra is being murdered by the root programs as we speak, and when they're gone all we'll remember them for is as a WebPKI incident. The WebPKI itself will continue to function and nob",
-    "url": null
-   },
    {
     "id": "rd_onmb74q",
     "author": "reddit:tdondich",
@@ -28196,10 +28332,19 @@
     "thread": "r/sysadmin: Gmail Accounts Not Receiving (Particularly CCed) Emails from Our Domain Despite DMARC Auth Positive Results",
     "text": "This kind of issue is a nightmare to catch manually. One thing worth adding to your toolkit: a DNS monitoring service that alerts you the moment any of your DNS records (SPF, DKIM, DMARC, MX) change unexpectedly or aren't aligned. We built DNS Spy for exactly this — you set up monitoring, it checks from multiple global nodes, and fires an alert the instant something shifts. Would've made this a 5-minute diagnosis instead of a rabbit hole. [dnsspy.io](http://dnsspy.io) if you want to check it out.  If I knew the domain, I'd add the monitoring myself to help you troubleshoot.  Send me a DM and I'll add it and see if we can determine a potential issue.",
     "url": "https://www.reddit.com/r/sysadmin/comments/1tkzt7l/_/onmb74q/"
+   },
+   {
+    "id": "rd_mio11c4",
+    "author": "reddit:NaturalIdiocy",
+    "year": 2025,
+    "thread": "r/sysadmin: Need a new DNS registrar",
+    "text": "\\> My work also directs clients to register with Cloudflare then delegate administrative rights back to us.\n\nThis is how the MSP I previously worked at did it, and in my mind makes the most sense. Having done acquisitions/new clients where the companies didn't actually control these accounts is a nightmare and a half.",
+    "url": "https://www.reddit.com/r/sysadmin/comments/1jcucln/_/mio11c4/"
    }
   ],
   "sources": [
    "50212166",
+   "6348806",
    "rd_mio11c4",
    "rd_onmb74q"
   ]
@@ -28635,7 +28780,7 @@
   "reject_kind": "niche",
   "exists_today": "Copyright registration, C2PA content credentials and Red Points.",
   "verdict_score": null,
-  "cluster": "copycats, original, creators, cloned",
+  "cluster": "(anchors only)",
   "category": "hardware & IoT",
   "signal_score": 11.54,
   "authors": 3,
@@ -29049,7 +29194,7 @@
   "reject_kind": "commodity",
   "exists_today": "Spellbook, Ironclad and Scribe.",
   "verdict_score": null,
-  "cluster": "contract, ai assistant, assistant, review workflows",
+  "cluster": "contract, ai assistant, assistant, contract review",
   "category": "legal & government",
   "signal_score": 11.37,
   "authors": 3,
@@ -29213,7 +29358,7 @@
   "reject_kind": "exists",
   "exists_today": "Hookdeck, Svix, AWS EventBridge and ngrok for testing.",
   "verdict_score": null,
-  "cluster": "webhook, services painful, developing, mechanism",
+  "cluster": "webhook, services painful, developing, standard http",
   "category": "developer tools",
   "signal_score": 11.37,
   "authors": 3,
@@ -29468,18 +29613,19 @@
   "reject_kind": "exists",
   "exists_today": "Prisma, Drizzle, Atlas, Supabase and Hasura.",
   "verdict_score": null,
-  "cluster": "schema, database, juniors, orm generated",
+  "cluster": "schemas, database, juniors, orm generated",
   "category": "data & analytics",
-  "signal_score": 11.26,
-  "authors": 3,
+  "signal_score": 12.52,
+  "authors": 4,
   "years": [
    2020,
    2021,
+   2022,
    2025
   ],
-  "pay_signals": 1.5,
-  "avg_intensity": 3.33,
-  "mentions": 3,
+  "pay_signals": 2.0,
+  "avg_intensity": 3.25,
+  "mentions": 4,
   "quotes": [
    {
     "id": "25088827",
@@ -29501,6 +29647,7 @@
   "sources": [
    "25088827",
    "26026481",
+   "32869228",
    "rd_nhwhdrz"
   ]
  },
@@ -29638,7 +29785,7 @@
   "reject_kind": "exists",
   "exists_today": "Longhorn, OpenEBS, Fly volumes and Neon.",
   "verdict_score": null,
-  "cluster": "storage, ceph, multi step, provisioning",
+  "cluster": "storage, ceph, chore, complexity",
   "category": "devops & infra",
   "signal_score": 11.24,
   "authors": 3,
@@ -31492,20 +31639,29 @@
   "reject_kind": "vague",
   "exists_today": "PlatformIO, MacStadium and Zephyr.",
   "verdict_score": null,
-  "cluster": "hardware apple, toolchains, hardware, chip",
+  "cluster": "toolchains, chip, develop, tooling",
   "category": "developer tools",
-  "signal_score": 13.14,
-  "authors": 6,
+  "signal_score": 13.94,
+  "authors": 7,
   "years": [
+   2017,
    2018,
    2021,
    2022,
    2023
   ],
   "pay_signals": 3.0,
-  "avg_intensity": 3.33,
-  "mentions": 6,
+  "avg_intensity": 3.43,
+  "mentions": 7,
   "quotes": [
+   {
+    "id": "15058458",
+    "author": "Uptrenda",
+    "year": 2017,
+    "thread": "What it feels like to be in the zone as a programmer",
+    "text": "Good luck ever getting in the zone if you do anything with modern blockchains (especially Ethereum.) All of the documentation is terrible and you waste hours trying to find a bug only to realise it was a problem with the library all along... Assuming of course: that you don't give up after seeing the \"developer tools.\" What little tools you have for solving problems feels like you're trying to carve a delicate ice statue with a giant hammer while wearing clown gloves.\n\nHow do you deal with the related stress of having to struggle against needlessly difficult tools, libraries, documentation, and bugs caused by other people?",
+    "url": null
+   },
    {
     "id": "18297713",
     "author": "pmoriarty",
@@ -31513,17 +31669,10 @@
     "thread": "So, today, for the first time in *25* years of Apple, I downgraded",
     "text": "Middle finger to developers is right.\n\nIt's even worse for us in ops who are supporting you devs.\n\nYou want to develop on OSX, but Apple terminated their 1U server line aeons ago, so build farms and CI pipelines that are actually building all those wonderful iOS apps are forced to use racks and racks of mac minis -- a consumer-grade product not in the least suitable for enterprise use.  They've gotten worse over the years too, as last I checked their RAM is now soldered on to the motherboard so it's not even upgradable.  Cooling of these racks of mac minis is a nightmare, and it's a real waste of space as well, as there's a lot of wasted space in the racks betwen the four mac minis per U.  M",
     "url": null
-   },
-   {
-    "id": "26964796",
-    "author": "smackeyacky",
-    "year": 2021,
-    "thread": "Can you become a firmware engineer(embedded software engineer) through bootcamp?",
-    "text": "Just to expand on this a little, firmware development is hard even for experienced engineers.  My experience is with bluetooth firmware but from what I have seen the problems are pretty typical.\n\nFor starters, the tools are generally terrible compared to things like Jetbrains or vscode.  Each chip vendor has a preferred environment (i.e. Segger for Nordic stuff) or you have to buy something expensive like IAR and they all have quirks.  The Ti toolset for bluetooth stuff is a nightmare.\n\nNext, you need to be an excellent C programmer and it helps to have some experience with assembler.  You will need that for debugging.  If you struggle with pointers or memory addressing or anything like that",
-    "url": null
    }
   ],
   "sources": [
+   "15058458",
    "18297713",
    "26964796",
    "27157406",
@@ -31539,7 +31688,7 @@
   "reject_kind": "exists",
   "exists_today": "Rust interop (c2rust), Carbon, Moderne/OpenRewrite and codemods.",
   "verdict_score": null,
-  "cluster": "legacy, migrate, codebases, modern",
+  "cluster": "legacy, codebases, migrate, modern",
   "category": "developer tools",
   "signal_score": 13.12,
   "authors": 5,
@@ -31679,7 +31828,7 @@
   "reject_kind": "commodity",
   "exists_today": "Swappa, Back Market, eBay authenticity and Facebook Marketplace checkout.",
   "verdict_score": null,
-  "cluster": "items online, scammers, online, sell",
+  "cluster": "items online, scammers, online, goods",
   "category": "commerce & marketplaces",
   "signal_score": 12.98,
   "authors": 5,
@@ -32187,7 +32336,7 @@
   "reject_kind": "exists",
   "exists_today": "Chime, Revolut, Wise, Charles Schwab (free ATMs) and credit unions.",
   "verdict_score": null,
-  "cluster": "fees, bank, branch, bound",
+  "cluster": "fees, bank, bound, branch",
   "category": "finance & money",
   "signal_score": 12.68,
   "authors": 5,
@@ -32462,43 +32611,53 @@
   "reject_kind": "vague",
   "exists_today": "Glide, Softr, Expo EAS (cloud iOS builds) and AltStore.",
   "verdict_score": null,
-  "cluster": "build ios, build, ios, iphones",
+  "cluster": "ios, build ios, mac, hardware apple + coding, build, prototype, build custom",
   "category": "developer tools",
-  "signal_score": 12.48,
-  "authors": 5,
+  "signal_score": 17.11,
+  "authors": 11,
   "years": [
+   2013,
    2015,
+   2018,
    2019,
    2020,
-   2021
+   2021,
+   2022,
+   2023
   ],
-  "pay_signals": 2.5,
-  "avg_intensity": 3.4,
-  "mentions": 5,
+  "pay_signals": 6.0,
+  "avg_intensity": 3.36,
+  "mentions": 11,
   "quotes": [
    {
-    "id": "21803612",
-    "author": "swiley",
-    "year": 2019,
-    "thread": "Build APKs on Android devices with Termux",
-    "text": "I wish ish could make ipks.\n\nHeh I wish there was any decent way to make ipks without buying a Macintosh.",
+    "id": "17191173",
+    "author": "germinalphrase",
+    "year": 2018,
+    "thread": "Media for Thinking the Unthinkable (2013)",
+    "text": "As an educator and non-programmer, I would love a \"tool for making tools\". I'm constantly introduced to new tools being made for me that don't actually solve my problems. Let me define what would make my work more efficient/effective.",
     "url": null
    },
    {
-    "id": "22389781",
-    "author": "tasogare",
-    "year": 2020,
-    "thread": "QEMU for iOS",
-    "text": "Yes, this restriction is a huge PAIN. Back in my Windows Phone days, I ran development builds in addition to the store versions of my apps as dog fooding, or even just prototypes I never finished. Now I have this kind of apps on a secondary Android phone, but no iOS apps despite using macOS and having iPhone a main phone. Apple is really shitting on developers and hobbyists.",
+    "id": "18297713",
+    "author": "pmoriarty",
+    "year": 2018,
+    "thread": "So, today, for the first time in *25* years of Apple, I downgraded",
+    "text": "Middle finger to developers is right.\n\nIt's even worse for us in ops who are supporting you devs.\n\nYou want to develop on OSX, but Apple terminated their 1U server line aeons ago, so build farms and CI pipelines that are actually building all those wonderful iOS apps are forced to use racks and racks of mac minis -- a consumer-grade product not in the least suitable for enterprise use.  They've gotten worse over the years too, as last I checked their RAM is now soldered on to the motherboard so it's not even upgradable.  Cooling of these racks of mac minis is a nightmare, and it's a real waste of space as well, as there's a lot of wasted space in the racks betwen the four mac minis per U.  M",
     "url": null
    }
   ],
   "sources": [
+   "17191173",
+   "18297713",
    "21803612",
    "22389781",
    "24038785",
    "27553216",
-   "9154462"
+   "30923990",
+   "36533778",
+   "5439411",
+   "9154462",
+   "9608880"
   ]
  },
  {
@@ -32645,7 +32804,7 @@
   "reject_kind": "commodity",
   "exists_today": "Republic, Wefunder, revenue-based financing (Pipe, Clearco) and angel syndicates.",
   "verdict_score": null,
-  "cluster": "raise, funding, crowdfund, pitches",
+  "cluster": "raise, funding, pitches, funded",
   "category": "finance & money",
   "signal_score": 12.28,
   "authors": 5,
@@ -32736,19 +32895,20 @@
   "reject_kind": "commodity",
   "exists_today": "Substack, Medium Partner Program, Ghost and Beehiiv.",
   "verdict_score": null,
-  "cluster": "writers, platform pays, publish, pays",
+  "cluster": "platform pays, writers, pays, freelance writers + publishing, articles, discoverability, writer",
   "category": "media & content",
-  "signal_score": 12.28,
-  "authors": 5,
+  "signal_score": 13.28,
+  "authors": 6,
   "years": [
    2012,
+   2014,
    2019,
    2020,
    2023
   ],
-  "pay_signals": 2.5,
-  "avg_intensity": 3.2,
-  "mentions": 5,
+  "pay_signals": 3.0,
+  "avg_intensity": 3.17,
+  "mentions": 6,
   "quotes": [
    {
     "id": "20110723",
@@ -32772,7 +32932,8 @@
    "21173194",
    "25012873",
    "34744157",
-   "3828552"
+   "3828552",
+   "7350692"
   ]
  },
  {
@@ -33089,6 +33250,620 @@
    "24619355",
    "25559289",
    "25577134"
+  ]
+ },
+ {
+  "name": "Per-episode podcast payments",
+  "one_liner": "Served",
+  "rejected": true,
+  "reject_kind": "exists",
+  "exists_today": "Patreon, Apple Podcasts Subscriptions, Spotify paid podcasts and Podcasting 2.0 Value4Value apps (Fountain).",
+  "verdict_score": null,
+  "cluster": "podcast, listeners, podcasts, patreon",
+  "category": "media & content",
+  "signal_score": 14.21,
+  "authors": 6,
+  "years": [
+   2012,
+   2019,
+   2022,
+   2023
+  ],
+  "pay_signals": 6.5,
+  "avg_intensity": 3.14,
+  "mentions": 7,
+  "quotes": [
+   {
+    "id": "20470461",
+    "author": "jfengel",
+    "year": 2019,
+    "thread": "Have We Hit Peak Podcast?",
+    "text": "I feel like there's a gap in the \"tip jar\" market. I have a lot of podcasts for which I'd happily pay about 10 to 25 cents per episode, but it's not trivial to do. If it were, it would take a few thousand people to do so -- which isn't a small audience, but not enormous.\n\nCurrently there's a voluntary \"if you like us, find us on Patreon\". Even being able to provide a \"connect to Patreon\" button on the screen would be a boost. UX and web site designers are well aware of how many people you lose with each step. Such a button could also auto-switch to the ad-free stream; I once paid for the upgrade but managing the different feed was a pain.\n\nI'm still using Pocket Casts, so it's possible that ",
+    "url": null
+   },
+   {
+    "id": "31043038",
+    "author": "jfengel",
+    "year": 2022,
+    "thread": "Ask HN: What Patreons / Substacks do you pay for?",
+    "text": "A whole passel of podcasts, to the tune of about $70 per month.\n\nIt's only a small fraction of the podcasts I listen to. Most are ad supported (and occasionally I buy the advertised products; I'm looking forward to another FuegoBox momentarily). I also listen to a fair bit of BBC radio.\n\nI download about 30 hours of podcasts per week. Between PocketCasts features (skip opening, speedup, silence elimination) and skipping episodes I don't care about (reruns, news I've heard elsewhere, dull topics), I probably spend ~10 hours per week listening.\n\nI wish there were a more direct way to connect the podcast to the Patreon. Many put links in the text, but I usually don't read that. I will pay atten",
+    "url": null
+   }
+  ],
+  "sources": [
+   "20470461",
+   "31043038",
+   "33082570",
+   "35056572",
+   "4164296",
+   "4259475",
+   "4977210"
+  ]
+ },
+ {
+  "name": "Pay-without-tracking services",
+  "one_liner": "Mixed asks with no shared workflow",
+  "rejected": true,
+  "reject_kind": "vague",
+  "exists_today": "Stripe Payment Links, Lemon Squeezy and Kagi-style paid services.",
+  "verdict_score": null,
+  "cluster": "creating, monetize, won, data harvesting",
+  "category": "security & privacy",
+  "signal_score": 14.12,
+  "authors": 5,
+  "years": [
+   2016,
+   2017,
+   2020,
+   2021,
+   2025
+  ],
+  "pay_signals": 3.5,
+  "avg_intensity": 3.2,
+  "mentions": 5,
+  "quotes": [
+   {
+    "id": "11627021",
+    "author": "kolinko",
+    "year": 2016,
+    "thread": "21 Makes Bitcoin Useful to Developers",
+    "text": "Right now, developing your own paid rest service is a huge pain in the ass. You have to sign up to process credit card payments / paypal, manage sales and so on.\n\nBecause of that it's possible that many people don't consider building them (and some people do it for free, but it's another matter).\n\nIf there is a simple system to charge for such services, we might soon see a situation in which there are literally thousands of available services. And it's not a choice between using CC and using Bitcoin, but a choice between using the few services that handle CCs, or a plethora of services that use bitcoin.",
+    "url": null
+   },
+   {
+    "id": "rd_nrvznaj",
+    "author": "reddit:Twit_Clamantis",
+    "year": 2025,
+    "thread": "r/Entrepreneur: Building a more “exclusive” Reddit. Referral only. Filter out the bots. Good or bad idea?",
+    "text": "I’m sorry but “insight into brands” sounds like info harvesting and the flip side of my being willing to pay for a platform is that I want ZERO harvesting, ZERO commerce, ZERO EVERYTHING.\n\nFigure out what the price would have to be to make it profitable under those constraints, and you *might* have a new type of business that the world desperately needs.\n\nBut if you try to fiddle around the margins you will have nothing and nobody.\n\nYour motto (for doing this) should be WWLRD?\n\n(What Would Louis Rossman Do?) \n\nIf LD would approve, you’re good. If not, it’s all 2 shites in a trenchcoat.\n\nhttps://m.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1pc7xwe/_/nrvznaj/"
+   }
+  ],
+  "sources": [
+   "11627021",
+   "15215617",
+   "25405867",
+   "29706128",
+   "rd_nrvznaj"
+  ]
+ },
+ {
+  "name": "Easy self-hosting",
+  "one_liner": "Mixed asks with no shared workflow",
+  "rejected": true,
+  "reject_kind": "vague",
+  "exists_today": "Umbrel, CasaOS, YunoHost, Tailscale Funnel and Cloudflare Tunnel.",
+  "verdict_score": null,
+  "cluster": "self, self hosting, hosting, self hosted",
+  "category": "devops & infra",
+  "signal_score": 13.63,
+  "authors": 5,
+  "years": [
+   2018,
+   2022,
+   2024
+  ],
+  "pay_signals": 2.5,
+  "avg_intensity": 3.2,
+  "mentions": 5,
+  "quotes": [
+   {
+    "id": "18435304",
+    "author": "mStreamTeam",
+    "year": 2018,
+    "thread": "Show HN: HomelabOS – Ansible scripts to deploy self hosted cloud services",
+    "text": "I'm a developer who's been taking a crack at the convenience problem of selfhosting.  I've been hosting my own services with various success for the last few years, and maintenance has never been an issue.  Once the software is running, it's pretty trivial to update it.\n\nThe biggest pain point is installation.  Most selfhosted software has a ton of dependencies to install first.  And after that there's usually some configuration that has to be done before it will work.  A complicated installation is enough to drive even tech savy users away.\n\nI've had some luck with my own software by targeting Windows users as well.  Most people don't want to setup a linux box just to selfhost a single piec",
+    "url": null
+   },
+   {
+    "id": "rd_lyes52g",
+    "author": "reddit:eirc",
+    "year": 2024,
+    "thread": "r/devops: Why is setting up grafana loki prometheus and open telemetry so hard?",
+    "text": "Probably to sell you the hosted version. We only wanted tracing from all this and to set it up on AWS ECS with fargate. It was a huge pain. There was no easy to even understand what each freaking service does and if I need it or not. I mostly was just yoloing it, smashing stuff against the wall and seeing what works. Docs are a joke.",
+    "url": "https://www.reddit.com/r/devops/comments/1gx26rr/_/lyes52g/"
+   }
+  ],
+  "sources": [
+   "18435304",
+   "30257467",
+   "33455952",
+   "41033187",
+   "rd_lyes52g"
+  ]
+ },
+ {
+  "name": "Browser extension vetting",
+  "one_liner": "Served",
+  "rejected": true,
+  "reject_kind": "exists",
+  "exists_today": "Spin.ai, LayerX, Island and Chrome Enterprise extension risk policies.",
+  "verdict_score": null,
+  "cluster": "extensions, extension, chrome, review",
+  "category": "security & privacy",
+  "signal_score": 13.34,
+  "authors": 4,
+  "years": [
+   2011,
+   2020,
+   2021,
+   2025
+  ],
+  "pay_signals": 3.0,
+  "avg_intensity": 3.5,
+  "mentions": 4,
+  "quotes": [
+   {
+    "id": "22065234",
+    "author": "factsaresacred",
+    "year": 2020,
+    "thread": "Google is finally killing off Chrome apps, which nobody really used",
+    "text": "Probably as good a place as any to highlight how broken the Chrome extension approval process has become over the last month or so.\n\nUpdates that would take an hour now take up to 10 days, including minor updates like a change to an extension's description.\n\nHaving your deployment date be determined by one of Google's algorithms is ulcer-inducing.\n\nAnd the support is...well, see for yourself: https://groups.google.com/a/chromium.org/forum/#!forum/chrom...\n\nThey can fix this. G Suite support is fine. I would pay for this process not to suck.",
+    "url": null
+   },
+   {
+    "id": "rd_nedyok2",
+    "author": "reddit:Frothyleet",
+    "year": 2025,
+    "thread": "r/sysadmin: Controlling Chrome extensions in schools?",
+    "text": "A better way to frame your original question would be, \"is there a tool or service for evaluating the security and functionality of any given Chromium extension?\"",
+    "url": "https://www.reddit.com/r/sysadmin/comments/1nhj9pz/_/nedyok2/"
+   }
+  ],
+  "sources": [
+   "22065234",
+   "27327991",
+   "2899494",
+   "rd_nedyok2"
+  ]
+ },
+ {
+  "name": "Pay sites instead of seeing ads",
+  "one_liner": "Tried repeatedly",
+  "rejected": true,
+  "reject_kind": "exists",
+  "exists_today": "Brave Rewards, Google Contributor (shut down), Scroll (acquired) and Flattr.",
+  "verdict_score": null,
+  "cluster": "ad, ad networks, publishers, networks",
+  "category": "media & content",
+  "signal_score": 13.19,
+  "authors": 5,
+  "years": [
+   2013,
+   2015,
+   2017,
+   2019
+  ],
+  "pay_signals": 4.0,
+  "avg_intensity": 3.4,
+  "mentions": 5,
+  "quotes": [
+   {
+    "id": "10241142",
+    "author": "Filligree",
+    "year": 2015,
+    "thread": "Just doesn’t feel good",
+    "text": "I'm signed up for Contributor. I blacklist ads on every site where I see them, which is most of them; as far as I can tell, this also stops Contributor from working on those sites.\n\nSeriously. Take my money. But you don't get to show me ads. And I'm not going to bow out of visiting those sites; that would almost cut me off from the internet entirely.",
+    "url": null
+   },
+   {
+    "id": "14095001",
+    "author": "Ironchefpython",
+    "year": 2017,
+    "thread": "We’re dropping Google Ads",
+    "text": "> the problem turns out to be, people don't want to pay, not even that tiny amount.\n\nNo, the problem is it didn't work with adblockers.  I really want to pay for the content I read, I just am not willing to risk being outbid on the chance to view a page without spam by someone trying to deliver malware.\n\nMy current solution is to buy pre-paid visa cards to pay for online news subscriptions, which is a huge pain, but necessary after finding out that newspapers will continue to charge even expired or cancelled credit cards. Even after I explicitly cancelled a credit card to try to stop recurring billing, the credit card company will helpfully keep accepting those charges.\n\nI'm desperately look",
+    "url": null
+   }
+  ],
+  "sources": [
+   "10241142",
+   "14095001",
+   "20276552",
+   "5946711",
+   "9696428"
+  ]
+ },
+ {
+  "name": "Paid short mentor sessions",
+  "one_liner": "Served",
+  "rejected": true,
+  "reject_kind": "exists",
+  "exists_today": "Clarity.fm, MentorCruise, Intro.co and GrowthMentor.",
+  "verdict_score": null,
+  "cluster": "experienced, sessions, founders, short",
+  "category": "other",
+  "signal_score": 12.21,
+  "authors": 3,
+  "years": [
+   2012,
+   2025,
+   2026
+  ],
+  "pay_signals": 2.5,
+  "avg_intensity": 3.0,
+  "mentions": 3,
+  "quotes": [
+   {
+    "id": "3796312",
+    "author": "sargun",
+    "year": 2012,
+    "thread": "Rent time with founders from Parse, Hipmunk, Sincerely and Reddit through Exec",
+    "text": "This is genius. How do you vet your experts? When is this going to release? Please take my money.",
+    "url": null
+   },
+   {
+    "id": "rd_n0eqd86",
+    "author": "reddit:Individual-Bowl4742",
+    "year": 2025,
+    "thread": "r/SaaS: Saas Founders would you pay for this?",
+    "text": "A quick yes - I'd pay for laser-focused 30-minute founder sessions if three things are locked: mentor track record, tight scope, and a concrete deliverable by the end. I bounce between [Clarity.fm](http://Clarity.fm) and GrowthMentor when I need fast advice, but the hit-or-miss quality makes me waste time explaining context. A small roster of vetted operators, each showing previous wins and sample outputs, would fix that. Price sweet spot for me is $75-$150 depending on experience; anything higher and I’d rather book a full-hour consulting slot. Let people submit a prep doc beforehand, record the call, and drop a written summary or Loom walkthrough afterward so the value feels tangible. Add ",
+    "url": "https://www.reddit.com/r/SaaS/comments/1lnc3pg/_/n0eqd86/"
+   }
+  ],
+  "sources": [
+   "3796312",
+   "47447760",
+   "rd_n0eqd86"
+  ]
+ },
+ {
+  "name": "Verifying small-business sellers",
+  "one_liner": "Mixed asks with no shared workflow",
+  "rejected": true,
+  "reject_kind": "vague",
+  "exists_today": "Quality-of-earnings firms and Acquire.com verified metrics.",
+  "verdict_score": null,
+  "cluster": "verify seller, seller, verify, buyers",
+  "category": "commerce & marketplaces",
+  "signal_score": 11.87,
+  "authors": 3,
+  "years": [
+   2017,
+   2024,
+   2026
+  ],
+  "pay_signals": 1.5,
+  "avg_intensity": 3.33,
+  "mentions": 3,
+  "quotes": [
+   {
+    "id": "14064929",
+    "author": "homero",
+    "year": 2017,
+    "thread": "After Years of Challenges, Foursquare Has Found Its Purpose, and Profits",
+    "text": "I wish there's was a Zillow for businesses. I'm trying to buy a small business but you never know if they're lying and sales are dying. And I'd buy it then go out of business.",
+    "url": null
+   },
+   {
+    "id": "rd_o34k1bg",
+    "author": "reddit:ElliottHolland",
+    "year": 2026,
+    "thread": "r/Accounting: What makes a Quality of Earnings report cost $20K, even for a simple, small business?",
+    "text": "Consider what you're betting?  Most often, the investment is over $1 million.\n\nAt that level, if you aren't an forensic accountant and the Seller knows he's getting 4x EBITDA.  He knows his EBITDA far better than you.  What happens if you think EBITDA is $1 million when it's actually $500k after a QoE?\n\n  \nYou would have paid $4 million for a business worth $2 million.\n\n  \nPrivate businesses don't have to report financials in any standard.  In 16 years, I've seen them report all over the place.\n\nI wish there was as simpler  & cheaper way.  \n\nUnfortunately, for you to know EBITDA and thus purchase price, you need a QoE (unless you want to take a huge risk!)",
+    "url": "https://www.reddit.com/r/Accounting/comments/1k4bjji/_/o34k1bg/"
+   }
+  ],
+  "sources": [
+   "14064929",
+   "39781778",
+   "rd_o34k1bg"
+  ]
+ },
+ {
+  "name": "Agency software pains",
+  "one_liner": "Mixed asks with no shared workflow",
+  "rejected": true,
+  "reject_kind": "vague",
+  "exists_today": "Agency tools like Productive.io, Teamwork, CreatorIQ and Affinity apps.",
+  "verdict_score": null,
+  "cluster": "agencies, software run, illustrator, premiere",
+  "category": "media & content",
+  "signal_score": 11.67,
+  "authors": 3,
+  "years": [
+   2025,
+   2026
+  ],
+  "pay_signals": 1.5,
+  "avg_intensity": 3.0,
+  "mentions": 3,
+  "quotes": [
+   {
+    "id": "rd_nqx6w5u",
+    "author": "reddit:rayleedc",
+    "year": 2025,
+    "thread": "r/Entrepreneur: I’m very interested in starting a staffing agency. Does anyone have any suggestions or advice for me?",
+    "text": "I’d like to know as well. Finding the software platform to run the agency has been a huge pain so far",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1c6xpw1/_/nqx6w5u/"
+   },
+   {
+    "id": "rd_nu39bf6",
+    "author": "reddit:owossome",
+    "year": 2025,
+    "thread": "r/Entrepreneur: Is there a product you pay for but hate intensely?",
+    "text": "Yeah, we still have to use illustrator and premier and I wish there was an alternative that worked for us, but yeah.",
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1pmknkq/_/nu39bf6/"
+   }
+  ],
+  "sources": [
+   "rd_nqx6w5u",
+   "rd_nu39bf6",
+   "rd_o4nsqdj"
+  ]
+ },
+ {
+  "name": "Gmail 'waiting for reply' tracking",
+  "one_liner": "Served",
+  "rejected": true,
+  "reject_kind": "exists",
+  "exists_today": "Gmail nudges, Boomerang, Superhuman reminders and Mixmax.",
+  "verdict_score": null,
+  "cluster": "reply, waiting reply, gmail waiting, tracks sent",
+  "category": "productivity & work",
+  "signal_score": 11.64,
+  "authors": 3,
+  "years": [
+   2014,
+   2025
+  ],
+  "pay_signals": 2.5,
+  "avg_intensity": 3.33,
+  "mentions": 3,
+  "quotes": [
+   {
+    "id": "7326690",
+    "author": "cjbarber",
+    "year": 2014,
+    "thread": "A Request for a Startup: Gmail 'Waiting For Reply' Tab",
+    "text": "Anyone want to take my money? :) I'll front a payment for the first month right now! (Serious)",
+    "url": null
+   },
+   {
+    "id": "rd_n4v6l87",
+    "author": "reddit:Chance_Pair_6807",
+    "year": 2025,
+    "thread": "r/smallbusiness: What tool or service is missing that you’d actually pay for if someone built it right?",
+    "text": "I’d pay for a tool that automatically sends casual email follow-ups if someone doesn’t reply in a set time.",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1m7ypsj/_/n4v6l87/"
+   }
+  ],
+  "sources": [
+   "7326690",
+   "7327223",
+   "rd_n4v6l87"
+  ]
+ },
+ {
+  "name": "Health insurance for small teams",
+  "one_liner": "Served",
+  "rejected": true,
+  "reject_kind": "exists",
+  "exists_today": "ICHRA providers (Thatch, Take Command), Gusto benefits and Justworks PEO.",
+  "verdict_score": null,
+  "cluster": "health, health insurance, insurance, small",
+  "category": "health & fitness",
+  "signal_score": 11.57,
+  "authors": 3,
+  "years": [
+   2011,
+   2025
+  ],
+  "pay_signals": 1.5,
+  "avg_intensity": 3.33,
+  "mentions": 3,
+  "quotes": [
+   {
+    "id": "3338667",
+    "author": "dylanhassinger",
+    "year": 2011,
+    "thread": "Ask HN: small startups, what do you use for health insurance? ",
+    "text": "Sounds to me like this is an area ripe for disruption. Next YC semester should include a startup that sells health insurance to its peers...",
+    "url": null
+   },
+   {
+    "id": "rd_nohnjgq",
+    "author": "reddit:riskyjbell",
+    "year": 2025,
+    "thread": "r/smallbusiness: Health insurance benefits seem impossibly expensive. What am I missing?",
+    "text": "This is a huge pain in the rear.  Unfortunately the attempt with Bamacare has made things more expensive.  Not sure how that is possible.  Your company is too small to get any type of decent pricing.  We had to reach 100 employees before we could get a partially self-funded plan.  It's still very expensive.  In the meantime, the best you can do is give folks a monthly stipend to purchase on the open marketplace.  We all need to scream for some reform.  Throwing more money at the insurance companies is obviously not working.",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1ov93ip/_/nohnjgq/"
+   }
+  ],
+  "sources": [
+   "3338667",
+   "rd_nha9v91",
+   "rd_nohnjgq"
+  ]
+ },
+ {
+  "name": "Shipping and address problems",
+  "one_liner": "Mixed asks with no shared workflow",
+  "rejected": true,
+  "reject_kind": "vague",
+  "exists_today": "Shippo, Smarty address validation and Signifyd.",
+  "verdict_score": null,
+  "cluster": "shipping, shipping addresses, addresses, merchants",
+  "category": "travel & local",
+  "signal_score": 11.54,
+  "authors": 3,
+  "years": [
+   2015,
+   2025,
+   2026
+  ],
+  "pay_signals": 1.5,
+  "avg_intensity": 3.0,
+  "mentions": 3,
+  "quotes": [
+   {
+    "id": "43786275",
+    "author": "dheera",
+    "year": 2025,
+    "thread": "I wrote to the address in the GPLv2 license notice (2022)",
+    "text": "It's lining up multiple times. When I walk in with a box, I don't know how the hell to mail it, what to fill out, what the pricing vs. delivery ETA grid is so I can decide where I want to position myself on that curve, the different forms you need to fill to be on different parts of that curve.\n\nI usually end up screwing it up a few times in the process too. I didn't realize that the free boxes they give you are only for 2 day service (and doesn't work for 1 day or 3 day). 1 day is a different box, 3 day is bring-your-own-box.\n\nThe pens they provide don't work, you have to line up to get a pen. You have to line up to ask a question. The workers are grumpy, the people in line are grumpy, I've",
+    "url": null
+   },
+   {
+    "id": "rd_o10gws4",
+    "author": "reddit:Final-Economist7447",
+    "year": 2026,
+    "thread": "r/ecommerce: Customer's Screwing Up Shipping Address",
+    "text": "This is actually genius - the automation part especially. Been dealing with customers putting \"123 Main St\" when they meant \"123 Main St Apt 2B\" and it's such a pain to catch manually\n\n  \nHow's the Google Maps API cost working out for you with higher volume orders?",
+    "url": "https://www.reddit.com/r/ecommerce/comments/1qjowgg/_/o10gws4/"
+   }
+  ],
+  "sources": [
+   "43786275",
+   "9015021",
+   "rd_o10gws4"
+  ]
+ },
+ {
+  "name": "Finding designers and developers",
+  "one_liner": "Mixed asks with no shared workflow",
+  "rejected": true,
+  "reject_kind": "vague",
+  "exists_today": "Toptal, Contra, Code for America and Zeplin for design QA.",
+  "verdict_score": null,
+  "cluster": "designers, pain, finding right, ux open",
+  "category": "developer tools",
+  "signal_score": 11.54,
+  "authors": 3,
+  "years": [
+   2014,
+   2024,
+   2025
+  ],
+  "pay_signals": 1.5,
+  "avg_intensity": 3.0,
+  "mentions": 3,
+  "quotes": [
+   {
+    "id": "7162091",
+    "author": "chestnut-tree",
+    "year": 2014,
+    "thread": "OpenHatch – Find open source projects to contribute to; find mentors",
+    "text": "This is a great initiative. I wish there was a site that could match designers or UX people with open source projects. I am surprised that something like this doesn't exist. Are these two camps a little bit weary or suspicious of each other?",
+    "url": null
+   },
+   {
+    "id": "rd_n7e8nnt",
+    "author": "reddit:Living-Bandicoot9293",
+    "year": 2025,
+    "thread": "r/SaaS: How to Hire and Manage Outsourced/Offshore Developers",
+    "text": "For real, finding the right devs is a huge pain. Would love to know what rates you usually consider per hour for projects like this.",
+    "url": "https://www.reddit.com/r/SaaS/comments/1mj7msx/_/n7e8nnt/"
+   }
+  ],
+  "sources": [
+   "7162091",
+   "rd_m3imqmg",
+   "rd_n7e8nnt"
+  ]
+ },
+ {
+  "name": "Indie maker distribution",
+  "one_liner": "Mixed asks with no shared workflow",
+  "rejected": true,
+  "reject_kind": "vague",
+  "exists_today": "Gumroad, Paddle, Lemon Squeezy and Tindie.",
+  "verdict_score": null,
+  "cluster": "products, copycats, cloned, value",
+  "category": "other",
+  "signal_score": 10.93,
+  "authors": 3,
+  "years": [
+   2011,
+   2022,
+   2025
+  ],
+  "pay_signals": 1.5,
+  "avg_intensity": 3.0,
+  "mentions": 3,
+  "quotes": [
+   {
+    "id": "2213325",
+    "author": "nhangen",
+    "year": 2011,
+    "thread": "What do you use for product delivery (software)?",
+    "text": "Addition:\n\nAs I was thinking about it, why isn't there a Bandcamp.com for software?\n\nSome of the things I'd like to handle are:\n\n1. Updates (email list)\n2. Storage\n3. Integrated shopping cart (like Big Cartel or Storenvy)\n4. Tied to Mailchimp's API",
+    "url": null
+   },
+   {
+    "id": "rd_n4ptnkr",
+    "author": "reddit:r8ings",
+    "year": 2025,
+    "thread": "r/SaaS: This might get me fired but live demos are destroying sales teams.",
+    "text": "So much this! Yeah let me waste my time and yours being walked through a demo when there's only 10% chance the software does what I need. Then let me find a nice way to politely decline that doesn't result in a debate  about my requirements.\n\nThere used to be a website to help CMS buyers test out all the major CMS's. They just wiped the test installs every few hours and anyone could login as admin and test them. I wish there were something like this for all SaaS products.",
+    "url": "https://www.reddit.com/r/SaaS/comments/1m76kw1/_/n4ptnkr/"
+   }
+  ],
+  "sources": [
+   "2213325",
+   "30991133",
+   "rd_n4ptnkr"
+  ]
+ },
+ {
+  "name": "Integration pain",
+  "one_liner": "Mixed asks with no shared workflow",
+  "rejected": true,
+  "reject_kind": "vague",
+  "exists_today": "Merge.dev, Zapier, Make and Chift unified APIs.",
+  "verdict_score": null,
+  "cluster": "marketplace integrations, automation integration, nightmare, implement",
+  "category": "commerce & marketplaces",
+  "signal_score": 10.88,
+  "authors": 3,
+  "years": [
+   2014,
+   2026
+  ],
+  "pay_signals": 0.5,
+  "avg_intensity": 3.67,
+  "mentions": 3,
+  "quotes": [
+   {
+    "id": "49534864",
+    "author": "reticulates",
+    "year": 2026,
+    "thread": "How accurate have Ed Zitron's AI skeptic predictions been?",
+    "text": "Wow, thanks for your perspective, it’s lucky to find someone on Hacker News who works with technology every day!\n\nYou presume to know my position but you do not. AI is an innovative new technology that is radically changing how we build and use technology and will continue to do so. That doesn’t mean that trillions of dollars is going to be spent on it. Despite the penetration all technology has in our lives, most companies are barely using technology from 20 years ago because implementation is a nightmare. Businesses are risk and cost averse, better the line item you know. And so, most companies could be radically improved not by human-level intelligence, or even dog level intelligence, mos",
+    "url": null
+   },
+   {
+    "id": "rd_nxublkp",
+    "author": "reddit:No_Mercy3744",
+    "year": 2026,
+    "thread": "r/SaaS: E-commerce software (amazon/ebay/shopify) - I'm open to various partnership structures",
+    "text": "This is impressive - 10 years of domain expertise plus the technical chops to build it yourself. The multi-marketplace integration alone is a nightmare to maintain, I know because we tried building something similar for credit monitoring across multiple bureaus at my previous company.\n\n\n\nYour architecture looks solid but finding the right partner is tricky. Most PE firms want turnkey SaaS with predictable MRR, not e-commerce tools. Have you considered productizing just the AI listing creator as a standalone tool? That feature alone could be a $10-20/month micro-SaaS.\n\n\n\nFor development resources, we use Cloudastra Technologies for our cloud infrastructure and some dev work - they're good wit",
+    "url": "https://www.reddit.com/r/SaaS/comments/1q4jqsv/_/nxublkp/"
+   }
+  ],
+  "sources": [
+   "49534864",
+   "7574028",
+   "rd_nxublkp"
   ]
  }
 ]

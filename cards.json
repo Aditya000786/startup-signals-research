@@ -774,7 +774,12 @@
    "33129728",
    "23863449",
    "19488899",
-   "28972982"
+   "28972982",
+   "37278903",
+   "31306400",
+   "19478443",
+   "26063319",
+   "19201822"
   ],
   "one_liner": "Insurance for your digital life: continuous export of your Google, Apple and Microsoft accounts, plus human-assisted recovery when you get locked out.",
   "problem": "People get locked out of Google, Microsoft or game accounts with no human to talk to and lose decades of photos, email and purchases. They say they would pay for real support.",
@@ -998,7 +1003,12 @@
    "rd_nb65nm5",
    "rd_obtl1tn",
    "rd_opkxjgi",
-   "rd_o9fdf9i"
+   "rd_o9fdf9i",
+   "4873338",
+   "3632801",
+   "7543697",
+   "15227534",
+   "68761"
   ],
   "one_liner": "Make self-hosted or small-provider email actually reach the inbox: a managed relay, reputation monitoring and anti-spam gateway.",
   "problem": "People who self-host email or use small providers find that delivery to Gmail and Outlook is a nightmare. They also want affordable inbound spam filtering and a provider with accountable support that won't ban them overnight.",
@@ -9987,6 +9997,184 @@
    "25559289",
    "24619355",
    "24572157"
+  ]
+ },
+ {
+  "name": "Per-episode podcast payments",
+  "status": "rejected",
+  "reject_kind": "exists",
+  "reject_reason": "Served",
+  "exists_today": "Patreon, Apple Podcasts Subscriptions, Spotify paid podcasts and Podcasting 2.0 Value4Value apps (Fountain).",
+  "anchor_ids": [
+   "33082570",
+   "35056572",
+   "20470461",
+   "31043038",
+   "4164296",
+   "4259475"
+  ]
+ },
+ {
+  "name": "Pay-without-tracking services",
+  "status": "rejected",
+  "reject_kind": "vague",
+  "reject_reason": "Mixed asks with no shared workflow",
+  "exists_today": "Stripe Payment Links, Lemon Squeezy and Kagi-style paid services.",
+  "anchor_ids": [
+   "11627021",
+   "25405867",
+   "29706128",
+   "15215617",
+   "rd_nrvznaj"
+  ]
+ },
+ {
+  "name": "Easy self-hosting",
+  "status": "rejected",
+  "reject_kind": "vague",
+  "reject_reason": "Mixed asks with no shared workflow",
+  "exists_today": "Umbrel, CasaOS, YunoHost, Tailscale Funnel and Cloudflare Tunnel.",
+  "anchor_ids": [
+   "18435304",
+   "41033187",
+   "33455952",
+   "30257467",
+   "rd_lyes52g"
+  ]
+ },
+ {
+  "name": "Browser extension vetting",
+  "status": "rejected",
+  "reject_kind": "exists",
+  "reject_reason": "Served",
+  "exists_today": "Spin.ai, LayerX, Island and Chrome Enterprise extension risk policies.",
+  "anchor_ids": [
+   "27327991",
+   "22065234",
+   "rd_nedyok2",
+   "2899494"
+  ]
+ },
+ {
+  "name": "Pay sites instead of seeing ads",
+  "status": "rejected",
+  "reject_kind": "exists",
+  "reject_reason": "Tried repeatedly",
+  "exists_today": "Brave Rewards, Google Contributor (shut down), Scroll (acquired) and Flattr.",
+  "anchor_ids": [
+   "14095001",
+   "5946711",
+   "20276552",
+   "10241142",
+   "9696428"
+  ]
+ },
+ {
+  "name": "Paid short mentor sessions",
+  "status": "rejected",
+  "reject_kind": "exists",
+  "reject_reason": "Served",
+  "exists_today": "Clarity.fm, MentorCruise, Intro.co and GrowthMentor.",
+  "anchor_ids": [
+   "47447760",
+   "rd_n0eqd86",
+   "3796312"
+  ]
+ },
+ {
+  "name": "Verifying small-business sellers",
+  "status": "rejected",
+  "reject_kind": "vague",
+  "reject_reason": "Mixed asks with no shared workflow",
+  "exists_today": "Quality-of-earnings firms and Acquire.com verified metrics.",
+  "anchor_ids": [
+   "rd_o34k1bg",
+   "39781778",
+   "14064929"
+  ]
+ },
+ {
+  "name": "Agency software pains",
+  "status": "rejected",
+  "reject_kind": "vague",
+  "reject_reason": "Mixed asks with no shared workflow",
+  "exists_today": "Agency tools like Productive.io, Teamwork, CreatorIQ and Affinity apps.",
+  "anchor_ids": [
+   "rd_o4nsqdj",
+   "rd_nu39bf6",
+   "rd_nqx6w5u"
+  ]
+ },
+ {
+  "name": "Gmail 'waiting for reply' tracking",
+  "status": "rejected",
+  "reject_kind": "exists",
+  "reject_reason": "Served",
+  "exists_today": "Gmail nudges, Boomerang, Superhuman reminders and Mixmax.",
+  "anchor_ids": [
+   "7326690",
+   "rd_n4v6l87",
+   "7327223"
+  ]
+ },
+ {
+  "name": "Health insurance for small teams",
+  "status": "rejected",
+  "reject_kind": "exists",
+  "reject_reason": "Served",
+  "exists_today": "ICHRA providers (Thatch, Take Command), Gusto benefits and Justworks PEO.",
+  "anchor_ids": [
+   "rd_nohnjgq",
+   "rd_nha9v91",
+   "3338667"
+  ]
+ },
+ {
+  "name": "Shipping and address problems",
+  "status": "rejected",
+  "reject_kind": "vague",
+  "reject_reason": "Mixed asks with no shared workflow",
+  "exists_today": "Shippo, Smarty address validation and Signifyd.",
+  "anchor_ids": [
+   "43786275",
+   "rd_o10gws4",
+   "9015021"
+  ]
+ },
+ {
+  "name": "Finding designers and developers",
+  "status": "rejected",
+  "reject_kind": "vague",
+  "reject_reason": "Mixed asks with no shared workflow",
+  "exists_today": "Toptal, Contra, Code for America and Zeplin for design QA.",
+  "anchor_ids": [
+   "rd_m3imqmg",
+   "rd_n7e8nnt",
+   "7162091"
+  ]
+ },
+ {
+  "name": "Indie maker distribution",
+  "status": "rejected",
+  "reject_kind": "vague",
+  "reject_reason": "Mixed asks with no shared workflow",
+  "exists_today": "Gumroad, Paddle, Lemon Squeezy and Tindie.",
+  "anchor_ids": [
+   "30991133",
+   "rd_n4ptnkr",
+   "2213325"
+  ]
+ },
+ {
+  "name": "Integration pain",
+  "status": "rejected",
+  "reject_kind": "vague",
+  "reject_reason": "Mixed asks with no shared workflow",
+  "exists_today": "Merge.dev, Zapier, Make and Chift unified APIs.",
+  "anchor_ids": [
+   "rd_nxublkp",
+   "7574028",
+   "49534864"
   ]
  }
 ]
