@@ -22,6 +22,7 @@ and queues them for extraction.
 
   python fetch_reddit.py                          # all SUBREDDITS, last 2 years
   python fetch_reddit.py --subs SaaS freelance --since 2025-01-01 --workers 4
+  python fetch_reddit.py --subs Teachers --shards 6   # one slow subreddit, 6 date slices
   python fetch_reddit.py --status
 """
 import argparse, json, re, sys, threading, time, urllib.error, urllib.parse, urllib.request
@@ -119,10 +120,43 @@ def keep_row(c):
     }
 
 
-def scan_sub(sub, lo, hi, prog, seen):
-    key = sub.lower()
+def plan_shards(sub, lo, hi, prog, n):
+    """Split a subreddit's remaining range into n slices, each with its own cursor.
+
+    The slices are saved in progress.json under st["shards"], so a stopped run resumes
+    every slice where it was; later runs reuse the saved slices whatever --shards says."""
     with lock:
-        st = prog.setdefault(key, {"cursor": lo, "scanned": 0, "kept": 0, "done": False, "since": lo})
+        st = prog.setdefault(sub.lower(), {"cursor": lo, "scanned": 0, "kept": 0, "done": False, "since": lo})
+        if st["done"] or st.get("shards") or n < 2:
+            return st
+        start = max(st["cursor"], lo)
+        step = (hi - start) // n
+        edges = [start + i * step for i in range(n)] + [hi]
+        # each later slice starts 1 s early so no comment on an edge second is skipped;
+        # the overlap is deduped by `seen`
+        st["shards"] = [{"lo": a - (i > 0), "hi": b, "cursor": a - (i > 0), "scanned": 0, "kept": 0,
+                         "done": False} for i, (a, b) in enumerate(zip(edges, edges[1:]))]
+        save_progress(prog)
+        return st
+
+
+def finish_shards(st, prog):
+    with lock:
+        sh = st.get("shards")
+        if sh and all(x["done"] for x in sh):
+            st["scanned"] += sum(x["scanned"] for x in sh)
+            st["kept"] += sum(x["kept"] for x in sh)
+            st["cursor"], st["done"] = max(x["hi"] for x in sh), True
+            del st["shards"]
+            save_progress(prog)
+
+
+def scan_sub(sub, lo, hi, prog, seen, st=None):
+    if st is None:
+        with lock:
+            st = prog.setdefault(sub.lower(), {"cursor": lo, "scanned": 0, "kept": 0, "done": False, "since": lo})
+    else:  # one slice of a sharded subreddit: scan only its own range
+        lo, hi = st["lo"], st["hi"]
     if st["done"]:
         return
     cursor, pages, t0 = max(st["cursor"], lo), 0, time.time()
@@ -185,10 +219,16 @@ def status():
         st = prog.get(sub.lower())
         if not st:
             print(f"{sub:20s} not started"); continue
+        sh = st.get("shards") or []
+        s_n = st["scanned"] + sum(x["scanned"] for x in sh)
+        k_n = st["kept"] + sum(x["kept"] for x in sh)
         day = datetime.fromtimestamp(st["cursor"], timezone.utc).date()
-        state = "done" if st["done"] else f"at {day}"
-        print(f"{sub:20s} {state:14s} scanned {st['scanned']:>10,}  kept {st['kept']:>7,}")
-        tot_s += st["scanned"]; tot_k += st["kept"]
+        state = "done" if st["done"] else (f"{sum(x['done'] for x in sh)}/{len(sh)} slices" if sh else f"at {day}")
+        print(f"{sub:20s} {state:14s} scanned {s_n:>10,}  kept {k_n:>7,}")
+        for x in sh:
+            d0, d1, dc = (datetime.fromtimestamp(x[k], timezone.utc).date() for k in ("lo", "hi", "cursor"))
+            print(f"  {d0} .. {d1}  {'done' if x['done'] else f'at {dc}':14s} kept {x['kept']:>5,}")
+        tot_s += s_n; tot_k += k_n
     print(f"{'TOTAL':20s} {'':14s} scanned {tot_s:>10,}  kept {tot_k:>7,}")
 
 
@@ -198,6 +238,8 @@ def main():
     ap.add_argument("--subs", nargs="*", default=SUBREDDITS)
     ap.add_argument("--since", default=f"{now.year - 2}-{now:%m}-01")
     ap.add_argument("--workers", type=int, default=8)
+    ap.add_argument("--shards", type=int, default=1,
+                    help="split each unfinished subreddit's remaining range into N parallel slices")
     ap.add_argument("--status", action="store_true")
     a = ap.parse_args()
     if a.status:
@@ -214,9 +256,19 @@ def main():
     lo = int(datetime.fromisoformat(a.since).replace(tzinfo=timezone.utc).timestamp())
     hi = int(time.time())
     print(f"{len(a.subs)} subreddits since {a.since}, {len(PHRASES)} phrases, {a.workers} workers", flush=True)
+    jobs, sharded = [], []
+    for s in a.subs:
+        st = plan_shards(s, lo, hi, prog, a.shards)
+        if st.get("shards"):
+            sharded.append(st)
+            jobs += [(s, x) for x in st["shards"]]
+        else:
+            jobs.append((s, None))
     with ThreadPoolExecutor(a.workers) as ex:
-        for f in [ex.submit(scan_sub, s, lo, hi, prog, seen) for s in a.subs]:
+        for f in [ex.submit(scan_sub, s, lo, hi, prog, seen, x) for s, x in jobs]:
             f.result()
+    for st in sharded:
+        finish_shards(st, prog)
     with lock:
         save_progress(prog)
     add_titles()
